@@ -79,6 +79,13 @@ His role is not financial — it is **institutional**:
 His appointment as Chairman in 2024 was not incidental.  
 It was structurally logical.
 
+Wissanu was one of the key legal architects behind Thailand’s 2017 constitution, drafted 
+under the NCPO military government after the 2014 coup. His long‑standing role as a constitutional 
+engineer — shaping a charter designed to replace the 2007 constitution and embed mechanisms that make 
+future constitutional change extremely difficult — aligns with his appointment as Chairman of the 
+Bangkok Post in 2024, where he provides political compatibility, legal stability, and institutional 
+protection for a financially dependent media organisation.”
+
 ---
 
 ## **4. The Bhumjaithai connection — structural, not propagandistic**
