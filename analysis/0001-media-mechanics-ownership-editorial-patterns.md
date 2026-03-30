@@ -1,10 +1,10 @@
 ---
 
-[Home](/ThaiNangTaniPolitics-Observatory/)
-[Analysis](/ThaiNangTaniPolitics-Observatory/analysis/)
-[Timeline](/ThaiNangTaniPolitics-Observatory/timeline/)
-[Methodology](/ThaiNangTaniPolitics-Observatory/methodology/)
-[Archive](/ThaiNangTaniPolitics-Observatory/archive/)
+[Home](../)
+[Analysis](/analysis/)
+[Timeline](/timeline/)
+[Methodology](/methodology/)
+[Archive](/archive/)
 
 ---
 
