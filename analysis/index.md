@@ -1,8 +1,9 @@
-[Home](https://github.com/ThaiNangTaniPolitics/ThaiNangTaniPolitics-Observatory)
-[Analysis](/analysis/)
-[Timeline](/timeline/)
-[Methodology](/methodology/)
-[Archive](/archive/)
+[Home](/ThaiNangTaniPolitics-Observatory/)
+[Analysis](/ThaiNangTaniPolitics-Observatory/analysis/)
+[Timeline](/ThaiNangTaniPolitics-Observatory/timeline/)
+[Methodology](/ThaiNangTaniPolitics-Observatory/methodology/)
+[Archive](/ThaiNangTaniPolitics-Observatory/archive/)
+
 
 
 # Analysis Overview
