@@ -21,6 +21,7 @@ It provides:
 
 The goal is not advocacy, but **structured observation**.
 
+
 ---
 
 ## 🧭 Navigation
