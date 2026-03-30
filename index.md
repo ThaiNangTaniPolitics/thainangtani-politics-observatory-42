@@ -1,4 +1,4 @@
---- 
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ThaiNangTaniPolitics/ThaiNangTaniPolitics-Observatory/main/images/observatory-logo.png" width="180" alt="Observatory Logo">
