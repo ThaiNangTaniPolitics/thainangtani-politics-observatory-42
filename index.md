@@ -1,4 +1,3 @@
-## 🧭 Navigation
 
 [Home](/thainangtani-politics-observatory/)
 [Analysis](/thainangtani-politics-observatory/analysis/)
