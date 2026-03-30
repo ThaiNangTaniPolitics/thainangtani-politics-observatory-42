@@ -5,8 +5,6 @@
 [Methodology](/thainangtani-politics-observatory/methodology/)
 [Archive](/thainangtani-politics-observatory/archive/)
 
----
-
 # **Thai Nang Tani Politics Observatory**
 
 Welcome to the independent observatory for narrative analysis, media mechanics, and political communication in Thailand.
@@ -26,8 +24,6 @@ The goal is not advocacy, but **structured observation**.
 
 **Bangkok Post 2026 Transformation**  
 → 0008 – The most profound structural shift in the newspaper’s history 
-
----
 
 ## 📚 About the Observatory
 
