@@ -31,7 +31,6 @@ The goal is not advocacy, but **structured observation**.
 [Methodology](/ThaiNangTaniPolitics-Observatory/methodology/)
 [Archive](/ThaiNangTaniPolitics-Observatory/archive/)
 
-
 ---
 
 ## 📌 Latest Update
