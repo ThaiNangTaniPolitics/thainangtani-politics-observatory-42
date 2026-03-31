@@ -1,3 +1,5 @@
+# 0002 - Visa Policy Narrative Shift in Thai Media
+### How official communication, editorial framing, and public sentiment diverged
 
 [Home](/thainangtani-politics-observatory/)
 [Analysis](/thainangtani-politics-observatory/analysis/)
@@ -24,9 +26,6 @@ This is not political advocacy.
 It is an analysis of **communication patterns**, **framing choices**, and **narrative mechanics** in Thai media.
 
 ---
-
-# Visa Policy Narrative Shift in Thai Media
-### How official communication, editorial framing, and public sentiment diverged
 
 ## 1. Event Overview
 A sequence of visa‑related announcements triggered a rapid shift in how Thai media framed the topic.  
