@@ -378,3 +378,26 @@ When deletions increase specifically in this only analyzable archive, the effect
 
 Even without assuming intent, the functional outcome is clear:  
 the only space where discursive structures can be studied is selectively thinned out, making past patterns harder or impossible to verify.
+
+---
+
+## 13. Legal Risk Mitigation as a Parallel Mechanism
+
+In the Thai legal environment, archived user comments can create significant risks for media outlets.  
+Certain laws — including those with broad or retrospective applicability — mean that comments which were harmless at the time of publication may later be interpreted differently or flagged by complainants.
+
+From this perspective, reducing the visibility of older comments can function as a form of legal self‑protection.  
+If external reviewers, lawyers, or complainants examine the archive and find only non‑sensitive, conservative‑leaning, or generally uncontroversial comments, the newspaper faces fewer potential liabilities.
+
+This does not contradict the other mechanisms described above.  
+Instead, it **coexists** with them:
+
+- archive reduction lowers legal exposure  
+- but it also removes analytical or critical voices  
+- and it leaves a narrow set of low‑risk comments visible  
+- which reinforces the dominance of a small commentator cluster  
+- and prevents external analysis of moderation patterns
+
+Even if legal risk mitigation is a contributing factor, the **functional outcome** remains the same:  
+the only persistent comment archive becomes discursively narrowed, historically opaque, and analytically unusable.
+
