@@ -12,6 +12,7 @@ This section contains analytical case studies and narrative investigations.
 
 ## Available Analyses
 
+- [0012 – Section 112 and the Blocked Path of Democratic Reform (2021–2026)](0012-section-112-blocked-democratic-reform.md)
 - [0011 – Bangkok Post: Comment Ecology](0011-bangkok-post-comment-ecology.md)
 - [0010 – The Buri‑Ramization of Defense](0010-buri‑ramization-of-defense.md)
 - [0009 – Visa Narrative Paradox: Thailand as “Safe Haven” vs. “Infiltration”](0009-visa-narrative-paradox-safe-haven.md)
