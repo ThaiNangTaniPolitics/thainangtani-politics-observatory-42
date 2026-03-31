@@ -102,7 +102,9 @@ This aligns with **editorial risk management**, not community moderation.
 
 The pattern documented in 2024/2025 is not new.  
 The *Postbag* section has shown the same structural imbalance for **many years**:  
-a small cluster of high‑volume, ideologically extreme commentators dominates the visible discourse, while analytical or balanced contributions are frequently removed.
+a small group of conservative, often provocative commentators dominated the visible section.  
+They represent a minority of the overall readership, but their comments remained visible while many others were removed.
+
 
 | Commentator | Number of comments | Percent |
 |-------------|--------------------|---------|
@@ -113,7 +115,9 @@ a small cluster of high‑volume, ideologically extreme commentators dominates t
 | Cryptic     | 33                 | 5.5%    |
 | **Top 5 total** | **367**        | **61.2%** |
 
-These five users account for **61.2%** of all comments that survived moderation.
+These five users account for 61.2% of all comments that survived moderation.  
+Their contributions are typically conservative in tone, often provocative or dismissive, and they remain visible even when other comments are removed. 
+They represent a small minority of the overall readership, but their visibility is disproportionately high due to selective moderation.
 
 ### **Interpretation**
 This long‑standing pattern suggests:
