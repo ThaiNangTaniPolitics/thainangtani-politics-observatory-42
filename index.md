@@ -24,7 +24,7 @@ The goal is not advocacy, but **structured observation**.
 ## 📌 Latest Update
 
 **How regional patronage networks reshape Thailand’s military leadership and security doctrine**  
-0010 – The Buri Ram Defense Network
+0010 – The Buri‑Ramization of Defense
 
 ## 📚 About the Observatory
 
