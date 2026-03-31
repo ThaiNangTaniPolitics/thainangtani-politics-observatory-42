@@ -165,6 +165,13 @@ into a single coherent storyline:
 
 This masks the structural complexity.
 
+## **d) Structural Omission: The Silence Around Cohort-Based Promotions**
+Thai PBS reframes Adul’s unusually low rank (Lieutenant General rather than full General) as “fresh leadership” and “operational experience.”  
+This framing obscures the fact that his appointment breaks long‑standing seniority norms within the Thai army in favor of a political‑regional network (Newin/Anutin).  
+
+The risks of cohort‑based promotions — factionalization, loyalty blocs, and erosion of institutional independence — are entirely omitted.  
+This silence is a form of structural omission that normalizes patronage as competence.
+
 ---
 
 # **6. Public Sentiment**
