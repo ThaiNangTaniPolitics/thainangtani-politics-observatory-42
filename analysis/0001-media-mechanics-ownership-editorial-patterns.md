@@ -1,3 +1,5 @@
+# 0001 - Media Mechanics: Ownership, Interests, and Editorial Patterns
+### Structural forces that shape how Thai media construct narratives
 
 [Home](/thainangtani-politics-observatory/)
 [Analysis](/thainangtani-politics-observatory/analysis/)
@@ -24,9 +26,6 @@ This is not political advocacy.
 It is an analysis of **communication patterns**, **framing choices**, and **narrative mechanics** in Thai media.
 
 ---
-
-# Media Mechanics: Ownership, Interests, and Editorial Patterns
-### Structural forces that shape how Thai media construct narratives
 
 ## 1. Event Overview
 This post outlines the structural mechanics that influence how Thai media select, frame, and sequence information.  
