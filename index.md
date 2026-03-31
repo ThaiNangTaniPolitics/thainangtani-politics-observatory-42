@@ -23,8 +23,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**How regional patronage networks reshape Thailand’s military leadership and security doctrine**  
-0010 – The Buri‑Ramization of Defense
+**How selective moderation, structural omission, and disproportionate amplification shape public discourse**  
+0011 – Bangkok Post: Comment Ecology
 
 ## 📚 About the Observatory
 
