@@ -27,7 +27,7 @@ It is an analysis of **communication patterns**, **framing choices**, and **narr
 ---
 
 # **1. Event Overview**
-Between September 2024 and March 2025, the Bangkok Post’s *Postbag* section displayed a striking pattern of selective moderation:
+For many years, the Bangkok Post’s *Postbag* section has displayed a striking pattern of selective moderation, a pattern that became particularly measurable in the dataset from September 2024 to March 2025.
 
 - hundreds of comments were deleted hours or days after publication  
 - analytical, balanced comments disappeared  
@@ -92,12 +92,13 @@ A new pattern emerged:
 
 This is consistent with **editorial risk management**, not community moderation.
 
-## **d) Disproportionate Amplification: The Five Dominant Voices**
+## **d) Disproportionate Amplification: The Five Dominant Voices
 
-The dataset of 600 visible comments (September 2024 – March 2025) reveals a striking imbalance:  
-**five commentators account for 61.2% of all comments that remained published.**
+The pattern documented in this dataset (September 2024 – March 2025) is not new.  
+The *Postbag* section has shown the same structural imbalance for **many years**:  
+a small cluster of high‑volume, ideologically extreme commentators dominates the visible discourse, while analytical or balanced contributions are frequently removed.
 
-This table shows the distribution of *visible* comments — not including deleted ones, which could not be measured:
+The following table shows the distribution of *visible* comments — not including deleted ones, which could not be measured:
 
 | Commentator | Number of comments | Percent |
 |-------------|--------------------|---------|
@@ -108,21 +109,19 @@ This table shows the distribution of *visible* comments — not including delete
 | Cryptic     | 33                 | 5.5%    |
 | **Top 5 total** | **367**        | **61.2%** |
 
-These five users consistently express **extreme-right, polarizing, or aggressively nationalist views**.  
-Despite receiving **poor reader ratings**, their comments remain visible — while balanced or analytical comments are frequently removed.
+These five users account for **61.2%** of all comments that remained published.  
+Their contributions are consistently **aggressive, polarizing, or extreme‑right in tone**, and they receive **poor reader ratings**, yet their comments remain visible.
 
 ### **Interpretation**
-This pattern suggests:
+This long‑standing pattern in the *Postbag* section suggests:
 
-- **algorithmic or manual tolerance** for high-volume, polarizing voices  
-- **editorial preference for emotional noise over analytical clarity**  
-- **a distorted representation of public sentiment**  
-- **a comment ecology shaped by amplification, not diversity**
+- **editorial tolerance** for high‑volume, polarizing voices  
+- **systematic removal** of analytical or nuanced commentary  
+- **a distorted representation** of public sentiment  
+- **a comment ecology shaped by selective visibility, not diversity**
 
-The dominance of these five voices creates an **artificial ideological climate**, making the readership appear far more extreme than it actually is.
-
-This is not organic.  
-It is the result of **selective visibility**.
+What is new is not the pattern itself —  
+but that **similar deletion behavior has recently expanded into the general editorial comment sections**, where such selective moderation had not been observed before.
 
 
 ---
