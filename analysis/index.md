@@ -21,4 +21,4 @@ This section contains analytical case studies and narrative investigations.
 - [0007 –  Bangkok Post: Structural and Political Context of the 2026 Transformation](0007-bangkok-post-2026-transformation.md)
 - [0008 – The Most Profound Structural Shift in the Bangkok Post’s History](0008-bangkok-post-profound-structural-shift-history.md)
 - [0009 – Visa Narrative Paradox: Thailand as “Safe Haven” vs. “Infiltration”](0009-visa-narrative-paradox-safe-haven.md)
-- [0010 – The Buri Ram Defense Network](0010-visa-narrative-paradox-safe-haven.md)
+- [0010 – The Buri‑Ramization of Defense](0010-buri‑ramization-of-defense.md)
