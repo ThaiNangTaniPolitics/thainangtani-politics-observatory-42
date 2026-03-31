@@ -35,7 +35,7 @@ During this period:
 - **hundreds of comments were deleted**, often hours or days after publication  
 - analytical, balanced comments disappeared  
 - aggressive, polarizing comments remained  
-- a small group of extreme-right commentators dominated the visible section  
+- a small group of conservative, often provocative commentators dominated the visible section  
 
 In early 2026, the same pattern expanded from *Postbag* to the **general editorial comment sections**, where deletions suddenly increased — especially in the evenings.
 
@@ -50,7 +50,7 @@ A dataset collected from 1 September 2024 to 9 March 2025 shows:
 - **at least as many — likely twice as many — were deleted**  
 - **50 unique commentators**  
 - **5 commentators produced 61.2% of all visible comments**  
-- these 5 consistently expressed **polarizing or extreme-right views**  
+- these 5 consistently expressed **conservative or right‑leaning, often provocative views**  
 - they received **poor reader ratings**, yet their comments remained visible  
 
 ### **Top 5 dominant voices (61.2% of all visible comments)**  
@@ -105,7 +105,6 @@ The *Postbag* section has shown the same structural imbalance for **many years**
 a small group of conservative, often provocative commentators dominated the visible section.  
 They represent a minority of the overall readership, but their comments remained visible while many others were removed.
 
-
 | Commentator | Number of comments | Percent |
 |-------------|--------------------|---------|
 | lessimore   | 150                | 25.0%   |
@@ -116,7 +115,7 @@ They represent a minority of the overall readership, but their comments remained
 | **Top 5 total** | **367**        | **61.2%** |
 
 These five users account for 61.2% of all comments that survived moderation.  
-Their contributions are typically conservative in tone, often provocative or dismissive, and they remain visible even when other comments are removed. 
+Their contributions are typically conservative in tone, often provocative or dismissive, and they remain visible even when other comments are removed.  
 They represent a small minority of the overall readership, but their visibility is disproportionately high due to selective moderation.
 
 ### **Interpretation**
@@ -190,7 +189,7 @@ The Bangkok Post’s moderation does not only remove individual comments — it 
 
 ### **What remains**
 - emotional noise  
-- right-wing provocation  
+- ideologically charged provocation  
 - nationalist sentiment  
 - personal attacks  
 - sarcasm and cynicism  
@@ -220,7 +219,7 @@ The sudden increase in deletions in early 2026 suggests a **policy change**, not
 ---
 
 ## **b) Emotional noise as a narrative shield**
-Allowing extreme voices to dominate serves a function:
+Allowing highly visible, provocative voices to dominate serves a function:
 
 - it creates a chaotic, unserious comment environment  
 - it discourages analytical participation  
@@ -236,7 +235,7 @@ The dominance of 5 commentators creates:
 
 - an artificial ideological climate  
 - a distorted perception of public opinion  
-- a feedback loop where extreme voices appear “representative”  
+- a feedback loop where a small, highly visible minority appears “representative”  
 
 This is not organic — it is a result of **selective tolerance**.
 
@@ -249,7 +248,7 @@ Readers increasingly express:
 - suspicion of political filtering  
 - confusion about moderation rules  
 - concern about the newspaper’s credibility  
-- awareness of disproportionate right-wing presence  
+- awareness of the disproportionate visibility of a small, conservative‑leaning minority  
 
 The comment ecology undermines trust in the platform.
 
@@ -288,7 +287,7 @@ The result is a **distorted public sphere**, where:
 
 - analysis disappears  
 - noise remains  
-- extreme voices dominate  
+- a small, highly visible minority dominates  
 - discourse becomes unrepresentative  
 
 This is not a technical issue.  
@@ -298,6 +297,8 @@ It is a **communication regime**.
 
 # **9. Notes**
 This analysis focuses on narrative and editorial mechanics, not on the political positions of individual commentators.
+
+---
 
 # **10. Editorial Filtering of Postbag Letters**
 
@@ -312,7 +313,7 @@ In practice, this discretionary editing has significant consequences:
 
 ### **a) Selective publication**
 Not all submitted letters are published.  
-Over the past year, certain writers — including the author of this analysis — have had **all submitted letters withheld from publication**, regardless of topic or tone.
+Over the past year, certain writers have had **all submitted letters withheld from publication**, regardless of topic or tone.
 
 This indicates a consistent filtering mechanism that excludes specific analytical voices entirely.
 
@@ -339,4 +340,3 @@ The Postbag section is shaped by two layers of editorial control:
 2. **Which comments on those letters remain visible**
 
 This double filter produces a curated, sanitised representation of public opinion that excludes certain analytical or critical voices from the outset.
-
