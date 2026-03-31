@@ -1,7 +1,7 @@
-## 0012 – Section 112 and the Blocked Path of Democratic Reform (2021–2026)
-A structural analysis of Thailand’s post‑election institutional interventions
+# 0012 – Section 112 and the Blocked Path of Democratic Reform (2021–2026)
+### A structural analysis of Thailand’s post‑election institutional interventions
 
-INTRODUCTION
+**INTRODUCTION**
 Between 2021 and 2026, Thailand developed a consistent pattern of institutional responses targeting political actors who attempted to bring Section 112 (lèse‑majesté) into the parliamentary arena. 
 Two Constitutional Court rulings in 2024 form the legal core of this pattern. 
 These rulings did not merely sanction a party; they redefined the constitutional status of Section 112 by placing it outside the reach of ordinary democratic legislation.
@@ -12,7 +12,7 @@ Practically, the path to reform has been blocked.
 This chapter documents the observable facts, the institutional sequence, and the journalistic framing surrounding this process.
 
 ----------------------------------------------------------------------
-1. TIMELINE 2021–2026: THE INSTITUTIONAL CASCADE
+**1. TIMELINE 2021–2026: THE INSTITUTIONAL CASCADE**
 ----------------------------------------------------------------------
 
 2021 – Legislative Initiative
@@ -65,7 +65,7 @@ Possible consequences:
     - loss of voting rights
 
 ----------------------------------------------------------------------
-2. INSTITUTIONAL MECHANISM: THE 2021–2026 CASCADE
+**2. INSTITUTIONAL MECHANISM: THE 2021–2026 CASCADE**
 ----------------------------------------------------------------------
 
 The institutional chain triggered by a single legislative act:
@@ -99,7 +99,7 @@ The institutional chain triggered by a single legislative act:
 This is a closed institutional chain.
 
 ----------------------------------------------------------------------
-3. THE BLOCKED PATH OF DEMOCRATIC REFORM
+**3. THE BLOCKED PATH OF DEMOCRATIC REFORM**
 ----------------------------------------------------------------------
 
 The core issue is not sovereignty in an abstract sense.
@@ -115,7 +115,7 @@ In practice, any attempt to address it triggers institutional sanctions.
 This is the documented structural effect of the two rulings.
 
 ----------------------------------------------------------------------
-4. POLITICAL ASYMMETRY: A RECURRING POST‑ELECTION PATTERN
+**4. POLITICAL ASYMMETRY: A RECURRING POST‑ELECTION PATTERN**
 ----------------------------------------------------------------------
 
 Across two election cycles:
@@ -133,7 +133,7 @@ This does not imply intent.
 It demonstrates a consistent institutional pattern.
 
 ----------------------------------------------------------------------
-5. JOURNALISTIC TREATMENT: DISCURSIVE CONTAINMENT
+**5. JOURNALISTIC TREATMENT: DISCURSIVE CONTAINMENT**
 ----------------------------------------------------------------------
 
 Bangkok Post coverage of Section 112 and Constitutional Court cases shows a consistent pattern:
@@ -176,7 +176,7 @@ This chapter documents the observable facts that lead to this conclusion.
 ---
 
 ----------------------------------------------------------------------
-6. THE CONTRADICTION: NO CRIMINAL CHARGES FOR AN ALLEGEDLY CRIMINAL ACT
+**6. THE CONTRADICTION: NO CRIMINAL CHARGES FOR AN ALLEGEDLY CRIMINAL ACT**
 ----------------------------------------------------------------------
 
 The institutional proceedings against the 44 former MPs are based on the claim that their 2021 legislative proposal “endangered the monarchy” or “undermined the constitutional order”.
