@@ -86,6 +86,7 @@ Possible consequences:
 
 The institutional chain triggered by a single legislative act:
 
+...
 2021
  Legislative proposal to reform Section 112
  ▼
@@ -111,6 +112,7 @@ Late 2024
  NACC decision → Supreme Court may impose:
  - suspension
  - lifetime bans
+...
 
 This is a closed institutional chain.
 
