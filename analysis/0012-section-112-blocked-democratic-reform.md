@@ -206,3 +206,4 @@ This reveals a structural contradiction:
     Instead, they are removed from the political arena.
 
 The proceedings therefore function not as punishment for a crime, but as a mechanism of political exclusion.
+
