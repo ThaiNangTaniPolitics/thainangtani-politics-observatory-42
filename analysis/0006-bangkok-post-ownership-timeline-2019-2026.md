@@ -1,3 +1,5 @@
+# 0006 **Bangkok Post: Ownership Timeline (2019–2026)**  
+### *From dispersed shareholders → to single‑patron control (>70%)*
 
 [Home](/thainangtani-politics-observatory/)  
 [Analysis](/thainangtani-politics-observatory/analysis/)  
@@ -21,11 +23,6 @@ Each entry follows a consistent analytical structure:
 
 This is not political advocacy.  
 It is an analysis of **communication patterns**, **framing choices**, and **narrative mechanics** in Thai media.
-
----
-
-# **Ownership Timeline: Bangkok Post (2019–2026)**  
-### *From dispersed shareholders → to single‑patron control (>70%)*
 
 ---
 
