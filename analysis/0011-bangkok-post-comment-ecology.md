@@ -291,3 +291,45 @@ It is a **communication regime**.
 
 # **9. Notes**
 This analysis focuses on narrative and editorial mechanics, not on the political positions of individual commentators.
+
+# **10. Editorial Filtering of Postbag Letters**
+
+The distortion in the Postbag section does not begin with the comments.  
+It begins **before publication**, at the level of the letters themselves.
+
+The Bangkok Post states:
+
+> “All published correspondence is subject to editing and sharing at our discretion.”
+
+In practice, this discretionary editing has significant consequences:
+
+### **a) Selective publication**
+Not all submitted letters are published.  
+Over the past year, certain writers — including the author of this analysis — have had **all submitted letters withheld from publication**, regardless of topic or tone.
+
+This indicates a consistent filtering mechanism that excludes specific analytical voices entirely.
+
+### **b) Editorial alteration of published letters**
+Letters that do appear are often:
+
+- shortened  
+- rephrased  
+- reorganised  
+- stripped of context  
+- politically softened  
+- or altered in tone  
+
+In some cases, the meaning becomes **sinnentstellt** — the original argument is weakened or redirected.
+
+### **c) Lack of transparency**
+These edits are not marked or disclosed.  
+Readers cannot see what was removed or changed, nor which letters were rejected entirely.
+
+### **d) Combined effect: a double filter**
+The Postbag section is shaped by two layers of editorial control:
+
+1. **Which letters are published and how they are edited**  
+2. **Which comments on those letters remain visible**
+
+This double filter produces a curated, sanitised representation of public opinion that excludes certain analytical or critical voices from the outset.
+
