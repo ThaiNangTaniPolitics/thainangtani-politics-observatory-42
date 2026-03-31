@@ -1,3 +1,5 @@
+# 0008 – Bangkok Post: The 2026 Structural Transformation
+### How ownership concentration and financial restructuring redefine the newspaper’s institutional identity
 
 [Home](/thainangtani-politics-observatory/)  
 [Analysis](/thainangtani-politics-observatory/analysis/)  
@@ -6,7 +8,6 @@
 [Archive](/thainangtani-politics-observatory/archive/)
 
 ---
-
 
 ### How to read this post
 This observatory documents how Thai media construct narratives, frame political events, and sequence information.  
