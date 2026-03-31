@@ -86,33 +86,24 @@ Possible consequences:
 
 The institutional chain triggered by a single legislative act:
 
-...
-2021
- Legislative proposal to reform Section 112
- ▼
-2022–2023
- Complaints → Election Commission (EC)
- ▼
-31 Jan 2024
- Constitutional Court: Initiating reform = unconstitutional
- ▼
-Early 2024
- EC uses ruling → Petition to dissolve MFP
- ▼
-7 Aug 2024
- Constitutional Court dissolves MFP
- ▼
-Late 2024
- NACC opens ethics case against 44 MPs
- ▼
-2025
- Preparation for Supreme Court referral
- ▼
-2026
- NACC decision → Supreme Court may impose:
- - suspension
- - lifetime bans
-...
+| Jahr / Zeitraum | Ereignis / Institutioneller Schritt |
+|-----------------|--------------------------------------|
+| **2021** | Legislative proposal to reform Section 112 |
+| ▼ | |
+| **2022–2023** | Complaints → Election Commission (EC) |
+| ▼ | |
+| **31 Jan 2024** | Constitutional Court: Initiating reform = unconstitutional |
+| ▼ | |
+| **Early 2024** | EC uses ruling → Petition to dissolve MFP |
+| ▼ | |
+| **7 Aug 2024** | Constitutional Court dissolves MFP |
+| ▼ | |
+| **Late 2024** | NACC opens ethics case against 44 MPs |
+| ▼ | |
+| **2025** | Preparation for Supreme Court referral |
+| ▼ | |
+| **2026** | NACC decision → Supreme Court may impose:<br>– suspension<br>– lifetime bans |
+
 
 This is a closed institutional chain.
 
@@ -195,7 +186,6 @@ This chapter documents the observable facts that lead to this conclusion.
 
 ---
 
----
 
 **6. THE CONTRADICTION: NO CRIMINAL CHARGES FOR AN ALLEGEDLY CRIMINAL ACT**
 
