@@ -27,36 +27,40 @@ It is an analysis of **communication patterns**, **framing choices**, and **narr
 ---
 
 # **1. Event Overview**
-For many years, the Bangkok Post’s *Postbag* section has displayed a striking pattern of selective moderation, a pattern that became particularly measurable in the dataset from September 2024 to March 2025.
+For many years, the Bangkok Post’s *Postbag* section has displayed a striking pattern of selective moderation.  
+This pattern became particularly measurable in the dataset from September 2024 to March 2025.
 
-- hundreds of comments were deleted hours or days after publication  
+During this period:
+
+- **hundreds of comments were deleted**, often hours or days after publication  
 - analytical, balanced comments disappeared  
 - aggressive, polarizing comments remained  
-- a small group of extreme-right commentators dominated the section  
+- a small group of extreme-right commentators dominated the visible section  
 
-In early 2026, this pattern expanded from *Postbag* to the **general editorial comment sections**, where deletions suddenly increased — especially in the evenings.
+In early 2026, the same pattern expanded from *Postbag* to the **general editorial comment sections**, where deletions suddenly increased — especially in the evenings.
 
-This shift suggests a **structural change in moderation practices**, not isolated incidents.
+This suggests a **continuity of moderation dynamics**, not isolated incidents.
 
 ---
 
 # **2. Data Overview (600 Comments, 50 Users)**
 A dataset collected from 1 September 2024 to 9 March 2025 shows:
 
-- **600 comments**  
+- **600 comments remained visible**  
+- **at least as many — likely twice as many — were deleted**  
 - **50 unique commentators**  
-- **5 commentators produced 61.2% of all comments**  
-- these 5 commentators consistently expressed **extreme-right, polarizing views**  
+- **5 commentators produced 61.2% of all visible comments**  
+- these 5 consistently expressed **polarizing or extreme-right views**  
 - they received **poor reader ratings**, yet their comments remained visible  
 
-### **Top 5 dominant voices (61.2% of all comments)**  
+### **Top 5 dominant voices (61.2% of all visible comments)**  
 - lessimore — 150 comments (25.0%)  
 - keskeseksa — 114 comments (19.0%)  
 - Chris_Z — 36 comments (6.0%)  
 - Studious — 34 comments (5.7%)  
 - Cryptic — 33 comments (5.5%)  
 
-This is a **disproportionate amplification** of a small ideological cluster.
+These 600 comments represent only the **surviving remainder** of the original discussion.
 
 ---
 
@@ -90,15 +94,15 @@ A new pattern emerged:
 - deletions occurred **long after publication**  
 - this suggests a **secondary review layer**, not real-time moderation  
 
-This is consistent with **editorial risk management**, not community moderation.
+This aligns with **editorial risk management**, not community moderation.
 
-## **d) Disproportionate Amplification: The Five Dominant Voices
+---
 
-The pattern documented in this dataset (September 2024 – March 2025) is not new.  
+## **d) Disproportionate Amplification: The Five Dominant Voices**
+
+The pattern documented in 2024/2025 is not new.  
 The *Postbag* section has shown the same structural imbalance for **many years**:  
 a small cluster of high‑volume, ideologically extreme commentators dominates the visible discourse, while analytical or balanced contributions are frequently removed.
-
-The following table shows the distribution of *visible* comments — not including deleted ones, which could not be measured:
 
 | Commentator | Number of comments | Percent |
 |-------------|--------------------|---------|
@@ -109,11 +113,10 @@ The following table shows the distribution of *visible* comments — not includi
 | Cryptic     | 33                 | 5.5%    |
 | **Top 5 total** | **367**        | **61.2%** |
 
-These five users account for **61.2%** of all comments that remained published.  
-Their contributions are consistently **aggressive, polarizing, or extreme‑right in tone**, and they receive **poor reader ratings**, yet their comments remain visible.
+These five users account for **61.2%** of all comments that survived moderation.
 
 ### **Interpretation**
-This long‑standing pattern in the *Postbag* section suggests:
+This long‑standing pattern suggests:
 
 - **editorial tolerance** for high‑volume, polarizing voices  
 - **systematic removal** of analytical or nuanced commentary  
@@ -123,6 +126,51 @@ This long‑standing pattern in the *Postbag* section suggests:
 What is new is not the pattern itself —  
 but that **similar deletion behavior has recently expanded into the general editorial comment sections**, where such selective moderation had not been observed before.
 
+---
+
+## **e) Continuity of the Pattern (2024–2026)**
+
+While the internal mechanisms of moderation are unknown, the visible evidence shows a clear continuity:  
+the same pattern documented in 2024/2025 remains active in 2026.
+
+Across both periods:
+
+- the same small group of high‑volume users remains consistently visible  
+- their comments appear above and below other contributions  
+- their tone is typically provocative or dismissive rather than analytical  
+- other comments — including balanced or substantive ones — are frequently absent  
+
+This does not prove coordination.  
+But the **functional effect** is the same:  
+a small cluster of users dominates the visible comment space across multiple years, while broader participation is filtered out.
+
+---
+
+## **f) Selective Visibility: Only Two Users Survive Moderation (Examples 2026)**
+
+Examples from March 2026 show the same pattern:
+
+- *Ima Thailand* (formerly *lessimore*) posts multiple short, provocative remarks  
+- *Cryptic* adds a sarcastic one-liner  
+- **no other comments appear**, despite high likelihood of submissions  
+
+Their comments:
+
+- are not analytical  
+- do not challenge institutional structures  
+- rely on provocation or sarcasm  
+- are consistently left visible  
+
+### **Interpretation**
+This creates the impression of coordinated activity, even without coordination.  
+Functionally, the effect is identical:
+
+- they **occupy the conversational space**  
+- they **redirect attention** away from substantive discussion  
+- they **shape the visible discourse** through persistence  
+- they **benefit from selective moderation**, which removes other voices  
+
+This selective visibility reinforces the dominance of the same small cluster documented in the dataset.
 
 ---
 
