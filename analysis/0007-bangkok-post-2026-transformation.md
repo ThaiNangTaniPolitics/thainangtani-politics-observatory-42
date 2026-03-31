@@ -6,6 +6,24 @@
 [Archive](/thainangtani-politics-observatory/archive/)
 ---
 
+
+### How to read this post
+This observatory documents how Thai media construct narratives, frame political events, and sequence information.  
+Each entry follows a consistent analytical structure:
+
+- **Event Overview** – What happened  
+- **Official Communication** – What the government said and how  
+- **Media Framing** – How outlets shaped the story  
+- **Narrative Shift** – How the storyline evolved  
+- **Editorial Mechanics** – Selection, omission, emphasis, ordering  
+- **Public Sentiment** – How audiences reacted  
+- **Interpretation** – What the narrative structure reveals  
+
+This is not political advocacy.  
+It is an analysis of **communication patterns**, **framing choices**, and **narrative mechanics** in Thai media.
+
+---
+
 # **Structural and Political Context: Why the Bangkok Post’s 2026 Transformation Is More Than a Financial Event**
 
 The Bangkok Post is not only undergoing a financial restructuring in 2026 — it is experiencing a deeper institutional and political realignment. The documents from 2024–2026 show that the transformation is not merely accounting‑driven, but rooted in ownership networks, governance architecture, and Thailand’s political power structure. This post outlines the financial, institutional, and political dimensions that explain the shift.
