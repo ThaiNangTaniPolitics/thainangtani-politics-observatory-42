@@ -202,7 +202,8 @@ They are political, not criminal.
 
 This reveals a structural contradiction:
 
-    The MPs are accused of conduct that, if genuinely criminal, would trigger severe criminal penalties — yet they are not prosecuted under criminal law. 
+    The MPs are accused of conduct that, if genuinely criminal, would trigger severe criminal 
+    penalties — yet they are not prosecuted under criminal law. 
     Instead, they are removed from the political arena.
 
 The proceedings therefore function not as punishment for a crime, but as a mechanism of political exclusion.
