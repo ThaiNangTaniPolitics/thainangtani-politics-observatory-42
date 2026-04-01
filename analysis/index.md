@@ -12,7 +12,7 @@ This section contains analytical case studies and narrative investigations.
 
 ## Available Analyses
 
-- [0014 –  Section 49: Constitutional Mechanics](0014-section-49-constitutional-mechanics.md)
+- [0014 –  Constitutional Mechanics I: The Analytical Framework (2024–2026)]( 0014-constitutional-mechanics-I.md)
 - [0013 – Section 49: Constitutional Mechanics](0013-section-49.md)
 - [0012 – Section 112 and the Blocked Path of Democratic Reform (2021–2026)](0012-section-112-blocked-democratic-reform.md)
 - [0011 – Bangkok Post: Comment Ecology](0011-bangkok-post-comment-ecology.md)
