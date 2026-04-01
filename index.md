@@ -23,9 +23,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**How a preventive clause "Section 49" became an intervention norm in Thailand’s constitutional order**  
-0013 – Section 49: Constitutional Mechanics 
-
+**How constitutional text becomes doctrine, doctrine becomes judgment, and judgment becomes political sanction**  
+0014 – Constitutional Mechanics I: The Analytical Framework (2024–2026)
 
 ## 📚 About the Observatory
 
