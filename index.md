@@ -23,8 +23,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**A structural analysis of Thailand’s post‑election institutional interventions**  
- 0012 – Section 112 and the Blocked Path of Democratic Reform (2021–2026)
+**How a preventive clause "Section 49" became an intervention norm in Thailand’s constitutional order**  
+0013 – Section 49: Constitutional Mechanics 
 
 
 ## 📚 About the Observatory
