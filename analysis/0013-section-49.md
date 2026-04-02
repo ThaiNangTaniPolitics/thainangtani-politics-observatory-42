@@ -24,8 +24,7 @@ It follows the standard analytical structure:
 This is not political advocacy.  
 It is an analysis of **constitutional mechanics**, **interpretive expansion**, and **institutional sequencing**.
 
- *"Section 49
- 
+ *"Section 49* 
   *No person shall exercise the rights or liberties to overthrow the democratic regime of government with the King as Head of State.
    Any person who has knowledge of an act under paragraph one shall have the right to petition to the Attorney-General to request the 
    Constitutional Court for ordering the cessation of such act.
