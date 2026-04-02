@@ -23,8 +23,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**Individual Political Extinction through the Criminal Division for Persons Holding Political Positions**  
-0018 – The Supreme Court as Terminal Node
+**A graphical overview of the institutional, discursive, and behavioural architecture**  
+0023 – System Map: The Constitutional Mechanics of Thailand (2021–2026)
 
 ## 📚 About the Observatory
 
