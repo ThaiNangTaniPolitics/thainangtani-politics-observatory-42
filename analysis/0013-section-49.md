@@ -25,19 +25,19 @@ This is not political advocacy.
 It is an analysis of **constitutional mechanics**, **interpretive expansion**, and **institutional sequencing**.
 
 ---
-
-# **1. Event Overview: What Section 49 Does**
-
-## Section 49 – Constitutional Protection of the Democratic Regime with the King as Head of State  
-*(Paraphrased wording, structured, legally analyzed)*
-
-   *"Section 49
+ *"Section 49
 	No person shall exercise the rights or liberties to overthrow the democratic regime of government with the King as Head of State.
 	Any person who has knowledge of an act under paragraph one shall have the right to petition to the Attorney-General to request the 
    Constitutional Court for ordering the cessation of such act.
    In the case where the Attorney-General orders a refusal to proceed as petitioned or fails to proceed within fifteen days as from the date of
    receiving the petition, the person making the petition may submit the petition directly to the Constitutional Court.
    The action under this section shall not prejudice the criminal prosecution against the person committing an act under paragraph one."*
+
+
+# **1. Event Overview: What Section 49 Does**
+
+## Section 49 – Constitutional Protection of the Democratic Regime with the King as Head of State  
+*(Paraphrased wording, structured, legally analyzed)*
 
 Section 49 establishes a constitutional duty for all persons to refrain from exercising their rights or liberties in a manner that undermines the democratic regime with the King as Head of State.  
 It also empowers the Attorney General to petition the Constitutional Court when such actions are alleged.
