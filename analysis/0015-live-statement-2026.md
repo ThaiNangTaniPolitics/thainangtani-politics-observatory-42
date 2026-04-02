@@ -4,6 +4,12 @@
 # **0015 – Live Statements (2026): Actor Perceptions of Thailand’s Constitutional Mechanisms**  
 ### *Empirical confirmation of structural patterns in legislative oversight and constitutional intervention*
 
+[Home](/thainangtani-politics-observatory/)  
+[Analysis](/thainangtani-politics-observatory/analysis/)  
+[Timeline](/thainangtani-politics-observatory/timeline/)  
+[Methodology](/thainangtani-politics-observatory/methodology/)  
+[Archive](/thainangtani-politics-observatory/archive/)
+
 ---
 
 ## **1. Context: The April 2026 Proceedings**  
