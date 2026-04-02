@@ -3,7 +3,12 @@
 # 0017 – The Jurisprudence of "Prevention": A Philosophical Audit
 ### From Defensive Democracy to Interpretive Interventionism
 
-[Home](https://www.google.com/search?q=/thainangtani-politics-observatory/) | [Analysis](https://www.google.com/search?q=/thainangtani-politics-observatory/analysis/) | [Archive](https://www.google.com/search?q=/thainangtani-politics-observatory/archive/)
+
+[Home](/thainangtani-politics-observatory/)  
+[Analysis](/thainangtani-politics-observatory/analysis/)  
+[Timeline](/thainangtani-politics-observatory/timeline/)  
+[Methodology](/thainangtani-politics-observatory/methodology/)  
+[Archive](/thainangtani-politics-observatory/archive/)
 
 ## **1. PHILOSOPHICAL ANCHOR (Section 49)**
 The legal "logic" of the 2024–2026 interventions rests on a specific reading of **Section 49**: "No person shall exercise rights or liberties to overthrow the democratic regime with the King as Head of State."
