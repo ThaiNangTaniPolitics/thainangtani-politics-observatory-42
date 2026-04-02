@@ -1,7 +1,7 @@
 ---
 ---
 # **0018 – The Supreme Court as Terminal Node**
-### Individual Political Extinction through the Criminal Division for Persons Holding Political Positions
+### *Individual Political Extinction through the Criminal Division for Persons Holding Political Positions*
 
 [Home](/thainangtani-politics-observatory/)  
 [Analysis](/thainangtani-politics-observatory/analysis/)  
