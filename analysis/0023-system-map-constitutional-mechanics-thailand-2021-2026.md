@@ -115,4 +115,3 @@ The constitutional mechanics of Thailand (2021–2026) form a **multi‑layered 
 This system operates through **possibility**, not certainty;  
 through **interpretation**, not prohibition;  
 through **anticipation**, not enforcement.
-
