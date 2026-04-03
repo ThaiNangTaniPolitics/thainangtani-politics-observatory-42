@@ -1,2 +1,2 @@
 # Minimal config to allow forced rebuilds
-force_rebuild: 5
+force_rebuild: 6
