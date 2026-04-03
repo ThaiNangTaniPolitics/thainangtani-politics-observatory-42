@@ -23,8 +23,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**A graphical overview of the institutional, discursive, and behavioural architecture**  
-0023 – System Map: The Constitutional Mechanics of Thailand (2021–2026)
+**A structural analysis of legal functionality, reform rhetoric, and symbolic discourse**  
+0024 – System Map: Politically Functional Law & Technocratic Framing
 
 ## 📚 About the Observatory
 
