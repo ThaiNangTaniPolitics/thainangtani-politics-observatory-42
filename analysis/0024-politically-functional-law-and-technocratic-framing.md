@@ -13,7 +13,7 @@
 
 ## **1. Overview Diagram: The Dual Structure of Law and Narrative**
 
- # Timeline: Politically Functional Law → Systemic Effect
+ ### Timeline: Politically Functional Law → Systemic Effect
 
 ### 1. Politically Functional Law
 - Conflict channel  
