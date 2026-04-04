@@ -149,3 +149,23 @@ The underlying mechanism remains unchanged:
 
 > **Volatility is socialised; margins are privatised.**
 
+---
+
+## **5. Observed Behavioural Signals: The PTG Case**
+
+The PTG hoarding controversy illustrates the behavioural incentives embedded in the current pricing system:
+
+- A government price cap (29.94 baht/litre)  
+- combined with MOPS‑linked ex‑refinery prices  
+- and monthly stock reporting  
+creates a structural arbitrage window.
+
+Whether hoarding occurred is secondary.  
+The controversy itself demonstrates:
+
+- information asymmetry,  
+- public suspicion during volatility,  
+- and the political sensitivity of refinery‑linked pricing.
+
+The Energy Ministry’s move to require **daily stock reporting** confirms that the system’s transparency gap is recognised at the regulatory level.
+
