@@ -23,8 +23,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**A structural analysis of windfall profits, regulatory options, and systemic incentives**  
-0026 – Windfall Tax Debate: Refinery Margins, MOPS Linkage, and State Exposure
+**A platform‑specific observation of visible comment patterns during the refinery‑margin crisis**  
+0027 – Discursive Filtering in the Bangkok Post Comment Section (2026)
 
 ## 📚 About the Observatory
 
