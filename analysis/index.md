@@ -12,6 +12,7 @@ This section contains analytical case studies and narrative investigations.
 
 ## Available Analyses
 
+- [0025 – Akanat’s Refinery Margin Cap (3–4 baht/litre)](0025-akanats-refinery-margin-cap.md)
 - [0024 – System Map: Politically Functional Law & Technocratic Framing](0024-politically-functional-law-and-technocratic-framing.md)
 - [0023 –  System Map: The Constitutional Mechanics of Thailand (2021–2026)](0023-system-map-constitutional-mechanics-thailand-2021-2026.md)
 - [0022 –  The Feedback Loop: How Anticipation Reinforces Institutional Power](0022-how-anticipation-reinforces-institutional-power.md)
