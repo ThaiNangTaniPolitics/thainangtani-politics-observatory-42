@@ -119,7 +119,7 @@ They fall outside the **visible moderation bandwidth** of the platform.
     - Structural critique displaced
     - Emotional discourse amplified
     - Pricing architecture remains opaque
-
+    
 ---
 
 ## **5. Analytical Layers**
