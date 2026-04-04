@@ -45,7 +45,6 @@ If reduced to its operational sequence, the article describes the following mech
 
 ## **2. System Map: Refinery Margins and State Exposure**
 
-```markdown
 ### 1. MOPS Linkage (Design)
 - Benchmarking to Singapore (MOPS)
 - Intended as supply‑security mechanism
@@ -85,7 +84,6 @@ If reduced to its operational sequence, the article describes the following mech
 ### 7. Structural Outcome
 - State finances refinery margins
 - MOPS linkage → windfall channel
-```
 
 ---
 
@@ -151,12 +149,3 @@ The underlying mechanism remains unchanged:
 
 > **Volatility is socialised; margins are privatised.**
 
----
-
-Wenn du willst, kann ich:
-
-- eine **System Map 0025A** bauen (nur MOPS‑Mechanik),  
-- eine **0026‑Fortsetzung** schreiben (Windfall‑Tax‑Debatte),  
-- oder eine **grafische ASCII‑Map** wie bei 0023/0024 erzeugen.
-
-Sag einfach, welche Richtung du bevorzugst.
