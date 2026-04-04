@@ -85,7 +85,6 @@ They fall outside the **visible moderation bandwidth** of the platform.
 ---
 
 ## **4. System Map: Platform‑Specific Discursive Filtering**
-
 ### Article Topic
 
     ↓
