@@ -12,6 +12,11 @@
 
 ---
 
+## **0. Forensic Perspective**
+This report approaches the Bangkok Post website as a technical autopsy. The objective is not to evaluate editorial decisions or communication practices, but to document the observable mechanisms that govern the site’s behavior. When user‑facing anomalies occur—such as the disappearance of submitted comments—the appropriate analytical response is not emotional escalation but technical examination. The report therefore focuses on architecture, execution paths, and regulatory intersections rather than subjective interpretation.
+
+---
+
 ## **1. Scope of This Report**
 
 This report provides a detailed technical analysis of the Bangkok Post website based on an extracted HTML snapshot and observed runtime behavior. It focuses exclusively on the site’s technical architecture and documents browser‑environment manipulation, fingerprint randomization, synthetic client identifiers, ad‑blocker evasion, dynamic script injection, service‑worker behavior, ad‑tech integrations, supply‑chain structures, and financial–technical correlations.  
