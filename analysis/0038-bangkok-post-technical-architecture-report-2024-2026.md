@@ -213,6 +213,16 @@ This assessment is based solely on observable technical behavior and statutory r
 
 ---
 
+# **14.5 Structural Integrity of Moderation Under Technical Manipulation**
+
+A platform that modifies the client‑side execution environment of its users through fingerprint manipulation, dynamic script injection, ad‑tech enforcement routines, or browser‑level interference operates outside the normative expectations of a neutral communication medium. When the system alters the user’s browser state, injects synthetic identifiers, or deploys mechanisms that restrict usability unless tracking is permitted, the platform’s technical posture undermines its own claim to evaluate user contributions on the basis of quality, authenticity, or compliance.
+
+From a forensic perspective, a system that manipulates the execution environment of its readers cannot simultaneously assert a position of moral or procedural authority over the content submitted by those readers. The integrity of moderation presupposes a stable, non‑manipulated client environment. When the platform itself introduces opacity, coercive UX patterns, or tracking‑dependent functionality, it compromises the conditions under which user expression occurs.
+
+This observation is not normative; it is a structural consequence of the architecture. A platform that interferes with the user’s browser forfeits the technical neutrality required to make credible judgments about the legitimacy or quality of user‑generated content.
+
+---
+
 ## **15. Notes**
 
 This report contains no political content and documents only technical mechanisms. All findings are based on observable code behavior. No interpretation of intent or motive is included, and no normative evaluation is provided.
