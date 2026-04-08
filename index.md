@@ -23,8 +23,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**A platform‑specific observation of visible comment patterns during the refinery‑margin crisis**  
-0027 – Discursive Filtering in the Bangkok Post Comment Section (2026)
+**ISOC: How Thailand’s Dual Governance System Functions as a Single Architecture**
+0037 – Synthesis: Front‑End / Back‑End as an Integrated System
 
 ## 📚 About the Observatory
 
