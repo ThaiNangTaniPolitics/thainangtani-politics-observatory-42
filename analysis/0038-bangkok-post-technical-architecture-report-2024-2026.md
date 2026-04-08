@@ -151,6 +151,58 @@ This architecture leads to a silent failure of the site’s enforcement logic. T
 
 In this configuration, the site’s usability becomes a direct consequence of the client’s ability to neutralize the operator’s tracking‑to‑content dependencies at the network layer. Standard browsers, which allow the detection routines to execute, may experience a degraded interface when ad‑tech dependencies are blocked. In contrast, Brave’s architecture bypasses the enforcement loop entirely, resulting in a clean render and uninterrupted usability.
 
-## **13. Notes**
+---
+
+# **13. Regulatory Considerations in an International Context**
+
+The technical architecture documented in this report raises questions about regulatory compatibility when evaluated against international data‑protection and consumer‑protection standards. While regulatory frameworks differ across jurisdictions, several of the mechanisms observed on the Bangkok Post website intersect with principles that are widely recognized in global privacy and telecommunication regulations.
+
+Many jurisdictions, including those in the European Union, classify browser‑fingerprinting, cross‑session identifiers, service‑worker persistence, and multi‑node ad‑tech tracking as forms of personal‑data processing. These activities typically require explicit user consent, transparent disclosure, and a demonstrable purpose limitation. Architectures that rely on remote script injection through systems such as Google Tag Manager, or that deploy ad‑blocker enforcement mechanisms that restrict usability, are often subject to heightened scrutiny because they can affect user autonomy and the transparency of data flows.
+
+International regulatory frameworks also commonly address the storage or retrieval of information on user devices. Mechanisms such as service‑worker registration, local caching, and persistent identifiers may fall under these provisions, depending on their purpose and implementation. In many regions, such mechanisms are permissible only when they serve a strictly technical function and are not used for behavioral tracking or profiling.
+
+While the regulatory environment in Thailand differs from that of the European Union or other highly regulated jurisdictions, the underlying principles—transparency, user control, and proportionality—are increasingly reflected in global privacy standards. The combination of extensive ad‑tech dependencies, dynamic script injection, fingerprinting techniques, and enforcement mechanisms that affect usability places this architecture near the boundary of what many international frameworks would consider compliant.
+
+This section does not evaluate the legality of the system in any specific jurisdiction. It provides a technical comparison to commonly recognized regulatory principles to contextualize the architectural characteristics documented in this report.
+
+---
+
+# **14. PDPA Compliance Assessment (Technical–Legal Analysis)**
+
+The technical mechanisms documented in this report intersect with several provisions of the Thai Personal Data Protection Act (PDPA). This section provides a neutral, technical assessment of these intersections. It does not evaluate intent; it evaluates observable system behavior against statutory requirements.
+
+## **14.1 Transparency Requirements (Section 23 PDPA)**
+
+Section 23 of the PDPA requires that data subjects be informed of the purpose, method, and scope of data collection in a clear and transparent manner. Several mechanisms identified in this report complicate compliance with this requirement.
+
+The plugin‑array randomization described in Section 3.1 actively alters the browser’s fingerprint by injecting synthetic plugin entries and shuffling their order. This creates a fingerprint that does not correspond to the user’s actual environment. Because the system presents fabricated information to the browser, the resulting data flow is not transparent to the user and cannot be meaningfully disclosed in a privacy notice. A mechanism that intentionally obscures its own operational characteristics is structurally incompatible with the PDPA’s transparency obligations.
+
+## **14.2 Valid Consent Requirements (Section 19 PDPA)**
+
+Section 19 requires that consent be explicit, voluntary, and informed. Consent must be obtained **before** any processing of personal data that is not strictly necessary for service delivery.
+
+The dynamic execution model enabled by Google Tag Manager, described in Section 6.2, allows tracking logic to be injected and executed before the user has provided consent. Because GTM can load scripts at runtime that are not visible in the static HTML, the system may execute tracking‑related code during or even prior to the consent‑banner interaction. In such cases, the user’s choice is not operationally meaningful, and the consent cannot be considered valid under Section 19.
+
+## **14.3 Right to Object (Section 32 PDPA)**
+
+Section 32 grants data subjects the right to object to the processing of their personal data. From a technical perspective, the use of an ad‑blocker constitutes a clear expression of this objection, as it prevents the loading of tracking and advertising scripts.
+
+The integration of AdRecover, documented in Section 5.1, is designed to circumvent ad‑blocking tools by reinserting advertising elements through alternative delivery paths. This mechanism attempts to override the user’s explicit technical objection to tracking. A system that actively neutralizes a user’s attempt to restrict data processing conflicts with the operational meaning of Section 32.
+
+---
+
+# **14.4 Summary of PDPA Intersection**
+
+The combination of fingerprint manipulation, dynamic script injection, pre‑consent execution, and ad‑blocker circumvention places the observed architecture in tension with several core PDPA principles:
+
+- **Transparency** (Section 23)  
+- **Valid consent** (Section 19)  
+- **Right to object** (Section 32)
+
+This assessment is based solely on observable technical behavior and statutory requirements. It does not evaluate intent or assign legal conclusions; it identifies structural intersections between the system’s architecture and the PDPA’s regulatory framework.
+
+---
+
+## **15. Notes**
 
 This report contains no political content and documents only technical mechanisms. All findings are based on observable code behavior. No interpretation of intent or motive is included, and no normative evaluation is provided.
