@@ -24,6 +24,7 @@ The goal is not advocacy, but **structured observation**.
 ## 📌 Latest Update
 
 **ISOC: How Thailand’s Dual Governance System Functions as a Single Architecture**
+
 0037 – Synthesis: Front‑End / Back‑End as an Integrated System
 
 ## 📚 About the Observatory
