@@ -12,6 +12,7 @@ This section contains analytical case studies and narrative investigations.
 
 ## Available Analyses
 
+- [0028 – ISOC Dual Governance in Thailand](0028_isoc_dual_governance_in_thailand.md)
 - [0027 – Discursive Filtering in the Bangkok Post Comment Section (2026)](0027-bangkok-post-discursive-Filtering-comment-section-2026.md)
 - [0026 – Windfall Tax Debate: Refinery Margins, MOPS Linkage, and State Exposure](0026-windfall-tax-debate.md)
 - [0025 – Akanat’s Refinery Margin Cap (3–4 baht/litre)](0025-akanats-refinery-margin-cap.md)
