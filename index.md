@@ -23,8 +23,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**ISOC: How Thailand’s Dual Governance System Functions as a Single Architecture**  
-0037 – Synthesis: Front‑End / Back‑End as an Integrated System
+**Bangkok Post: A factual analysis of visibility structures, moderation mechanics, and technical architecture**  
+0038 – Bangkok Post: Communication & Technical Ecology (2024–2026)
 
 ## 📚 About the Observatory
 
