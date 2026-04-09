@@ -11,7 +11,7 @@
 
 ---
 
-# **0. Forensic Framing: Autopsy of a Financially Collapsed System**
+## **0. Forensic Framing: Autopsy of a Financially Collapsed System**
 
 This report approaches the Bangkok Post website as a forensic examination of a system operating under conditions of structural financial collapse. The company’s published financial statements document a persistent erosion of equity, a reliance on short‑term director loans, and a reduction of liquid reserves to levels insufficient for sustainable operations. In this context, the website’s technical architecture can be analyzed as the operational footprint of an organization attempting to compensate for financial decline through increasingly aggressive monetization mechanisms.
 
