@@ -107,7 +107,7 @@ Browsers that block such scripts at the network layer (e.g., Brave) avoid these 
         └───────────────┬───────────────────────────────┬──────────────┘
                         │                               │
                         ▼                               ▼
-        AnyMind ATS (ats.js)                 Google Consent Mode / GTM
+        Attribution script (ATS)             Consent‑mode / GTM logic
         Session‑ID correlation               waits for consent signals
         Fingerprinting                       loads dynamic scripts
                         │                               │
@@ -117,19 +117,9 @@ Browsers that block such scripts at the network layer (e.g., Brave) avoid these 
                                        │
                                        ▼
         ┌──────────────────────────────────────────────────────────────┐
-        │        Divergent browser behavior under blocking             │
-        └───────────────────────┬──────────────────────────────────────┘
-                                │
-                                │
-        ┌───────────────────────┴───────────────────────────────┐
-        │                                                       │
-        ▼                                                       ▼
-   Edge (with blockers)                                   Brave
-   - Scripts load partially                               - Scripts blocked at
-   - ATS half‑initialized                                   network layer
-   - Missing consent events                               - No GTM, no ATS
-   - Inconsistent session state                           - Stable fallback login
-   - Silent login failure                                 - Login succeeds
+        │        Divergent behavior under partial script blocking      │
+        └──────────────────────────────────────────────────────────────┘
+
 ```
 
 ### **Interaction with Google Consent Mode**
@@ -248,15 +238,16 @@ These characteristics are derived directly from the HTML snapshot and observed r
 
 ## **12. Client‑Side Behavior on Mobile Browsers**
 
-The usability of the Bangkok Post website is strongly dependent on the client‑side filtering strategy, particularly on mobile devices. On standard mobile browsers, the high density of ad‑tech dependencies—including resources from Taboola, AnyMind360, Pubmatic, and AdRecover—frequently results in functional degradation of the user interface. Several of these scripts are not limited to advertising delivery; they also initialize critical interface components such as scroll controllers, dynamic content modules, and event‑driven layout logic. When these dependencies are blocked, the corresponding interface components may fail to initialize, leading to reduced usability.
+The usability of the Bangkok Post website is strongly dependent on the client‑side filtering strategy. Different environments implement different blocking architectures. Some rely on DOM‑layer interception, where scripts are blocked only after they begin loading. Others use network‑layer interception, where requests to third‑party domains are prevented from entering the JavaScript execution environment.
 
-The Brave browser exhibits a distinct behavioral pattern due to its network‑layer interception model. Unlike traditional browser extensions that block advertising elements at the DOM level after the page has begun loading, Brave’s Shields system intercepts requests to domains such as `adrecover.com`, `pubmatic.com`, and `googletagservices.com` before they are downloaded or executed. This prevents the associated scripts from entering the JavaScript execution environment.
+This architectural divergence explains why the same page may behave differently under identical filtering intentions. DOM‑layer blocking allows partial initialization of ad‑tech dependencies, which can lead to interface degradation when those dependencies are required for scroll controllers, dynamic modules, or layout logic. Network‑layer blocking prevents these scripts from loading entirely, avoiding partial‑execution failure modes.
+
 
 ### **12.1 Silent Failure of the Enforcement Mechanism**
 
-This architecture leads to a silent failure of the site’s enforcement logic. The scripts responsible for detecting ad‑blockers are often hosted on the same domains that Brave intercepts at the network layer. Because these detection scripts never load, the detection logic does not execute and cannot report a blocked state to the main execution thread. As a result, the enforcement triggers—such as the scroll‑lock mechanism implemented via the `overflow: hidden` rule documented in Section 5.2—are never activated.
+The site’s ad‑blocker detection logic relies on scripts hosted on the same third‑party domains as its advertising and tracking dependencies. Under DOM‑layer blocking, these detection scripts may load partially, allowing the enforcement mechanism to activate. Under network‑layer blocking, these scripts never enter the execution environment, causing the enforcement logic to fail silently.
 
-In this configuration, the site’s usability becomes a direct consequence of the client’s ability to neutralize the operator’s tracking‑to‑content dependencies at the network layer. Standard browsers, which allow the detection routines to execute, may experience a degraded interface when ad‑tech dependencies are blocked. In contrast, Brave’s architecture bypasses the enforcement loop entirely, resulting in a clean render and uninterrupted usability.
+As a result, the usability of the site depends not on user intent, but on the blocking architecture of the client environment.
 
 ---
 
