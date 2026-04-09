@@ -14,27 +14,6 @@
 ## 1. Constitutional framing and basic principles
 
 **Content analysis**  
-The statement opens by locating the government explicitly within:
-
-- the 2017 Constitution (especially Chapter 5 – Duties of the State, and Chapter 6 – Directive Principles of State Policies),  
-- the 20‑Year National Strategy (2018–2037),  
-- and the traditional triad: Nation–Religion–Monarchy.
-
-Three core principles are declared:
-
-- protection of the monarchy and the institutions of nation and religion,  
-- adherence to constitutional monarchy and democracy,  
-- commitment to the rule of law and good governance.
-
-**Legal/constitutional analysis**  
-This satisfies the formal requirement# 0040 – Analytical Note on the 2026 Policy Statement of the Council of Ministers  
-**Document‑based, point‑by‑point content and constitutional analysis**
-
----
-
-## 1. Constitutional framing and basic principles
-
-**Content analysis**  
 The statement opens by explicitly anchoring the government in:
 
 - the 2017 Constitution (especially Chapter 5 “Duties of the State” and Chapter 6 “Directive Principles of State Policies”),  
