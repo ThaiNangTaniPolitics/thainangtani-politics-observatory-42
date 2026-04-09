@@ -50,6 +50,56 @@ Object.defineProperty(window.navigator, 'plugins', { ... });
 
 This results in a browser fingerprint that changes on each page load. The plugin list no longer reflects the actual client environment but instead presents a randomized, synthetic structure. This technique introduces entropy into fingerprinting and complicates external auditing or privacy scanning tools that rely on stable plugin signatures. The behavior is fully observable in the code and does not require interpretation of intent.
 
+### **3.2 Client‑Side Session Reconstruction via the `__bwp` Cookie**
+
+The website stores a Base64‑encoded, PHP‑serialized session object in a cookie named `__bwp`. This object contains user‑specific attributes such as `user_email`, `user_id`, and role‑related metadata. The client‑side code retrieves and decodes this object using the following sequence:
+
+```
+var rawCookie = getCookie('__bwp');
+var base64String = decodeURIComponent(rawCookie);
+var serializedString = atob(base64String);
+var emailPattern = /"user_email";s:\d+:"([^"]+)"/;
+```
+
+This mechanism reconstructs server‑side session information directly within the browser environment. The resulting data structure is then parsed by client‑side scripts before any server‑side validation occurs.
+
+### **Technical Characteristics**
+
+- The serialized session object becomes readable in the client environment once decoded from Base64.  
+- The login and session‑initialization logic depend on the successful client‑side reconstruction of this object.  
+- Any interruption of the decoding process—through content blockers, fingerprint‑protection tools, or script‑filtering mechanisms—can result in silent authentication failures.  
+- The mechanism is sensitive to race conditions when third‑party scripts simultaneously access or modify session‑related attributes.
+
+### **Interaction with Third‑Party Attribution Scripts**
+
+The site loads an attribution‑tracking script from:
+
+```
+https://anymind360.com/js/1855/ats.js
+```
+
+This script correlates session identifiers, browser fingerprints, and behavioral signals. When partially blocked (e.g., by browser extensions), the script may initialize inconsistently, leading to incomplete or corrupted session‑state reconstruction.  
+Browsers that block such scripts at the network layer (e.g., Brave) avoid these inconsistencies by preventing the entire attribution chain from loading.
+
+### **Interaction with Google Consent Mode**
+
+The website initializes Google Consent Mode using:
+
+```
+gtag('consent', 'default', {
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    ...
+});
+```
+
+If the consent‑initialization sequence is interrupted—such as when GTM loads but its dependent scripts are blocked—the login flow may wait for consent‑state signals that never arrive. This results in silent authentication failures on browsers where scripts load partially.  
+Browsers that block GTM entirely bypass this failure mode and fall back to a simpler, non‑tracking‑dependent login path.
+
+### **Summary**
+
+The `__bwp` cookie introduces a client‑side dependency on serialized session reconstruction. When combined with attribution scripts and consent‑mode initialization, this creates a fragile authentication architecture that fails under partial script‑blocking conditions. Browsers that block the entire tracking chain at the network level avoid these inconsistencies by preventing the dependent mechanisms from executing.
+
 ---
 
 ## **4. Synthetic Client Identities**
