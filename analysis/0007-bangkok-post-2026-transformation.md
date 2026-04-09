@@ -131,24 +131,29 @@ In Thailand’s media landscape, political embedding is a pattern, not an anomal
 
 ---
 
-## **5. Why the comment system disappeared**
+# **5. Change in the comment system (from March 2026)**
 
-The collapse or removal of the comment system is not a technical accident.  
-It is a **structural symptom**:
+Between 2024 and early 2026, the Bangkok Post’s comment system functioned normally.  
+Users could submit comments, and moderation occurred after publication.  
+The system was operational, visible, and part of the newspaper’s public interface.
 
-- moderation requires staff  
-- open forums create political risk  
-- the newspaper is financially weakened  
-- the Chairman is politically exposed  
-- the owners prioritise stability over unpredictability  
+**From March 2026 onward, a clear shift occurred:**
 
-An uncontrolled comment section does not fit:
+- comments could still be submitted  
+- the interface remained unchanged  
+- but almost no comments were published  
+- the effective publication rate dropped to near zero  
+- pre‑moderation replaced post‑moderation  
+- the comment section continued to exist but no longer functioned as a public forum
 
-- a subsidised newspaper  
-- a politically embedded medium  
-- an organisation dependent on its patrons  
+The technical infrastructure was not removed; it was **operationally restricted** to the point of practical non‑functionality.
 
-It is a **risk‑management decision**, not censorship.
+**The only verifiable fact is the timing:**  
+The change began **from March 2026**, shortly after the political transition.
+
+**The underlying cause is not publicly documented.**  
+No evidence exists to attribute the shift to any specific actor, institution, or directive.  
+The timing is notable, but the reason remains unknown.
 
 ---
 
