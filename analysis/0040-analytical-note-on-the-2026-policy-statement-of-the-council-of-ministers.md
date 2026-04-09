@@ -332,7 +332,7 @@ The policy statement consistently **invokes** the Constitution and the National 
 
 ---
 
-# **8.1 Parliamentary debate context (external confirmation of structural patterns)**
+## 8.1 Parliamentary debate context (external confirmation of structural patterns)
 
 Reports on the parliamentary debate following the presentation of the policy statement noted that several speakers raised concerns about the document’s structure and level of detail. According to these accounts, the policy statement was described as relying heavily on broad principles and general management language, while offering limited operational clarity, few measurable indicators, and diluted versions of earlier campaign‑period pledges. Observers also highlighted the absence of detailed approaches in sensitive areas such as security in the southern border provinces, rule‑of‑law enforcement, and the handling of large‑scale infrastructure commitments.
 
@@ -340,13 +340,13 @@ These remarks do not alter the substance of the policy statement itself, but the
 
 ---
 
-# **8.2 Media framing contrast**
+## 8.2 Media framing contrast
 
 Coverage by other media outlets, such as the Thai Enquirer, presented the policy statement as a coherent and comprehensive national strategy built around five strategic pillars and 23 priority policies. This reporting emphasised the document’s breadth, its alignment with constitutional principles, and its narrative coherence in the face of global uncertainty. The contrast between this framing and the concerns raised in parliamentary debate illustrates the structural character of the policy statement: its high‑level architecture allows for both positive narrative interpretation and critical scrutiny, depending on the lens applied. This dual readability reinforces the analysis in this report that the document is broad, principle‑driven and administratively framed, with limited operational specificity.
 
 ---
 
-# **8.3 Parliamentary rhetoric and narrative elasticity**
+## 8.3 Parliamentary rhetoric and narrative elasticity
 Commentary on the parliamentary debate also highlighted how the policy statement’s structure enabled competing political interpretations. Some opposition speakers reframed the government’s five‑cluster governance model not as an administrative framework but as a reflection of coalition dynamics and power blocs within the political system. This rhetorical reframing illustrates the narrative elasticity of the policy statement: its broad, principle‑driven architecture allows different actors to project political, institutional, or structural meanings onto the same categories. The debate therefore underscores a central finding of this analysis — that the document’s high‑level design makes it simultaneously administratively coherent and politically interpretable, depending on the lens applied.
 
 ---
