@@ -12,6 +12,7 @@ This section contains analytical case studies and narrative investigations.
 
 ## Available Analyses
 
+- [0040 – Analytical note on the 2026 policy statement of the Council of Ministers](0040-analytical-note-on-the-2026-policy-statement-of-the-council-of-ministers.md)
 - [0039 – Policy Statement of the Council of Ministers (2025): Forensic Consistency Report](0039-policy-statement-of-the-council-of-ministers.md)
 - [0038 – Bangkok Post: Technical Architecture Report (2024–2026)](0038-bangkok-post-technical-architecture-report-2024-2026.md)
 - [0037 – Synthesis: Front‑End / Back‑End as an Integrated System](0037-isoc-synthesis-front‑end-back-end.md)
