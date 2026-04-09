@@ -13,7 +13,9 @@
 
 ## **0. Forensic framing**
 
-This report treats the **Policy Statement of the Council of Ministers**, delivered by Prime Minister Anutin Charnvirakul to the National Assembly on 29 September 2025, as a **technical–structural artifact**.  (Source: https://www.soc.go.th/wp-content/uploads/2025/09/Policy_68_eng.pdf)  
+This report treats the **Policy Statement of the Council of Ministers**, delivered by Prime Minister Anutin Charnvirakul to the National Assembly on 29 September 2025, as a **technical–structural artifact**.  
+(Source: https://www.soc.go.th/wp-content/uploads/2025/09/Policy_68_eng.pdf)  
+
 It does not evaluate political ideology, desirability of policies, or normative goals. Instead, it examines:
 
 - internal logical consistency,  
