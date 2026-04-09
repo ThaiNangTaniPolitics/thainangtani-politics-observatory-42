@@ -251,7 +251,7 @@ From a structural perspective, the policy statement exhibits:
 - **goal–instrument contradictions** (sovereignty vs. MoU revocation; tourism vs. gambling exclusion),  
 - **strategy conflicts** (OECD accession vs. domestic preference and import bans),  
 - **implementation gaps** (net zero vs. partial measures; education reform vs. absent structural levers),  
-- and **narrative compression** (broad, long‑term reforms under constrained parliamentary and fiscal conditions).
+- **narrative compression** (broad, long‑term reforms under constrained parliamentary and fiscal conditions).
 
 This report does not infer intent or sincerity. It documents that, when read as a **technical specification of state action**, the policy statement contains **multiple internal tensions** that would, in a software or systems‑engineering context, be flagged as:
 
