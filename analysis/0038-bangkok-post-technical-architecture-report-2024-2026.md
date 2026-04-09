@@ -1,4 +1,3 @@
-
 ---
 ---
 # **0038 – Bangkok Post: Technical Architecture Report (2024–2026)**  
@@ -94,7 +93,7 @@ The enforcement mechanism remained active for approximately one day before being
 The website integrates Google Tag Manager (GTM‑MLF6WTD), which enables remote injection of scripts and conditional execution based on client‑side signals. GTM allows the operator to deploy new logic without modifying the static HTML. This includes behavioral segmentation rules, dynamic content modules, and additional tracking scripts.  
 Because GTM executes code that is not present in the HTML snapshot, it functions as a dynamic execution tunnel. The platform can therefore run logic that is not visible during static analysis.
 
-# **6.2 Google Tag Manager as a Schrödinger‑Script System**
+### **6.2 Google Tag Manager as a Schrödinger‑Script System**
 
 Because Google Tag Manager (GTM) operates as a remote execution container, it functions as a form of *Schrödinger‑script*: the executable logic is simultaneously present and not present until the container is loaded and evaluated at runtime. In the static HTML, GTM appears only as a reference to an external container. The actual scripts, triggers, and behavioral rules are stored remotely and are retrieved dynamically by the client.
 
