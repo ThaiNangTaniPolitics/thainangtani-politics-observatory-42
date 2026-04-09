@@ -351,5 +351,11 @@ Commentary on the parliamentary debate also highlighted how the policy statement
 
 ---
 
+# **8.4 Foreign‑policy framing**
+
+Additional reporting on the policy statement highlighted that the foreign‑policy section combines broad strategic language with a small number of highly specific measures, such as the intention to strengthen border security, review visa policies, and study the possibility of cancelling the 2001 maritime MoU with Cambodia. Commentators noted that while the document presents a comprehensive list of objectives — including OECD accession, Bamboo diplomacy, and enhanced regional engagement — it remains unclear how Thailand will position itself within global power competition or how these goals will be operationalised. This external framing reinforces the structural pattern identified in this analysis: foreign policy is articulated in wide conceptual terms, with selective specificity in politically salient areas but limited strategic depth or institutional detail.
+
+---
+
 **In short:**  
 The 2026 policy statement is a **constitutionally framed, administratively driven modernisation programme**. It uses the Constitution as a **legitimating narrative**, while the real engine of change lies in **technocratic instruments** that are only loosely tied back to constitutional structure. Where Thailand’s problems are most structural—power distribution, enforcement, accountability—the document is **at its vaguest**. Where the government’s political will is strongest—defence reform, digital government, omnibus law—it is **most concrete**, but **least explicit** about the constitutional implications.
