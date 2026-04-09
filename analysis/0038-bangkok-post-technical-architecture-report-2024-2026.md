@@ -154,7 +154,7 @@ The usability of the Bangkok Post website is strongly dependent on the client‑
 
 The Brave browser exhibits a distinct behavioral pattern due to its network‑layer interception model. Unlike traditional browser extensions that block advertising elements at the DOM level after the page has begun loading, Brave’s Shields system intercepts requests to domains such as `adrecover.com`, `pubmatic.com`, and `googletagservices.com` before they are downloaded or executed. This prevents the associated scripts from entering the JavaScript execution environment.
 
-# **12.1 Silent Failure of the Enforcement Mechanism**
+### **12.1 Silent Failure of the Enforcement Mechanism**
 
 This architecture leads to a silent failure of the site’s enforcement logic. The scripts responsible for detecting ad‑blockers are often hosted on the same domains that Brave intercepts at the network layer. Because these detection scripts never load, the detection logic does not execute and cannot report a blocked state to the main execution thread. As a result, the enforcement triggers—such as the scroll‑lock mechanism implemented via the `overflow: hidden` rule documented in Section 5.2—are never activated.
 
