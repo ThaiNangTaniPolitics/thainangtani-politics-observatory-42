@@ -346,5 +346,10 @@ Coverage by other media outlets, such as the Thai Enquirer, presented the policy
 
 ---
 
+# **8.3 Parliamentary rhetoric and narrative elasticity**
+Commentary on the parliamentary debate also highlighted how the policy statement’s structure enabled competing political interpretations. Some opposition speakers reframed the government’s five‑cluster governance model not as an administrative framework but as a reflection of coalition dynamics and power blocs within the political system. This rhetorical reframing illustrates the narrative elasticity of the policy statement: its broad, principle‑driven architecture allows different actors to project political, institutional, or structural meanings onto the same categories. The debate therefore underscores a central finding of this analysis — that the document’s high‑level design makes it simultaneously administratively coherent and politically interpretable, depending on the lens applied.
+
+---
+
 **In short:**  
 The 2026 policy statement is a **constitutionally framed, administratively driven modernisation programme**. It uses the Constitution as a **legitimating narrative**, while the real engine of change lies in **technocratic instruments** that are only loosely tied back to constitutional structure. Where Thailand’s problems are most structural—power distribution, enforcement, accountability—the document is **at its vaguest**. Where the government’s political will is strongest—defence reform, digital government, omnibus law—it is **most concrete**, but **least explicit** about the constitutional implications.
