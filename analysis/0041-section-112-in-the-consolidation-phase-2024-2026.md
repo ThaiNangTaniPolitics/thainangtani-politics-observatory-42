@@ -338,7 +338,7 @@ In this configuration, private complainants serve as decentralised inputs into t
 
 ---
 
-## **13.5 The Transition from Individual Complaint to Institutional Automation**
+### **13.5 The Transition from Individual Complaint to Institutional Automation**
 
 A critical structural moment in the consolidation phase is the point at which a privately initiated complaint ceases to function as an individual act and becomes part of an institutional sequence that unfolds independently of the complainant. This transition illustrates how decentralised inputs merge with the procedural machinery of the state.
 
