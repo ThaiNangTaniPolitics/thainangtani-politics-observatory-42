@@ -37,6 +37,14 @@ The shift from a monarch‑articulated openness to criticism to a judicial doctr
 
 ---
 
+## **1.1 Normative Divergence Through Juxtaposition**
+
+The contrast between the monarch’s 2005 articulation of accountability and the institutional doctrine that developed after 2021 does not require evaluative interpretation; it becomes analytically visible through simple juxtaposition. The 2005 speech framed criticism as a safeguard and cautioned against excessive prosecution, whereas subsequent jurisprudence has treated Section 112 as a domain requiring heightened insulation and constitutional protection.
+
+From an analytical perspective, this divergence illustrates how constitutional meaning can shift over time through judicial interpretation, institutional practice, and the cumulative effect of enforcement patterns. The tension between these positions emerges structurally from the coexistence of two normative reference points within the same constitutional tradition, rather than from any external assessment.
+
+---
+
 ## **2. THE 2024 CONSTITUTIONAL COURT RULING: SECTION 112 AS A PROTECTED DOMAIN**
 
 On 31 January 2024, the Constitutional Court ruled that the Move Forward Party’s campaign to amend Section 112 constituted an attempt to overthrow the constitutional monarchy.  
