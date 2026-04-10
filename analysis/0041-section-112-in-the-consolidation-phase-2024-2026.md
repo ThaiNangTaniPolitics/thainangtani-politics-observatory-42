@@ -338,8 +338,19 @@ In this configuration, private complainants serve as decentralised inputs into t
 
 ---
 
+## **13.5 The Transition from Individual Complaint to Institutional Automation**
 
-## **CONCLUSION (revised with complaint‑driven activation)**
+A critical structural moment in the consolidation phase is the point at which a privately initiated complaint ceases to function as an individual act and becomes part of an institutional sequence that unfolds independently of the complainant. This transition illustrates how decentralised inputs merge with the procedural machinery of the state.
+
+Under the broad standing provisions applicable to Section 112, any individual may file a complaint regardless of personal involvement. Once submitted, however, the complaint is no longer treated as a personal grievance. It becomes an institutional object: a case file that moves through police procedures, prosecutorial review, judicial interpretation, and, in some instances, constitutional or ethical oversight. The identity or intentions of the complainant do not determine the trajectory of the case; the procedural activation itself is what matters.
+
+This transformation is central to understanding the dynamics of the consolidation phase. It demonstrates how individual filings can initiate processes that propagate through the institutional chain with increasing automation. The complaint triggers the initial step, but subsequent stages—investigation, indictment, adjudication, and institutional propagation—are governed by established procedures rather than by the agency of the complainant. As a result, private complaints contribute to a cumulative enforcement pattern that extends far beyond their original context.
+
+This mechanism does not imply any normative assessment. It highlights the institutional logic through which decentralised inputs become embedded in a broader enforcement architecture. The visibility of this transition—where an individual act becomes part of an automated institutional sequence—helps explain the scale, persistence, and systemic impact of Section 112 enforcement during the consolidation phase.
+
+---
+
+# **CONCLUSION**
 
 Between 2024 and 2026, Section 112 underwent a process of judicial expansion and institutional entrenchment that consolidated the transformation documented in 0012. The Constitutional Court’s 2024 ruling placed Section 112 beyond ordinary democratic deliberation, while criminal enforcement intensified and media coverage fragmented public understanding of these developments.
 
@@ -347,7 +358,9 @@ The broader legal context provided by Sections 107–112 of the Criminal Code si
 
 The contrast between the monarch’s 2005 articulation of criticism as a safeguard and the later judicial doctrine of insulation illustrates the extent to which the constitutional meaning of Section 112 has shifted. The ten‑point declaration issued on 10 August 2020 constituted a historical novelty in Thailand’s political landscape: it was the first publicly articulated, comprehensive reform agenda concerning the monarchy. Its subsequent classification by the Constitutional Court in 2021 as an attempt to undermine the constitutional order transformed the declaration into an interpretive reference point that shaped the evaluation of later reform proposals.
 
-A further structural element of the consolidation phase was the role of private complainants in activating institutional processes. The broad standing to initiate Section 112 cases enabled individuals to function as decentralised inputs into the enforcement system. Petitions submitted by private actors—including those filed by lawyer Teerayut Suwankesorn—served as procedural triggers that brought multiple oversight bodies into motion. Once adopted, these complaints propagated through the institutional chain, generating effects independent of the original initiators. This complaint‑driven activation mechanism contributed to the volume, timing, and persistence of Section 112 enforcement during the consolidation phase.
+A further structural element of the consolidation phase was the role of private complainants in activating institutional processes. The broad standing to initiate Section 112 cases enabled individuals to function as decentralised inputs into the enforcement system. Petitions submitted by private actors—including those filed by lawyer Teerayut Suwankesorn—served as procedural triggers that brought multiple oversight bodies into motion. Once adopted, these complaints propagated through the institutional chain, generating effects independent of the original initiators.
+
+A critical insight emerging from this configuration is the point at which a privately initiated complaint ceases to function as an individual act and becomes part of an institutional sequence that unfolds independently of the complainant. This transition—from individual action to procedural automation—helps explain the scale and persistence of Section 112 enforcement during the consolidation phase. It illustrates how decentralised inputs merge with established procedures, producing an enforcement pattern that extends far beyond the intentions or agency of any single initiator.
 
 In comparative perspective, many elements of the ten‑point declaration resemble reform trajectories observed in other constitutional monarchies, where adjustments to royal budgets, assets, transparency, and constitutional roles have been undertaken within frameworks of continuity rather than rupture. The divergence between this international pattern and the domestic legal interpretation in Thailand underscores how similar reform proposals can be understood differently depending on constitutional doctrine, institutional history, and the structure of state–society relations.
 
@@ -361,4 +374,3 @@ Finally, the expansion of ethical oversight into the domain of legislative condu
 
 Section 112 remains formally amendable.  
 In practice, the consolidation phase has rendered meaningful reform structurally unattainable within the existing institutional framework.
-
