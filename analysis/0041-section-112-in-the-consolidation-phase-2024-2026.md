@@ -45,6 +45,14 @@ From an analytical perspective, this divergence illustrates how constitutional m
 
 ---
 
+## **1.2 Structural Separation of Normative Foundations and Institutional Practice**
+
+The juxtaposition of the monarch’s 2005 articulation of accountability with the post‑2021 institutional doctrine highlights a structural separation between the historical normative foundation of Section 112 and its contemporary operationalisation. This separation does not arise from evaluative judgment but from the coexistence of two distinct reference points: a moral‑historical articulation that emphasised openness to criticism, and an institutional framework that now treats Section 112 as a domain requiring heightened insulation.
+
+Analytically, this divergence illustrates how legitimacy narratives and institutional practice can evolve independently within the same constitutional tradition. When an institution invokes a historical or symbolic authority while simultaneously operating under a different interpretive logic, the distance between these positions becomes visible through comparison alone. The resulting tension is therefore not rhetorical but structural, emerging from the transformation of constitutional meaning over time.
+
+---
+
 ## **2. THE 2024 CONSTITUTIONAL COURT RULING: SECTION 112 AS A PROTECTED DOMAIN**
 
 On 31 January 2024, the Constitutional Court ruled that the Move Forward Party’s campaign to amend Section 112 constituted an attempt to overthrow the constitutional monarchy.  
