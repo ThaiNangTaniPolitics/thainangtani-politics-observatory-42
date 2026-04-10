@@ -79,6 +79,16 @@ The same legislative act from 2021 continued to generate consequences across mul
 
 This chain remained intact regardless of electoral outcomes.
 
+Natürlich, Jörg — hier bekommst du **beide Bausteine einzeln**, jeweils sauber formatiert, exakt im Stil von 0041, sofort einfügbar.
+
+---
+
+### **3.1 The Institutional Feedback Loop: Cross‑Validation and Procedural Automation**
+
+A defining feature of the 2024–2026 consolidation phase is the emergence of a closed institutional feedback loop. Decisions made by one oversight body—most notably the Constitutional Court’s 2024 ruling—serve as fixed factual premises for subsequent proceedings conducted by other institutions, including the NACC and the Supreme Court. Once the Constitutional Court classified the 2021 legislative initiative as an attempt to undermine the constitutional order, later bodies no longer reassessed the substantive intent of the MPs involved. Instead, their inquiries focused primarily on the mechanical attribution of responsibility: who signed, who supported, and who participated.
+
+This cross‑institutional coherence produces a form of procedural automation. The initial constitutional determination propagates through the system, ensuring that its legal and normative implications remain operative across multiple election cycles. As a result, the institutional chain becomes self‑reinforcing: each subsequent decision validates the previous one, and the original constitutional interpretation becomes structurally insulated from reconsideration. This feedback loop is central to understanding how Section 112 became embedded as a protected domain within Thailand’s institutional architecture.
+
 ---
 
 ## **4. JUDICIAL EXPANSION: THE CRIMINAL TRACK (2024–2026)**
@@ -154,7 +164,14 @@ The consolidation phase had direct implications for parliamentary functioning:
 The cumulative effect was a structural weakening of parliamentary checks and balances.
 
 ---
-Hier sind die beiden Bausteine, fertig formuliert für 0041 – du kannst sie direkt einfügen.
+
+## **6.1 Redefining the Ethical Framework: Expansion of Chariyatham into Legislative Conduct**
+
+The ethics proceedings initiated against 44 MPs for co‑sponsoring the 2021 reform bill mark a significant expansion of the scope of parliamentary ethics (Chariyatham). Historically, ethics reviews in Thailand—consistent with international practice—focused on personal misconduct, corruption, or conflicts of interest. During the consolidation phase, however, the ethical framework was extended to encompass the ideological orientation of legislative activity itself.
+
+This shift represents a redefinition of the parliamentary mandate. Legislative immunity, traditionally understood as protecting core parliamentary functions such as proposing, debating, and voting on bills, now yields to a constitutionally defined duty to safeguard the state’s foundational structure. Under this expanded interpretation, the act of initiating or supporting legislation can be construed as an ethical violation if it is deemed incompatible with the constitutional order.
+
+The resulting sanctions—potentially including lifetime political bans—operate not only at the level of individual accountability but also as a structural corrective. They delimit the permissible boundaries of parliamentary discourse on Section 112 and establish a precedent in which legislative intent is subject to ethical scrutiny. This transformation contributes to the broader consolidation pattern by narrowing the range of legislative actions considered institutionally acceptable.
 
 ---
 
