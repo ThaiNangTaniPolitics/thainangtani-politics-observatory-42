@@ -188,3 +188,9 @@ Visa rules become a proxy for deeper governance issues.
 
 # 8. Notes
 This analysis focuses on narrative and editorial mechanics, not on policy evaluation.
+
+<p align="center">
+  <a href="../images/0009.png">
+    <img src="../images/0009.png" alt="0009" width="480">
+  </a>
+</p>
