@@ -179,3 +179,8 @@ It is the logical outcome of:
 - the economic networks  
 - the political embedding  
 
+<p align="center">
+  <a href="../images/0007.png">
+    <img src="../images/0007.png" alt="0007" width="480">
+  </a>
+</p>
