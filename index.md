@@ -23,8 +23,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**Judicial expansion, institutional entrenchment, and the transformation of constitutional meaning**  
-0041 – Section 112 in the Consolidation Phase (2024–2026) 
+**Governance convergence vs. institutional escalation: Constraints on Thailand’s OECD accession trajectory**  
+0042-thailand-oecd-accession-as-a-governance-benchmark.md
 
 ## 📚 About the Observatory
 
