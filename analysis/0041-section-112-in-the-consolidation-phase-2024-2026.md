@@ -352,6 +352,8 @@ This mechanism does not imply any normative assessment. It highlights the instit
 
 # **CONCLUSION**
 
+The trajectory from the King’s 2005 articulation of human warmth and fallibility to the procedural coldness of the 2024–2026 institutional configuration marks one of the most significant transformations in the constitutional meaning of Section 112.
+
 Between 2024 and 2026, Section 112 underwent a process of judicial expansion and institutional entrenchment that consolidated the transformation documented in 0012. The Constitutional Court’s 2024 ruling placed Section 112 beyond ordinary democratic deliberation, while criminal enforcement intensified and media coverage fragmented public understanding of these developments.
 
 The broader legal context provided by Sections 107–112 of the Criminal Code situates Section 112 within a national‑security framework traditionally associated with physical threats to the monarchy. This structural positioning helps explain why expressive offences have been interpreted through a security lens and why subsequent judicial doctrine has emphasised insulation rather than contestability.
