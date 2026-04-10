@@ -194,6 +194,18 @@ The resulting effect is a gradual reduction in open discussion, particularly in 
 
 ---
 
+## **10. Institutional Pre‑Judgment: Preventive Measures and High‑Volume Case Intake**
+
+A further structural feature of the 2024–2026 consolidation phase is the emergence of what comparative institutional analysis describes as *pre‑judgment*: the activation of preventive or interim measures before a final judicial ruling is issued. This phenomenon does not imply a determination of guilt; rather, it reflects an institutional assessment that a case is systemically significant enough to warrant early intervention.
+
+In many parliamentary systems, interim measures against sitting legislators are limited to cases involving corruption, personal misconduct, or criminal behaviour unrelated to legislative activity. It is therefore comparatively unusual for preventive measures to be applied in response to actions that fall within the scope of parliamentary functions, such as the co‑sponsoring of a bill or participation in legislative debate. Thailand’s constitutional and ethics framework, however, permits such measures under Section 235 of the 2017 Constitution, enabling the National Anti‑Corruption Commission and the Supreme Court to impose temporary suspensions or restrictions while proceedings are ongoing.
+
+The anticipated intake of approximately 10,000 case files related to Section 112 further illustrates what institutional theory terms *saturation signalling*: the use of high‑volume case acceptance to indicate that a legal domain has been elevated to a priority category. High‑volume intake does not predetermine outcomes, but it communicates that the institution considers the underlying issue to be of heightened constitutional relevance.
+
+When combined with the possibility of suspending ten sitting MPs before a final ruling, these mechanisms contribute to the perception of pre‑judgment at the structural level. The measures operate not as determinations of wrongdoing but as precautionary interventions within an institutional architecture that treats Section 112 as a constitutionally sensitive domain. This dynamic reinforces the broader consolidation pattern identified in this chapter: the relocation of Section 112 from ordinary legislative contestation into a protected and pre‑emptively regulated constitutional space.
+
+---
+
 ## **CONCLUSION**
 
 Between 2024 and 2026, Section 112 underwent a process of judicial expansion and institutional entrenchment that consolidated the transformation documented in 0012. The Constitutional Court’s 2024 ruling placed Section 112 beyond ordinary democratic deliberation, while criminal enforcement intensified and media coverage fragmented the public understanding of these developments.
@@ -202,7 +214,9 @@ The contrast between the monarch’s 2005 articulation of criticism as a safegua
 
 The 2024–2026 sequence also represents a structural novum: for the first time, a single legislative initiative generated two waves of institutional consequences—first at the party level, then at the level of individual parliamentarians. This dual response aligns with a broader pattern observed in comparative political systems, in which institutions react most intensively to actors with high electoral visibility. The combination of Section 112’s protected status and the electoral strength of the parties associated with its proposed reform produced an institutional configuration without clear precedent.
 
-A further consequence of this configuration is the emergence of a self‑limiting public sphere. The visibility of high‑profile cases, the breadth of potential legal exposure, and the interpretive uncertainty surrounding the boundaries of permissible expression contribute to a chilling effect in which individuals increasingly refrain from discussing legally sensitive topics. This development does not imply uniform silence, but it narrows the range of open discourse and reinforces the institutional consolidation described in this chapter.
+A further consequence of this configuration is the emergence of a self‑limiting public sphere. The visibility of high‑profile cases, the breadth of potential legal exposure, and the interpretive uncertainty surrounding the boundaries of permissible expression contribute to a chilling effect in which individuals increasingly refrain from discussing legally sensitive topics. This development narrows the range of open discourse and reinforces the institutional consolidation described in this chapter.
+
+The consolidation phase also introduced a pattern of institutional pre‑judgment, in which preventive measures and high‑volume case intake were activated before final rulings were issued. These mechanisms do not determine outcomes, but they signal the elevation of Section 112 into a domain of heightened constitutional sensitivity and further entrench its position outside ordinary legislative contestation.
 
 Section 112 remains formally amendable.  
 In practice, the consolidation phase has rendered meaningful reform structurally unattainable within the existing institutional framework.
