@@ -335,6 +335,7 @@ From an analytical perspective, these petitions illustrate how private complaina
 - **Propagation:** Once adopted, the case moves through the institutional chain, generating effects independent of the original complainant.
 
 In this configuration, private complainants serve as decentralised inputs into the enforcement system. Their filings do not predetermine outcomes, but they shape the timing, volume, and direction of institutional activity. Teerayut Suwankesorn’s petitions exemplify how this mechanism operated during the consolidation phase: each filing activated a separate institutional process, and together these processes contributed to the broader pattern of legal and political consequences described in this chapter.
+
 ---
 
 
