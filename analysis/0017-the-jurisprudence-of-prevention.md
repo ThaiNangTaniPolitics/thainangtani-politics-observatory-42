@@ -108,3 +108,10 @@ By elevating interpretive ethics and capability‑based reasoning above traditio
 - and how democratic mandates are validated.
 
 The result is a constitutional model in which **oversight institutions function as interpretive arbiters**, and democratic authority is contingent upon compliance with a non‑material ethical framework.
+
+<p align="center">
+  <a href="../images/0017.png">
+    <img src="../images/0017.png" alt="0017" width="480">
+  </a>
+</p>
+
