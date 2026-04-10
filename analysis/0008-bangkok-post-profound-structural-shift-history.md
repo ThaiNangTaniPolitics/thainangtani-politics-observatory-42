@@ -114,3 +114,8 @@ it marks the end of its era as a semi‑public institution and the beginning of 
 
 This is the most profound structural change in the newspaper’s history.
 
+<p align="center">
+  <a href="../images/0008.png">
+    <img src="../images/0008.png" alt="0008" width="480">
+  </a>
+</p>
