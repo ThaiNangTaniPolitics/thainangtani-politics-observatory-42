@@ -12,6 +12,7 @@ This section contains analytical case studies and narrative investigations.
 
 ## Available Analyses
 
+- [0042 – Structural incompatibilities between OECD accession standards and Thailand’s 2024–2026 institutional escalation](0042-thailand-oecd-accession-as-a-governance-benchmark-2024-2026.md)
 - [0041 – Section 112 in the Consolidation Phase (2024–2026)](0041-section-112-in-the-consolidation-phase-2024-2026.md)
 - [0040 – Analytical note on the 2026 policy statement of the Council of Ministers](0040-analytical-note-on-the-2026-policy-statement-of-the-council-of-ministers.md)
 - [0039 – Policy Statement of the Council of Ministers (2025): Forensic Consistency Report](0039-policy-statement-of-the-council-of-ministers.md)
