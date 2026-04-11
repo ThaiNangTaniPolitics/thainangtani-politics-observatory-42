@@ -32,7 +32,7 @@ are tasked with assessing institutional stability, predictability of legal proce
 
 This creates a structural tension: the government’s outward‑facing modernisation agenda emphasises OECD membership as a strategic objective, while domestic political developments in the same period have produced a level of institutional conflict that constitutes a **novum** in Thailand’s contemporary political trajectory.
 
-## **3. Institutional escalation as identified in 0042**
+## **3. Institutional escalation as identified in 0041**
 
 The period 2024–2026 is characterised by:
 
@@ -41,7 +41,7 @@ The period 2024–2026 is characterised by:
 - procedural sequences that unfold with limited discretionary interruption,  
 - high‑impact institutional consequences for political actors.
 
-This pattern reflects what 0042 described as a **structural escalation**:  
+This pattern reflects what 0041 described as a **structural escalation**:  
 legal and institutional processes generate effects that extend beyond the intentions or agency of individual initiators.
 
 From a governance‑assessment perspective, this escalation intersects directly with OECD criteria concerning:
