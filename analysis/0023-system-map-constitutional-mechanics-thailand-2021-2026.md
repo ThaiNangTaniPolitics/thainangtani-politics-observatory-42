@@ -117,8 +117,8 @@ through **interpretation**, not prohibition;
 through **anticipation**, not enforcement.
 
 <p align="center">
-  <a href="../images/0023.png">
-    <img src="../images/0023.png" alt="0023" width="480">
+  <a href="../images/0023.jpg">
+    <img src="../images/0023.jpg" alt="0023" width="480">
   </a>
 </p>
 
