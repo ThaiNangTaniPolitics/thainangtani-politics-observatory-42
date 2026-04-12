@@ -210,5 +210,5 @@ Instead, they are removed from the political arena.
 
 The proceedings therefore function not as punishment for a crime, but as a mechanism of political exclusion.
 
-<img src="../images/0012.webp" alt="0012" style="width: 480px; margin: auto;">
+<img src="../images/0012.webp" alt="0012" style="width: 480px; margin: auto;" loading="lazy">
 

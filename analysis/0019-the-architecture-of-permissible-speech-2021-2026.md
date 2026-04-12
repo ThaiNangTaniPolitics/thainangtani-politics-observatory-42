@@ -149,4 +149,4 @@ This produces a public sphere in which:
 
 Discursive filtering is therefore a **non‑institutional extension** of the constitutional mechanics documented in Chapters 0012–0018.
 
-<img src="../images/0019.webp" alt="0019" style="width: 480px; margin: auto;">
+<img src="../images/0019.webp" alt="0019" style="width: 480px; margin: auto;" loading="lazy">

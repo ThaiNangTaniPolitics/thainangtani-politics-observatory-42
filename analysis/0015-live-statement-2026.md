@@ -75,4 +75,4 @@ The statements reported on 2 April 2026 are analytically significant because the
 
 These statements function as empirical evidence of how constitutional mechanisms shape political practice in Thailand.
 
-<img src="../images/0015.webp" alt="0015" style="width: 480px; margin: auto;">
+<img src="../images/0015.webp" alt="0015" style="width: 480px; margin: auto;" loading="lazy">

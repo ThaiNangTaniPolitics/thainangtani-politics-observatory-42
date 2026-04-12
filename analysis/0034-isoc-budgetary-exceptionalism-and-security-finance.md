@@ -93,4 +93,4 @@ Financial opacity is not a byproduct — it is a structural feature that enables
 
 ---
 
-<img src="../images/0034.webp" alt="0034" style="width: 480px; margin: auto;">
+<img src="../images/0034.webp" alt="0034" style="width: 480px; margin: auto;" loading="lazy">

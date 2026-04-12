@@ -108,6 +108,6 @@ This system operates through **possibility**, not certainty;
 through **interpretation**, not prohibition;  
 through **anticipation**, not enforcement.
 
-<img src="../images/0023.webp" alt="0023" style="width: 480px; margin: auto;">
+<img src="../images/0023.webp" alt="0023" style="width: 480px; margin: auto;" loading="lazy">
 
 

@@ -120,4 +120,4 @@ This is the operational core of parallel governance:
 
 ---
 
-<img src="../images/0033.webp" alt="0033" style="width: 480px; margin: auto;">
+<img src="../images/0033.webp" alt="0033" style="width: 480px; margin: auto;" loading="lazy">

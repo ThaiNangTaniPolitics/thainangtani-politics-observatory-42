@@ -145,4 +145,4 @@ The result is a form of **stabilising journalism**:
 - narratives are adjusted post‑hoc  
 - institutional actors are protected
 
-<img src="../images/0005.webp" alt="0005" style="width: 480px; margin: auto;">
+<img src="../images/0005.webp" alt="0005" style="width: 480px; margin: auto;" loading="lazy">

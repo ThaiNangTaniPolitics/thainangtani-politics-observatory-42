@@ -156,5 +156,5 @@ It is the logical outcome of:
 - the economic networks  
 - the political embedding  
 
-<img src="../images/0007.webp" alt="0007" style="width: 480px; margin: auto;">
+<img src="../images/0007.webp" alt="0007" style="width: 480px; margin: auto;" loading="lazy">
 

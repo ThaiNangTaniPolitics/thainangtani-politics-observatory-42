@@ -84,4 +84,4 @@ The result is a predictable cycle of **confusion → correction → reframing**.
 ## 8. Notes
 This analysis focuses on narrative mechanics, not policy evaluation.
 
-<img src="../images/0002.webp" alt="0002" style="width: 480px; margin: auto;">
+<img src="../images/0002.webp" alt="0002" style="width: 480px; margin: auto;" loading="lazy">

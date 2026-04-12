@@ -153,5 +153,5 @@ It is not a claim about censorship, but an observation of discursive shaping wit
 
 ---
 
-<img src="../images/0027.webp" alt="0027" style="width: 480px; margin: auto;">
+<img src="../images/0027.webp" alt="0027" style="width: 480px; margin: auto;" loading="lazy">
 

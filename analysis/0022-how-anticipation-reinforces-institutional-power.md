@@ -83,4 +83,4 @@ Intervention creates anticipation; anticipation creates self‑limitation; self�
 
 This recursive dynamic explains the durability and effectiveness of the constitutional mechanics documented in Chapters 0012–0021.
 
-<img src="../images/0022.webp" alt="0022" style="width: 480px; margin: auto;">
+<img src="../images/0022.webp" alt="0022" style="width: 480px; margin: auto;" loading="lazy">

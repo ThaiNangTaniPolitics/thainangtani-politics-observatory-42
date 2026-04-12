@@ -220,5 +220,5 @@ A technical review would flag:
 
 ---
 
-<img src="../images/0039.webp" alt="0039" style="width: 480px; margin: auto;">
+<img src="../images/0039.webp" alt="0039" style="width: 480px; margin: auto;" loading="lazy">
 

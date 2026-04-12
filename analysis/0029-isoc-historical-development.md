@@ -105,4 +105,4 @@ This trajectory explains why ISOC remains central to Thailand’s political arch
 
 ---
 
-<img src="../images/0029.webp" alt="0029" style="width: 480px; margin: auto;">
+<img src="../images/0029.webp" alt="0029" style="width: 480px; margin: auto;" loading="lazy">

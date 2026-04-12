@@ -151,4 +151,4 @@ The underlying mechanism remains:
 
 ---
 
-<img src="../images/0026.webp" alt="0026" style="width: 480px; margin: auto;">
+<img src="../images/0026.webp" alt="0026" style="width: 480px; margin: auto;" loading="lazy">

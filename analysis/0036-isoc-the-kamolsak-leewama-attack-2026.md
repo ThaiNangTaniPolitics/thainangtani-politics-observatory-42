@@ -99,5 +99,5 @@ It provides empirical grounding for the theoretical framework of an **infiltrate
 
 ---
 
-<img src="../images/0036.webp" alt="0036" style="width: 480px; margin: auto;">
+<img src="../images/0036.webp" alt="0036" style="width: 480px; margin: auto;" loading="lazy">
 

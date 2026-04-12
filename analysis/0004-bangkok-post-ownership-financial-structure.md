@@ -88,5 +88,5 @@ The result is a form of “stabilizing journalism” — prioritizing continuity
 ## 8. Notes
 This analysis focuses on narrative and editorial mechanics, not on individual journalists or political positions.
 
-<img src="../images/0004.webp" alt="0004" style="width: 480px; margin: auto;">
+<img src="../images/0004.webp" alt="0004" style="width: 480px; margin: auto;" loading="lazy">
 

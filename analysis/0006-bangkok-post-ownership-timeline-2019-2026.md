@@ -149,5 +149,5 @@ This will be the decisive moment in which the long‑term ownership concentratio
 - Wutisak Lapcharoensap  
 - Dr. Siritaj Rojanapruk  
 
-<img src="../images/0006.webp" alt="0006" style="width: 480px; margin: auto;">
+<img src="../images/0006.webp" alt="0006" style="width: 480px; margin: auto;" loading="lazy">
 

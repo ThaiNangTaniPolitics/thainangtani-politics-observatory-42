@@ -369,4 +369,4 @@ Finally, the expansion of ethical oversight into the domain of legislative condu
 **Taken together, these developments illustrate a broader structural movement: the gradual reframing of earlier notions of openness and fallibility into a security‑oriented interpretive logic; the emergence of institutional automation in which procedural sequences unfold with increasing inevitability; and a temporal persistence in which actions undertaken years earlier continue to generate institutional effects across multiple electoral cycles. This combination of normative reinterpretation, procedural continuity, and temporal durability defines the consolidation phase and shapes the contemporary constitutional position of Section 112. Section 112 remains formally amendable. In practice, the consolidation phase has rendered meaningful reform structurally unattainable within the existing institutional framework.**  
 
 
-<img src="../images/0041.webp" alt="0041" style="width: 480px; margin: auto;">
+<img src="../images/0041.webp" alt="0041" style="width: 480px; margin: auto;" loading="lazy">

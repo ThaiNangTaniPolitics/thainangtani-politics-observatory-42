@@ -101,4 +101,4 @@ The structural conditions imply:
 
 This baseline supports future analysis of narrative shifts, editorial tone, and policy‑related communication.
 
-<img src="../images/0003.webp" alt="0003" style="width: 480px; margin: auto;">
+<img src="../images/0003.webp" alt="0003" style="width: 480px; margin: auto;" loading="lazy">
