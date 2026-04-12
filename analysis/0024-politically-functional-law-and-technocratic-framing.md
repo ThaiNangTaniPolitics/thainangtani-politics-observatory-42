@@ -1,19 +1,14 @@
----
----
-# **0024 – System Map: Politically Functional Law & Technocratic Framing**  
+```markdown
+## 0024 – System Map: Politically Functional Law & Technocratic Framing
 ### *A structural analysis of legal functionality, reform rhetoric, and symbolic discourse*
 
-[Home](/thainangtani-politics-observatory/)  
-[Analysis](/thainangtani-politics-observatory/analysis/)  
-[Timeline](/thainangtani-politics-observatory/timeline/)  
-[Methodology](/thainangtani-politics-observatory/methodology/)  
-[Archive](/thainangtani-politics-observatory/archive/)
+[Home](/thainangtani-politics-observatory/) • [Analysis](/thainangtani-politics-observatory/analysis/) • [Timeline](/thainangtani-politics-observatory/timeline/) • [Methodology](/thainangtani-politics-observatory/methodology/) • [Archive](/thainangtani-politics-observatory/archive/)
 
 ---
 
-## **1. Overview Diagram: The Dual Structure of Law and Narrative**
+## 1. Overview Diagram: The Dual Structure of Law and Narrative
 
- ### Timeline: Politically Functional Law → Systemic Effect
+### Timeline: Politically Functional Law → Systemic Effect
 
 ### 1. Politically Functional Law
 - Conflict channel  
@@ -63,61 +58,61 @@
 - Political function masked  
 - Neutrality projected  
 - Structural critique displaced  
-               
 
 ---
 
-## **2. Functional Layers**
+## 2. Functional Layers
 
-### **Layer 1 – Political Functionality of Law**  
+### Layer 1 – Political Functionality of Law
 - Law as conflict channel  
 - Law as actor‑filter  
 - Law as generator of political risk  
 - Law as stabilisation instrument  
 
-### **Layer 2 – Filtering Architecture**  
+### Layer 2 – Filtering Architecture
 - Ethics clauses as exclusion mechanism  
 - Procedural exposure of individuals  
 - Eligibility as political gatekeeping  
 
-### **Layer 3 – Technocratic Reform Rhetoric**  
+### Layer 3 – Technocratic Reform Rhetoric
 - OECD alignment  
 - Digital government  
 - Administrative modernisation  
 - Neutrality claims  
 
-### **Layer 4 – Depoliticisation Techniques**  
+### Layer 4 – Depoliticisation Techniques
 - “Non‑interference” in judicial matters  
 - Technocratic self‑presentation  
 - Separation of reform and consequence  
 
-### **Layer 5 – Discursive Contrast Fields**  
-- Seasonal liturgical texts (e.g., Easter prayer)  
+### Layer 5 – Discursive Contrast Fields
+- Seasonal liturgical texts  
 - Symbolic, non‑political reader letters  
 - Genre shifts that displace structural critique  
 
-### **Layer 6 – Systemic Outcome**  
+### Layer 6 – Systemic Outcome
 - Political steering function obscured  
 - Reform framed as neutral  
 - Structural analysis filtered out  
 
 ---
 
-## **3. Analytical Summary**
+## 3. Analytical Summary
 
-The interaction between **politically functional law** and **technocratic reform rhetoric** creates a dual system:
+The interaction between politically functional law and technocratic reform rhetoric creates a dual system:
 
-- The legal framework **regulates political participation**,  
-- while the reform narrative **presents this regulation as neutral modernisation**.
+- The legal framework regulates political participation.  
+- The reform narrative presents this regulation as neutral modernisation.  
 
-Simultaneously, symbolic or liturgical reader letters introduce **discursive contrast zones** that:
+Simultaneously, symbolic or liturgical reader letters introduce discursive contrast zones that:
 
 - depoliticise the surrounding context,  
 - shift attention away from structural mechanisms,  
-- and reinforce the appearance of administrative normality.
+- reinforce the appearance of administrative normality.  
 
-The result is a system in which **political functionality persists**,  
-but **is narratively reframed as technocratic progress**.
+The result is a system in which political functionality persists but is narratively reframed as technocratic progress.
+
+---
 
 <p align="center">
   <a href="../images/0024.jpg">
@@ -133,7 +128,10 @@ document.addEventListener("dblclick", e => {
     const o = Object.assign(document.createElement("div"), {
       style:"position:fixed;inset:0;background:#000c;display:flex;align-items:center;justify-content:center;cursor:zoom-out;z-index:9999"
     });
-    o.appendChild(img); o.onclick=()=>o.remove(); document.body.appendChild(o);
+    o.appendChild(img);
+    o.onclick = () => o.remove();
+    document.body.appendChild(o);
   }
 });
 </script>
+```
