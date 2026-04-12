@@ -7,9 +7,6 @@ title: Image Gallery
 
 # Image Gallery
 
-
-# Image Gallery
-
 <style>
 .gallery {
   display: grid;
