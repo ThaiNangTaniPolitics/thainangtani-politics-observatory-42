@@ -1,6 +1,4 @@
----
----
-# **0018 – The Supreme Court as Terminal Node**  
+## 0018 – The Supreme Court as Terminal Node  
 ### *Individual Political Extinction through the Criminal Division for Persons Holding Political Positions*
 
 [Home](/thainangtani-politics-observatory/)  
@@ -11,7 +9,7 @@
 
 ---
 
-## **1. Constitutional Assignment: Sections 195 and 235**  
+## 1. Constitutional Assignment: Sections 195 and 235  
 Under the 2017 Constitution, the Supreme Court’s Criminal Division for Persons Holding Political Positions is designated as the **final adjudicator** for cases involving “serious ethical violations.”  
 This role is not appellate but **terminal**: it determines the political survival or extinction of individual officeholders.
 
@@ -22,10 +20,10 @@ The result is a **single‑stage terminal mechanism** for political eligibility.
 
 ---
 
-## **2. The Mechanics of Termination**  
+## 2. The Mechanics of Termination  
 The Supreme Court’s function as Terminal Node operates through three structural pressures.
 
-### **2.1 Automatic Suspension (Section 235, paragraph 3)**  
+### *2.1 Automatic Suspension (Section 235, paragraph 3)*  
 Once the Court accepts a petition, the accused MP is **immediately suspended**.  
 This occurs *before* evidence is examined and *before* any judicial findings are made.
 
@@ -35,7 +33,7 @@ Suspension thus functions as a **pre‑verdict sanction** with direct parliament
 
 ---
 
-### **2.2 Evidentiary Transformation: From Criminal Intent to Ethical Conduct**  
+### *2.2 Evidentiary Transformation: From Criminal Intent to Ethical Conduct*  
 Criminal offences such as Section 112 require proof of intent, action, and harm.  
 Ethics cases under Section 235 require none of these.
 
@@ -51,7 +49,7 @@ The evidentiary threshold shifts from **material proof** to **interpretive asses
 
 ---
 
-### **2.3 Irreversible Exclusion (Section 235, paragraph 4)**  
+### *2.3 Irreversible Exclusion (Section 235, paragraph 4)*  
 A guilty verdict results in:
 
 - **permanent disqualification** from holding political office,  
@@ -64,14 +62,14 @@ The affected person is removed from the political ecosystem with no path to retu
 
 ---
 
-## **3. Systemic Impact: The Removal of the Second Tier**  
+## 3. Systemic Impact: The Removal of the Second Tier  
 The 2024–2026 sequence reveals a dual‑layered exclusion mechanism:
 
-### **3.1 Constitutional Court: Organ‑Level Removal**  
+### *3.1 Constitutional Court: Organ‑Level Removal*  
 The Constitutional Court dissolves political parties and bans their executives.  
 This eliminates the **organizational structure**.
 
-### **3.2 Supreme Court: Personnel‑Level Removal**  
+### *3.2 Supreme Court: Personnel‑Level Removal*  
 The Supreme Court removes individual MPs through ethical adjudication.  
 This eliminates the **experienced legislative tier**.
 
@@ -85,7 +83,7 @@ This produces a **systemic purge** of both organizational and individual politic
 
 ---
 
-## **4. The Judicial Ceiling: Defining the Limits of Parliamentary Sovereignty**  
+## 4. The Judicial Ceiling: Defining the Limits of Parliamentary Sovereignty  
 By treating a legislative proposal as a terminal ethical violation, the Supreme Court establishes the **outer boundary** of permissible parliamentary action.
 
 The democratic mandate becomes subject to:
@@ -101,7 +99,7 @@ a structural limit beyond which parliamentary sovereignty cannot extend.
 
 ---
 
-## **5. Structural Interpretation**  
+## 5. Structural Interpretation  
 The Supreme Court’s role as Terminal Node completes the architecture described in earlier chapters:
 
 - **Section 49** provides the preventive logic.  
@@ -117,7 +115,7 @@ This produces a constitutional system in which:
 
 ---
 
-## **6. Conclusion**  
+## 6. Conclusion  
 The Supreme Court’s Criminal Division for Persons Holding Political Positions functions as the **final mechanism of political exclusion** in Thailand’s post‑2017 constitutional order.  
 Through automatic suspension, interpretive evidentiary standards, and irreversible bans, it defines the limits of democratic participation and the boundaries of legislative autonomy.
 
