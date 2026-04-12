@@ -14,7 +14,7 @@ This case examines how the Bangkok Post frames the issue of political, education
 
 <a href="https://www.bangkokpost.com/opinion/opinion/3235643/control-and-fear-inside-the-clergy" target="_blank" rel="noopener noreferrer">
 Bangkok Post – Control and Fear Inside the Clergy
-</a>
+</a>  
 
 The editorial highlights:
 
