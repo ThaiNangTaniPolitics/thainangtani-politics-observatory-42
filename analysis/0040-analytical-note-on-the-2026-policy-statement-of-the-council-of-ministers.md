@@ -1,12 +1,6 @@
 ## 0040 – Analytical note on the 2026 policy statement of the Council of Ministers
 ### *Focus: Substantive content, constitutional anchoring, internal contradictions, and mismatch with Thailand’s structural problems*
 
-[Home](/thainangtani-politics-observatory/)  
-[Analysis](/thainangtani-politics-observatory/analysis/)  
-[Timeline](/thainangtani-politics-observatory/timeline/)  
-[Methodology](/thainangtani-politics-observatory/methodology/)  
-[Archive](/thainangtani-politics-observatory/archive/)
-
 ---
 
 ## 1. Constitutional framing and basic principles
