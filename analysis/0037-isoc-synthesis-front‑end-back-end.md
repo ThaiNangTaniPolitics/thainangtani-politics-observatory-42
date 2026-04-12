@@ -1,5 +1,3 @@
----
----
 # **0037 – Synthesis: Front‑End / Back‑End as an Integrated System**
 ### *How Thailand’s Dual Governance System Functions as a Single Architecture*
 
@@ -157,6 +155,8 @@ These two layers form a **single integrated architecture** in which:
 
 This is the operational meaning of an **infiltrated society**.
 
+---
+
 <p align="center">
   <a href="../images/0037.jpg">
     <img src="../images/0037.jpg" alt="0037" width="480">
@@ -171,7 +171,9 @@ document.addEventListener("dblclick", e => {
     const o = Object.assign(document.createElement("div"), {
       style:"position:fixed;inset:0;background:#000c;display:flex;align-items:center;justify-content:center;cursor:zoom-out;z-index:9999"
     });
-    o.appendChild(img); o.onclick=()=>o.remove(); document.body.appendChild(o);
+    o.appendChild(img); 
+    o.onclick=()=>o.remove(); 
+    document.body.appendChild(o);
   }
 });
 </script>
