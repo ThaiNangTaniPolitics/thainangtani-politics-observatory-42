@@ -1,7 +1,5 @@
----
----
-# 0014 – Constitutional Mechanics I: The Analytical Framework (2024–2026)
-### How constitutional text becomes doctrine, doctrine becomes judgment, and judgment becomes political sanction
+## 0014 – Constitutional Mechanics I: The Analytical Framework (2024–2026)
+### *How constitutional text becomes doctrine, doctrine becomes judgment, and judgment becomes political sanction*
 
 [Home](/thainangtani-politics-observatory/)  
 [Analysis](/thainangtani-politics-observatory/analysis/)  
@@ -30,7 +28,7 @@ This framework is the foundation for the detailed analyses in the following chap
 
 The Observatory proceeds in five layers:
 
-### **1. Constitutional Text**
+### *1. Constitutional Text*
 We examine the relevant provisions:
 
 - Section 49 (protection of the democratic regime with the King as Head of State)  
@@ -53,7 +51,7 @@ This is a purely textual analysis.
 
 ---
 
-### **2. Judicial Interpretation**
+### *2. Judicial Interpretation*
 We reconstruct:
 
 - which constitutional articles the Court actually used  
@@ -73,7 +71,7 @@ This is analysis, not critique.
 
 ---
 
-### **3. From Interpretation to Sanction**
+### *3. From Interpretation to Sanction*
 We document:
 
 - why the rulings are not criminal  
@@ -86,7 +84,7 @@ This is the core of the constitutional mechanism.
 
 ---
 
-### **4. Institutional Architecture**
+### *4. Institutional Architecture*
 We examine the interaction between:
 
 - Constitutional Court  
@@ -105,7 +103,7 @@ This is the structural layer.
 
 ---
 
-### **5. Discursive Environment**
+### *5. Discursive Environment*
 We analyze the journalistic framing, especially in Bangkok Post:
 
 - disabled comment sections  
