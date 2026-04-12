@@ -17,13 +17,24 @@ title: Image Gallery
   width: 100%;
   border-radius: 6px;
   cursor: zoom-in;
+  display: block; /* Verhindert Lücken im Grid */
 }
 </style>
 
 <div class="gallery">
-{% for image in site.static_files %}
-  {% if image.path contains 'images/' %}
-    <img src="{{ site.baseurl }}{{ image.path }}" alt="">
+{% for file in site.static_files %}
+  {% if file.path contains 'images/' and file.extname == '.webp' %}
+    {% comment %} 
+      Wir extrahieren den Basispfad ohne Endung, 
+      um WebP und PNG flexibel zu verknüpfen.
+    {% endcomment %}
+    {% assign base_path = file.path | remove: file.extname %}
+    
+    <picture>
+      <source srcset="{{ site.baseurl }}{{ base_path }}.webp" type="image/webp">
+      <source srcset="{{ site.baseurl }}{{ base_path }}.png" type="image/png">
+      <img src="{{ site.baseurl }}{{ base_path }}.png" alt="Observatory Record">
+    </picture>
   {% endif %}
 {% endfor %}
 </div>
