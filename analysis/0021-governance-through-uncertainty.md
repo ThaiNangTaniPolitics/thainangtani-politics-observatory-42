@@ -2,12 +2,6 @@
 ## 0021 – The Architecture of Anticipation: Governance Through Uncertainty  
 ### *How constitutional ambiguity becomes a mode of political regulation (2021–2026)*
 
-[Home](/thainangtani-politics-observatory/)  
-[Analysis](/thainangtani-politics-observatory/analysis/)  
-[Timeline](/thainangtani-politics-observatory/timeline/)  
-[Methodology](/thainangtani-politics-observatory/methodology/)  
-[Archive](/thainangtani-politics-observatory/archive/)
-
 ---
 
 ## 1. Introduction: The Rise of Anticipatory Governance  
