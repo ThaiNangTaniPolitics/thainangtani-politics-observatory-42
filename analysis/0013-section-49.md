@@ -1,12 +1,6 @@
 ## 0013 – Section 49: Constitutional Mechanics  
 ### *How a preventive clause became an intervention norm in Thailand’s constitutional order*
 
-[Home](/thainangtani-politics-observatory/)  
-[Analysis](/thainangtani-politics-observatory/analysis/)  
-[Timeline](/thainangtani-politics-observatory/timeline/)  
-[Methodology](/thainangtani-politics-observatory/methodology/)  
-[Archive](/thainangtani-politics-observatory/archive/)
-
 ---
 
  **Section 49**
