@@ -7,6 +7,8 @@
 [Methodology](/thainangtani-politics-observatory/methodology/)
 [Archive](/thainangtani-politics-observatory/archive/)
 
+---
+
 ## 1. Event Overview
 A sequence of visa‑related announcements triggered a rapid shift in how Thai media framed the topic.  
 Communication was fragmented, reactive, and inconsistent across ministries, creating confusion among foreigners, tourism operators, and domestic audiences.
