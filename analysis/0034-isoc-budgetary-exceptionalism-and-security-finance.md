@@ -101,7 +101,7 @@ Budgetary exceptionalism ensures that ISOC:
 Financial opacity is not a byproduct — it is a **structural feature** that enables ISOC to function as a parallel governance system.
 
 <p align="center">
-  <a href="../images/0034jpg">
+  <a href="../images/0034.jpg">
     <img src="../images/0034.jpg" alt="0034" width="480">
   </a>
 </p>
