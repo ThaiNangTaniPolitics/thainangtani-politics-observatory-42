@@ -1,6 +1,4 @@
----
----
-# **0019 – Discursive Filtering: The Architecture of Permissible Speech (2021–2026)**  
+## 0019 – Discursive Filtering: The Architecture of Permissible Speech (2021–2026)  
 ### *How comment moderation functions as an extension of constitutional mechanics*
 
 [Home](/thainangtani-politics-observatory/)  
@@ -11,7 +9,7 @@
 
 ---
 
-## **1. Introduction: The Missing Half of the Public Sphere**  
+## 1. Introduction: The Missing Half of the Public Sphere  
 Between 2021 and 2026, public discussion surrounding constitutional interventions, ethics proceedings, and legislative reform proposals was shaped not only by institutional actions but also by **discursive filtering**.  
 This chapter examines how **comment moderation systems** on major Thai news platforms structure what forms of public speech become visible.
 
@@ -20,7 +18,7 @@ It examines **patterns** observable across multiple platforms.
 
 ---
 
-## **2. The Moderation Framework: What Is Systematically Removed**  
+## 2. The Moderation Framework: What Is Systematically Removed  
 Across major Thai news sites, comment moderation guidelines typically prohibit:
 
 - references to the monarchy  
@@ -46,10 +44,10 @@ The result is a **discursive perimeter** around sensitive topics.
 
 ---
 
-## **3. The Filtering Pattern: What Is Allowed and What Is Not**  
+## 3. The Filtering Pattern: What Is Allowed and What Is Not  
 Empirical observation across multiple articles shows a consistent pattern:
 
-### **3.1 Comments that are typically removed**  
+### *3.1 Comments that are typically removed*  
 Comments that:
 
 - explain constitutional mechanisms  
@@ -63,7 +61,7 @@ Comments that:
 
 These comments are usually filtered out before publication.
 
-### **3.2 Comments that are typically allowed**  
+### *3.2 Comments that are typically allowed*  
 Comments that:
 
 - express general frustration  
@@ -77,10 +75,10 @@ These comments tend to pass moderation.
 
 ---
 
-## **4. Discursive Effect: Fragmentation of Public Understanding**  
+## 4. Discursive Effect: Fragmentation of Public Understanding  
 The filtering pattern produces a specific informational environment:
 
-### **4.1 Structural analysis becomes invisible**  
+### *4.1 Structural analysis becomes invisible*  
 The public cannot see comments that explain:
 
 - how Section 49 is interpreted  
@@ -89,7 +87,7 @@ The public cannot see comments that explain:
 - how institutional sequencing works  
 - how preventive jurisprudence is applied
 
-### **4.2 Only symptoms remain visible**  
+### *4.2 Only symptoms remain visible*  
 Comments that survive moderation typically describe:
 
 - fear  
@@ -100,7 +98,7 @@ Comments that survive moderation typically describe:
 
 But they do not explain **why** these reactions occur.
 
-### **4.3 The public sphere becomes asymmetrical**  
+### *4.3 The public sphere becomes asymmetrical*  
 Institutional actions are visible.  
 Structural explanations are not.
 
@@ -113,28 +111,28 @@ This produces a **discursive vacuum** in which:
 
 ---
 
-## **5. Discursive Filtering as an Extension of Constitutional Mechanics**  
+## 5. Discursive Filtering as an Extension of Constitutional Mechanics  
 The filtering regime mirrors the institutional architecture analysed in Chapters 0012–0018:
 
-### **5.1 Preventive logic**  
+### *5.1 Preventive logic*  
 Just as Section 49 enables preventive intervention, comment moderation prevents the emergence of structural critique.
 
-### **5.2 Non‑material standards**  
+### *5.2 Non‑material standards*  
 Just as “ethics” lacks statutory definition, moderation categories such as “inappropriate” or “sensitive” are open‑ended.
 
-### **5.3 Asymmetry of discretion**  
+### *5.3 Asymmetry of discretion*  
 Just as oversight bodies have broad interpretive authority, moderators have broad discretion to remove comments.
 
-### **5.4 Chilling effect**  
+### *5.4 Chilling effect*  
 Just as legislators narrow their agendas, commenters narrow their speech to avoid removal.
 
-### **5.5 Pattern continuity**  
+### *5.5 Pattern continuity*  
 The discursive environment reinforces the institutional environment:  
 both limit the visibility of structural analysis.
 
 ---
 
-## **6. Structural Conclusion**  
+## 6. Structural Conclusion  
 Discursive filtering on major Thai news platforms functions as a **parallel mechanism of constraint** that complements constitutional intervention.
 
 It does not silence all speech.  
