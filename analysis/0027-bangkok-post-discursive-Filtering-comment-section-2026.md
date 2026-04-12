@@ -1,6 +1,4 @@
----
----
-# **0027 – Discursive Filtering in the Bangkok Post Comment Section (2026)**  
+## 0027 – Discursive Filtering in the Bangkok Post Comment Section (2026)
 ### *A platform‑specific observation of visible comment patterns during the refinery‑margin crisis*
 
 [Home](/thainangtani-politics-observatory/)  
@@ -11,153 +9,155 @@
 
 ---
 
-## **1. Scope and Limitation**
+## 1. Scope and Limitation
 
-This entry examines **only one platform**:  
+This entry examines only one platform:  
 the *Bangkok Post* comment section during the 2026 refinery‑margin and diesel‑subsidy crisis.
 
-It does **not** generalise to:
+It does not generalise to:
 
-- other Thai media,  
-- other newspapers,  
-- social media,  
-- or the broader public sphere.
+- other Thai media  
+- other newspapers  
+- social media  
+- or the broader public sphere  
 
-The analysis is strictly limited to **observable patterns** in the comments that were publicly visible under specific articles.
+The analysis is strictly limited to observable patterns in the comments that were publicly visible under specific articles.
 
 ---
 
-## **2. Observed Pattern: What Appears in the Visible Comment Field**
+## 2. Observed Pattern: What Appears in the Visible Comment Field
 
 Across multiple articles on refinery margins, subsidies, and the Oil Fuel Fund, the visible comments share three characteristics:
 
-### **(a) Emotional or affective reactions**
-Typical themes include:
+### (a) Emotional or affective reactions
+Themes include:
 
-- frustration about rising prices,  
-- concerns about national debt,  
-- generalised anxiety about the future.
+- frustration about rising prices  
+- concerns about national debt  
+- generalised anxiety about the future  
 
-These comments express **sentiment**, not **mechanism**.
+These comments express sentiment, not mechanism.
 
-### **(b) Broad, non‑technical policy opinions**
+### (b) Broad, non‑technical policy opinions
 Examples include:
 
-- calls for renewable energy,  
-- criticism of borrowing,  
-- general remarks about global oil markets.
+- calls for renewable energy  
+- criticism of borrowing  
+- general remarks about global oil markets  
 
-These remain **high‑level** and **non‑specific**.
+These remain high‑level and non‑specific.
 
-### **(c) Diffuse economic reasoning**
+### (c) Diffuse economic reasoning
 They do not reference:
 
-- refinery margin formulas,  
-- MOPS linkage,  
-- pass‑through mechanics,  
-- or state‑funded margin stabilisation.
+- refinery margin formulas  
+- MOPS linkage  
+- pass‑through mechanics  
+- state‑funded margin stabilisation  
 
-They stay within a **generalised discourse frame**.
+They stay within a generalised discourse frame.
 
 ---
 
-## **3. Observed Pattern: What Does Not Appear**
+## 3. Observed Pattern: What Does Not Appear
 
 Comments that attempt to:
 
-- reconstruct the article’s sequence,  
-- break down refinery margins mathematically,  
-- describe how subsidies effectively finance margins,  
-- or explain how MOPS linkage creates windfall conditions,
+- reconstruct the article’s sequence  
+- break down refinery margins mathematically  
+- describe how subsidies finance margins  
+- explain how MOPS linkage creates windfall conditions  
 
-are **not visible** in the published comment field.
+are not visible in the published comment field.
 
 These comments are:
 
-- **structural**,  
-- **mechanistic**,  
-- **sequenced**,  
-- **analytically precise**,  
-- and shift the discourse from *symptom* to *system*.
+- structural  
+- mechanistic  
+- sequenced  
+- analytically precise  
+- shifting the discourse from symptom to system  
 
-They fall outside the **visible moderation bandwidth** of the platform.
+They fall outside the visible moderation bandwidth of the platform.
 
 ---
 
-## **4. System Map: Platform‑Specific Discursive Filtering**
+## 4. System Map: Platform‑Specific Discursive Filtering
 
-### Article Topic
+### Article Topic  
 ↓
 
 ### Incoming Comments
-- Emotional reactions
-- General opinions
-- Structural analyses
-- Pricing mechanism breakdowns
+- emotional reactions  
+- general opinions  
+- structural analyses  
+- pricing‑mechanism breakdowns  
 ↓
 
 ### Moderation Layer (Bangkok Post)
-- Publishes emotional comments
-- Publishes broad policy opinions
-- Publishes diffuse economic concerns
-- Withholds structural mechanism analysis
-- Withholds pricing-formula deconstruction
+- publishes emotional comments  
+- publishes broad policy opinions  
+- publishes diffuse economic concerns  
+- withholds structural mechanism analysis  
+- withholds pricing‑formula deconstruction  
 ↓
 
 ### Visible Comment Field
-- Sentiment-heavy discourse
-- No reference to margin mechanics
-- No reference to subsidy architecture
-- No sequence analysis
+- sentiment‑heavy discourse  
+- no reference to margin mechanics  
+- no reference to subsidy architecture  
+- no sequence analysis  
 ↓
 
 ### Discursive Outcome
-- Structural critique displaced
-- Emotional discourse amplified
-- Pricing architecture remains opaque
+- structural critique displaced  
+- emotional discourse amplified  
+- pricing architecture remains opaque  
 
 ---
 
-## **5. Analytical Layers**
+## 5. Analytical Layers
 
-### **Layer 1 – Platform Logic**
+### Layer 1 – Platform Logic
 The visible moderation pattern suggests a preference for:
 
-- low‑risk comments,  
-- non‑technical discourse,  
-- emotionally resonant but structurally shallow content.
+- low‑risk comments  
+- non‑technical discourse  
+- emotionally resonant but structurally shallow content  
 
-### **Layer 2 – Discursive Narrowing**
+### Layer 2 – Discursive Narrowing
 By excluding structural analysis, the platform:
 
-- narrows the interpretive frame,  
-- keeps attention on *symptoms*,  
-- avoids discussion of *mechanisms*.
+- narrows the interpretive frame  
+- keeps attention on symptoms  
+- avoids discussion of mechanisms  
 
-### **Layer 3 – Visibility Bias**
+### Layer 3 – Visibility Bias
 The visible comment field becomes:
 
-- emotionally charged,  
-- structurally empty,  
-- and focused on individual frustration rather than systemic architecture.
+- emotionally charged  
+- structurally empty  
+- focused on individual frustration rather than systemic architecture  
 
-### **Layer 4 – Platform‑Specific Conclusion**
-This pattern is **specific to the Bangkok Post’s comment moderation**.  
+### Layer 4 – Platform‑Specific Conclusion
+This pattern is specific to the Bangkok Post’s comment moderation.  
 It does not imply broader trends beyond this platform.
 
-> **Emotion in, structure out — as a platform‑level discursive pattern.**
+**Emotion in, structure out — as a platform‑level discursive pattern.**
 
 ---
 
-## **6. Observatory Relevance**
+## 6. Observatory Relevance
 
-For the Observatory, this case provides a **platform‑specific example** of how:
+For the Observatory, this case provides a platform‑specific example of how:
 
-- structural analysis becomes less visible,  
-- emotional discourse becomes more visible,  
-- and public understanding of pricing architecture remains limited.
+- structural analysis becomes less visible  
+- emotional discourse becomes more visible  
+- public understanding of pricing architecture remains limited  
 
-It is not a claim about censorship, but an observation of **discursive shaping** within a single media interface.
+It is not a claim about censorship, but an observation of discursive shaping within a single media interface.
+
+---
 
 <p align="center">
   <a href="../images/0027.jpg">
@@ -173,8 +173,9 @@ document.addEventListener("dblclick", e => {
     const o = Object.assign(document.createElement("div"), {
       style:"position:fixed;inset:0;background:#000c;display:flex;align-items:center;justify-content:center;cursor:zoom-out;z-index:9999"
     });
-    o.appendChild(img); o.onclick=()=>o.remove(); document.body.appendChild(o);
+    o.appendChild(img);
+    o.onclick = () => o.remove();
+    document.body.appendChild(o);
   }
 });
 </script>
-
