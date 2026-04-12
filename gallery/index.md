@@ -3,7 +3,7 @@ layout: default
 title: Image Gallery
 ---
 
-# Image Gallery
+## Image Gallery
 
 <style>
 .gallery {
@@ -20,8 +20,9 @@ title: Image Gallery
 
 <div class="gallery">
 {% for image in site.static_files %}
-  {% if image.path contains '/images/' %}
+  {% if image.path contains 'images/' %}
     <img src="{{ image.path }}" alt="">
   {% endif %}
 {% endfor %}
 </div>
+
