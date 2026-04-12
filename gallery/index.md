@@ -33,32 +33,46 @@ title: Image Gallery
 </style>
 
 <div class="gallery">
-{% assign all_files = site.static_files | where_exp: "item", "item.path contains 'images/'" %}
-{% for file in all_files %}
-  {% assign ext = file.extname | downcase %}
-  
-  {% comment %} 
-    Wir filtern Dubletten: 
-    Wenn wir ein PNG/JPG finden, prüfen wir, ob ein WebP mit gleichem Namen existiert.
-    Wenn ja, überspringen wir dieses File, da das WebP separat geladen wird.
-  {% endcomment %}
-  
-  {% assign skip = false %}
-  {% if ext == '.png' or ext == '.jpg' or ext == '.jpeg' %}
-    {% assign base = file.path | remove: file.extname %}
-    {% for check in all_files %}
-      {% if check.path == "{{ base }}.webp" %}
-        {% assign skip = true %}
-      {% endif %}
-    {% endfor %}
-  {% endif %}
+{% comment %} 
+  1. Schritt: Wir erstellen einen langen String mit allen Pfaden, die auf .webp enden.
+{% endcomment %}
+{% capture webp_list %}
+  {% for file in site.static_files %}
+    {% if file.path contains '.webp' %}{{ file.path | remove: '.webp' }}|{% endif %}
+  {% endfor %}
+{% endcapture %}
 
-  {% unless skip %}
+{% comment %} 
+  2. Schritt: Wir gehen alle Dateien durch und filtern Dubletten.
+{% endcomment %}
+{% for file in site.static_files %}
+  {% if file.path contains 'images/' %}
+    {% assign ext = file.extname | downcase %}
+    {% assign base = file.path | remove: file.extname %}
+    
+    {% assign is_image = false %}
     {% if ext == '.webp' or ext == '.png' or ext == '.jpg' or ext == '.jpeg' %}
-      <div class="img-container">
-        <img src="{{ site.baseurl }}{{ file.path }}" alt="{{ file.basename }}">
-      </div>
+      {% assign is_image = true %}
     {% endif %}
-  {% endunless %}
+
+    {% if is_image %}
+      {% assign skip = false %}
+      
+      {% comment %} 
+        Wenn es ein PNG oder JPG ist, schauen wir nach, ob der Pfad in unserer WebP-Liste steht.
+      {% endcomment %}
+      {% if ext != '.webp' %}
+        {% if webp_list contains base %}
+          {% assign skip = true %}
+        {% endif %}
+      {% endif %}
+
+      {% unless skip %}
+        <div class="img-container">
+          <img src="{{ site.baseurl }}{{ file.path }}" alt="{{ file.basename }}">
+        </div>
+      {% endunless %}
+    {% endif %}
+  {% endif %}
 {% endfor %}
 </div>
