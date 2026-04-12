@@ -1,6 +1,4 @@
----
----
-# **0042 – OECD standards and Thailand’s 2024–2026 institutional escalation**
+## 0042 – OECD standards and Thailand’s 2024–2026 institutional escalation
 ### *Governance convergence vs. institutional escalation: Constraints on Thailand’s OECD accession trajectory*
 
 [Home](/thainangtani-politics-observatory/)  
@@ -18,7 +16,7 @@ The OECD is not solely an economic organisation; its accession framework is buil
 
 These principles form the basis of the OECD’s *Accession Roadmap*, which guides the technical reviews conducted by its committees.
 
-## **2. Thailand’s accession process (2024–2026)**
+## 2. Thailand’s accession process (2024–2026)
 
 Thailand entered the accession process in 2024 and, by 2026, is undergoing technical evaluations by 25 OECD committees.  
 Among these, the committees on:
@@ -32,7 +30,7 @@ are tasked with assessing institutional stability, predictability of legal proce
 
 This creates a structural tension: the government’s outward‑facing modernisation agenda emphasises OECD membership as a strategic objective, while domestic political developments in the same period have produced a level of institutional conflict that constitutes a **novum** in Thailand’s contemporary political trajectory.
 
-## **3. Institutional escalation as identified in 0041**
+## 3. Institutional escalation as identified in article 0041
 
 The period 2024–2026 is characterised by:
 
@@ -51,7 +49,7 @@ From a governance‑assessment perspective, this escalation intersects directly 
 - **safeguards for legislative deliberation**,  
 - **stability of parliamentary representation**.
 
-## **4. Structural mismatch between external commitments and internal dynamics**
+## 4. Structural mismatch between external commitments and internal dynamics
 
 OECD accession frameworks evaluate not only policy goals but also the **domestic institutional environment** in which those goals are pursued.  
 This includes:
@@ -75,7 +73,7 @@ This produces a **structural mismatch**:
 
 The OECD’s accession framework is grounded in shared governance principles, including pluralistic democracy, predictable rule‑of‑law processes, and safeguards for political participation. The institutional escalation observed in Thailand between 2024 and 2026—characterised by high‑impact legal processes involving elected representatives, the activation of procedures through private complaints, and procedural sequences that unfold with limited discretionary interruption—creates a complex environment for such evaluations. These dynamics differ significantly from the governance conditions typically associated with OECD accession trajectories, which emphasise stability, foreseeability, and institutional balance. This does not imply a normative assessment; rather, it highlights a structural discrepancy between the OECD’s shared governance principles and the institutional patterns documented during the escalation phase. For accession processes that rely on predictable legal environments and stable parliamentary functioning, such discrepancies become central analytical considerations.
 
-## **5. Implications for long‑term reform trajectories**
+## 5. Implications for long‑term reform trajectories
 
 The divergence between:
 
