@@ -104,18 +104,3 @@ Financial opacity is not a byproduct — it is a structural feature that enables
     <img src="../images/0034.jpg" alt="0034" width="480">
   </a>
 </p>
-
-<script>
-document.addEventListener("dblclick", e => {
-  if (e.target.tagName === "IMG") {
-    const img = e.target.cloneNode();
-    Object.assign(img.style, { maxWidth:"100vw", maxHeight:"100vh" });
-    const o = Object.assign(document.createElement("div"), {
-      style:"position:fixed;inset:0;background:#000c;display:flex;align-items:center;justify-content:center;cursor:zoom-out;z-index:9999"
-    });
-    o.appendChild(img);
-    o.onclick = () => o.remove();
-    document.body.appendChild(o);
-  }
-});
-</script>
