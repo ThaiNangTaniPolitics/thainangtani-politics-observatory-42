@@ -51,10 +51,10 @@ document.addEventListener("click", e => {
         display: flex;
         align-items: center;
         justify-content: center;
-        cursor: zoom-out;
         z-index: 10000;
         opacity: 0;
         transition: opacity 0.2s ease;
+        touch-action: none;
       `
     });
 
@@ -63,15 +63,21 @@ document.addEventListener("click", e => {
 
     requestAnimationFrame(() => overlay.style.opacity = "1");
 
-    // Schließen
+    // Schließen-Logik
     const closeOverlay = () => {
       overlay.style.opacity = "0";
       setTimeout(() => overlay.remove(), 200);
       document.removeEventListener("keydown", keyHandler);
     };
 
+    // Auf Mobile/Desktop: Klick auf das Bild oder Overlay schließt es
+    zoomedImg.onclick = (ev) => {
+      ev.stopPropagation();
+      closeOverlay();
+    };
+
     overlay.onclick = (ev) => {
-      if (ev.target === overlay || ev.target === zoomedImg) closeOverlay();
+      if (ev.target === overlay) closeOverlay();
     };
     
     // Keyboard Steuerung
@@ -82,7 +88,7 @@ document.addEventListener("click", e => {
     };
     document.addEventListener("keydown", keyHandler);
 
-    // Klick-Zonen für Navigation (30% links/rechts)
+    // Klick-Zonen für Navigation (25% Breite für sichereres Schließen in der Mitte)
     const leftZone = document.createElement("div");
     const rightZone = document.createElement("div");
 
@@ -91,7 +97,7 @@ document.addEventListener("click", e => {
         position: "absolute",
         top: "0",
         bottom: "0",
-        width: "30%",
+        width: "25%",
         cursor: i === 0 ? "w-resize" : "e-resize",
         zIndex: "10005"
       });
@@ -112,7 +118,8 @@ document.addEventListener("click", e => {
 
     overlay.addEventListener("touchend", ev => {
       const diff = ev.changedTouches[0].clientX - startX;
-      if (Math.abs(diff) > 50) {
+      // Schwellenwert für Swipe (60px), um versehentliches Blättern zu vermeiden
+      if (Math.abs(diff) > 60) {
         showImage(diff > 0 ? index - 1 : index + 1);
       }
     }, {passive: true});
