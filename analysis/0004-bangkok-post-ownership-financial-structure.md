@@ -28,32 +28,32 @@ However, these statements omit structural dependencies and ownership dynamics th
 ## 3. Media Framing
 Coverage of political and economic issues often reflects:
 
-### a) Stability Framing  
+### *a) Stability Framing*
 Emphasis on continuity, order, and predictability — even during periods of political tension.
 
-### b) Responsibility Framing  
+### *b) Responsibility Framing*
 Responsibility for problems is often shifted toward:
 
 - external actors  
 - global economic conditions  
 - public misunderstanding  
 
-### c) De‑escalation Framing  
+### *c) De‑escalation Framing*
 Stories are softened to avoid confrontation with powerful stakeholders.
 
-### d) Business‑Friendly Framing  
+### *d) Business‑Friendly Framing*
 Economic reporting tends to align with investor and business interests.
 
 ## 4. Narrative Shift
 Over time, the Bangkok Post’s narrative has shifted from:
 
-### Phase 1 — Investigative  
+### *Phase 1 — Investigative*
 More critical reporting, broader range of sources, willingness to challenge official statements.
 
-### Phase 2 — Neutralization  
+### *Phase 2 — Neutralization*
 Reduction in investigative depth, more reliance on official press releases.
 
-### Phase 3 — Stabilization  
+### *Phase 3 — Stabilization*
 A consistent tone that avoids conflict, controversy, or structural critique.
 
 This shift correlates with financial pressure and ownership consolidation.
