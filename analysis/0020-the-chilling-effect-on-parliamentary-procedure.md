@@ -1,12 +1,6 @@
 ## 0020 – The Chilling Effect on Parliamentary Procedure  
 ### *How constitutional intervention reshapes the internal mechanics of legislative deliberation*
 
-[Home](/thainangtani-politics-observatory/)  
-[Analysis](/thainangtani-politics-observatory/analysis/)  
-[Timeline](/thainangtani-politics-observatory/timeline/)  
-[Methodology](/thainangtani-politics-observatory/methodology/)  
-[Archive](/thainangtani-politics-observatory/archive/)
-
 ---
 
 ## 1. Introduction: From External Oversight to Internal Self‑Regulation  
