@@ -1,12 +1,6 @@
 ## 0014 – Constitutional Mechanics I: The Analytical Framework (2024–2026)
 ### *How constitutional text becomes doctrine, doctrine becomes judgment, and judgment becomes political sanction*
 
-[Home](/thainangtani-politics-observatory/)  
-[Analysis](/thainangtani-politics-observatory/analysis/)  
-[Timeline](/thainangtani-politics-observatory/timeline/)  
-[Methodology](/thainangtani-politics-observatory/methodology/)  
-[Archive](/thainangtani-politics-observatory/archive/)
-
 ---
 
 Between 2024 and 2026, Thailand’s constitutional institutions produced a sequence of rulings and proceedings that transformed a legislative initiative (the 2021 proposal to amend Section 112) into a chain of political sanctions.  
