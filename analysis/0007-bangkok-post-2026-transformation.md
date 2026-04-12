@@ -1,5 +1,5 @@
-# 0007 – Bangkok Post: Structural and Political Context 2024–2026
-### How financial dependency, ownership networks, and governance architecture reshape the newspaper’s institutional role
+## 0007 – Bangkok Post: Structural and Political Context 2024–2026
+### *How financial dependency, ownership networks, and governance architecture reshape the newspaper’s institutional role*
 
 [Home](/thainangtani-politics-observatory/)  
 [Analysis](/thainangtani-politics-observatory/analysis/)  
@@ -9,30 +9,13 @@
 
 ---
 
-### How to read this post
-This observatory documents how Thai media construct narratives, frame political events, and sequence information.  
-Each entry follows a consistent analytical structure:
-
-- **Event Overview** – What happened  
-- **Official Communication** – What the government said and how  
-- **Media Framing** – How outlets shaped the story  
-- **Narrative Shift** – How the storyline evolved  
-- **Editorial Mechanics** – Selection, omission, emphasis, ordering  
-- **Public Sentiment** – How audiences reacted  
-- **Interpretation** – What the narrative structure reveals  
-
-This is not political advocacy.  
-It is an analysis of **communication patterns**, **framing choices**, and **narrative mechanics** in Thai media.
-
----
-
-# **Structural and Political Context: Why the Bangkok Post’s 2026 Transformation Is More Than a Financial Event**
+## 0. Structural and Political Context: Why the Bangkok Post’s 2026 Transformation Is More Than a Financial Event
 
 The Bangkok Post is not only undergoing a financial restructuring in 2026 — it is experiencing a deeper institutional and political realignment. The documents from 2024–2026 show that the transformation is not merely accounting‑driven, but rooted in ownership networks, governance architecture, and Thailand’s political power structure. This post outlines the financial, institutional, and political dimensions that explain the shift.
 
 ---
 
-## **1. A “healed” newspaper — but only on paper**
+## 1. A “healed” newspaper — but only on paper
 
 The Bangkok Post will appear financially restored in 2026, but not through operational recovery.  
 The turnaround is achieved through a **large‑scale balance‑sheet operation**:
@@ -53,7 +36,7 @@ It is **patronage financing**.
 
 ---
 
-## **2. The Central Group — the economic foundation behind the rescue**
+## 2. The Central Group — the economic foundation behind the rescue
 
 The Central family is one of the most powerful business dynasties in Thailand.  
 Their financial strength and political embeddedness explain why the Bangkok Post survives despite:
@@ -78,7 +61,7 @@ Thus:
 
 ---
 
-## **3. Wissanu Krea‑ngam — the institutional axis**
+## 3. Wissanu Krea‑ngam — the institutional axis
 
 Wissanu is the key to understanding the political dimension of the transformation.
 
@@ -108,7 +91,7 @@ protection for a financially dependent media organisation.”
 
 ---
 
-## **4. The Bhumjaithai connection — structural, not propagandistic**
+## 4. The Bhumjaithai connection — structural, not propagandistic
 
 The documents do not show political interference.  
 But they do show a **structural proximity** that emerges naturally from the ownership and governance architecture:
@@ -131,7 +114,7 @@ In Thailand’s media landscape, political embedding is a pattern, not an anomal
 
 ---
 
-## **5. Change in the comment system (from March 2026)**
+## 5. Change in the comment system (from March 2026)
 
 Between 2024 and early 2026, the Bangkok Post’s comment system functioned normally.  
 Users could submit comments, and moderation occurred after publication.  
@@ -157,7 +140,7 @@ The timing is notable, but the reason remains unknown.
 
 ---
 
-## **6. Conclusion: A strategic medium, not a market medium**
+## 6. Conclusion: A strategic medium, not a market medium
 
 2026 is not only the Bangkok Post’s 80th anniversary.  
 It is the moment when its identity is fundamentally redefined:
