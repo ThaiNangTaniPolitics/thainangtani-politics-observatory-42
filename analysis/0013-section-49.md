@@ -1,28 +1,11 @@
-# 0013 – Section 49: Constitutional Mechanics  
-### How a preventive clause became an intervention norm in Thailand’s constitutional order
+## 0013 – Section 49: Constitutional Mechanics  
+### *How a preventive clause became an intervention norm in Thailand’s constitutional order*
 
 [Home](/thainangtani-politics-observatory/)  
 [Analysis](/thainangtani-politics-observatory/analysis/)  
 [Timeline](/thainangtani-politics-observatory/timeline/)  
 [Methodology](/thainangtani-politics-observatory/methodology/)  
 [Archive](/thainangtani-politics-observatory/archive/)
-
----
-
-### How to read this post
-This Observatory chapter analyzes how Section 49 of the 2017 Constitution functions in practice.  
-It follows the standard analytical structure:
-
-- **Event Overview** – What Section 49 says and how it is used  
-- **Official Communication** – How institutions justify its application  
-- **Media Framing** – How the press presents Section 49 cases  
-- **Narrative Shift** – How interpretation has expanded over time  
-- **Editorial Mechanics** – What is emphasized, omitted, or reframed  
-- **Public Sentiment** – How audiences perceive Section 49  
-- **Interpretation** – What the structural effects reveal  
-
-This is not political advocacy.  
-It is an analysis of **constitutional mechanics**, **interpretive expansion**, and **institutional sequencing**.
 
 ---
 
@@ -38,15 +21,15 @@ It is an analysis of **constitutional mechanics**, **interpretive expansion**, a
 
 ---
 
-# **1. Event Overview: What Section 49 Does**
+## 1. Event Overview: What Section 49 Does
 
-## Section 49 – Constitutional Protection of the Democratic Regime with the King as Head of State  
+### *Section 49 – Constitutional Protection of the Democratic Regime with the King as Head of State*
 *(Paraphrased wording, structured, legally analyzed)*
 
 Section 49 establishes a constitutional duty for all persons to refrain from exercising their rights or liberties in a manner that undermines the democratic regime with the King as Head of State.  
 It also empowers the Attorney General to petition the Constitutional Court when such actions are alleged.
 
-### **1. Structure of the Article**
+### *1. Structure of the Article*
 Section 49 consists of two functional components:
 
 1. **Prohibitive Clause**  
@@ -58,7 +41,7 @@ Section 49 consists of two functional components:
 
 ---
 
-# **2. Official Communication: How Institutions Frame Section 49**
+## 2. Official Communication: How Institutions Frame Section 49
 
 Official statements describe Section 49 as:
 
@@ -76,7 +59,7 @@ This framing positions Section 49 as a **constitutional shield**, not a punitive
 
 ---
 
-# **3. Media Framing: How Section 49 Is Presented**
+## 3. Media Framing: How Section 49 Is Presented
 
 Thai media — especially Bangkok Post, Thai PBS, Nation — typically present Section 49 cases in:
 
@@ -96,12 +79,12 @@ The **interpretive leap** — from text to doctrine — is rarely explained.
 
 ---
 
-# **4. Narrative Shift: How Interpretation Expanded**
+## 4. Narrative Shift: How Interpretation Expanded
 
-### **Original function**  
+### *Original function*  
 A preventive clause to stop actions that *directly* undermine the democratic regime.
 
-### **Expanded function (2024 rulings)**  
+### *Expanded function (2024 rulings)*  
 Section 49 now applies to:
 
 - **legislative initiatives**  
@@ -115,7 +98,7 @@ The Constitutional Court used Section 49 to determine that:
 - constituted an **exercise of political rights**  
 - that could be considered capable of “undermining” the democratic system with the King as Head of State.
 
-### **Resulting shift**  
+### *Resulting shift*  
 Section 49 becomes an **intervention norm**, not merely a protective clause.
 
 It now:
@@ -129,7 +112,7 @@ This is a doctrinal expansion.
 
 ---
 
-# **5. Editorial Mechanics: What Is Emphasized or Omitted**
+## 5. Editorial Mechanics: What Is Emphasized or Omitted
 
 Media coverage typically omits:
 
@@ -150,7 +133,7 @@ This creates a **procedural narrative** without constitutional context.
 
 ---
 
-# **6. Public Sentiment: How Section 49 Is Perceived**
+## 6. Public Sentiment: How Section 49 Is Perceived
 
 Public reactions (where visible) show:
 
@@ -164,9 +147,9 @@ Because comment sections on Section 112 and Constitutional Court cases are often
 
 ---
 
-# **7. Interpretation: Structural Consequences of Section 49**
+## 7. Interpretation: Structural Consequences of Section 49
 
-### **1. Preventive, not punitive**  
+### *1. Preventive, not punitive*  
 Section 49 is **not a criminal provision**.  
 It does **not** create:
 
@@ -179,21 +162,21 @@ Instead, it produces:
 - **constitutional sanctions**, defined by the Court  
 - **political consequences**, derived from interpretation  
 
-### **2. A constitutional ceiling on parliamentary debate**  
+### *2. A constitutional ceiling on parliamentary debate*  
 Section 49 now functions as a **material barrier** outside the legislative process.
 
-### **3. A preventive sanctioning regime**  
+### *3. A preventive sanctioning regime*  
 It activates **before** any law can be amended.
 
-### **4. A filter on democratic deliberation**  
+### *4. A filter on democratic deliberation*  
 Section 49 determines which topics may be democratically debated at all.
 
-### **5. Institutional asymmetry**  
+### *5. Institutional asymmetry*  
 Because the Constitutional Court’s decisions are final, Section 49 grants the Court **unreviewable discretion**.
 
 ---
 
-# **8. Conclusion**
+## 8. Conclusion
 
 Section 49 has evolved from a protective clause into a **constitutional intervention mechanism**.  
 Its preventive nature, open wording, and institutional finality give it a structural role far beyond its original text.
