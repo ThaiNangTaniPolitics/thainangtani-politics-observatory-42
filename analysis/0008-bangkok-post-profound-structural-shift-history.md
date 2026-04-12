@@ -1,5 +1,5 @@
-# 0008 – Bangkok Post: The 2026 Structural Transformation
-### How ownership concentration and financial restructuring redefine the newspaper’s institutional identity
+## 0008 – Bangkok Post: The 2026 Structural Transformation
+### *How ownership concentration and financial restructuring redefine the newspaper’s institutional identity*
 
 [Home](/thainangtani-politics-observatory/)  
 [Analysis](/thainangtani-politics-observatory/analysis/)  
@@ -9,24 +9,7 @@
 
 ---
 
-### How to read this post
-This observatory documents how Thai media construct narratives, frame political events, and sequence information.  
-Each entry follows a consistent analytical structure:
-
-- **Event Overview** – What happened  
-- **Official Communication** – What the government said and how  
-- **Media Framing** – How outlets shaped the story  
-- **Narrative Shift** – How the storyline evolved  
-- **Editorial Mechanics** – Selection, omission, emphasis, ordering  
-- **Public Sentiment** – How audiences reacted  
-- **Interpretation** – What the narrative structure reveals  
-
-This is not political advocacy.  
-It is an analysis of **communication patterns**, **framing choices**, and **narrative mechanics** in Thai media.
-
----
-
-# **2026: The Most Profound Structural Shift in the Bangkok Post’s 80‑Year History**
+# 2026: The Most Profound Structural Shift in the Bangkok Post’s 80‑Year History
 
 As the Bangkok Post approaches its 80th anniversary on **1 August 2026**, the newspaper is undergoing the most significant structural transformation since its founding in 1946. This shift is not editorial, political, or cultural. It is **financial and governance‑driven** — and it will redefine the identity, autonomy, and institutional role of Thailand’s oldest English‑language newspaper.
 
@@ -48,7 +31,7 @@ Between 2019 and 2024, this model collapsed under the weight of:
 
 The delisting from the Stock Exchange of Thailand in July 2024 marked the end of the newspaper’s public‑company era.
 
-## **2025: The First Debt‑to‑Equity Conversion**
+## 2025: The First Debt‑to‑Equity Conversion
 
 At the 2025 AGM, the company executed a major recapitalisation:  
 - 596 million new shares issued to Executive Chairman **Suthikiati Chirathivat**  
@@ -61,7 +44,7 @@ This shifted ownership to:
 
 For the first time in its history, the Bangkok Post gained a **clear controlling shareholder**.
 
-## **2026: The Second Conversion and the Point of No Return**
+## 2026: The Second Conversion and the Point of No Return
 
 In early 2026, the Board approved a second debt‑to‑equity conversion project.  
 This step is expected to convert a portion of the remaining **301.9 million baht** in director loans into new shares.
@@ -73,7 +56,7 @@ If even half of these loans convert, the ownership structure will shift to:
 
 This would make the Bangkok Post a **hyper‑concentrated, privately dominated media organisation** — structurally dependent on a single patron.
 
-## **Why This Is Historically Significant**
+## Why This Is Historically Significant
 
 The Bangkok Post has survived coups, censorship, political pressure, and economic cycles.  
 But it has never experienced a transformation as deep as this one:
@@ -87,9 +70,9 @@ But it has never experienced a transformation as deep as this one:
 This is not a temporary fluctuation.  
 It is a **permanent change in the newspaper’s identity and governance model**.
 
-## **What Comes Next (2026–2027)**
+## What Comes Next (2026–2027)
 
-### **Financial Report 2025 (expected March–April 2026)**  
+### Financial Report 2025 (expected March–April 2026)
 This report will reveal:  
 - final director loan balances  
 - consolidated equity  
@@ -98,7 +81,7 @@ This report will reveal:
 
 These numbers will determine the scale of the 2026 recapitalisation.
 
-### **Board/Shareholder Meeting (expected April 2026)**  
+### Board/Shareholder Meeting (expected April 2026)
 This meeting will likely:  
 - approve the second conversion  
 - establish the final ownership structure  
@@ -107,7 +90,7 @@ This meeting will likely:
 
 This will be the moment when the structural shift becomes official.
 
-## **Conclusion**
+## Conclusion
 
 **2026 marks not only the 80th anniversary of the Bangkok Post —  
 it marks the end of its era as a semi‑public institution and the beginning of its life as a privately dominated media asset under a single controlling patron.**
