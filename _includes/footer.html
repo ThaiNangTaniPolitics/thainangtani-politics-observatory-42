@@ -1,3 +1,8 @@
+<footer>
+    <p>&copy; 2026 ThaiNangTani Politics Observatory | Structural Diagnosis & Media Analysis</p>
+</footer>
+
+{% raw %}
 <script>
 document.addEventListener("click", e => {
   // Wir prüfen, ob auf ein Bild geklickt wurde, das NICHT im Footer selbst liegt
@@ -5,38 +10,44 @@ document.addEventListener("click", e => {
     e.preventDefault();
     e.stopPropagation();
 
-    // Alle Bilder der Seite sammeln (für Vor/Zurück)
+    // Alle relevanten Bilder sammeln (ohne Footer-Bilder)
     const images = [...document.querySelectorAll("img:not(footer img)")];
     let index = images.indexOf(e.target);
 
-    // Erstelle ein komplett frisches Bild-Objekt ohne CSS-Altlasten
+    // Frisches Bild-Objekt
     const zoomedImg = new Image();
     
     // Funktion zum Bildwechsel
     function showImage(i) {
       index = (i + images.length) % images.length;
-      zoomedImg.src = images[index].src;
+      zoomedImg.style.opacity = "0"; // Kurzer Fade-Effekt beim Wechsel
+      setTimeout(() => {
+        zoomedImg.src = images[index].src;
+        zoomedImg.style.opacity = "1";
+      }, 100);
     }
 
     showImage(index);
 
-    // Hard-Styles für das Bild im Zoom
+    // Styles für das Zoom-Bild
     Object.assign(zoomedImg.style, {
       maxWidth: "95vw",
       maxHeight: "95vh",
       objectFit: "contain",
       borderRadius: "6px",
-      boxShadow: "0 0 30px rgba(0,0,0,0.7)",
-      transition: "transform 0.25s ease",
-      margin: "0"
+      boxShadow: "0 0 30px rgba(0,0,0,0.8)",
+      transition: "opacity 0.2s ease, transform 0.25s ease",
+      margin: "0",
+      position: "relative",
+      zIndex: "10002"
     });
 
-    // Das Overlay-Container
+    // Das Overlay
     const overlay = Object.assign(document.createElement("div"), {
       style: `
         position: fixed;
         top: 0; left: 0; right: 0; bottom: 0;
-        background: rgba(0,0,0,0.9);
+        background: rgba(0,0,0,0.95);
         display: flex;
         align-items: center;
         justify-content: center;
@@ -50,19 +61,20 @@ document.addEventListener("click", e => {
     overlay.appendChild(zoomedImg);
     document.body.appendChild(overlay);
 
-    // Animation starten
     requestAnimationFrame(() => overlay.style.opacity = "1");
 
-    // Schließen-Logik
+    // Schließen
     const closeOverlay = () => {
       overlay.style.opacity = "0";
       setTimeout(() => overlay.remove(), 200);
       document.removeEventListener("keydown", keyHandler);
     };
 
-    overlay.onclick = closeOverlay;
+    overlay.onclick = (ev) => {
+      if (ev.target === overlay || ev.target === zoomedImg) closeOverlay();
+    };
     
-    // ESC-Taste zum Schließen
+    // Keyboard Steuerung
     const keyHandler = ev => {
       if (ev.key === "Escape") closeOverlay();
       if (ev.key === "ArrowLeft") showImage(index - 1);
@@ -70,43 +82,41 @@ document.addEventListener("click", e => {
     };
     document.addEventListener("keydown", keyHandler);
 
-    // UNSICHTBARE KLICKFLÄCHEN LINKS/RECHTS
+    // Klick-Zonen für Navigation (30% links/rechts)
     const leftZone = document.createElement("div");
     const rightZone = document.createElement("div");
 
-    [leftZone, rightZone].forEach(zone => {
-      zone.style.position = "absolute";
-      zone.style.top = "0";
-      zone.style.bottom = "0";
-      zone.style.width = "40%";
-      zone.style.cursor = "pointer";
+    [leftZone, rightZone].forEach((zone, i) => {
+      Object.assign(zone.style, {
+        position: "absolute",
+        top: "0",
+        bottom: "0",
+        width: "30%",
+        cursor: i === 0 ? "w-resize" : "e-resize",
+        zIndex: "10005"
+      });
+      if (i === 0) zone.style.left = "0"; else zone.style.right = "0";
+      
+      zone.onclick = (ev) => {
+        ev.stopPropagation();
+        showImage(i === 0 ? index - 1 : index + 1);
+      };
+      overlay.appendChild(zone);
     });
 
-    leftZone.style.left = "0";
-    rightZone.style.right = "0";
-
-    leftZone.onclick = e => { e.stopPropagation(); showImage(index - 1); };
-    rightZone.onclick = e => { e.stopPropagation(); showImage(index + 1); };
-
-    overlay.appendChild(leftZone);
-    overlay.appendChild(rightZone);
-
-    // TOUCH-SWIPE FÜR HANDY
+    // Touch-Swipe für Mobile
     let startX = 0;
-
     overlay.addEventListener("touchstart", ev => {
       startX = ev.touches[0].clientX;
-    });
+    }, {passive: true});
 
     overlay.addEventListener("touchend", ev => {
-      const endX = ev.changedTouches[0].clientX;
-      const diff = endX - startX;
-
+      const diff = ev.changedTouches[0].clientX - startX;
       if (Math.abs(diff) > 50) {
-        if (diff > 0) showImage(index - 1); // rechts → links
-        else showImage(index + 1);          // links → rechts
+        showImage(diff > 0 ? index - 1 : index + 1);
       }
-    });
+    }, {passive: true});
   }
 });
 </script>
+{% endraw %}
