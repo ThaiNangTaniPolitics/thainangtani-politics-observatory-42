@@ -9,9 +9,8 @@ layout: null
     <title>{{ page.title }} | Observatory</title>
     
     <style>
-        /* Radikaler Minimalismus mit modern-sachlicher Typografie */
+        /* 1. GLOBALE STRUKTUR & TYPOGRAFIE */
         body {
-            /* Wechsel von Georgia zu einem klaren, technischen Schriftbild */
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
             font-size: 18px; 
             line-height: 1.6;
@@ -20,16 +19,14 @@ layout: null
             
             max-width: 1200px; 
             margin: 0 auto;
-            /* Padding oben von 60px auf 20px reduziert */
-            padding: 20px 5vw 60px 5vw; 
+            padding: 20px 5vw 60px 5vw; /* Reduzierter Abstand oben */
         }
 
-        /* Verhindert zu viel Leerraum vor der ersten Überschrift */
+        /* 2. ÜBERSCHRIFTEN & TEXTMARKER */
         h1:first-child {
             margin-top: 0.5em;
         }
 
-        /* Überschriften: Schlichte Marker im Text */
         h1, h2, h3 {
             color: #8a6d3b;
             margin-top: 1.5em;
@@ -38,7 +35,7 @@ layout: null
             padding-bottom: 8px;
         }
 
-        /* Bilder: Primärer Informationsträger */
+        /* 3. BILDER & FORENSIK-ZOOM */
         img {
             display: block;
             max-width: 100%;
@@ -48,7 +45,7 @@ layout: null
             border-radius: 4px;
         }
 
-        /* Die Galerie als funktionales Grid */
+        /* 4. GALERIE-SYSTEM (DUBLETTEN-FREI) */
         .gallery {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -70,7 +67,28 @@ layout: null
             margin: 0;
         }
 
-        /* Links: Minimaler Akzent */
+        /* 5. MOBILE TABELLEN-VERSICHERUNG */
+        table {
+            display: block;
+            width: 100%;
+            overflow-x: auto; /* Erlaubt horizontales Scrollen auf Handys */
+            border-collapse: collapse;
+            margin: 2em 0;
+            font-size: 0.9em;
+        }
+
+        th, td {
+            text-align: left;
+            padding: 12px;
+            border: 1px solid #eee;
+        }
+
+        th {
+            background-color: #f9f9f9;
+            color: #8a6d3b;
+        }
+
+        /* 6. NAVIGATION & FOOTER */
         a {
             color: #2a5d8f;
             text-decoration: underline;
