@@ -1,7 +1,4 @@
----
----
-
-# **0015 – Live Statements (2026): Actor Perceptions of Thailand’s Constitutional Mechanisms**  
+## 0015 – Live Statements (2026): Actor Perceptions of Thailand’s Constitutional Mechanisms  
 ### *Empirical confirmation of structural patterns in legislative oversight and constitutional intervention*
 
 [Home](/thainangtani-politics-observatory/)  
@@ -12,7 +9,7 @@
 
 ---
 
-## **1. Context: The April 2026 Proceedings**  
+## 1. Context: The April 2026 Proceedings  
 On 2 April 2026, *Bangkok Post* reported on the People’s Party’s (PP) response to the National Anti‑Corruption Commission’s (NACC) decision to petition the Supreme Court in the case involving 44 former MPs.  
 The case concerns a legislative proposal submitted in 2021 to amend Section 112 of the Criminal Code.
 
@@ -26,7 +23,7 @@ This development continues an institutional sequence observable since 2021.
 
 ---
 
-## **2. Live Statements by the People’s Party (BP, 2 April 2026)**  
+## 2. Live Statements by the People’s Party (BP, 2 April 2026)  
 The PP leadership articulated several points regarding the proceedings:
 
 - Submitting legislative amendments is a **core parliamentary function**.  
@@ -39,7 +36,7 @@ These statements provide insight into how political actors perceive the institut
 
 ---
 
-## **3. Analytical Perspective I: Ethics as a Non‑Material Constitutional Category**  
+## 3. Analytical Perspective I: Ethics as a Non‑Material Constitutional Category  
 In Thailand’s constitutional framework, “ethics” functions as an undefined, non‑material category detached from objective legal standards.  
 Without statutory criteria, it bypasses traditional legal thresholds and allows actions to be framed as violations without measurable norms.  
 This creates an asymmetry: oversight institutions exercise broad discretion, while elected officials face unpredictable interpretative exposure.
@@ -51,7 +48,7 @@ The PP’s statements reflect this structural condition: a routine legislative a
 
 ---
 
-## **4. Analytical Perspective II: Post‑Election Intervention as a Recurrent Pattern**  
+## 4. Analytical Perspective II: Post‑Election Intervention as a Recurrent Pattern  
 The 2023 and 2026 electoral cycles exhibit a recurring pattern of institutional intervention.  
 The removal of the 2023 election winner and the dissolution of a major party in 2024 illustrate how ethics‑based reasoning enables disqualifications and party dissolution in the absence of criminal convictions.
 
@@ -62,7 +59,7 @@ The April 2026 statements align with this pattern: the same legislative act from
 
 ---
 
-## **5. Analytical Perspective III: Chilling Effects on Legislative Behaviour**  
+## 5. Analytical Perspective III: Chilling Effects on Legislative Behaviour  
 The expansion of constitutional ethics review has induced a significant chilling effect on legislative behaviour.  
 MPs operate under the constant risk that policy debates may be reframed as ethical breaches, triggering suspension or investigation.  
 This shifts incentives toward risk aversion: legislators narrow their agendas and prioritise procedural caution over substantive engagement.
@@ -74,7 +71,7 @@ The PP’s concern that MPs may become afraid to perform their legislative dutie
 
 ---
 
-## **6. Significance of the Live Statements**  
+## 6. Significance of the Live Statements  
 The statements reported on 2 April 2026 are analytically significant because they:
 
 - illustrate how political actors interpret the institutional mechanisms affecting them,  
