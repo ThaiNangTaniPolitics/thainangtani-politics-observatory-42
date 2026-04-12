@@ -1,6 +1,4 @@
----
----
-# **0031 – Mass Organizations and Social Control**  
+## 0031 – Mass Organizations and Social Control
 ### *The Social Infrastructure of Thailand’s Internal Security State*
 
 [Home](/thainangtani-politics-observatory/)  
@@ -13,7 +11,7 @@ Mass organizations are a central component of ISOC’s architecture. They functi
 
 ---
 
-## **1. Village Scouts (Luksuea Chaoban)**
+## 1. Village Scouts (Luksuea Chaoban)
 
 The Village Scouts were created during the Cold War as a mass mobilization tool against communist influence. Their contemporary relevance lies in their structural legacy:
 
@@ -26,7 +24,7 @@ The Village Scouts serve as a template for later mass organizations and remain s
 
 ---
 
-## **2. Thai National Defence Volunteers (TNDV)**
+## 2. Thai National Defence Volunteers (TNDV)
 
 The TNDV represent a more operational form of mass mobilization. Their functions include:
 
@@ -39,9 +37,9 @@ Their integration into local governance structures makes them a key mechanism fo
 
 ---
 
-## **3. 007 Intelligence Networks**
+## 3. 007 Intelligence Networks
 
-The so‑called “007 networks” are informal intelligence channels composed of:
+The “007 networks” are informal intelligence channels composed of:
 
 - local leaders  
 - business owners  
@@ -59,18 +57,18 @@ Their informality makes them difficult to regulate and highly adaptable.
 
 ---
 
-## **4. Functional Role of Mass Organizations**
+## 4. Functional Role of Mass Organizations
 
 Mass organizations serve four primary functions within ISOC’s governance model:
 
-### **4.1 Surveillance**
+### 4.1 Surveillance
 They act as distributed sensors embedded in communities, enabling:
 
 - monitoring of dissent  
 - identification of political activity  
 - mapping of local networks  
 
-### **4.2 Mobilization**
+### 4.2 Mobilization
 They can be activated for:
 
 - demonstrations  
@@ -78,7 +76,7 @@ They can be activated for:
 - state‑sponsored events  
 - political signaling  
 
-### **4.3 Ideological Conditioning**
+### 4.3 Ideological Conditioning
 Members receive training that emphasizes:
 
 - national unity  
@@ -86,7 +84,7 @@ Members receive training that emphasizes:
 - security‑first thinking  
 - suspicion of dissent  
 
-### **4.4 Administrative Penetration**
+### 4.4 Administrative Penetration
 They provide ISOC with:
 
 - access to local decision‑makers  
@@ -95,7 +93,7 @@ They provide ISOC with:
 
 ---
 
-## **5. Why Mass Organizations Matter for Dual Governance**
+## 5. Why Mass Organizations Matter for Dual Governance
 
 Mass organizations allow ISOC to operate:
 
@@ -104,7 +102,9 @@ Mass organizations allow ISOC to operate:
 - within the social fabric  
 - through loyalty rather than legality  
 
-They constitute the **social layer** of Thailand’s dual governance system, enabling the security apparatus to shape political participation and community dynamics without deploying uniformed personnel.
+They constitute the social layer of Thailand’s dual governance system, enabling the security apparatus to shape political participation and community dynamics without deploying uniformed personnel.
+
+---
 
 <p align="center">
   <a href="../images/0031.jpg">
@@ -114,13 +114,15 @@ They constitute the **social layer** of Thailand’s dual governance system, ena
 
 <script>
 document.addEventListener("dblclick", e => {
-  if(e.target.tagName === "IMG") {
+  if (e.target.tagName === "IMG") {
     const img = e.target.cloneNode();
-    Object.assign(img.style, {maxWidth:"100vw", maxHeight:"100vh"});
+    Object.assign(img.style, { maxWidth: "100vw", maxHeight: "100vh" });
     const o = Object.assign(document.createElement("div"), {
-      style:"position:fixed;inset:0;background:#000c;display:flex;align-items:center;justify-content:center;cursor:zoom-out;z-index:9999"
+      style: "position:fixed;inset:0;background:#000c;display:flex;align-items:center;justify-content:center;cursor:zoom-out;z-index:9999"
     });
-    o.appendChild(img); o.onclick=()=>o.remove(); document.body.appendChild(o);
+    o.appendChild(img);
+    o.onclick = () => o.remove();
+    document.body.appendChild(o);
   }
 });
 </script>
