@@ -8,6 +8,9 @@
 [Timeline](/thainangtani-politics-observatory/timeline/)  
 [Methodology](/thainangtani-politics-observatory/methodology/)  
 [Archive](/thainangtani-politics-observatory/archive/)
+**← Previous:** [0008 – The Most Profound Structural Shift](0008-bangkok-post-profound-structural-shift-history.md)  
+**Next →** [0010 – The Buri‑Ramization of Defense](0010-buri‑ramization-of-defense.md)
+
 
 ---
 
