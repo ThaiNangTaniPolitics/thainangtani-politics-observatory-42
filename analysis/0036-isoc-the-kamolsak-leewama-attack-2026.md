@@ -1,6 +1,3 @@
----
----
-
 # **0036 – Case Study: The Kamolsak Leewama Attack (2026)**  
 ### *A Contemporary Example of Back‑End Security Operations*
 
@@ -29,7 +26,7 @@ His political profile placed him at the intersection of civilian reform efforts 
 
 ## **2. Operational Characteristics of the Attack**
 
-The attack displayed features consistent with coordinated security operations:
+Media reports suggested that certain features of the attack resembled coordinated operational patterns:
 
 - professional execution  
 - absence of opportunistic motives  
@@ -50,7 +47,7 @@ Available information indicates the involvement of:
 - access to intelligence about Kamolsak’s movements  
 - rapid suppression of local reporting  
 
-These elements suggest the use of **state‑adjacent capabilities**, even if not formally attributed to state institutions.
+Some reports and commentary suggested that certain elements of the incident resembled patterns previously associated with state‑adjacent resource use.
 
 ---
 
@@ -64,7 +61,7 @@ Following the attack, information flows were shaped by:
 - absence of high‑level political statements  
 - rapid de‑escalation of public discourse  
 
-This aligns with ISOC’s established pattern of narrative containment during politically sensitive events.
+Media reports suggested that local reporting was only partially possible during the initial phase.
 
 ---
 
@@ -106,6 +103,8 @@ The attack illustrates:
 
 It provides empirical grounding for the theoretical framework of an **infiltrated society** and confirms the relevance of Pawakapan’s analysis in the contemporary political landscape.
 
+---
+
 <p align="center">
   <a href="../images/0036.jpg">
     <img src="../images/0036.jpg" alt="0036" width="480">
@@ -120,8 +119,9 @@ document.addEventListener("dblclick", e => {
     const o = Object.assign(document.createElement("div"), {
       style:"position:fixed;inset:0;background:#000c;display:flex;align-items:center;justify-content:center;cursor:zoom-out;z-index:9999"
     });
-    o.appendChild(img); o.onclick=()=>o.remove(); document.body.appendChild(o);
+    o.appendChild(img); 
+    o.onclick=()=>o.remove(); 
+    document.body.appendChild(o);
   }
 });
 </script>
-
