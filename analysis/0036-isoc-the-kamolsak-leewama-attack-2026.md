@@ -105,3 +105,23 @@ The attack illustrates:
 - the vulnerability of reformist political actors  
 
 It provides empirical grounding for the theoretical framework of an **infiltrated society** and confirms the relevance of Pawakapan’s analysis in the contemporary political landscape.
+
+<p align="center">
+  <a href="../images/0036jpg">
+    <img src="../images/0036.jpg" alt="0036" width="480">
+  </a>
+</p>
+
+<script>
+document.addEventListener("dblclick", e => {
+  if(e.target.tagName === "IMG") {
+    const img = e.target.cloneNode();
+    Object.assign(img.style, {maxWidth:"100vw", maxHeight:"100vh"});
+    const o = Object.assign(document.createElement("div"), {
+      style:"position:fixed;inset:0;background:#000c;display:flex;align-items:center;justify-content:center;cursor:zoom-out;z-index:9999"
+    });
+    o.appendChild(img); o.onclick=()=>o.remove(); document.body.appendChild(o);
+  }
+});
+</script>
+
