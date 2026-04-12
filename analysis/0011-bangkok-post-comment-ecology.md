@@ -36,7 +36,7 @@ A dataset collected from 1 September 2024 to 9 March 2025 shows:
 - these 5 consistently expressed **conservative or right‑leaning, often provocative views**  
 - they received **poor reader ratings**, yet their comments remained visible  
 
-### Top 5 dominant voices (61.2% of all visible comments)
+### *Top 5 dominant voices (61.2% of all visible comments)*
 - lessimore — 150 comments (25.0%)  
 - keskeseksa — 114 comments (19.0%)  
 - Chris_Z — 36 comments (6.0%)  
@@ -49,7 +49,7 @@ These 600 comments represent only the **surviving remainder** of the original di
 
 ## 3. Moderation Patterns
 
-### a) Analytical comments are removed
+### *a) Analytical comments are removed*
 Comments that were:
 
 - nuanced  
@@ -59,7 +59,7 @@ Comments that were:
 
 were frequently deleted — often hours or days later.
 
-### b) Emotional comments remain
+### *b) Emotional comments remain*
 Comments that were:
 
 - aggressive  
@@ -81,7 +81,7 @@ This aligns with **editorial risk management**, not community moderation.
 
 ---
 
-### **d) Disproportionate Amplification: The Five Dominant Voices**
+### **d) Disproportionate Amplification: The Five Dominant Voices*
 
 The pattern documented in 2024/2025 is not new.  
 The *Postbag* section has shown the same structural imbalance for **many years**:  
@@ -101,7 +101,7 @@ These five users account for 61.2% of all comments that survived moderation.
 Their contributions are typically conservative in tone, often provocative or dismissive, and they remain visible even when other comments are removed.  
 They represent a small minority of the overall readership, but their visibility is disproportionately high due to selective moderation.
 
-### **Interpretation**
+### **Interpretation*
 This long‑standing pattern suggests:
 
 - **editorial tolerance** for high‑volume, polarizing voices  
@@ -114,7 +114,7 @@ but that **similar deletion behavior has recently expanded into the general edit
 
 ---
 
-### **e) Continuity of the Pattern (2024–2026)**
+### *e) Continuity of the Pattern (2024–2026)*
 
 While the internal mechanisms of moderation are unknown, the visible evidence shows a clear continuity:  
 the same pattern documented in 2024/2025 remains active in 2026.
@@ -132,7 +132,7 @@ a small cluster of users dominates the visible comment space across multiple yea
 
 ---
 
-### **f) Selective Visibility: Only Two Users Survive Moderation (Examples 2026)**
+### *f) Selective Visibility: Only Two Users Survive Moderation (Examples 2026)*
 
 Examples from March 2026 show the same pattern:
 
@@ -147,7 +147,7 @@ Their comments:
 - rely on provocation or sarcasm  
 - are consistently left visible  
 
-### **Interpretation**
+### *Interpretation*
 This creates the impression of coordinated activity, even without coordination.  
 Functionally, the effect is identical:
 
@@ -160,17 +160,17 @@ This selective visibility reinforces the dominance of the same small cluster doc
 
 ---
 
-## **4. Structural Omission in User Interaction**
+## 4. Structural Omission in User Interaction
 The Bangkok Post’s moderation does not only remove individual comments — it removes **types of comments**.
 
-### **What disappears**
+### *What disappears*
 - structural analysis  
 - political context  
 - institutional critique  
 - commentary on power networks  
 - fact-based counterarguments  
 
-### **What remains**
+### *What remains*
 - emotional noise  
 - ideologically charged provocation  
 - nationalist sentiment  
@@ -182,9 +182,9 @@ the removal of analytical voices creates a distorted public sphere.
 
 ---
 
-## **5. Editorial Mechanics**
+## 5. Editorial Mechanics
 
-### **a) Gatekeeping by editorial leadership**
+### *a) Gatekeeping by editorial leadership*
 The moderation patterns align with the responsibilities of:
 
 - **Soonruth Bunyamanee** – Editor  
@@ -201,7 +201,7 @@ The sudden increase in deletions in early 2026 suggests a **policy change**, not
 
 ---
 
-### **b) Emotional noise as a narrative shield**
+### *b) Emotional noise as a narrative shield*
 Allowing highly visible, provocative voices to dominate serves a function:
 
 - it creates a chaotic, unserious comment environment  
@@ -213,7 +213,7 @@ This is a form of **discursive insulation**.
 
 ---
 
-### **c) Disproportionate amplification**
+### *c) Disproportionate amplification*
 The dominance of 5 commentators creates:
 
 - an artificial ideological climate  
@@ -224,7 +224,7 @@ This is not organic — it is a result of **selective tolerance**.
 
 ---
 
-## **6. Public Sentiment**
+## 6. Public Sentiment
 Readers increasingly express:
 
 - frustration with deletions  
@@ -237,7 +237,7 @@ The comment ecology undermines trust in the platform.
 
 ---
 
-## **7. Documentation: Attempts to Engage the Editorial Team**
+## 7. Documentation: Attempts to Engage the Editorial Team
 
 Concerns about moderation patterns, statistical imbalances, and the visibility of a small group of conservative, often provocative commentators were formally communicated to the Bangkok Post.
 
@@ -255,7 +255,7 @@ This absence of engagement reinforces the interpretation that the moderation sys
 
 ---
 
-## **8. Interpretation**
+## 8. Interpretation
 The comment ecology of the Bangkok Post is not accidental.  
 It reflects:
 
@@ -278,12 +278,12 @@ It is a **communication regime**.
 
 ---
 
-## **9. Notes**
+## 9. Notes
 This analysis focuses on narrative and editorial mechanics, not on the political positions of individual commentators.
 
 ---
 
-## **10. Editorial Filtering of Postbag Letters**
+## 10. Editorial Filtering of Postbag Letters
 
 The distortion in the Postbag section does not begin with the comments.  
 It begins **before publication**, at the level of the letters themselves.
@@ -294,13 +294,13 @@ The Bangkok Post states:
 
 In practice, this discretionary editing has significant consequences:
 
-### **a) Selective publication**
+### *a) Selective publication*
 Not all submitted letters are published.  
 Over the past year, certain writers have had **all submitted letters withheld from publication**, regardless of topic or tone.
 
 This indicates a consistent filtering mechanism that excludes specific analytical voices entirely.
 
-### **b) Editorial alteration of published letters**
+### *b) Editorial alteration of published letters*
 Letters that do appear are often:
 
 - shortened  
@@ -312,11 +312,11 @@ Letters that do appear are often:
 
 In some cases, the meaning becomes **sinnentstellt** — the original argument is weakened or redirected.
 
-### **c) Lack of transparency**
+### *c) Lack of transparency*
 These edits are not marked or disclosed.  
 Readers cannot see what was removed or changed, nor which letters were rejected entirely.
 
-### **d) Combined effect: a double filter**
+### *d) Combined effect: a double filter*
 The Postbag section is shaped by two layers of editorial control:
 
 1. **Which letters are published and how they are edited**  
@@ -326,7 +326,7 @@ This double filter produces a curated, sanitised representation of public opinio
 
 ---
 
-## **11. The Postbag Archive as the Only Structured and Observable Comment Space**
+## 11. The Postbag Archive as the Only Structured and Observable Comment Space
 
 The Bangkok Post maintains an archive of article pages, and the associated comments are not deleted.  
 However, this archive is **not organised as a navigable system**:
@@ -344,7 +344,7 @@ It is therefore the only location where long‑term visibility patterns, comment
 
 ---
 
-## **12. Legal Risk Mitigation as a Parallel Mechanism**
+## 12. Legal Risk Mitigation as a Parallel Mechanism
 
 In the Thai legal environment, archived user comments can create significant risks for media outlets.  
 Certain laws — including those with broad or retrospective applicability — mean that comments which were harmless at the time of publication may later be interpreted differently or flagged by complainants.
