@@ -1,3 +1,6 @@
 # Minimal config to allow forced rebuilds
 force_rebuild: 58
 
+# Make sure Jekyll includes the images folder
+include:
+  - images
