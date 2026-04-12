@@ -79,8 +79,6 @@ A new pattern emerged:
 
 This aligns with **editorial risk management**, not community moderation.
 
----
-
 ### **d) Disproportionate Amplification: The Five Dominant Voices*
 
 The pattern documented in 2024/2025 is not new.  
@@ -112,8 +110,6 @@ This long‑standing pattern suggests:
 What is new is not the pattern itself —  
 but that **similar deletion behavior has recently expanded into the general editorial comment sections**, where such selective moderation had not been observed before.
 
----
-
 ### *e) Continuity of the Pattern (2024–2026)*
 
 While the internal mechanisms of moderation are unknown, the visible evidence shows a clear continuity:  
@@ -129,8 +125,6 @@ Across both periods:
 This does not prove coordination.  
 But the **functional effect** is the same:  
 a small cluster of users dominates the visible comment space across multiple years, while broader participation is filtered out.
-
----
 
 ### *f) Selective Visibility: Only Two Users Survive Moderation (Examples 2026)*
 
@@ -199,8 +193,6 @@ A shift in their moderation policy would immediately affect:
 
 The sudden increase in deletions in early 2026 suggests a **policy change**, not a technical issue.
 
----
-
 ### *b) Emotional noise as a narrative shield*
 Allowing highly visible, provocative voices to dominate serves a function:
 
@@ -210,8 +202,6 @@ Allowing highly visible, provocative voices to dominate serves a function:
 - it makes the readership appear more polarized than it is  
 
 This is a form of **discursive insulation**.
-
----
 
 ### *c) Disproportionate amplification*
 The dominance of 5 commentators creates:
