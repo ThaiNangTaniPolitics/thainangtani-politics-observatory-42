@@ -1,4 +1,4 @@
-# **0009 – Visa Narrative Paradox: Thailand as “Safe Haven” vs. “Infiltration”**  
+# 0009 – Visa Narrative Paradox: Thailand as “Safe Haven” vs. “Infiltration”  
 ### *How media framing transforms a tourism policy reversal into a security narrative*
 
 [Home](/thainangtani-politics-observatory/)  
