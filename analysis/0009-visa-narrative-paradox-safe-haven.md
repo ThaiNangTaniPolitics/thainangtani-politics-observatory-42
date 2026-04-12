@@ -1,8 +1,7 @@
-## [Home](/thainangtani-politics-observatory/) • [Analysis](/thainangtani-politics-observatory/analysis/) • [Timeline](/thainangtani-politics-observatory/timeline/) • [Methodology](/thainangtani-politics-observatory/methodology/) • [Archive](/thainangtani-politics-observatory/archive/) • [Previous](0008-bangkok-post-profound-structural-shift-history.md) • [Next](0010-buri‑ramization-of-defense.md)
+### [Home](/thainangtani-politics-observatory/) • [Analysis](/thainangtani-politics-observatory/analysis/) • [Timeline](/thainangtani-politics-observatory/timeline/) • [Methodology](/thainangtani-politics-observatory/methodology/) • [Archive](/thainangtani-politics-observatory/archive/) • [Previous](0008-bangkok-post-profound-structural-shift-history.md) • [Next](0010-buri‑ramization-of-defense.md)
 
 # **0009 – Visa Narrative Paradox: Thailand as “Safe Haven” vs. “Infiltration”**  
 ### *How media framing transforms a tourism policy reversal into a security narrative*
----
 
 ## **How to read this post**
 This observatory documents how Thai media construct narratives, frame political events, and sequence information.  
