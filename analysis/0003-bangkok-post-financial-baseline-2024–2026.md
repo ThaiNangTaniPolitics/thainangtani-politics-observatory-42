@@ -9,29 +9,12 @@
 
 ---
 
-### How to read this post
-This observatory documents how Thai media construct narratives, frame political events, and sequence information.  
-Each entry follows a consistent analytical structure:
-
-- **Event Overview** – What happened  
-- **Official Communication** – What the government said and how  
-- **Media Framing** – How outlets shaped the story  
-- **Narrative Shift** – How the storyline evolved  
-- **Editorial Mechanics** – Selection, omission, emphasis, ordering  
-- **Public Sentiment** – How audiences reacted  
-- **Interpretation** – What the narrative structure reveals  
-
-This is not political advocacy.  
-It is an analysis of **communication patterns**, **framing choices**, and **narrative mechanics** in Thai media.
-
----
-
 **Purpose**  
 This entry establishes a factual baseline of the financial and structural condition of *Bangkok Post Public Company Limited* between 2024 and early 2026. All information is derived from the company’s own documents: the 2024 audited financial statements, the 2025 AGM Minutes, and the Board Resolution of February 2026.
 
 ---
 
-## **1. Going‑Concern Warning (Financial Statement 2024)**  
+## 1. Going‑Concern Warning (Financial Statement 2024) 
 The independent auditor issued a formal material‑uncertainty warning:
 
 > “the shareholders’ equity is below zero… the event or such situation is still significantly uncertain which may cause doubt on the ability to operate as a going concern.”
