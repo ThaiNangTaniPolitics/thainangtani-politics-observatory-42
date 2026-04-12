@@ -24,8 +24,9 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**Governance convergence vs. institutional escalation: Constraints on Thailand’s OECD accession trajectory**  
-0042-thailand-oecd-accession-as-a-governance-benchmark.md
+**Case Study · Discourse Analysis · Narrative Comparison · Structural Analysis**  
+0043 – Control and Fear Inside the Clergy in Thailand
+
 
 ## 📚 About the Observatory
 
