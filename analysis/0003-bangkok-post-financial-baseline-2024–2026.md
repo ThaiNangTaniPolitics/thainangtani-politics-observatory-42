@@ -1,4 +1,4 @@
-# 0003 - **Bangkok Post: Financial Baseline 2024–2026**
+## 0003 - **Bangkok Post: Financial Baseline 2024–2026**
 ### *Structural insolvency, emergency financing, and the collapse of public-company status*
 
 [Home](/thainangtani-politics-observatory/)
@@ -23,7 +23,7 @@ This is the strongest warning short of declaring insolvency.
 
 ---
 
-## **2. Balance‑Sheet Insolvency**  
+## 2. Balance‑Sheet Insolvency
 The 2024 financial statements show:
 
 - **–444,242,863 Baht** (consolidated)  
@@ -33,7 +33,7 @@ Losses increased from **–57.7m (2023)** to **–89.0m (2024)**.
 
 ---
 
-## **3. Liquidity Crisis**  
+## 3. Liquidity Crisis
 Cash on hand at year‑end 2024:
 
 - **3.66m Baht** (consolidated)  
@@ -43,7 +43,7 @@ This is extremely low for a national media organisation.
 
 ---
 
-## **4. Dependence on Director Financing**  
+## 4. Dependence on Director Financing
 Short‑term loans from directors:
 
 > “301,900,000 Baht”
@@ -52,7 +52,7 @@ This indicates emergency internal financing.
 
 ---
 
-## **5. Delisting from the Stock Exchange of Thailand**  
+## 5. Delisting from the Stock Exchange of Thailand
 The auditor notes:
 
 > “SET delists the securities… effective from July 26, 2024.”
@@ -61,7 +61,7 @@ The company lost access to public capital markets.
 
 ---
 
-## **6. Debt‑to‑Equity Conversion (AGM 2025)**  
+## 6. Debt‑to‑Equity Conversion (AGM 2025)
 The AGM approved a major recapitalisation:
 
 > “369 million baht… 298 million baht belonged to Mr. Suthikiati Chirathivat and 71 million baht to Bangkok Bank.”
@@ -78,7 +78,7 @@ The company becomes de facto privately controlled.
 
 ---
 
-## **7. Second Recapitalisation (Board Resolution 2026)**  
+## 7. Second Recapitalisation (Board Resolution 2026)
 The Board Resolution states:
 
 > “Approve the cancellation of the resolution approving the debt‑to‑equity conversion… Approve the debt‑to‑equity conversion project.”
@@ -87,7 +87,7 @@ This indicates the 2025 rescue was insufficient and must be repeated.
 
 ---
 
-## **8. Operational Symptoms**  
+## 8. Operational Symptoms
 The financial condition aligns with observable issues:
 
 - reduced staffing  
@@ -97,7 +97,7 @@ The financial condition aligns with observable issues:
 
 ---
 
-## **9. Implications for Narrative Analysis**  
+## 9. Implications for Narrative Analysis
 The structural conditions imply:
 
 - high dependency on majority shareholders  
