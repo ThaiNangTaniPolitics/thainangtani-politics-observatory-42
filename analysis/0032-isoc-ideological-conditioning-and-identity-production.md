@@ -1,7 +1,4 @@
-
----
----
-# **0032 – Ideological Conditioning and Identity Production** 
+## 0032 – Ideological Conditioning and Identity Production
 ### *How ISOC Shapes Political Identity and Normalizes Security Logic*
 
 [Home](/thainangtani-politics-observatory/)  
@@ -14,7 +11,7 @@ Ideological conditioning is a core function of Thailand’s internal security ar
 
 ---
 
-## **1. National Security as Identity Framework**
+## 1. National Security as Identity Framework
 
 ISOC promotes a worldview in which:
 
@@ -27,7 +24,7 @@ This framework is reproduced through state messaging, community programs, and ma
 
 ---
 
-## **2. Civic Education and Loyalty Training**
+## 2. Civic Education and Loyalty Training
 
 ISOC conducts structured ideological programs that include:
 
@@ -41,7 +38,7 @@ These programs normalize the idea that political participation must align with s
 
 ---
 
-## **3. Media Messaging and Information Operations (IO)**
+## 3. Media Messaging and Information Operations (IO)
 
 ISOC operates extensive media and communication channels, including:
 
@@ -50,7 +47,7 @@ ISOC operates extensive media and communication channels, including:
 - psychological operations units  
 - narrative framing during political crises  
 
-Information Operations (IO) focus on:
+Information Operations focus on:
 
 - delegitimizing reform movements  
 - amplifying pro‑state narratives  
@@ -59,7 +56,7 @@ Information Operations (IO) focus on:
 
 ---
 
-## **4. Rituals, Symbols, and Emotional Mobilization**
+## 4. Rituals, Symbols, and Emotional Mobilization
 
 Identity production is reinforced through:
 
@@ -73,7 +70,7 @@ These rituals create emotional attachment to the state’s ideological framework
 
 ---
 
-## **5. Embedding Ideology in Local Governance**
+## 5. Embedding Ideology in Local Governance
 
 ISOC integrates ideological conditioning into local administration by:
 
@@ -86,16 +83,18 @@ This ensures that ideological alignment is tied to access to resources and admin
 
 ---
 
-## **6. The Function of Ideological Conditioning in Dual Governance**
+## 6. The Function of Ideological Conditioning in Dual Governance
 
 Ideological conditioning serves several systemic purposes:
 
-- **Legitimization:** It frames ISOC’s presence as natural and necessary.  
-- **Compliance:** It reduces resistance to security interventions.  
-- **Stability:** It aligns local elites with national security priorities.  
-- **Continuity:** It ensures that security logic persists across electoral cycles.  
+- **Legitimization:** frames ISOC’s presence as natural and necessary  
+- **Compliance:** reduces resistance to security interventions  
+- **Stability:** aligns local elites with national security priorities  
+- **Continuity:** ensures that security logic persists across electoral cycles  
 
 Through these mechanisms, ISOC embeds itself not only in institutions but in the political identity of segments of the population.
+
+---
 
 <p align="center">
   <a href="../images/0032_3.jpg">
@@ -105,13 +104,15 @@ Through these mechanisms, ISOC embeds itself not only in institutions but in the
 
 <script>
 document.addEventListener("dblclick", e => {
-  if(e.target.tagName === "IMG") {
+  if (e.target.tagName === "IMG") {
     const img = e.target.cloneNode();
-    Object.assign(img.style, {maxWidth:"100vw", maxHeight:"100vh"});
+    Object.assign(img.style, { maxWidth:"100vw", maxHeight:"100vh" });
     const o = Object.assign(document.createElement("div"), {
       style:"position:fixed;inset:0;background:#000c;display:flex;align-items:center;justify-content:center;cursor:zoom-out;z-index:9999"
     });
-    o.appendChild(img); o.onclick=()=>o.remove(); document.body.appendChild(o);
+    o.appendChild(img);
+    o.onclick = () => o.remove();
+    document.body.appendChild(o);
   }
 });
 </script>
