@@ -1,4 +1,4 @@
-# 0006 **Bangkok Post: Ownership Timeline (2019–2026)**  
+## 0006 - Bangkok Post: Ownership Timeline (2019–2026)
 ### *From dispersed shareholders → to single‑patron control (>70%)*
 
 [Home](/thainangtani-politics-observatory/)  
@@ -9,24 +9,7 @@
 
 ---
 
-### How to read this post
-This observatory documents how Thai media construct narratives, frame political events, and sequence information.  
-Each entry follows a consistent analytical structure:
-
-- **Event Overview** – What happened  
-- **Official Communication** – What the government said and how  
-- **Media Framing** – How outlets shaped the story  
-- **Narrative Shift** – How the storyline evolved  
-- **Editorial Mechanics** – Selection, omission, emphasis, ordering  
-- **Public Sentiment** – How audiences reacted  
-- **Interpretation** – What the narrative structure reveals  
-
-This is not political advocacy.  
-It is an analysis of **communication patterns**, **framing choices**, and **narrative mechanics** in Thai media.
-
----
-
-## **2019–2022 — Fragmented Ownership**
+## 2019–2022 — Fragmented Ownership
 
 **Ownership characteristics:**  
 - No dominant shareholder  
@@ -41,7 +24,7 @@ It is an analysis of **communication patterns**, **framing choices**, and **narr
 
 ---
 
-## **2023 — Early Stress Signals**
+## 2023 — Early Stress Signals
 
 **Ownership characteristics:**  
 - Still no controlling shareholder  
@@ -54,7 +37,7 @@ It is an analysis of **communication patterns**, **framing choices**, and **narr
 
 ---
 
-## **2024 — Pre‑Collapse Phase**
+## 2024 — Pre‑Collapse Phase
 
 **Ownership characteristics:**  
 - No majority owner  
@@ -72,7 +55,7 @@ It is an analysis of **communication patterns**, **framing choices**, and **narr
 
 ---
 
-## **2025 — Debt‑to‑Equity Conversion (AGM)**
+## 2025 — Debt‑to‑Equity Conversion (AGM)
 
 **New shares issued:**  
 - 596m shares → Suthikiati (298m Baht)  
@@ -89,7 +72,7 @@ It is an analysis of **communication patterns**, **framing choices**, and **narr
 
 ---
 
-## **2026 — Second Conversion Expected**
+## 2026 — Second Conversion Expected
 
 **Board Resolution (Feb 2026):**  
 “Approve the cancellation… Approve the debt‑to‑equity conversion project.”
@@ -111,7 +94,7 @@ If even half of the remaining 301.9m Baht loans convert:
 
 ---
 
-## **2026 Outlook — Hyper‑Concentrated Ownership**
+## 2026 Outlook — Hyper‑Concentrated Ownership
 
 **Ownership characteristics:**  
 - Suthikiati becomes de facto sole patron  
@@ -126,7 +109,7 @@ If even half of the remaining 301.9m Baht loans convert:
 
 ---
 
-## **Outlook: What Comes Next (2026–2027)**
+## Outlook: What Comes Next (2026–2027)
 
 **Financial Report 2025 (expected March–April 2026)**  
 The audited 2025 financial statements will provide the final numbers needed to assess the company’s solvency and capital requirements. Key indicators to watch:
@@ -152,7 +135,7 @@ This will be the decisive moment in which the long‑term ownership concentratio
 
 ---
 
-## **Key Individuals (Complete List)**
+## Key Individuals (Complete List)
 
 **Controlling Shareholder:**  
 - **Suthikiati Chirathivat** — Executive Chairman  
