@@ -1,12 +1,6 @@
 ## 0022 – The Feedback Loop: How Anticipation Reinforces Institutional Power  
 ### *A systems‑level analysis of recursive constitutional dynamics (2021–2026)*
 
-[Home](/thainangtani-politics-observatory/)  
-[Analysis](/thainangtani-politics-observatory/analysis/)  
-[Timeline](/thainangtani-politics-observatory/timeline/)  
-[Methodology](/thainangtani-politics-observatory/methodology/)  
-[Archive](/thainangtani-politics-observatory/archive/)
-
 ---
 
 ## 1. Introduction: From Linear Intervention to Recursive Dynamics  
