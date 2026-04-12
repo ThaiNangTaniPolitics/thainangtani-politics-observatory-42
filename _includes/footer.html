@@ -5,10 +5,21 @@ document.addEventListener("click", e => {
     e.preventDefault();
     e.stopPropagation();
 
+    // Alle Bilder der Seite sammeln (für Vor/Zurück)
+    const images = [...document.querySelectorAll("img:not(footer img)")];
+    let index = images.indexOf(e.target);
+
     // Erstelle ein komplett frisches Bild-Objekt ohne CSS-Altlasten
     const zoomedImg = new Image();
-    zoomedImg.src = e.target.src;
     
+    // Funktion zum Bildwechsel
+    function showImage(i) {
+      index = (i + images.length) % images.length;
+      zoomedImg.src = images[index].src;
+    }
+
+    showImage(index);
+
     // Hard-Styles für das Bild im Zoom
     Object.assign(zoomedImg.style, {
       maxWidth: "95vw",
@@ -17,7 +28,7 @@ document.addEventListener("click", e => {
       borderRadius: "6px",
       boxShadow: "0 0 30px rgba(0,0,0,0.7)",
       transition: "transform 0.25s ease",
-      margin: "0" // Expliziter Reset gegen die Layout-Margins
+      margin: "0"
     });
 
     // Das Overlay-Container
@@ -46,18 +57,56 @@ document.addEventListener("click", e => {
     const closeOverlay = () => {
       overlay.style.opacity = "0";
       setTimeout(() => overlay.remove(), 200);
+      document.removeEventListener("keydown", keyHandler);
     };
 
     overlay.onclick = closeOverlay;
     
     // ESC-Taste zum Schließen
-    const escHandler = ev => {
-      if (ev.key === "Escape") {
-        closeOverlay();
-        document.removeEventListener("keydown", escHandler);
-      }
+    const keyHandler = ev => {
+      if (ev.key === "Escape") closeOverlay();
+      if (ev.key === "ArrowLeft") showImage(index - 1);
+      if (ev.key === "ArrowRight") showImage(index + 1);
     };
-    document.addEventListener("keydown", escHandler);
+    document.addEventListener("keydown", keyHandler);
+
+    // UNSICHTBARE KLICKFLÄCHEN LINKS/RECHTS
+    const leftZone = document.createElement("div");
+    const rightZone = document.createElement("div");
+
+    [leftZone, rightZone].forEach(zone => {
+      zone.style.position = "absolute";
+      zone.style.top = "0";
+      zone.style.bottom = "0";
+      zone.style.width = "40%";
+      zone.style.cursor = "pointer";
+    });
+
+    leftZone.style.left = "0";
+    rightZone.style.right = "0";
+
+    leftZone.onclick = e => { e.stopPropagation(); showImage(index - 1); };
+    rightZone.onclick = e => { e.stopPropagation(); showImage(index + 1); };
+
+    overlay.appendChild(leftZone);
+    overlay.appendChild(rightZone);
+
+    // TOUCH-SWIPE FÜR HANDY
+    let startX = 0;
+
+    overlay.addEventListener("touchstart", ev => {
+      startX = ev.touches[0].clientX;
+    });
+
+    overlay.addEventListener("touchend", ev => {
+      const endX = ev.changedTouches[0].clientX;
+      const diff = endX - startX;
+
+      if (Math.abs(diff) > 50) {
+        if (diff > 0) showImage(index - 1); // rechts → links
+        else showImage(index + 1);          // links → rechts
+      }
+    });
   }
 });
 </script>
