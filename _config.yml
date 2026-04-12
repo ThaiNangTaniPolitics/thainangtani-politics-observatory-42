@@ -1,6 +1,6 @@
 title: Thai Nang Tani Politics Observatory
-markdown: kramdown
-theme: minima
+#markdown: kramdown
+#theme: minima
 
 # Force rebuild
 force_rebuild: 59
