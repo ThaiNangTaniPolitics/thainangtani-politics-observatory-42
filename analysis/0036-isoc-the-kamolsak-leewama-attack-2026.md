@@ -107,7 +107,7 @@ The attack illustrates:
 It provides empirical grounding for the theoretical framework of an **infiltrated society** and confirms the relevance of Pawakapan’s analysis in the contemporary political landscape.
 
 <p align="center">
-  <a href="../images/0036jpg">
+  <a href="../images/0036.jpg">
     <img src="../images/0036.jpg" alt="0036" width="480">
   </a>
 </p>
