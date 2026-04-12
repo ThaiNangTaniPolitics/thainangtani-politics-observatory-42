@@ -149,4 +149,4 @@ Understanding these mechanics allows for more accurate interpretation of politic
 ## 8. Notes
 This post describes structural patterns, not individual journalists or political positions.
 
-<img src="../images/0001.png" alt="0001" style="width: 480px; margin: auto;">
+<img src="../images/0001.webp" alt="0001" style="width: 480px; margin: auto;">

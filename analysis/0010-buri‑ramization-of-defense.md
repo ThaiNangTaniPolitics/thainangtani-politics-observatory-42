@@ -174,10 +174,6 @@ it is a **systemic feature** of Thailand’s political‑military architecture.
 ## 8. Notes
 This analysis focuses on narrative and editorial mechanics, not on policy evaluation.
 
-<p align="center">
-  <a href="../images/0010_2.png">
-    <img src="../images/0010_2.png" alt="0010_2" width="480">
-  </a>
-</p>
+<img src="../images/0010_2.webp" alt="0010_2" style="width: 480px; margin: auto;">
 
 

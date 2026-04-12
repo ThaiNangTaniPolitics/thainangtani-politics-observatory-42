@@ -115,8 +115,4 @@ Through automatic suspension, interpretive evidentiary standards, and irreversib
 
 The Terminal Node is not merely a court of law; it is the **endpoint of political viability**.
 
-<p align="center">
-  <a href="../images/0018.png">
-    <img src="../images/0018.png" alt="0018" width="480">
-  </a>
-</p>
+<img src="../images/0018.webp" alt="0018" style="width: 480px; margin: auto;">

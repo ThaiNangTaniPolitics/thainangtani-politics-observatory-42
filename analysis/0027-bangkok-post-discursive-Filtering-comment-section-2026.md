@@ -153,9 +153,5 @@ It is not a claim about censorship, but an observation of discursive shaping wit
 
 ---
 
-<p align="center">
-  <a href="../images/0027.jpg">
-    <img src="../images/0027.jpg" alt="0027" width="480">
-  </a>
-</p>
+<img src="../images/0027.webp" alt="0027" style="width: 480px; margin: auto;">
 

@@ -336,15 +336,7 @@ These remarks do not alter the substance of the policy statement itself, but the
 
 Coverage by other media outlets, such as the Thai Enquirer, presented the policy statement as a coherent and comprehensive national strategy built around five strategic pillars and 23 priority policies. This reporting emphasised the document’s breadth, its alignment with constitutional principles, and its narrative coherence in the face of global uncertainty. The contrast between this framing and the concerns raised in parliamentary debate illustrates the structural character of the policy statement: its high‑level architecture allows for both positive narrative interpretation and critical scrutiny, depending on the lens applied. This dual readability reinforces the analysis in this report that the document is broad, principle‑driven and administratively framed, with limited
 
-<p align="center">
-  <a href="../images/0040.jpg">
-    <img src="../images/0040.jpg" alt="0040" width="480">
-  </a>
-</p>
+<img src="../images/0040.webp" alt="0040" style="width: 480px; margin: auto;">
 
-<p align="center">
-  <a href="../images/0040_2.png">
-    <img src="../images/0040_2.png" alt="0040_2" width="480">
-  </a>
-</p>
+<img src="../images/0040_2.webp" alt="0040_2" style="width: 480px; margin: auto;">
 

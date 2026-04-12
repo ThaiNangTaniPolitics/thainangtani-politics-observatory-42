@@ -142,9 +142,5 @@ Their decisions cannot be tested against a legal standard, and therefore cannot 
 
 Ethics becomes a domain of absolute discretion.
 
-<p align="center">
-  <a href="../images/0014.png">
-    <img src="../images/0014.png" alt="0014" width="480">
-  </a>
-</p>
+<img src="../images/0014.webp" alt="0014" style="width: 480px; margin: auto;">
 

@@ -151,8 +151,4 @@ The underlying mechanism remains:
 
 ---
 
-<p align="center">
-  <a href="../images/0026.jpg">
-    <img src="../images/0026.jpg" alt="0026" width="480">
-  </a>
-</p>
+<img src="../images/0026.webp" alt="0026" style="width: 480px; margin: auto;">

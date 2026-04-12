@@ -163,9 +163,5 @@ The Energy Ministry’s move to require **daily stock reporting** confirms that 
 
 ---
 
-<p align="center">
-  <a href="../images/0025.jpg">
-    <img src="../images/0025.jpg" alt="0025" width="480">
-  </a>
-</p>
+<img src="../images/0025.webp" alt="0025" style="width: 480px; margin: auto;">
 

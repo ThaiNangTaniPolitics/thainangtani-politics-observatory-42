@@ -108,10 +108,6 @@ This system operates through **possibility**, not certainty;
 through **interpretation**, not prohibition;  
 through **anticipation**, not enforcement.
 
-<p align="center">
-  <a href="../images/0023.jpg">
-    <img src="../images/0023.jpg" alt="0023" width="480">
-  </a>
-</p>
+<img src="../images/0023.webp" alt="0023" style="width: 480px; margin: auto;">
 
 

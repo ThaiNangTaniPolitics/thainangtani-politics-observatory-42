@@ -143,9 +143,5 @@ Parliament remains formally autonomous, but its internal operations are shaped b
 This completes the analytical arc of Chapters 0012–0019:  
 from legislative initiative → to constitutional interpretation → to institutional sanction → to discursive filtering → to internal procedural transformation.
 
-<p align="center">
-  <a href="../images/0020.png">
-    <img src="../images/0020.png" alt="0020" width="480">
-  </a>
-</p>
+<img src="../images/0020.webp" alt="0020" style="width: 480px; margin: auto;">
 

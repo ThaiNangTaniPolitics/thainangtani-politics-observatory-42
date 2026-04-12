@@ -58,9 +58,5 @@ Each part is modular and can be read independently or as a complete analytical f
 
 ---
 
-<p align="center">
-  <a href="../images/0028.jpg">
-    <img src="../images/0028.jpg" alt="0028" width="480">
-  </a>
-</p>
+<img src="../images/0028.webp" alt="0028" style="width: 480px; margin: auto;">
 

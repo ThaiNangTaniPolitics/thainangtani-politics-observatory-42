@@ -381,9 +381,5 @@ With the new evidence, the visa narrative paradox becomes even clearer:
 Visa debates thus function as a **proxy arena** where deeper governance, economic, and social anxieties are negotiated through symbolic policy adjustments.
 
 
-<p align="center">
-  <a href="../images/0009.png">
-    <img src="../images/0009.png" alt="0009" width="480">
-  </a>
-</p>
+<img src="../images/0009.webp" alt="0009" style="width: 480px; margin: auto;">
 

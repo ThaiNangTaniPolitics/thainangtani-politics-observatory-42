@@ -119,9 +119,5 @@ This nexus ensures that the Back‑End remains intact regardless of electoral ou
 
 ---
 
-<p align="center">
-  <a href="../images/0035.jpg">
-    <img src="../images/0035.jpg" alt="0035" width="480">
-  </a>
-</p>
+<img src="../images/0035.webp" alt="0035" style="width: 480px; margin: auto;">
 

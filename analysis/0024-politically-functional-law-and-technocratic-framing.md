@@ -111,9 +111,5 @@ The result is a system in which political functionality persists but is narrativ
 
 ---
 
-<p align="center">
-  <a href="../images/0024.jpg">
-    <img src="../images/0024.jpg" alt="0024" width="480">
-  </a>
-</p>
+<img src="../images/0024.webp" alt="0024" style="width: 480px; margin: auto;">
 

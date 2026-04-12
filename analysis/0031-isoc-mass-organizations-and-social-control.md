@@ -100,8 +100,4 @@ They constitute the social layer of Thailand’s dual governance system, enablin
 
 ---
 
-<p align="center">
-  <a href="../images/0031.jpg">
-    <img src="../images/0031.jpg" alt="0031" width="480">
-  </a>
-</p>
+<img src="../images/0031.webp" alt="0031" style="width: 480px; margin: auto;">

@@ -185,8 +185,4 @@ It now functions as:
 
 Section 49 is therefore central to understanding Thailand’s constitutional mechanics between 2021 and 2026.
 
-<p align="center">
-  <a href="../images/0013.png">
-    <img src="../images/0013.png" alt="0013" width="480">
-  </a>
-</p>
+<img src="../images/0013.webp" alt="0013" style="width: 480px; margin: auto;">

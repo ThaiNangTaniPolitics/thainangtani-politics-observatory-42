@@ -145,14 +145,6 @@ When power reaches into education, thought, and speech, silence becomes a politi
 
 The case illustrates how institutional arrangements can shape not only behavior, but the very **conditions of thought** within a religious community.
 
-<p align="center">
-  <a href="../images/0043.jpg">
-    <img src="../images/0043.jpg" alt="0043" width="480">
-  </a>
-</p>
+<img src="../images/0043.webp" alt="0043" style="width: 480px; margin: auto;">
 
-<p align="center">
-  <a href="../images/0043_2.jpg">
-    <img src="../images/0043_2.jpg" alt="0043_2" width="480">
-  </a>
-</p>
+<img src="../images/0043_2.webp" alt="0043_2" style="width: 480px; margin: auto;">

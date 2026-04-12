@@ -151,9 +151,5 @@ This is the operational meaning of an **infiltrated society**.
 
 ---
 
-<p align="center">
-  <a href="../images/0037.jpg">
-    <img src="../images/0037.jpg" alt="0037" width="480">
-  </a>
-</p>
+<img src="../images/0037.webp" alt="0037" style="width: 480px; margin: auto;">
 

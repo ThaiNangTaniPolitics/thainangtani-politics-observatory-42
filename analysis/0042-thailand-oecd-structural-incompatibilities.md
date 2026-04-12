@@ -86,8 +86,4 @@ Accession processes rely on:
 
 When these conditions are under strain, the credibility and sequencing of external reform commitments become more complex.
 
-<p align="center">
-  <a href="../images/0042.jpg">
-    <img src="../images/0042.jpg" alt="0042" width="480">
-  </a>
-</p>
+<img src="../images/0042.webp" alt="0042" style="width: 480px; margin: auto;">

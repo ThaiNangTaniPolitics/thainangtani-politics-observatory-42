@@ -348,11 +348,7 @@ Instead, it **coexists** with them:
 Even if legal risk mitigation is a contributing factor, the **functional outcome** remains the same:  
 the only persistent comment archive becomes discursively narrowed, historically opaque, and analytically unusable.
 
-<p align="center">
-  <a href="../images/0011.png">
-    <img src="../images/0011.png" alt="0011" width="480">
-  </a>
-</p>
+<img src="../images/0011.webp" alt="0011" style="width: 480px; margin: auto;">
 
 <script>
 document.addEventListener("dblclick", e => {

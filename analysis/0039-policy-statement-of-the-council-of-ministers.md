@@ -220,9 +220,5 @@ A technical review would flag:
 
 ---
 
-<p align="center">
-  <a href="../images/0039.jpg">
-    <img src="../images/0039.jpg" alt="0039" width="480">
-  </a>
-</p>
+<img src="../images/0039.webp" alt="0039" style="width: 480px; margin: auto;">
 
