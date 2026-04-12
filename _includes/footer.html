@@ -4,23 +4,34 @@
 
 {% raw %}
 <script>
+// --- STICKY NAVIGATION LOGIC ---
+const nav = document.querySelector('nav') || document.querySelector('.navigation');
+if (nav) {
+  Object.assign(nav.style, {
+    position: 'sticky',
+    top: '0',
+    zIndex: '9999',
+    backgroundColor: window.getComputedStyle(document.body).backgroundColor || '#ffffff',
+    borderBottom: '1px solid #eaeaea'
+  });
+}
+
+// --- IMAGE ZOOM & GALLERY LOGIC ---
 document.addEventListener("click", e => {
-  // Wir prüfen, ob auf ein Bild geklickt wurde, das NICHT im Footer selbst liegt
-  if (e.target.tagName === "IMG" && !e.target.closest("footer")) {
+  // Findet das Bild, auch wenn es in einem Link verschachtelt ist
+  const targetImg = e.target.closest("img");
+  
+  if (targetImg && !targetImg.closest("footer")) {
     e.preventDefault();
     e.stopPropagation();
 
-    // Alle relevanten Bilder sammeln (ohne Footer-Bilder)
     const images = [...document.querySelectorAll("img:not(footer img)")];
-    let index = images.indexOf(e.target);
-
-    // Frisches Bild-Objekt
+    let index = images.indexOf(targetImg);
     const zoomedImg = new Image();
     
-    // Funktion zum Bildwechsel
     function showImage(i) {
       index = (i + images.length) % images.length;
-      zoomedImg.style.opacity = "0"; // Kurzer Fade-Effekt beim Wechsel
+      zoomedImg.style.opacity = "0";
       setTimeout(() => {
         zoomedImg.src = images[index].src;
         zoomedImg.style.opacity = "1";
@@ -29,48 +40,29 @@ document.addEventListener("click", e => {
 
     showImage(index);
 
-    // Styles für das Zoom-Bild
     Object.assign(zoomedImg.style, {
-      maxWidth: "95vw",
-      maxHeight: "95vh",
-      objectFit: "contain",
-      borderRadius: "6px",
-      boxShadow: "0 0 30px rgba(0,0,0,0.8)",
-      transition: "opacity 0.2s ease, transform 0.25s ease",
-      margin: "0",
-      position: "relative",
-      zIndex: "10002"
+      maxWidth: "95vw", maxHeight: "95vh", objectFit: "contain",
+      borderRadius: "6px", boxShadow: "0 0 30px rgba(0,0,0,0.8)",
+      transition: "opacity 0.2s ease", position: "relative", zIndex: "10002"
     });
 
-    // Das Overlay
     const overlay = Object.assign(document.createElement("div"), {
-      style: `
-        position: fixed;
-        top: 0; left: 0; right: 0; bottom: 0;
-        background: rgba(0,0,0,0.95);
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        z-index: 10000;
-        opacity: 0;
-        transition: opacity 0.2s ease;
-        touch-action: none;
-      `
+      style: `position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+              background: rgba(0,0,0,0.95); display: flex; align-items: center;
+              justify-content: center; z-index: 10000; opacity: 0;
+              transition: opacity 0.2s ease; touch-action: none;`
     });
 
     overlay.appendChild(zoomedImg);
     document.body.appendChild(overlay);
-
     requestAnimationFrame(() => overlay.style.opacity = "1");
 
-    // Schließen-Logik
     const closeOverlay = () => {
       overlay.style.opacity = "0";
       setTimeout(() => overlay.remove(), 200);
       document.removeEventListener("keydown", keyHandler);
     };
 
-    // Auf Mobile/Desktop: Klick auf das Bild oder Overlay schließt es
     zoomedImg.onclick = (ev) => {
       ev.stopPropagation();
       closeOverlay();
@@ -80,7 +72,6 @@ document.addEventListener("click", e => {
       if (ev.target === overlay) closeOverlay();
     };
     
-    // Keyboard Steuerung
     const keyHandler = ev => {
       if (ev.key === "Escape") closeOverlay();
       if (ev.key === "ArrowLeft") showImage(index - 1);
@@ -88,18 +79,13 @@ document.addEventListener("click", e => {
     };
     document.addEventListener("keydown", keyHandler);
 
-    // Klick-Zonen für Navigation (25% Breite für sichereres Schließen in der Mitte)
     const leftZone = document.createElement("div");
     const rightZone = document.createElement("div");
 
     [leftZone, rightZone].forEach((zone, i) => {
       Object.assign(zone.style, {
-        position: "absolute",
-        top: "0",
-        bottom: "0",
-        width: "25%",
-        cursor: i === 0 ? "w-resize" : "e-resize",
-        zIndex: "10005"
+        position: "absolute", top: "0", bottom: "0", width: "25%",
+        cursor: i === 0 ? "w-resize" : "e-resize", zIndex: "10005"
       });
       if (i === 0) zone.style.left = "0"; else zone.style.right = "0";
       
@@ -110,7 +96,6 @@ document.addEventListener("click", e => {
       overlay.appendChild(zone);
     });
 
-    // Touch-Swipe für Mobile
     let startX = 0;
     overlay.addEventListener("touchstart", ev => {
       startX = ev.touches[0].clientX;
@@ -118,7 +103,6 @@ document.addEventListener("click", e => {
 
     overlay.addEventListener("touchend", ev => {
       const diff = ev.changedTouches[0].clientX - startX;
-      // Schwellenwert für Swipe (60px), um versehentliches Blättern zu vermeiden
       if (Math.abs(diff) > 60) {
         showImage(diff > 0 ? index - 1 : index + 1);
       }
