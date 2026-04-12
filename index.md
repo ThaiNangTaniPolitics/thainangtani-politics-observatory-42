@@ -27,16 +27,3 @@ The goal is not advocacy, but **structured observation**.
 **Case Study · Discourse Analysis · Narrative Comparison · Structural Analysis**  
 0043 – Control and Fear Inside the Clergy in Thailand
 
-
-## 📚 About the Observatory
-
-This repository is designed as a long‑term analytical archive.  It tracks:
-
-- narrative shifts  
-- editorial mechanics  
-- institutional incentives  
-- ownership structures  
-- political communication patterns  
-
-All posts follow a consistent analytical structure to ensure comparability over time.
-
