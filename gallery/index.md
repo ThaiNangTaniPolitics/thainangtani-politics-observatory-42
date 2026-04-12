@@ -4,7 +4,6 @@ title: Image Gallery
 ---
 
 # Image Gallery
-A visual archive of Observatory images.
 
 <style>
 .gallery {
@@ -15,6 +14,7 @@ A visual archive of Observatory images.
 .gallery img {
   width: 100%;
   border-radius: 6px;
+  cursor: zoom-in;
 }
 </style>
 
@@ -25,4 +25,3 @@ A visual archive of Observatory images.
   {% endif %}
 {% endfor %}
 </div>
-
