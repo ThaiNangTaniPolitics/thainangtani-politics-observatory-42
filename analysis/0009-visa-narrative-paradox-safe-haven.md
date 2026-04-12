@@ -81,7 +81,7 @@ This paradox allows a purely administrative decision (visa reduction) to be refr
 
 ---
 
-## 4. Narrative Shift**
+## 4. Narrative Shift
 
 ### Phase 1 — Economic Optimism (2024)
 - 60‑day rule celebrated as a “game changer”  
