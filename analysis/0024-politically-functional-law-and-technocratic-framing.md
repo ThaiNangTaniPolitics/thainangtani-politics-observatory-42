@@ -1,12 +1,6 @@
 ## 0024 – System Map: Politically Functional Law & Technocratic Framing
 ### *A structural analysis of legal functionality, reform rhetoric, and symbolic discourse*
 
-[Home](/thainangtani-politics-observatory/)  
-[Analysis](/thainangtani-politics-observatory/analysis/)  
-[Timeline](/thainangtani-politics-observatory/timeline/)  
-[Methodology](/thainangtani-politics-observatory/methodology/)  
-[Archive](/thainangtani-politics-observatory/archive/)
-
 ---
 
 ## 1. Overview Diagram: The Dual Structure of Law and Narrative
