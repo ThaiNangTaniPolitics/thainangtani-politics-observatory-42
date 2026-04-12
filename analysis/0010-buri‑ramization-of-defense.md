@@ -1,5 +1,5 @@
-# 0010 – The Buri‑Ramization of Defense
-### How regional patronage networks reshape Thailand’s military leadership and security doctrine
+## 0010 – The Buri‑Ramization of Defense
+### *How regional patronage networks reshape Thailand’s military leadership and security doctrine*
 
 [Home](/thainangtani-politics-observatory/)  
 [Analysis](/thainangtani-politics-observatory/analysis/)  
@@ -9,24 +9,7 @@
 
 ---
 
-### How to read this post
-This observatory documents how Thai media construct narratives, frame political events, and sequence information.  
-Each entry follows a consistent analytical structure:
-
-- **Event Overview** – What happened  
-- **Official Communication** – What the government said and how  
-- **Media Framing** – How outlets shaped the story  
-- **Narrative Shift** – How the storyline evolved  
-- **Editorial Mechanics** – Selection, omission, emphasis, ordering  
-- **Public Sentiment** – How audiences reacted  
-- **Interpretation** – What the narrative structure reveals  
-
-This is not political advocacy.  
-It is an analysis of **communication patterns**, **framing choices**, and **narrative mechanics** in Thai media.
-
----
-
-# **1. Event Overview**
+# 1. Event Overview
 In early 2026, Prime Minister Anutin Charnvirakul appointed **Lt. Gen. Adul Boonthamcharoen** as Thailand’s new Minister of Defense.  
 Adul is the first defense minister in decades who:
 
@@ -42,7 +25,7 @@ The appointment triggered widespread commentary because it highlights the **Buri
 
 ---
 
-# **2. Official Communication**
+# 2. Official Communication
 Government messaging frames the appointment as:
 
 - “strategic”  
@@ -64,9 +47,9 @@ Absent from official communication:
 
 ---
 
-# **3. Media Framing**
+## 3. Media Framing
 
-## **a) Patronage as Competence**
+### a) Patronage as Competence
 Thai PBS World frames Adul’s appointment as a product of:
 
 - long‑standing ties to **Newin Chidchob**  
@@ -77,7 +60,7 @@ This reframes **patronage** as **qualification**.
 
 ---
 
-## **b) The Buri Ram Network as a Stabilizing Force**
+### b) The Buri Ram Network as a Stabilizing Force
 The article constructs a narrative in which:
 
 - regional loyalty  
@@ -91,7 +74,7 @@ This is a classic Thai media pattern:
 
 ---
 
-## **c) Border Conflict as Legitimizing Device**
+### c) Border Conflict as Legitimizing Device
 Adul’s role in the **2008–2011 Preah Vihear conflict** is highlighted to justify his appointment.
 
 This serves two functions:
@@ -101,12 +84,12 @@ This serves two functions:
 
 ---
 
-# **4. Narrative Shift**
+## 4. Narrative Shift
 
-### **Phase 1 — Reform Discourse (pre‑2025)**  
+### Phase 1 — Reform Discourse (pre‑2025)  
 Calls for modernization, cyber‑capability, and hybrid‑warfare readiness.
 
-### **Phase 2 — Nationalist Mobilization (2025)**  
+### Phase 2 — Nationalist Mobilization (2025)  
 Border clashes with Cambodia produce:
 
 - 43 dead soldiers  
@@ -115,7 +98,7 @@ Border clashes with Cambodia produce:
 
 Bhumjaithai capitalizes on the resulting nationalist mood.
 
-### **Phase 3 — Patronage Normalization (2026)**  
+### Phase 3 — Patronage Normalization (2026)  
 The appointment is framed as:
 
 - logical  
@@ -126,9 +109,9 @@ The underlying patronage structure disappears from the narrative.
 
 ---
 
-# **5. Editorial Mechanics**
+## 5. Editorial Mechanics
 
-## **a) Source Weighting**
+### a) Source Weighting
 Thai PBS relies heavily on:
 
 - unnamed military insiders  
@@ -139,7 +122,7 @@ This reinforces the legitimacy of the appointment.
 
 ---
 
-## **b) Omission**
+### b) Omission
 Notably absent:
 
 - any discussion of military reform  
@@ -151,7 +134,7 @@ The article avoids systemic critique.
 
 ---
 
-## **c) Chronological Compression**
+### c) Chronological Compression
 The narrative compresses:
 
 - decades of Buri Ram political dominance  
@@ -165,7 +148,7 @@ into a single coherent storyline:
 
 This masks the structural complexity.
 
-## **d) Structural Omission: The Silence Around Cohort-Based Promotions**
+### d) Structural Omission: The Silence Around Cohort-Based Promotions
 Thai PBS reframes Adul’s unusually low rank (Lieutenant General rather than full General) as “fresh leadership” and “operational experience.”  
 This framing obscures the fact that his appointment breaks long‑standing seniority norms within the Thai army in favor of a political‑regional network (Newin/Anutin).  
 
@@ -174,7 +157,7 @@ This silence is a form of structural omission that normalizes patronage as compe
 
 ---
 
-# **6. Public Sentiment**
+## 6. Public Sentiment
 While the article itself is neutral, public sentiment (across social media and forums) reflects:
 
 - skepticism toward patronage  
@@ -187,7 +170,7 @@ The public sees what the media does not articulate.
 
 ---
 
-# **7. Interpretation**
+## 7. Interpretation
 The appointment of Lt. Gen. Adul is not merely a personnel decision.  
 It reveals a deeper structural pattern:
 
@@ -202,7 +185,7 @@ it is a **systemic feature** of Thailand’s political‑military architecture.
 
 ---
 
-# **8. Notes**
+## 8. Notes
 This analysis focuses on narrative and editorial mechanics, not on policy evaluation.
 
 <p align="center">
