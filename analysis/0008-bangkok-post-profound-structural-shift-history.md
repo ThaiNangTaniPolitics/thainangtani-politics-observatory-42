@@ -9,11 +9,11 @@
 
 ---
 
-# 2026: The Most Profound Structural Shift in the Bangkok Post’s 80‑Year History
+## 2026: The Most Profound Structural Shift in the Bangkok Post’s 80‑Year History
 
 As the Bangkok Post approaches its 80th anniversary on **1 August 2026**, the newspaper is undergoing the most significant structural transformation since its founding in 1946. This shift is not editorial, political, or cultural. It is **financial and governance‑driven** — and it will redefine the identity, autonomy, and institutional role of Thailand’s oldest English‑language newspaper.
 
-## **From Public Institution to Private Media Asset**
+## From Public Institution to Private Media Asset
 
 For decades, the Bangkok Post operated as a publicly listed company with a dispersed shareholder base. This structure created a degree of institutional balance:  
 - multiple shareholders  
