@@ -1,12 +1,6 @@
 ## 0017 – The Jurisprudence of Prevention: A Philosophical Audit  
 ### *From Defensive Democracy to Interpretive Interventionism*
 
-[Home](/thainangtani-politics-observatory/)  
-[Analysis](/thainangtani-politics-observatory/analysis/)  
-[Timeline](/thainangtani-politics-observatory/timeline/)  
-[Methodology](/thainangtani-politics-observatory/methodology/)  
-[Archive](/thainangtani-politics-observatory/archive/)
-
 ---
 
 ## 1. Philosophical Anchor: Section 49 as a Preventive Clause  
