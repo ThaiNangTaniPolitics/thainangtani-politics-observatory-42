@@ -12,7 +12,7 @@
 ## 1. Case Overview (Case Study)
 This case examines how the Bangkok Post frames the issue of political, educational, and expressive restrictions imposed on Buddhist monks in Thailand.  
 
-> <a href="https://www.bangkokpost.com/opinion/opinion/3235643/control-and-fear-inside-the-clergy" target="_blank" rel="noopener noreferrer">
+<a href="https://www.bangkokpost.com/opinion/opinion/3235643/control-and-fear-inside-the-clergy" target="_blank" rel="noopener noreferrer">
 Bangkok Post – Control and Fear Inside the Clergy
 </a>
 
