@@ -3,7 +3,7 @@ layout: default
 title: Image Gallery
 ---
 
-## Image Gallery
+# Image Gallery
 
 <style>
 .gallery {
@@ -25,4 +25,3 @@ title: Image Gallery
   {% endif %}
 {% endfor %}
 </div>
-
