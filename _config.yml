@@ -8,3 +8,6 @@ force_rebuild: 59
 # Make sure Jekyll includes the images folder
 include:
   - images
+
+# Disable minima's default collections/static overrides
+collections: {}
