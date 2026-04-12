@@ -1,7 +1,4 @@
-
----
----
-# **0033 – Administrative Penetration and Parallel Governance**
+## 0033 – Administrative Penetration and Parallel Governance
 ### *How ISOC Embeds Itself Inside Civilian Administration*
 
 [Home](/thainangtani-politics-observatory/)  
@@ -14,7 +11,7 @@ Administrative penetration is a defining feature of Thailand’s dual governance
 
 ---
 
-## **1. Cross‑Ministerial Authority**
+## 1. Cross‑Ministerial Authority
 
 ISOC’s mandate enables it to coordinate and direct civilian ministries, including:
 
@@ -29,13 +26,13 @@ This authority is operational rather than symbolic. ISOC can:
 - assign tasks to civil servants  
 - override local administrative decisions  
 - coordinate inter‑ministerial operations  
-- shape policy execution at the provincial and district levels  
+- shape policy execution at provincial and district levels  
 
 This creates a governance structure where civilian agencies remain formally autonomous but functionally subordinate.
 
 ---
 
-## **2. Embedded Security Officers in Local Administration**
+## 2. Embedded Security Officers in Local Administration
 
 ISOC places security officers inside:
 
@@ -56,7 +53,7 @@ Their presence ensures that local governance aligns with national security prior
 
 ---
 
-## **3. Policy Implementation Through Security Logic**
+## 3. Policy Implementation Through Security Logic
 
 Civilian policies are frequently reframed through a security lens. Examples include:
 
@@ -69,7 +66,7 @@ This reframing allows ISOC to shape policy outcomes without formally drafting le
 
 ---
 
-## **4. Administrative Leverage Through Budget Control**
+## 4. Administrative Leverage Through Budget Control
 
 ISOC influences civilian administration through:
 
@@ -82,7 +79,7 @@ These mechanisms create dependency relationships between local administrations a
 
 ---
 
-## **5. Bypassing Formal Oversight Mechanisms**
+## 5. Bypassing Formal Oversight Mechanisms
 
 ISOC’s administrative penetration is reinforced by its ability to bypass:
 
@@ -95,17 +92,17 @@ This exceptionalism is rooted in the Internal Security Act (ISA 2008), which gra
 
 ---
 
-## **6. Parallel Governance as Systemic Design**
+## 6. Parallel Governance as Systemic Design
 
 The result is a dual administrative structure:
 
-### **Formal Layer (Front‑End)**  
+### Formal Layer (Front‑End)
 - ministries  
 - provincial governors  
 - district offices  
 - elected local bodies  
 
-### **Security Layer (Back‑End)**  
+### Security Layer (Back‑End)
 - ISOC regional commands  
 - embedded officers  
 - mass organizations  
@@ -115,7 +112,7 @@ The Back‑End does not replace the Front‑End; it **runs through it**, shaping
 
 ---
 
-## **7. Function of Administrative Penetration in the Infiltrated Society**
+## 7. Function of Administrative Penetration in the Infiltrated Society
 
 Administrative penetration enables ISOC to:
 
@@ -127,6 +124,8 @@ Administrative penetration enables ISOC to:
 This is the operational core of parallel governance:  
 **a security apparatus embedded inside civilian administration, steering the state from within.**
 
+---
+
 <p align="center">
   <a href="../images/0033.jpg">
     <img src="../images/0033.jpg" alt="0033" width="480">
@@ -135,14 +134,15 @@ This is the operational core of parallel governance:
 
 <script>
 document.addEventListener("dblclick", e => {
-  if(e.target.tagName === "IMG") {
+  if (e.target.tagName === "IMG") {
     const img = e.target.cloneNode();
     Object.assign(img.style, {maxWidth:"100vw", maxHeight:"100vh"});
     const o = Object.assign(document.createElement("div"), {
       style:"position:fixed;inset:0;background:#000c;display:flex;align-items:center;justify-content:center;cursor:zoom-out;z-index:9999"
     });
-    o.appendChild(img); o.onclick=()=>o.remove(); document.body.appendChild(o);
+    o.appendChild(img);
+    o.onclick = () => o.remove();
+    document.body.appendChild(o);
   }
 });
 </script>
-
