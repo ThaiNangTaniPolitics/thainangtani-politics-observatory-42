@@ -53,7 +53,25 @@
 
 <body>
   <div class="page-container">
-    {{ content }}
+
+    {% capture rendered %}
+      {{ content }}
+    {% endcapture %}
+
+    {% assign updated = rendered %}
+
+    {% for file in site.static_files %}
+      {% if file.path contains 'images/' %}
+        {% assign original = file.path %}
+        {% assign webp = original | replace: '.jpg', '.webp' | replace: '.png', '.webp' %}
+        {% if site.static_files | where: "path", webp | size > 0 %}
+          {% assign updated = updated | replace: original, webp %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    {{ updated }}
+
   </div>
 
   {% include footer.html %}
