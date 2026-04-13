@@ -154,6 +154,21 @@ Public reporting on 8 April 2026 noted that People’s Party leader Natthaphong 
 
 This cross‑institutional coherence produces a form of procedural automation. The initial constitutional determination propagates through the system, ensuring that its legal and normative implications remain operative across multiple election cycles. As a result, the institutional chain becomes self‑reinforcing: each subsequent decision validates the previous one, and the original constitutional interpretation becomes structurally insulated from reconsideration. This feedback loop is central to understanding how Section 112 became embedded as a protected domain within Thailand’s institutional architecture.
 
+### *Chronological Overview of the Consolidation Phase (2020–2026)*
+| Date              | Event                                                                 |
+|-------------------|------------------------------------------------------------------------|
+| 10 Aug 2020       | Ten‑Point Declaration issued at Thammasat University                   |
+| 10 Nov 2021       | Constitutional Court Decision 19/2564 on speeches referencing the Ten Points |
+| 31 Jan 2024       | Constitutional Court rules MFP’s Section 112 campaign unconstitutional |
+| 2 Feb 2024        | Petition submitted to NACC by Teerayut Suwankesorn & Sonthiya Sawatdee |
+| 2024–2025         | NACC conducts ethics investigation into 44 MPs                         |
+| 9 Feb 2026        | NACC concludes investigation; finds 44 MPs guilty of serious ethical violation |
+| 8 Apr 2026        | Public reporting identifies ten serving MPs potentially facing suspension |
+| 9 Apr 2026        | NACC formally delivers case files to the Supreme Court                 |
+| 10–11 Apr 2026    | Public reporting confirms Supreme Court receipt and outlines implications |
+
+
+
 ---
 
 ## 4. JUDICIAL EXPANSION: THE CRIMINAL TRACK (2024–2026)
@@ -343,7 +358,7 @@ Following the 2024 ruling, Teerayut Suwankesorn, together with Ruangkrai Leekitw
 
 ### *13.3 Ethics Complaint to the NACC*
 
-On 2 February 2024, Teerayut Suwankesorn and Sonthiya Sawatdee submitted a complaint to the National Anti‑Corruption Commission (NACC), requesting an investigation into alleged serious ethical violations by the 44 MPs who had co‑sponsored the 2021 bill to amend Section 112. The NACC accepted the complaint, conducted an inquiry, and referred the case to the Supreme Court in early 2026.
+On 2 February 2024, Teerayut Suwankesorn and Sonthiya Sawatdee submitted a petition to the National Anti‑Corruption Commission (NACC), requesting an investigation into alleged serious ethical violations by the 44 MPs who had co‑sponsored the 2021 bill to amend Section 112. The NACC accepted the petition, conducted its inquiry throughout 2024 and 2025, and concluded the investigation on 9 February 2026. On 10 April 2026, the NACC referred the case to the Supreme Court for adjudication.
 
 ### *13.4 Systemic Significance*
 
