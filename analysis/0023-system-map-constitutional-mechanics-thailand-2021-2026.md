@@ -5,6 +5,7 @@
 
 ## 1. Overview Diagram: The Full Mechanism (0012–0022)  
 
+<div style="width:80%; margin:0 auto;">   
 <svg width="100%" viewBox="0 0 600 1600" xmlns="http://www.w3.org/2000/svg">
 
   <style>
@@ -48,7 +49,7 @@
   <line class="arrow" x1="300" y1="270" x2="300" y2="320"/>
 
   <!-- 3 -->
-  <rect class="box" x="50" y="320" width="400" height="140"/>
+  <rect class="box" x="50" y="320" width="500" height="140"/>
   <text x="300" y="360" text-anchor="middle">Institutional Action (0012, 0016, 0018)</text>
   <text x="300" y="385" text-anchor="middle">– Party dissolution</text>
   <text x="300" y="410" text-anchor="middle">– Ethics cases</text>
@@ -57,7 +58,7 @@
   <line class="arrow" x1="300" y1="460" x2="300" y2="510"/>
 
   <!-- 4 -->
-  <rect class="box" x="50" y="510" width="400" height="140"/>
+  <rect class="box" x="50" y="510" width="500" height="140"/>
   <text x="300" y="550" text-anchor="middle">Behavioural Response (0020)</text>
   <text x="300" y="575" text-anchor="middle">– Self‑limitation</text>
   <text x="300" y="600" text-anchor="middle">– Agenda narrowing</text>
@@ -66,7 +67,7 @@
   <line class="arrow" x1="300" y1="650" x2="300" y2="700"/>
 
   <!-- 5 -->
-  <rect class="box" x="50" y="700" width="400" height="120"/>
+  <rect class="box" x="50" y="700" width="500" height="120"/>
   <text x="300" y="740" text-anchor="middle">Discursive Filtering (0019)</text>
   <text x="300" y="765" text-anchor="middle">– Structural critique removed</text>
   <text x="300" y="790" text-anchor="middle">– Affective speech allowed</text>
@@ -74,7 +75,7 @@
   <line class="arrow" x1="300" y1="820" x2="300" y2="870"/>
 
   <!-- 6 -->
-  <rect class="box" x="50" y="870" width="400" height="120"/>
+  <rect class="box" x="50" y="870" width="500" height="120"/>
   <text x="300" y="910" text-anchor="middle">Anticipatory Governance (0021)</text>
   <text x="300" y="935" text-anchor="middle">– Uncertainty as regulation</text>
   <text x="300" y="960" text-anchor="middle">– Interpretation &gt; text</text>
@@ -82,12 +83,13 @@
   <line class="arrow" x1="300" y1="990" x2="300" y2="1040"/>
 
   <!-- 7 -->
-  <rect class="box" x="50" y="1040" width="400" height="120"/>
+  <rect class="box" x="50" y="1040" width="500" height="120"/>
   <text x="300" y="1080" text-anchor="middle">Feedback Loop (0022)</text>
   <text x="300" y="1105" text-anchor="middle">– Anticipation reinforces authority</text>
   <text x="300" y="1130" text-anchor="middle">– Authority increases anticipation</text>
 
 </svg>
+</div>
 
 ---
 
