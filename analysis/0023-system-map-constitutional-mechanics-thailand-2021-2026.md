@@ -4,7 +4,6 @@
 ---
 
 ## 1. Overview Diagram: The Full Mechanism (0012–0022)  
-*(Text‑based graphic, Markdown‑safe, Jekyll‑safe, no images required)*
 
 
                 ┌────────────────────────────────────────┐
@@ -54,6 +53,7 @@
                 │  - Anticipation reinforces authority   │
                 │  - Authority increases anticipation    │
                 └────────────────────────────────────────┘
+
 
 ---
 
