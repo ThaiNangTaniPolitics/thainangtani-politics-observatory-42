@@ -5,7 +5,7 @@
 
 ## 1. Overview Diagram: The Full Mechanism (0012–0022)  
 
-<div style="width:40%; margin:0 auto;">   
+<div style="width:100%; margin:0 auto;">   
 <svg width="100%" viewBox="0 0 600 1200" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="svg-title">
 <title id="svg-title">Overview Diagram: The Constitutional Mechanics of Thailand (2021–2026)</title>
 
