@@ -5,54 +5,56 @@
 
 ## 1. Overview Diagram: The Full Mechanism (0012–0022)  
 
-
+<pre style="white-space: pre; font-family: monospace; font-size: 0.85em;">
 ┌────────────────────────────────────────┐
 │  Constitutional Text (Sections 49,235) │
 └────────────────────────────────────────┘
-                 │
-                 ▼
+                │
+                ▼
 ┌────────────────────────────────────────┐
 │  Judicial Interpretation (0013–0014)   │
 │  - Preventive logic                    │
 │  - Ethics as non-material standard     │
 └────────────────────────────────────────┘
-                 │
-                 ▼
+                │
+                ▼
 ┌────────────────────────────────────────┐
 │  Institutional Action (0012,0016,0018) │
 │  - Party dissolution                   │
 │  - Ethics cases                        │
 │  - Terminal Node sanctions             │
 └────────────────────────────────────────┘
-                 │
-                 ▼
+                │
+                ▼
 ┌────────────────────────────────────────┐
 │  Behavioural Response (0020)           │
 │  - Self-limitation                     │
 │  - Agenda narrowing                    │
 │  - Procedural caution                  │
 └────────────────────────────────────────┘
-                 │
-                 ▼
+                │
+                ▼
 ┌────────────────────────────────────────┐
 │  Discursive Filtering (0019)           │
 │  - Structural critique removed         │
 │  - Affective speech allowed            │
 └────────────────────────────────────────┘
-                 │
-                 ▼
+                │
+                ▼
 ┌────────────────────────────────────────┐
 │  Anticipatory Governance (0021)        │
 │  - Uncertainty as regulation           │
 │  - Interpretation > text               │
 └────────────────────────────────────────┘
-                 │
-                 ▼
+                │
+                ▼
 ┌────────────────────────────────────────┐
 │  Feedback Loop (0022)                  │
 │  - Anticipation reinforces authority   │
 │  - Authority increases anticipation    │
 └────────────────────────────────────────┘
+</pre>
+
 
 
 ---
