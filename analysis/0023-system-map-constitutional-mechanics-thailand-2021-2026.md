@@ -5,8 +5,9 @@
 
 ## 1. Overview Diagram: The Full Mechanism (0012–0022)  
 
-<div style="width:80%; margin:0 auto;">   
-<svg width="100%" viewBox="0 0 600 1600" xmlns="http://www.w3.org/2000/svg">
+<div style="width:40%; margin:0 auto;">   
+<svg width="100%" viewBox="0 0 600 1200" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="svg-title">
+<title id="svg-title">Overview Diagram: The Constitutional Mechanics of Thailand (2021–2026)</title>
 
   <style>
     text { 
@@ -35,13 +36,13 @@
   </defs>
 
   <!-- 1 -->
-  <rect class="box" x="50" y="20" width="400" height="80"/>
+  <rect class="box" x="50" y="20" width="500" height="80"/>
   <text x="300" y="60" text-anchor="middle">Constitutional Text (Sections 49, 235)</text>
 
   <line class="arrow" x1="300" y1="100" x2="300" y2="150"/>
 
   <!-- 2 -->
-  <rect class="box" x="50" y="150" width="400" height="120"/>
+  <rect class="box" x="50" y="150" width="500" height="120"/>
   <text x="300" y="190" text-anchor="middle">Judicial Interpretation (0013–0014)</text>
   <text x="300" y="215" text-anchor="middle">– Preventive logic</text>
   <text x="300" y="240" text-anchor="middle">– Ethics as non-material standard</text>
