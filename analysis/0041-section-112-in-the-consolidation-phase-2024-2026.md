@@ -278,7 +278,8 @@ The anticipated intake of approximately 10,000* case files related to Section 11
 
 When combined with the possibility of suspending ten sitting MPs before a final ruling, these mechanisms contribute to the perception of pre‑judgment at the structural level. The measures operate not as determinations of wrongdoing but as precautionary interventions within an institutional architecture that treats Section 112 as a constitutionally sensitive domain. This dynamic reinforces the broader consolidation pattern identified in this chapter: the relocation of Section 112 from ordinary legislative contestation into a protected and pre‑emptively regulated constitutional space.
 
-  ¹ The anticipated intake of approximately 10,000¹ case files related to Section 112 further illustrates what institutional theory terms       *saturation signalling*: the use of high‑volume case acceptance to indicate that a legal domain has been elevated to a priority category. High‑volume intake does not predetermine outcomes, but it communicates that the institution considers the underlying issue to be of heightened constitutional relevance.
+  ¹ * This figure is not derived from an official dataset. It represents an analytical projection based on two documented structural mechanisms: (1) the high‑volume, complaint‑driven activation pattern of Section 112 since 2020, including instances where individual actors have submitted large numbers of complaints in short periods; and (2) public statements by political and civil society groups indicating an intention to systematically file all perceived violations, including retroactive submissions. The number therefore functions as a theoretical magnitude illustrating saturation signalling rather than as an empirical case count.
+
 ---
 
 ## 11. The Decline of Classical Parliamentary Immunity: Structural Reconfiguration of Legislative Protection
