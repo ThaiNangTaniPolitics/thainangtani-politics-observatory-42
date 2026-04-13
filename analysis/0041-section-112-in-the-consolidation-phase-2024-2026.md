@@ -155,6 +155,7 @@ Public reporting on 8 April 2026 noted that People’s Party leader Natthaphong 
 This cross‑institutional coherence produces a form of procedural automation. The initial constitutional determination propagates through the system, ensuring that its legal and normative implications remain operative across multiple election cycles. As a result, the institutional chain becomes self‑reinforcing: each subsequent decision validates the previous one, and the original constitutional interpretation becomes structurally insulated from reconsideration. This feedback loop is central to understanding how Section 112 became embedded as a protected domain within Thailand’s institutional architecture.
 
 ### *Chronological Overview of the Consolidation Phase (2020–2026)*
+
 | Date              | Event                                                                 |
 |-------------------|------------------------------------------------------------------------|
 | 10 Aug 2020       | Ten‑Point Declaration issued at Thammasat University                   |
