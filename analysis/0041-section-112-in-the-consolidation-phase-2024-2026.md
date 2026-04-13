@@ -116,33 +116,41 @@ This ruling marks the moment at which Section 112 was effectively relocated from
 
 ## 3. INSTITUTIONAL ENTRENCHMENT: THE 2024–2026 SEQUENCE
 
-Following the 2024 ruling, the institutional cascade documented in 0012 continued into a consolidation phase:
-
-### *2024–2025: NACC Investigation*
-- The NACC opened an ethics case against 44 MPs who signed the 2021 reform proposal.  
-- The case was repeatedly extended and prepared for Supreme Court referral.
-
-### *February–April 2026: Supreme Court Phase*
-- The NACC voted unanimously to forward the case.  
-- Ten of the 44 individuals were now MPs of the People’s Party.  
-- Possible consequences included suspension, lifetime bans, and loss of voting rights.  
-- The timing coincided with the formation of the new parliament and the selection of the opposition leader.
-
-### *Institutional Logic*
-The same legislative act from 2021 continued to generate consequences across multiple election cycles, demonstrating a closed institutional chain:
-
-- Legislative initiative → Constitutional violation  
-- Constitutional violation → Party dissolution  
-- Party dissolution → Ethics case  
-- Ethics case → Supreme Court sanctions  
-
-This chain remained intact regardless of electoral outcomes.
+Following the 2024 ruling, the institutional cascade documented in 0012 continued into a consolidation phase. The same legislative act from 2021 — the submission of five bills including a proposal to amend Section 112 — remained the fixed reference point for a sequence of institutional actions extending across multiple election cycles.
 
 ---
 
-### *3.1 The Institutional Feedback Loop: Cross‑Validation and Procedural Automation*
+### *2024–2025: NACC Investigation*
+
+- The National Anti‑Corruption Commission (NACC) opened an ethics case against 44 MPs who had co‑sponsored the 2021 reform proposal.  
+- The inquiry was repeatedly extended, with the NACC ultimately finding the 44 individuals guilty of a serious ethical violation on 9 February 2026.  
+- Preparations for referral to the Supreme Court continued into early 2026.
+
+### *February–April 2026: Supreme Court Phase*
+
+- On **9 April 2026**, the NACC formally delivered the case files to the Supreme Court, as publicly reported on 10 and 11 April 2026.  
+- Of the 44 individuals named in the petition, **ten were serving MPs of the People’s Party**:  
+  **Natthaphong Ruengpanyawut, Sirikanya Tansakun, Rangsiman Rome, Wayo Assawarungruang, Pakornwut Udompipatskul, Nattawut Buaprathum, Surachet Pravinvongvuth, Nattacha Boonchaiinsawat, Teerajchai Phunthumas, and Taopiphop Limjittrakorn.**  
+- Upon acceptance of the petition, the Supreme Court may order the **immediate suspension** of these ten MPs from parliamentary duties, unless the Court decides otherwise.  
+- Public statements by People’s Party leader Natthaphong Ruengpanyawut on 8 April 2026 described the process as routine while noting that an accelerated suspension could affect the party’s participation in the government’s policy debate scheduled for the same week.  
+- The timing of the submission coincided with the formation of the new parliament, the delivery of the government’s policy statement, and the selection of the opposition leader.
+
+### *Institutional Logic*
+
+The 2024–2026 sequence demonstrates a closed institutional chain in which each step reinforces the previous one:
+
+- **Legislative initiative (2021)** → classified as a constitutional violation (2024)  
+- **Constitutional violation** → party dissolution (2024)  
+- **Party dissolution** → ethics case against individual MPs (2024–2026)  
+- **Ethics case** → referral to the Supreme Court with potential suspensions and lifetime political bans (2026)
+
+This chain remained intact regardless of electoral outcomes. The transition from party‑level sanctions (2024) to individual‑level sanctions (2026) illustrates how a single legislative act can generate multi‑cycle institutional consequences within a consolidated enforcement architecture.
+
+### *The Institutional Feedback Loop: Cross‑Validation and Procedural Automation*
 
 A defining feature of the 2024–2026 consolidation phase is the emergence of a closed institutional feedback loop. Decisions made by one oversight body—most notably the Constitutional Court’s 2024 ruling—serve as fixed factual premises for subsequent proceedings conducted by other institutions, including the NACC and the Supreme Court. Once the Constitutional Court classified the 2021 legislative initiative as an attempt to undermine the constitutional order, later bodies no longer reassessed the substantive intent of the MPs involved. Instead, their inquiries focused primarily on the mechanical attribution of responsibility: who signed, who supported, and who participated.
+
+Public reporting on 8 April 2026 noted that People’s Party leader Natthaphong Ruengpanyawut described the process as routine while cautioning that an accelerated suspension could affect the party’s participation in the government’s policy debate scheduled for the same week. These remarks illustrate how procedural steps within the institutional feedback loop can acquire political significance even when formally characterised as standard administrative actions.
 
 This cross‑institutional coherence produces a form of procedural automation. The initial constitutional determination propagates through the system, ensuring that its legal and normative implications remain operative across multiple election cycles. As a result, the institutional chain becomes self‑reinforcing: each subsequent decision validates the previous one, and the original constitutional interpretation becomes structurally insulated from reconsideration. This feedback loop is central to understanding how Section 112 became embedded as a protected domain within Thailand’s institutional architecture.
 
@@ -210,7 +218,6 @@ This discursive environment reinforced the institutional consolidation by presen
 ---
 
 ## 6. POLITICAL EFFECTS: OPPOSITION UNDER PROCEDURAL PRESSURE
-
 The consolidation phase had direct implications for parliamentary functioning:
 
 - The People’s Party, as the largest opposition party, faced potential loss of key MPs.  
@@ -220,15 +227,23 @@ The consolidation phase had direct implications for parliamentary functioning:
 
 The cumulative effect was a structural weakening of parliamentary checks and balances.
 
----
-
-## 6.1 Redefining the Ethical Framework: Expansion of Chariyatham into Legislative Conduct
-
+###  *Redefining the Ethical Framework: Expansion of Chariyatham into Legislative Conduct*
 The ethics proceedings initiated against 44 MPs for co‑sponsoring the 2021 reform bill mark a significant expansion of the scope of parliamentary ethics (Chariyatham). Historically, ethics reviews in Thailand—consistent with international practice—focused on personal misconduct, corruption, or conflicts of interest. During the consolidation phase, however, the ethical framework was extended to encompass the ideological orientation of legislative activity itself.
 
 This shift represents a redefinition of the parliamentary mandate. Legislative immunity, traditionally understood as protecting core parliamentary functions such as proposing, debating, and voting on bills, now yields to a constitutionally defined duty to safeguard the state’s foundational structure. Under this expanded interpretation, the act of initiating or supporting legislation can be construed as an ethical violation if it is deemed incompatible with the constitutional order.
 
 The resulting sanctions—potentially including lifetime political bans—operate not only at the level of individual accountability but also as a structural corrective. They delimit the permissible boundaries of parliamentary discourse on Section 112 and establish a precedent in which legislative intent is subject to ethical scrutiny. This transformation contributes to the broader consolidation pattern by narrowing the range of legislative actions considered institutionally acceptable.
+
+### *Impact on Parliamentary Capacity*
+Between 8 and 11 April 2026, public reporting identified the ten serving MPs who could face immediate suspension upon acceptance of the petition:
+Natthaphong Ruengpanyawut, Sirikanya Tansakun, Rangsiman Rome, Wayo Assawarungruang, Pakornwut Udompipatskul, Nattawut Buaprathum, Surachet Pravinvongvuth, Nattacha Boonchaiinsawat, Teerajchai Phunthumas, and Taopiphop Limjittrakorn.
+
+Several of these individuals held senior positions within the People’s Party, including the party leader and deputy leader. Their potential suspension raised concerns about the opposition’s ability to participate fully in the government’s policy debate scheduled for the same week.
+
+### *Timing and Legislative Consequences*
+Statements by People’s Party leader Natthaphong Ruengpanyawut on 8 April 2026 described the process as routine but cautioned that an accelerated suspension could affect parliamentary duties. The proximity of the Supreme Court’s potential acceptance of the petition to the government’s policy statement created a situation in which key opposition speakers might be removed from the chamber before substantive debate had begun.
+
+This dynamic illustrates how institutional actions, even when procedurally standard, can shape the operational capacity of the opposition. The consolidation phase therefore produced not only legal and constitutional effects but also immediate parliamentary consequences.
 
 ---
 
@@ -268,29 +283,39 @@ The resulting effect is a gradual reduction in open discussion, particularly in 
 
 ---
 
-## 10. Institutional Pre‑Judgment: Preventive Measures and High‑Volume Case Intake
+## 10. INSTITUTIONAL PRE‑JUDGMENT: PREVENTIVE MEASURES AND HIGH‑VOLUME CASE INTAKE
 
-A further structural feature of the 2024–2026 consolidation phase is the emergence of what comparative institutional analysis describes as *pre‑judgment*: the activation of preventive or interim measures before a final judicial ruling is issued. This phenomenon does not imply a determination of guilt; rather, it reflects an institutional assessment that a case is systemically significant enough to warrant early intervention.
+A further structural feature of the 2024–2026 consolidation phase is the emergence of what comparative institutional analysis describes as pre‑judgment: the activation of preventive or interim measures before a final judicial ruling is issued. This phenomenon does not imply a determination of guilt; rather, it reflects an institutional assessment that a case is systemically significant enough to warrant early intervention.
 
-In many parliamentary systems, interim measures against sitting legislators are limited to cases involving corruption, personal misconduct, or criminal behaviour unrelated to legislative activity. It is therefore comparatively unusual for preventive measures to be applied in response to actions that fall within the scope of parliamentary functions, such as the co‑sponsoring of a bill or participation in legislative debate. Thailand’s constitutional and ethics framework, however, permits such measures under Section 235 of the 2017 Constitution, enabling the National Anti‑Corruption Commission and the Supreme Court to impose temporary suspensions or restrictions while proceedings are ongoing.
+Preventive Measures in Parliamentary Context
+In many parliamentary systems, interim measures against sitting legislators are limited to cases involving corruption, personal misconduct, or criminal behaviour unrelated to legislative activity. It is therefore comparatively unusual for preventive measures to be applied in response to actions that fall within the scope of parliamentary functions, such as the co‑sponsoring of a bill or participation in legislative debate.
 
-The anticipated intake of approximately 10,000¹ case files related to Section 112 further illustrates what institutional theory terms *saturation signalling*: the use of high‑volume case acceptance to indicate that a legal domain has been elevated to a priority category. High‑volume intake does not predetermine outcomes, but it communicates that the institution considers the underlying issue to be of heightened constitutional relevance.
+Thailand’s constitutional and ethics framework, however, permits such measures under Section 235 of the 2017 Constitution, enabling the National Anti‑Corruption Commission and the Supreme Court to impose temporary suspensions or restrictions while proceedings are ongoing.
 
+As of 9 April 2026, the NACC formally delivered the case files to the Supreme Court. Public reporting indicated that, upon acceptance of the petition, the Court may order the immediate suspension of the ten serving MPs named in the case — including the People’s Party leader and deputy leader — before substantive judicial review has begun.
+
+High‑Volume Case Intake and Saturation Signalling
+The anticipated intake of approximately 10,000¹ case files related to Section 112 further illustrates what institutional theory terms saturation signalling: the use of high‑volume case acceptance to indicate that a legal domain has been elevated to a priority category. High‑volume intake does not predetermine outcomes, but it communicates that the institution considers the underlying issue to be of heightened constitutional relevance.
+
+Structural Perception of Pre‑Judgment
 When combined with the possibility of suspending ten sitting MPs before a final ruling, these mechanisms contribute to the perception of pre‑judgment at the structural level. The measures operate not as determinations of wrongdoing but as precautionary interventions within an institutional architecture that treats Section 112 as a constitutionally sensitive domain. This dynamic reinforces the broader consolidation pattern identified in this chapter: the relocation of Section 112 from ordinary legislative contestation into a protected and pre‑emptively regulated constitutional space.
 
-  ¹ This figure is not derived from an official dataset. It represents an analytical projection based on two documented structural mechanisms: (1) the high‑volume, complaint‑driven activation pattern of Section 112 since 2020, including instances where individual actors have submitted large numbers of complaints in short periods; and (2) public statements by political and civil society groups indicating an intention to systematically file all perceived violations, including retroactive submissions. The number therefore functions as a theoretical magnitude illustrating saturation signalling rather than as an empirical case count.
+¹ This figure is not derived from an official dataset. It represents an analytical projection based on two documented structural mechanisms: (1) the high‑volume, complaint‑driven activation pattern of Section 112 since 2020, including instances where individual actors have submitted large numbers of complaints in short periods; and (2) public statements by political and civil society groups indicating an intention to systematically file all perceived violations, including retroactive submissions. The number therefore functions as a theoretical magnitude illustrating saturation signalling rather than as an empirical case count.
 
 ---
 
-## 11. The Decline of Classical Parliamentary Immunity: Structural Reconfiguration of Legislative Protection
+## 11. DER RÜCKGANG DER KLASSISCHEN PARLAMENTARISCHEN IMMUNITÄT: STRUKTURELLE UMGESTALTUNG DES GESETZLICHEN SCHUTZES
+Eine weitere strukturelle Entwicklung der Konsolidierungsphase 2024–2026 ist die effektive Erosion der klassischen parlamentarischen Immunität. In vielen parlamentarischen Systemen schützt die Immunität zentrale gesetzgeberische Funktionen – Gesetzesvorschläge, Debattieren und Abstimmungen – vor gerichtlichen oder administrativen Eingriffen. Ihr Zweck ist funktional und nicht persönlich: sicherzustellen, dass Gesetzgeber demokratische Beratung ohne Angst vor Sanktionen führen können.
 
-A further structural development of the 2024–2026 consolidation phase is the effective erosion of classical parliamentary immunity. In many parliamentary systems, immunity protects core legislative functions—proposing bills, debating, and voting—from judicial or administrative intervention. Its purpose is functional rather than personal: to ensure that legislators can engage in democratic deliberation without fear of sanction.
+### *Ausweitung der ethischen Prüfung auf das gesetzgeberische Verhalten*
+Die Ethikverfahren gegen 44 Abgeordnete wegen der Mitunterzeichnung des Reformgesetzes von 2021 markieren eine erhebliche Ausweitung des Geltungsbereichs der parlamentarischen Ethik (Chariyatham). Historisch gesehen konzentrierten sich Ethiküberprüfungen in Thailand – im Einklang mit internationaler Praxis – auf persönliches Fehlverhalten, Korruption oder Interessenkonflikte. Während der Konsolidierungsphase wurde der ethische Rahmen jedoch erweitert, um die ideologische Ausrichtung der Gesetzgebungstätigkeit selbst einzubeziehen.
 
-The ethics proceedings against 44 MPs for co‑sponsoring the 2021 reform bill mark a departure from this traditional model. Legislative activity itself became subject to ethical scrutiny, not on the basis of personal misconduct but on the grounds of constitutional incompatibility. Under this expanded interpretation, the intent and ideological orientation of a legislative proposal can constitute an ethical violation if deemed inconsistent with the constitutional order.
+Nach dieser erweiterten Auslegung kann das Einleiten oder Unterstützen von Gesetzgebung als ethischer Verstoß ausgelegt werden, wenn es als unvereinbar mit der verfassungsmäßigen Ordnung angesehen wird. Die gesetzgeberische Immunität, traditionell als Schutz der zentralen parlamentarischen Funktionen verstanden, weicht nun einer verfassungsmäßig definierten Pflicht, die grundlegende Struktur des Staates zu schützen, wie sie von Aufsichtsbehörden interpretiert wird.
 
-This shift reconfigures the balance between parliamentary autonomy and constitutional protection. Legislative immunity yields to a broader duty to safeguard the state’s foundational structure, as defined by judicial interpretation. The possibility of suspending MPs before a final ruling further illustrates this transformation: preventive measures, historically reserved for corruption or personal wrongdoing, now extend into the domain of legislative conduct.
+### *Folgen für die parlamentarische Autonomie*
+Die daraus resultierenden Sanktionen – potenziell lebenslange politische Verbote und vorübergehende Suspendierungen – wirken nicht nur auf der Ebene der individuellen Verantwortlichkeit, sondern auch als strukturelle Korrektur. Sie grenzen die zulässigen Grenzen des parlamentarischen Diskurses zu Abschnitt 112 ab und schaffen einen Präzedenzfall, in dem die Absicht der Gesetzgeber ethischer Prüfung unterliegt.
 
-The resulting framework narrows the operational space of parliamentary deliberation. It establishes a precedent in which legislative initiatives touching constitutionally sensitive domains—particularly Section 112—are subject to pre‑emptive institutional intervention. This development contributes to the broader consolidation pattern by redefining the functional boundaries of parliamentary activity and signalling the end of classical immunity in the Thai context.
+Diese Transformation schränkt den operativen Raum der parlamentarischen Beratung ein. Präventive Maßnahmen, die historisch Korruption oder persönliches Fehlverhalten vorbehalten waren, erstrecken sich nun in den Bereich des legislativen Verhaltens. Der Wandel trägt zum breiteren Konsolidierungsmuster bei, indem er die funktionalen Grenzen parlamentarischer Aktivitäten neu definiert und das Ende der klassischen Immunität in als verfassungsmäßig sensibel eingestuften Bereichen signalisiert.
 
 ---
 
