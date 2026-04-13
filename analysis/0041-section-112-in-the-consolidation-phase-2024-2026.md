@@ -397,3 +397,5 @@ Finally, the expansion of ethical oversight into the domain of legislative condu
 
 
 <img src="../images/0041.webp" alt="0041" style="width: 480px; margin: auto;" loading="lazy">
+
+<img src="../images/0041_2.webp" alt="0041" style="width: 480px; margin: auto;" loading="lazy">
