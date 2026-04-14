@@ -152,7 +152,7 @@ precise, platform‑focused, non‑speculative, and strictly observational.
 
 On 11 April 2026, the *Bangkok Post* published a Postbag letter by **JT** addressing a noticeable decline in the volume of visible comments on the newspaper’s online platform. The letter does not attribute motives or causes; it documents a **change in the observable surface of the comment field**. This makes it relevant as an external data point for the Observatory, particularly in relation to the patterns described in entry 0027.
 
-## **1. Reader Observation (JT)**  
+### *Reader Observation (JT)*  
 JT reports:
 
 - historically **50+ comments** on certain articles  
@@ -163,7 +163,7 @@ JT reports:
 
 This constitutes a **publicly documented observation** of reduced comment visibility.
 
-## **2. Responses from Other Users**  
+### *Responses from Other Users*
 Two comments appear beneath JT’s letter:
 
 - **onlyme** suggests that many past comments came from a small number of prolific posters.  
@@ -171,7 +171,7 @@ Two comments appear beneath JT’s letter:
 
 Both responses remain at the level of **user perception**, not mechanism.
 
-## **3. Relevance to the Observatory**  
+### *Relevance to the Observatory*
 The Postbag letter does not explain *why* comment visibility has declined.  
 However, it confirms the **symptom** described in entry 0027:
 
@@ -184,7 +184,7 @@ While 0027 focuses on **which types of comments appear or do not appear**, JT’
 These two perspectives are compatible:  
 one describes **content‑level filtering**, the other **volume‑level reduction**.
 
-## **4. Analytical Positioning**  
+### *Analytical Positioning*
 The Postbag letter:
 
 - does **not** claim censorship  
