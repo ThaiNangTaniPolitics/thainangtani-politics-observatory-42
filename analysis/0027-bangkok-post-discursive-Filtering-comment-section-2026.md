@@ -173,7 +173,7 @@ Both responses remain at the level of **user perception**, not mechanism.
 
 ### *Relevance to the Observatory*
 The Postbag letter does not explain *why* comment visibility has declined.  
-However, it confirms the **symptom** described in entry 0027:
+However, it confirms the **symptom** described in entrys 001 & 0027:
 
 - a reduction in the number of visible comments  
 - a narrowing of the discursive field  
