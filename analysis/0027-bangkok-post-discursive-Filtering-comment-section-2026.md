@@ -141,16 +141,9 @@ It does not imply broader trends beyond this platform.
 
 ---
 
-Here is the **fully English version** of the section we discussed — polished, Observatory‑compatible, and ready to be inserted into **007** as an additional analytical subsection.
+## **6. External Data Point: Postbag Letter on Declining Comment Visibility (11 April 2026)**
 
-I’ve kept the tone aligned with your existing entries:  
-precise, platform‑focused, non‑speculative, and strictly observational.
-
----
-
-## 6. External Data Point: Postbag Letter on Declining Comment Visibility (11 April 2026)
-
-On 11 April 2026, the *Bangkok Post* published a Postbag letter by **JT** addressing a noticeable decline in the volume of visible comments on the newspaper’s online platform. The letter does not attribute motives or causes; it documents a **change in the observable surface of the comment field**. This makes it relevant as an external data point for the Observatory, particularly in relation to the patterns described in entrys 0011 & 0027.
+On 11 April 2026, the *Bangkok Post* published a Postbag letter by **JT** addressing a noticeable decline in the volume of visible comments on the newspaper’s online platform. The letter does not attribute motives or causes; it documents a **change in the observable surface of the comment field**. This makes it relevant as an external data point for the Observatory, particularly in relation to the patterns described in entries **0011** and **0027**.
 
 ### *Reader Observation (JT)*  
 JT reports:
@@ -163,37 +156,43 @@ JT reports:
 
 This constitutes a **publicly documented observation** of reduced comment visibility.
 
-### *Responses from Other Users*
+### *Responses from Other Users*  
 Two comments appear beneath JT’s letter:
 
-- **onlyme** suggests that many past comments came from a small number of prolific posters.  
-- **Cryptic** agrees with JT’s core point that active comment threads generate more user engagement and advertiser‑relevant page views.
+- **onlyme** reframes the issue by suggesting that many past comments came from a small number of prolific posters, thereby personalising the discussion and diverting attention from JT’s structural observation.  
+- **Cryptic** agrees only with the secondary point that active threads generate more engagement, shifting the topic to advertiser‑relevant traffic rather than addressing the question of comment removal.
 
-Both responses remain at the level of **user perception**, not mechanism.
+Both responses remain at the level of **user perception**, not mechanism, and neither engages with JT’s core concern.
 
-### *Relevance to the Observatory*
+### *Lack of Engagement with Adjacent Postbag Letters*  
+Two substantial Postbag letters published immediately above JT’s entry — one on macro‑economic liquidity risks and one on geopolitical alignment — receive **no visible replies**. Both letters contain structured argumentation and would typically invite discussion, yet the comment field remains empty.
+
+This absence of interaction is itself a discursive signal and aligns with the pattern described in entry **0027**, where structurally analytical contributions receive limited or no visibility in the platform’s interactive layer.
+
+### *Relevance to the Observatory*  
 The Postbag letter does not explain *why* comment visibility has declined.  
-However, it confirms the **symptom** described in entrys 0011 & 0027:
+However, it confirms the **symptom** described in entries **0011** and **0027**:
 
 - a reduction in the number of visible comments  
 - a narrowing of the discursive field  
 - a shift away from broad, multi‑voice participation  
+- selective engagement patterns in which structural content receives no replies, while meta‑discussion receives diversionary responses  
 
-While 0027 focuses on **which types of comments appear or do not appear**, JT’s letter documents a **quantitative contraction** of the visible forum.
-
+While 0027 focuses on **which types of comments appear or do not appear**, JT’s letter documents a **quantitative contraction** of the visible forum.  
 These two perspectives are compatible:  
 one describes **content‑level filtering**, the other **volume‑level reduction**.
 
-### *Analytical Positioning*
+### *Analytical Positioning*  
 The Postbag letter:
 
 - does **not** claim censorship  
 - does **not** infer political or editorial motives  
 - does **not** generalise beyond the platform  
 - does **document** a change in the platform’s visible comment dynamics  
-- does **align** with the broader pattern of discursive narrowing observed in 0027  
+- does **align** with the broader pattern of discursive narrowing observed in 0011 & 0027  
 
-For the Observatory, the letter serves as an **external, user‑generated confirmation** that the platform’s comment visibility has changed in a way that is noticeable to long‑term participants.
+For the Observatory, the letter serves as an **external, user‑generated confirmation** that the platform’s comment visibility has changed in a way that is noticeable to long‑term participants. The combination of **non‑engagement with structural letters** and **diversionary replies to meta‑critique** reinforces the platform‑specific pattern:  
+**structure out, diversion in.**
 
 ---
 
