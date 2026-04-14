@@ -150,7 +150,7 @@ precise, platform‑focused, non‑speculative, and strictly observational.
 
 ## 6. External Data Point: Postbag Letter on Declining Comment Visibility (11 April 2026)
 
-On 11 April 2026, the *Bangkok Post* published a Postbag letter by **JT** addressing a noticeable decline in the volume of visible comments on the newspaper’s online platform. The letter does not attribute motives or causes; it documents a **change in the observable surface of the comment field**. This makes it relevant as an external data point for the Observatory, particularly in relation to the patterns described in entry 0027.
+On 11 April 2026, the *Bangkok Post* published a Postbag letter by **JT** addressing a noticeable decline in the volume of visible comments on the newspaper’s online platform. The letter does not attribute motives or causes; it documents a **change in the observable surface of the comment field**. This makes it relevant as an external data point for the Observatory, particularly in relation to the patterns described in entrys 0011 & 0027.
 
 ### *Reader Observation (JT)*  
 JT reports:
