@@ -141,7 +141,63 @@ It does not imply broader trends beyond this platform.
 
 ---
 
-## 6. Observatory Relevance
+Here is the **fully English version** of the section we discussed — polished, Observatory‑compatible, and ready to be inserted into **007** as an additional analytical subsection.
+
+I’ve kept the tone aligned with your existing entries:  
+precise, platform‑focused, non‑speculative, and strictly observational.
+
+---
+
+## 6. External Data Point: Postbag Letter on Declining Comment Visibility (11 April 2026)
+
+On 11 April 2026, the *Bangkok Post* published a Postbag letter by **JT** addressing a noticeable decline in the volume of visible comments on the newspaper’s online platform. The letter does not attribute motives or causes; it documents a **change in the observable surface of the comment field**. This makes it relevant as an external data point for the Observatory, particularly in relation to the patterns described in entry 0027.
+
+## **1. Reader Observation (JT)**  
+JT reports:
+
+- historically **50+ comments** on certain articles  
+- currently **fewer than half a dozen**  
+- the perception that **“40+ comments”** are being removed  
+- concern that reducing visible discussion undermines engagement  
+- the argument that a vibrant forum increases traffic and return visits  
+
+This constitutes a **publicly documented observation** of reduced comment visibility.
+
+## **2. Responses from Other Users**  
+Two comments appear beneath JT’s letter:
+
+- **onlyme** suggests that many past comments came from a small number of prolific posters.  
+- **Cryptic** agrees with JT’s core point that active comment threads generate more user engagement and advertiser‑relevant page views.
+
+Both responses remain at the level of **user perception**, not mechanism.
+
+## **3. Relevance to the Observatory**  
+The Postbag letter does not explain *why* comment visibility has declined.  
+However, it confirms the **symptom** described in entry 0027:
+
+- a reduction in the number of visible comments  
+- a narrowing of the discursive field  
+- a shift away from broad, multi‑voice participation  
+
+While 0027 focuses on **which types of comments appear or do not appear**, JT’s letter documents a **quantitative contraction** of the visible forum.
+
+These two perspectives are compatible:  
+one describes **content‑level filtering**, the other **volume‑level reduction**.
+
+## **4. Analytical Positioning**  
+The Postbag letter:
+
+- does **not** claim censorship  
+- does **not** infer political or editorial motives  
+- does **not** generalise beyond the platform  
+- does **document** a change in the platform’s visible comment dynamics  
+- does **align** with the broader pattern of discursive narrowing observed in 0027  
+
+For the Observatory, the letter serves as an **external, user‑generated confirmation** that the platform’s comment visibility has changed in a way that is noticeable to long‑term participants.
+
+---
+
+## 7. Observatory Relevance
 
 For the Observatory, this case provides a platform‑specific example of how:
 
