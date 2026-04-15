@@ -1,4 +1,4 @@
-# **0034 – Bangkok Post: Debt‑to‑Equity Conversion and Ownership Realignment (2024–2026)**  
+# **0044 – Bangkok Post: Debt‑to‑Equity Conversion and Ownership Realignment (2024–2026)**  
 ### *How unpayable loans were transformed into ownership and reshaped the company’s structure*
 
 ---
