@@ -164,3 +164,5 @@ It does not address editorial content, political positions, or individual actors
 
 <img src="../images/0044.webp" alt="0044" style="width: 480px; margin: auto;" loading="lazy">
 
+<img src="../images/0044_2.webp" alt="0044_2" style="width: 480px; margin: auto;" loading="lazy">
+
