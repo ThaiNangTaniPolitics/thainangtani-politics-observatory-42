@@ -1,9 +1,9 @@
-## 0006 - Bangkok Post: Ownership Timeline (2019–2026)
+## 0006 - **Bangkok Post: Ownership Timeline (2019–2026)**  
 ### *From dispersed shareholders → to single‑patron control (>70%)*
 
 ---
 
-## 2019–2022 — Fragmented Ownership
+## **2019–2022 — Fragmented Ownership**
 
 **Ownership characteristics:**  
 - No dominant shareholder  
@@ -18,7 +18,7 @@
 
 ---
 
-## 2023 — Early Stress Signals
+## **2023 — Early Stress Signals**
 
 **Ownership characteristics:**  
 - Still no controlling shareholder  
@@ -31,29 +31,30 @@
 
 ---
 
-## 2024 — Pre‑Collapse Phase
+## **2024 — Pre‑Collapse Phase**
 
 **Ownership characteristics:**  
 - No majority owner  
 - Directors begin issuing large short‑term loans  
-  (301.9m Baht in director financing)  
-- Company delisted from SET (July 2024)  
+  (**301.9m Baht** in director financing)  
+- Company delisted from SET (**26 July 2024**)  
 
 **Key individuals:**  
 - Executive Chairman: **Suthikiati Chirathivat**  
 - Chairman of the Board: **Prof. Dr. Wissanu Krea‑ngam**  
 
 **Structural conditions:**  
-- Equity turns negative (–444m Baht consolidated)  
+- Equity turns negative (**–444m Baht consolidated**)  
 - Auditor issues formal going‑concern warning  
+- Liquidity collapses (cash: **3.66m Baht**)  
 
 ---
 
-## 2025 — Debt‑to‑Equity Conversion (AGM)
+## **2025 — First Debt‑to‑Equity Conversion (AGM)**
 
 **New shares issued:**  
-- 596m shares → Suthikiati (298m Baht)  
-- 142m shares → Bangkok Bank (71m Baht)  
+- **596m shares** → Suthikiati (298m Baht)  
+- **142m shares** → Bangkok Bank (71m Baht)  
 
 **Resulting ownership structure:**  
 - **≈ 58% — Suthikiati Chirathivat**  
@@ -63,32 +64,58 @@
 **Structural meaning:**  
 - Suthikiati becomes controlling shareholder  
 - Company becomes privately dominated  
+- Public‑company governance effectively ends  
 
 ---
 
-## 2026 — Second Conversion Expected
+## **Mid‑2025 — Insolvency Deepens (AGM 2026 Data)**
+
+As of **30 June 2025**:
+
+- **Accumulated losses:** 954.18m Baht  
+- **Total liabilities:** 558.08m Baht  
+- **Debt‑to‑equity ratio:** ~1.4 (equity still negative)  
+- **Outstanding debt to major shareholders:**  
+  - Suthikiati: **321.82m Baht**  
+  - Bangkok Bank: **71.36m Baht**  
+
+The company remains insolvent and dependent on insider financing.
+
+---
+
+## **2026 — Second Debt‑to‑Equity Conversion (AGM)**
 
 **Board Resolution (Feb 2026):**  
-“Approve the cancellation… Approve the debt‑to‑equity conversion project.”
+“Approve the cancellation of the resolution approving the debt‑to‑equity conversion… Approve the debt‑to‑equity conversion project.”
+
+**Capital restructuring (AGM 2026):**
+
+- Registered capital reduced from **505m → 500m Baht**  
+- Registered capital increased from **500m → 1,238m Baht**  
+- **738,000,000 new shares** issued  
+- Offering price: **0.50 Baht**  
+- Allocation exclusively to:  
+  - **Suthikiati**  
+  - **Bangkok Bank**
 
 **Implications:**  
 - 2025 recapitalisation insufficient  
 - Further dilution required  
-- Only realistic source of capital:  
-  **Suthikiati’s remaining director loans**  
+- Only realistic capital source:  
+  **Suthikiati’s remaining director loans**
 
 **Mathematical outcome:**  
 If even half of the remaining 301.9m Baht loans convert:  
-→ **Suthikiati exceeds 70% ownership**  
+→ **Suthikiati exceeds 70% ownership**
 
 **Projected structure:**  
 - **>70% — Suthikiati Chirathivat**  
 - **~12–15% — Bangkok Bank**  
-- **<15% — All others combined**  
+- **<15% — All others combined**
 
 ---
 
-## 2026 Outlook — Hyper‑Concentrated Ownership
+## **2026 Outlook — Hyper‑Concentrated Ownership**
 
 **Ownership characteristics:**  
 - Suthikiati becomes de facto sole patron  
@@ -103,33 +130,33 @@ If even half of the remaining 301.9m Baht loans convert:
 
 ---
 
-## Outlook: What Comes Next (2026–2027)
+## **Outlook: What Comes Next (2026–2027)**
 
 **Financial Report 2025 (expected March–April 2026)**  
-The audited 2025 financial statements will provide the final numbers needed to assess the company’s solvency and capital requirements. Key indicators to watch:
+Will determine:
 
-- Total director loans outstanding  
-- Consolidated equity (expected to remain negative)  
-- Liquidity position  
-- Auditor’s going‑concern assessment  
-- Any restructuring of bank debt  
+- remaining director loans  
+- consolidated equity  
+- liquidity position  
+- auditor’s going‑concern assessment  
+- any restructuring of bank debt  
 
-These figures will determine the scale of the next recapitalisation.
+These figures will define the scale of the 2026 recapitalisation.
 
-**Board Meeting / Shareholder Meeting (expected April 2026)**  
-Following the release of the 2025 financials, the Board is expected to finalise the second debt‑to‑equity conversion. This meeting will likely:
+**Board Meeting / Shareholder Meeting (April 2026)**  
+Expected to:
 
-- Approve the conversion of remaining director loans  
-- Establish the new ownership structure  
-- Confirm whether the controlling shareholder exceeds 70%  
-- Clarify Bangkok Bank’s position  
-- Set the governance framework for 2026–2027  
+- approve the second conversion  
+- establish the final ownership structure  
+- confirm whether the controlling shareholder surpasses 70%  
+- clarify Bangkok Bank’s position  
+- set governance for 2026–2027  
 
-This will be the decisive moment in which the long‑term ownership concentration becomes official.
+This will formalise the long‑term ownership concentration.
 
 ---
 
-## Key Individuals (Complete List)
+## **Key Individuals (Complete List)**
 
 **Controlling Shareholder:**  
 - **Suthikiati Chirathivat** — Executive Chairman  
@@ -150,4 +177,3 @@ This will be the decisive moment in which the long‑term ownership concentratio
 - Dr. Siritaj Rojanapruk  
 
 <img src="../images/0006.webp" alt="0006" style="width: 480px; margin: auto;" loading="lazy">
-
