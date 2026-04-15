@@ -17,5 +17,5 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**Case Study · Discourse Analysis · Narrative Comparison · Structural Analysis**  
-0043 – Control and Fear Inside the Clergy in Thailand
+**How unpayable loans were transformed into ownership and reshaped the company’s structure**  
+0044 – Bangkok Post: Debt‑to‑Equity Conversion and Ownership Realignment (2024–2026)
