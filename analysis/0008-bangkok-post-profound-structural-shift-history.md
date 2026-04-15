@@ -95,6 +95,27 @@ It is a **permanent change in the newspaper’s identity and governance model**.
 
 ---
 
+## Residual Public‑Company Governance: A Structural Contradiction
+
+Despite delisting in 2024, the 2026 AGM documentation still includes:
+
+- full proxy forms  
+- custodian‑specific voting structures  
+- formalised voting instructions  
+- procedural compliance under the Public Limited Companies Act  
+
+This reveals a structural tension:
+
+- **Formally:**  
+  The Bangkok Post still behaves like a widely held public company.
+
+- **Substantively:**  
+  It is now a **privately dominated media asset** with a single controlling patron.
+
+The proxy architecture remains as a legal shell — a remnant of the former governance model — even though its practical relevance has nearly disappeared.
+
+---
+
 ## What Comes Next (2026–2027)
 
 ### Financial Report 2025 (expected March–April 2026)
