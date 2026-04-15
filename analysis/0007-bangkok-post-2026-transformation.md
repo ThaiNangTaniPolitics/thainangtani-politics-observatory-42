@@ -151,6 +151,51 @@ The timing is notable, but the reason remains undetermined.
 
 ---
 
+## 5a. Residual Public‑Company Governance: The Proxy‑Mechanism as Structural Signal
+
+The 2026 AGM documentation includes a full set of **proxy forms**, including *Proxy Form C*, used exclusively by **foreign shareholders who hold their shares through a Thai custodian**.  
+This mechanism is typical of **public‑company governance**, even though the Bangkok Post was delisted in July 2024.
+
+The presence of these forms reveals three structural facts:
+
+### **1. The company still operates under the legal architecture of a public limited company**  
+Even after delisting, the Bangkok Post must follow the procedural framework of the *Public Limited Companies Act*, including:
+
+- proxy voting  
+- custodian representation  
+- formalised voting instructions  
+- strict procedural compliance  
+
+This creates the appearance of a public‑company governance environment, even though ownership is now highly concentrated.
+
+### **2. Institutional investors still exist — but only as formal remnants**  
+The proxy forms assume:
+
+- foreign shareholders  
+- custodians  
+- institutional voting structures  
+
+In practice, however, the ownership structure after the 2025 and 2026 conversions is dominated by:
+
+- **Suthikiati (>70% projected)**  
+- **Bangkok Bank (~12–15%)**  
+- **minority shareholders (<15%)**
+
+The proxy architecture remains, but its practical relevance is minimal.
+
+### **3. Governance formality contrasts with governance reality**  
+The proxy system illustrates a structural tension:
+
+- **Formally:**  
+  The Bangkok Post still behaves like a widely held public company.
+
+- **Substantively:**  
+  The company is now a **privately dominated media asset** with a single controlling patron.
+
+This contrast is not a contradiction — it is a typical pattern in Thai corporate governance, where legal form and ownership reality often diverge.
+
+---
+
 ## 6. Conclusion: A strategic medium, not a market medium
 
 2026 is not only the Bangkok Post’s 80th anniversary.  
