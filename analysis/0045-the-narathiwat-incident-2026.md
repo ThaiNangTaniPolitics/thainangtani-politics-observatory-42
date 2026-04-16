@@ -188,7 +188,5 @@ The incident does not introduce new mechanisms; it provides a **contemporary exa
 This post describes structural dynamics and observable facts.  
 It does not address individual motives, political positions, or institutional intent.
 
-<img src="../images/0045.webp" alt="0045" style="width: 480px; margin: auto;" loading="lazy">
-
 <img src="../images/0045_3.webp" alt="0045_3" style="width: 480px; margin: auto;" loading="lazy">
 
