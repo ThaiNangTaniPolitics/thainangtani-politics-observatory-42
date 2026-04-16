@@ -162,6 +162,8 @@ It redefined the company’s ownership and governance structure.
 This document describes the financial and structural mechanisms of the restructuring.  
 It does not address editorial content, political positions, or individual actors beyond their financial roles.
 
+<img src="../images/0044_3.webp" alt="0044_3" style="width: 480px; margin: auto;" loading="lazy">
+
 <img src="../images/0044.webp" alt="0044" style="width: 480px; margin: auto;" loading="lazy">
 
 <img src="../images/0044_2.webp" alt="0044_2" style="width: 480px; margin: auto;" loading="lazy">
