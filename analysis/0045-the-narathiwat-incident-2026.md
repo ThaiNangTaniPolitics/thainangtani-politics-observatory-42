@@ -134,3 +134,6 @@ This post describes structural dynamics and observable facts.
 It does not address individual motives, political positions, or institutional intent.
 
 <img src="../images/0045.webp" alt="0045" style="width: 480px; margin: auto;" loading="lazy">
+
+<img src="../images/0045-2.webp" alt="0045_2" style="width: 480px; margin: auto;" loading="lazy">
+
