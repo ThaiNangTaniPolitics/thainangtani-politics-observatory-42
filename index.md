@@ -17,5 +17,6 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**How unpayable loans were transformed into ownership and reshaped the company’s structure**  
-0044 – Bangkok Post: Debt‑to‑Equity Conversion and Ownership Realignment (2024–2026)
+**A documented case illustrating how a contemporary event aligns with structural patterns in Thailand’s security architecture**  
+0045 – The Narathiwat Incident (2026): Administrative Penetration, Narrative Framing, and Public Trust
+
