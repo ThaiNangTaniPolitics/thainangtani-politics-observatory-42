@@ -129,7 +129,7 @@ These factors create a structural overlap between the **investigating environmen
 
 From a governance perspective, such a remark affects:
 
-### **a) Investigative Neutrality**  
+### *a) Investigative Neutrality*
 Law enforcement agencies must operate independently of the command structure they may need to examine.  
 A senior officer’s public statement about how he would have acted in a violent incident introduces:
 
@@ -139,7 +139,7 @@ A senior officer’s public statement about how he would have acted in a violent
 
 This can influence witness cooperation, internal reporting, and the perceived safety of raising concerns.
 
-### **b) Institutional Conflict of Interest**  
+### *b) Institutional Conflict of Interest*
 Because ISOC Region 4 is part of the operational environment surrounding the case, the continued presence of the commander in his role may create:
 
 – a conflict between institutional loyalty and investigative duties  
@@ -148,7 +148,7 @@ Because ISOC Region 4 is part of the operational environment surrounding the cas
 
 A temporary removal from command is a standard measure in systems where **procedural integrity** must be preserved.
 
-### **c) Public Confidence in the Investigation**  
+### *c) Public Confidence in the Investigation*
 In conflict‑affected regions, trust in state institutions is already fragile.  
 A remark implying acceptance of extrajudicial outcomes can:
 
@@ -158,7 +158,7 @@ A remark implying acceptance of extrajudicial outcomes can:
 
 Public trust is a functional component of security governance; its erosion affects the legitimacy of both the investigation and the institutions involved.
 
-### **d) Separation Between Personal Opinion and Institutional Position**  
+### *d) Separation Between Personal Opinion and Institutional Position*
 A temporary suspension or reassignment is not a punitive measure but a procedural safeguard.  
 It ensures:
 
@@ -167,6 +167,33 @@ It ensures:
 – the preservation of institutional credibility during an ongoing inquiry  
 
 Such measures are standard in systems where **oversight mechanisms** must remain visibly independent.
+
+
+### *e) Legal Relevance of Statements Made by Command Authorities*  
+The off‑mic remark also raises questions about the legal status of statements made by senior officers during official briefings.  
+In most governance systems, the distinction between *personal opinion* and *institutional communication* becomes blurred when:
+
+- the speaker holds command authority  
+- the statement is made in an official setting  
+- the subject concerns an ongoing criminal investigation  
+- the individuals involved fall within the speaker’s operational domain  
+
+Under such conditions, a remark implying that a violent act should have been “completed” may be interpreted as:
+
+– an endorsement of extrajudicial outcomes  
+– a comment that could influence subordinate behaviour  
+– a signal affecting the internal reporting climate  
+– a statement with potential implications for investigative independence  
+
+Even without intent, the **contextual weight** of the speaker’s position can give the remark procedural relevance.
+
+In comparable legal frameworks, such statements may fall under provisions related to:
+
+- inappropriate influence on ongoing investigations  
+- public comments that could affect witness cooperation  
+- the responsibilities of command authorities during active cases  
+
+This does not establish criminal liability; it highlights the **sensitivity of public communication** when senior officers comment on incidents involving political actors.
 
 ---
 
