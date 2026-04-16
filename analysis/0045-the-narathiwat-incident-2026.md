@@ -115,7 +115,62 @@ These dynamics are consistent with long‑standing trust challenges in the Deep 
 
 ---
 
-## 7. Interpretation  
+## 7. Implications for Law Enforcement and Institutional Accountability
+
+The off‑microphone remark by Lt Gen Narathip — stating that he “would not have let him survive” — has direct implications for the integrity of law enforcement processes.  
+While the statement was framed as a personal comment, its institutional context is significant:
+
+– the speaker holds command authority within ISOC Region 4  
+– the incident under investigation occurred within his operational jurisdiction  
+– the suspects include individuals with security‑related backgrounds  
+– a government‑issued vehicle was involved in the attack  
+
+These factors create a structural overlap between the **investigating environment** and the **institutional hierarchy** connected to the event.
+
+From a governance perspective, such a remark affects:
+
+### **a) Investigative Neutrality**  
+Law enforcement agencies must operate independently of the command structure they may need to examine.  
+A senior officer’s public statement about how he would have acted in a violent incident introduces:
+
+– potential pressure on subordinates  
+– perceived expectations within the hierarchy  
+– uncertainty about the boundaries of permissible conduct  
+
+This can influence witness cooperation, internal reporting, and the perceived safety of raising concerns.
+
+### **b) Institutional Conflict of Interest**  
+Because ISOC Region 4 is part of the operational environment surrounding the case, the continued presence of the commander in his role may create:
+
+– a conflict between institutional loyalty and investigative duties  
+– ambiguity about the chain of responsibility  
+– difficulty in ensuring that all relevant information is accessible to investigators  
+
+A temporary removal from command is a standard measure in systems where **procedural integrity** must be preserved.
+
+### **c) Public Confidence in the Investigation**  
+In conflict‑affected regions, trust in state institutions is already fragile.  
+A remark implying acceptance of extrajudicial outcomes can:
+
+– undermine confidence in the impartiality of the investigation  
+– reinforce perceptions of unequal accountability  
+– intensify public concern about the relationship between security actors and political violence  
+
+Public trust is a functional component of security governance; its erosion affects the legitimacy of both the investigation and the institutions involved.
+
+### **d) Separation Between Personal Opinion and Institutional Position**  
+A temporary suspension or reassignment is not a punitive measure but a procedural safeguard.  
+It ensures:
+
+– a clear distinction between individual statements and institutional policy  
+– an environment in which investigators can operate without hierarchical influence  
+– the preservation of institutional credibility during an ongoing inquiry  
+
+Such measures are standard in systems where **oversight mechanisms** must remain visibly independent.
+
+---
+
+## 8. Interpretation  
 This post does not infer motives or assign responsibility.  
 Instead, it documents how the Narathiwat incident:
 
@@ -129,7 +184,7 @@ The incident does not introduce new mechanisms; it provides a **contemporary exa
 
 ---
 
-## 8. Notes  
+## 9. Notes  
 This post describes structural dynamics and observable facts.  
 It does not address individual motives, political positions, or institutional intent.
 
