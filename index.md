@@ -17,6 +17,6 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**A documented case illustrating how a contemporary event aligns with structural patterns in Thailand’s security architecture**  
-0045 – The Narathiwat Incident (2026): Administrative Penetration, Narrative Framing, and Public Trust
+**How the post‑coup government uses regional diplomacy to offset isolation and sanctions**  
+0046 – Myanmar’s Legitimacy‑Seeking Architecture (2026)
 
