@@ -61,3 +61,6 @@ Until then, the Observatory remained what it was always meant to be:
 
 *A place where the universe could think in peace.*
 
+<img src="../images/0000_1.webp" alt="0001" style="width: 480px; margin: auto;" loading="lazy">
+
+
