@@ -17,6 +17,6 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**How the post‑coup government uses regional diplomacy to offset isolation and sanctions**  
-0046 – Myanmar’s Legitimacy‑Seeking Architecture (2026)
+**How heat, haze, wildfires and governance gaps converge into a multi‑layered systemic emergency**  
+0047 – Thailand’s 2026 Environmental‑Crisis Architecture
 
