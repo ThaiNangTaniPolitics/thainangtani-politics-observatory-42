@@ -242,5 +242,3 @@ It does not infer individual motives or assign moral responsibility.
 
 <img src="../images/0048.webp" alt="0048" style="width: 480px; margin: auto;" loading="lazy">
 
-<img src="../images/0048_3.webp" alt="0048_3" style="width: 480px; margin: auto;" loading="lazy">
-
