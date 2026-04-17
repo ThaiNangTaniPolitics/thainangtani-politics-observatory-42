@@ -6,17 +6,17 @@
 ## 1. Scope and Context
 
 Thailand’s private‑education sector is undergoing a structural contraction in 2026.  
-For decades, private schools functioned as a **parallel safety net** for families seeking alternatives to overcrowded public schools. This buffer is now eroding at unprecedented speed.
+For decades, private schools operated as an **alternative pathway** for families seeking options beyond high‑density public schools. This segment is now contracting at a pace not observed in previous years.
 
 This article documents:
 
-- the financial and demographic pressures driving mass closures  
+- the financial and demographic pressures associated with school closures  
 - the competitive asymmetry between public, private and international schools  
-- the regulatory and land‑value dynamics accelerating school shutdowns  
-- the governance architecture that shapes funding, incentives and institutional survival  
-- the socio‑economic implications of losing the private‑sector education layer  
+- the regulatory and land‑value dynamics influencing institutional decisions  
+- the governance architecture that shapes funding, incentives and operational conditions  
+- the socio‑economic implications of changes in the private‑education layer  
 
-The purpose is to analyze the **collapse architecture** of Thailand’s private schools and situate it within broader patterns of **Dual Governance and socio‑economic stratification**.
+The purpose is to analyze the **structural configuration** of Thailand’s private‑school contraction and situate it within broader patterns of **Dual Governance and socio‑economic stratification**.
 
 -----
 
@@ -24,13 +24,13 @@ The purpose is to analyze the **collapse architecture** of Thailand’s private 
 
 Reporting from the *Bangkok Post* (April 2026) establishes several verifiable elements:
 
-- Up to **70–80 private schools** are expected to close in 2026 — far above the historical average of 30–50 per year.  
+- Up to **70–80 private schools** are expected to close in 2026 — above the historical average of 30–50 per year.  
 - Several private schools in **Bangkok** have already ceased operations.  
 - Rising operating costs — especially **fuel prices** affecting student transport — are a primary driver.  
-- **Declining enrolment** intensifies financial pressure.  
-- Public schools have expanded class sizes from **40 to 44 students**, increasing their intake capacity.  
+- **Declining enrolment** increases financial pressure.  
+- Public schools have expanded class sizes from **40 to 44 students**, increasing intake capacity.  
 - Open‑admission policies at key entry levels draw students away from private schools.  
-- High **land values** make selling or repurposing school property more attractive than continued operation.  
+- High **land values** make selling or repurposing school property economically viable relative to continued operation.  
 - Funding disparities persist: public schools receive meal subsidies and structural support that private schools must finance independently.  
 - International schools continue to expand, with some public schools offering semi‑premium programmes costing **60,000–70,000 baht per term**, narrowing the price gap.  
 
@@ -48,7 +48,7 @@ Private schools face rising expenditures in:
 - regulatory compliance  
 - facility maintenance  
 
-These costs increase faster than tuition fees can be raised, given household budget constraints.
+These costs increase faster than tuition fees can be adjusted, given household budget constraints.
 
 ### *3.2 Demographic and Household‑Income Shifts*
 
@@ -72,10 +72,10 @@ Public schools expand class sizes and maintain open‑admission policies, creati
 
 ### *4.1 Land Value as Exit Mechanism*
 
-High urban land prices create a **perverse incentive**:
+High urban land prices create an **incentive misalignment**:
 
-- operating a school is less profitable than selling or redeveloping the land  
-- closures become economically rational decisions  
+- operating a school yields lower returns than selling or redeveloping the land  
+- closures become economically consistent with prevailing land‑value dynamics  
 
 ### *4.2 Regulatory Burden*
 
@@ -85,7 +85,7 @@ Private schools face:
 - limited access to subsidies  
 - constraints on fee structures  
 
-These factors reduce operational flexibility and accelerate closures.
+These factors reduce operational flexibility and contribute to institutional contraction.
 
 -----
 
@@ -96,8 +96,8 @@ These factors reduce operational flexibility and accelerate closures.
 As private schools close, public schools absorb displaced students, leading to:
 
 - larger class sizes  
-- increased strain on teachers  
-- uneven quality distribution  
+- increased workload for teachers  
+- heterogeneous instructional conditions  
 
 ### *5.2 International Schools as Upward‑Mobility Channels*
 
@@ -107,16 +107,16 @@ International schools expand rapidly, offering:
 - premium facilities  
 - global curricula  
 
-This creates a **two‑tier system**:
+This contributes to a **two‑tier system**:
 
-- families with means move upward  
-- families without means move downward into the public system  
+- families with higher incomes move toward international programmes  
+- families with lower incomes move toward public schools  
 
 ### *5.3 The Middle Segment Collapses*
 
-Private schools — traditionally the **middle layer** — shrink fastest.  
+Private schools — traditionally the **middle layer** — contract fastest.  
 This reflects a broader socio‑economic pattern:  
-**the erosion of Thailand’s middle‑class infrastructure.**
+**a reduction of middle‑class educational infrastructure.**
 
 -----
 
@@ -132,7 +132,7 @@ Private‑sector representatives highlight persistent disparities in:
 - teacher‑development programmes  
 
 Public schools receive structural backing that private schools must finance independently.  
-This creates a **systemic cost asymmetry** that accelerates closures.
+This results in a **cost‑structure asymmetry** that influences institutional outcomes.
 
 ### *6.2 Regulatory Constraints*
 
@@ -142,7 +142,7 @@ Private schools face:
 - compliance requirements for facilities and staffing  
 - limited flexibility in adjusting tuition to rising costs  
 
-These constraints reduce their ability to adapt to economic shocks.
+These constraints reduce their ability to adapt to economic changes.
 
 ### *6.3 Policy Inertia*
 
@@ -153,7 +153,7 @@ Despite rising closure numbers, no comprehensive policy package has been introdu
 - rebalance funding mechanisms  
 - mitigate land‑value pressures  
 
-The absence of coordinated intervention reinforces the contraction trend.
+The absence of coordinated intervention contributes to the continuation of the contraction trend.
 
 -----
 
@@ -166,7 +166,7 @@ Across the documented elements, several structural patterns emerge:
 - **Land‑Value Migration:** Urban land markets incentivize school closures and redevelopment.  
 - **Bimodal Education Market:** Growth at the top (international schools) and bottom (public schools), shrinkage in the middle.  
 - **Governance Asymmetry:** Public schools benefit from subsidies and scale; private schools absorb full market risk.  
-- **Institutional Fatigue:** Smaller schools lack reserves to withstand multi‑year financial pressure.  
+- **Limited Institutional Resilience:** Smaller schools lack reserves to withstand multi‑year financial pressure.  
 
 These patterns indicate a **systemic contraction**, not isolated failures.
 
@@ -182,14 +182,14 @@ The contraction of Thailand’s private‑school sector in 2026 is the result of
 4. **Spatial Layer:** High land values incentivizing exit.  
 5. **Governance Layer:** Funding asymmetries between public and private institutions.  
 
-The collapse architecture emerges from the **alignment** of these forces.  
+The structural configuration emerges from the **alignment** of these forces.  
 Private schools — historically the middle layer of Thailand’s education system — are structurally disadvantaged in a landscape where:
 
 - public schools expand capacity,  
-- international schools capture high‑income families,  
+- international schools attract higher‑income families,  
 - and demographic decline reduces demand.
 
-The result is a **progressive hollowing‑out** of the middle segment.
+The result is a **progressive reduction** of the middle segment.
 
 -----
 
@@ -198,40 +198,35 @@ The result is a **progressive hollowing‑out** of the middle segment.
 ### *9.1 The Demographic Sink as Hardware Limitation*
 
 Declining enrolment reflects a **deterministic demographic constraint**.  
-Thailand’s fertility rate has fallen so far below replacement level that in many districts:
+Thailand’s fertility rate has fallen far below replacement level, such that in many districts:
 
-- even full enrolment would leave private schools at **half capacity**.
+- even full enrolment would leave private schools at **approximately half capacity**.
 
-This is not a cyclical downturn but the **shutdown of future infrastructure**.  
-The education system loses physical nodes because the **input resource — children — is diminishing**.
+This represents a **deactivation of educational capacity** due to demographic conditions.  
+The system reduces physical nodes because the **input resource — children — is declining**.
 
 ### *9.2 The Real‑Estate Pivot: Capital vs. Human Capital*
 
-High land values create a rational incentive to repurpose school property.  
+High land values create an incentive to repurpose school property.  
 In urban areas, a classroom competes with:
 
-- condominiums,  
-- logistics hubs,  
-- data centers,  
-- commercial developments.  
+- condominiums  
+- logistics hubs  
+- data centers  
+- commercial developments  
 
-These alternatives yield higher **O(1) returns** than education.  
-The system implicitly prioritizes **capital accumulation** over **human‑capital formation** — a silent policy executed through market logic.
+These alternatives yield higher **immediate returns** than educational use.  
+This reflects an **incentive structure** in which capital‑intensive land uses outcompete educational uses.
 
 ### *9.3 The Educational Gini Coefficient*
 
-The collapse of mid‑tier private schools produces a **bimodal education structure**:
+The contraction of mid‑tier private schools produces a **bimodal education structure**:
 
 - **High‑End:** International schools serving globally oriented families.  
-- **Low‑End:** Overcrowded public schools absorbing displaced students.  
+- **Low‑End:** Public schools absorbing displaced students.  
 
-The **middle layer**, historically the engine of upward mobility, contracts sharply.  
-This leads to **socio‑economic calcification**:
-
-- class position becomes a **persistent object state**,  
-- less transformable through standard educational pathways.  
-
-The educational Gini coefficient rises, reflecting widening structural inequality.
+The **middle layer**, historically associated with upward mobility, contracts significantly.  
+This results in **reduced socio‑economic mobility**, as class position becomes more stable across generations.
 
 -----
 
