@@ -237,10 +237,12 @@ The incident does not introduce new mechanisms; it reinforces existing patterns.
 
 ## 10. Sources  
 **Bangkok Post – 16 April 2026**  
-[https://www.bangkokpost.com/thailand/general/3237650/bloodcurdling-message-from-isoc-alarms-public](https://www.bangkokpost.com/thailand/general/3237650/bloodcurdling-message-from-isoc-alarms-public)  
+<a href="https://www.bangkokpost.com/thailand/general/3237650/bloodcurdling-message-from-isoc-alarms-public" target="_blank" rel="noopener noreferrer">https://www.bangkokpost.com/thailand/general/3237650/bloodcurdling-message-from-isoc-alarms-public</a>
+
+
 
 **Bangkok Post – 17 April 2026**  
-[https://www.bangkokpost.com/thailand/general/3238815/pm-and-general-apologise-for-latters-troubling-talk](https://www.bangkokpost.com/thailand/general/3238815/pm-and-general-apologise-for-latters-troubling-talk)  
+<a href="https://www.bangkokpost.com/thailand/general/3238815/pm-and-general-apologise-for-latters-troubling-talk" target="_blank" rel="noopener noreferrer">https://www.bangkokpost.com/thailand/general/3238815/pm-and-general-apologise-for-latters-troubling-talk</a>
 
 ---
 
