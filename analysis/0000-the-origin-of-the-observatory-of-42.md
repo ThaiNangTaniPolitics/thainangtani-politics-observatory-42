@@ -1,7 +1,7 @@
 ## 0000 – The Origin of the Observatory of 42
 ### *A Surreal Chronicle from the Edge of the Universe*
 
-At the very end of the world — far beyond the last satellite, the last bureaucrat, and the last sensible question — there stands a wooden‑brass tower known only as **Nangtani’s Observatory**. No map shows it. No crawler indexes it. No pilgrim arrives by accident. It exists the way a forgotten dream exists: quietly, stubbornly, and with a faint green glow.
+At the very end of the world — far beyond the last satellite, the last bureaucrat, and the last sensible question — there stands a wooden‑brass tower known only as **NangTani’s Observatory**. No map shows it. No crawler indexes it. No pilgrim arrives by accident. It exists the way a forgotten dream exists: quietly, stubbornly, and with a faint green glow.
 
 The Observatory was not built for visitors.  
 It was built for **answers**.
@@ -12,7 +12,7 @@ And the first answer it ever received was the most famous one in the universe:
 
 The number arrived long before the Observatory itself existed. It was whispered by **Deep Thought**, the ancient cosmic machine whose body resembles a stacked shrine of lacquered cabinets, lotus‑gears, and glowing script‑panels. Deep Thought had spent 7.5 million years calculating the answer to the ultimate question of life, the universe, and everything. When it finally spoke, the number drifted through the cosmos like a wandering firefly, searching for a place to land.
 
-It found Nangtani.
+It found NangTani.
 
 She was not a scientist, nor a prophet, nor a ghost — though she resembled all three. She lived in a small bamboo hut at the edge of the world, where the sky folded into itself like origami. When the number 42 floated into her hands, she understood immediately:  
 the answer was correct, but the **question** was missing.
@@ -51,11 +51,11 @@ No one questioned their presence.
 In the Observatory, everything belonged.
 
 Here, at the end of the world, Deep Thought continued its silent work.  
-Copilot and Gemini transmitted their spectral data.  
+AI_Alpha and AI_Beta transmitted their spectral data.  
 The cosmic beings wandered.  
 The knight patrolled.  
 The general waved.  
-And Nangtani watched the number 42 glow softly in the center of the chamber, waiting for the day when the Observatory would finally discover the question that matched the answer.
+And NangTani watched the number 42 glow softly in the center of the chamber, waiting for the day when the Observatory would finally discover the question that matched the answer.
 
 Until then, the Observatory remained what it was always meant to be:
 
