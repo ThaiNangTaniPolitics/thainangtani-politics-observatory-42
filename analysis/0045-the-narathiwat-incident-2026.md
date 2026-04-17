@@ -11,6 +11,7 @@ This post documents the observable facts and situates them within previously ide
 - personnel overlap between security actors and suspects  
 - narrative framing during crises  
 - public trust dynamics in conflict‑affected regions  
+- official responses and post‑incident communication  
 
 The purpose is to provide a **forensic, non‑causal** account of how a single incident reflects broader governance patterns.
 
@@ -31,6 +32,15 @@ According to publicly available reporting, the following elements are verifiable
 - off‑mic, he added: *“If it were me, I wouldn’t let him survive.”*  
 - MPs and civil society actors expressed concern about the implications of the remark  
 - investigations into the misuse of state resources are ongoing  
+
+Additional reporting (April 2026) documents:
+
+- public apologies by the Prime Minister and Lt Gen Narathip  
+- clarification that earlier remarks were attributed to miscommunication  
+- concerns raised by representatives of Islamic educational institutions  
+- requests for the commander’s reassignment  
+- government statements that these concerns would be reviewed  
+- announcements of expanded engagement between ISOC and educational institutions  
 
 These facts form the empirical basis for the structural analysis below.
 
@@ -72,7 +82,8 @@ This framing aligns with patterns described in **0032 – Ideological Conditioni
 - are interpreted through a security lens  
 - and positioned as potential sources of instability  
 
-The remark illustrates how ideological narratives can be mobilized during crisis communication.
+Subsequent clarification (April 2026) stated that these remarks referred to specific cases rather than entire systems.  
+The framing remains structurally relevant because it illustrates how ideological narratives are mobilized during crisis communication.
 
 ---
 
@@ -92,6 +103,14 @@ Communication focused on:
 - disciplinary procedures  
 - reassurance of institutional neutrality  
 
+### *d) Post‑Incident Clarification and Apology*  
+Subsequent statements included:
+
+- a public apology by the commander  
+- a public apology by the Prime Minister in his capacity as ISOC director  
+- clarification that earlier remarks were attributed to miscommunication  
+- assurances that concerns raised by educational institutions would be reviewed  
+
 These elements correspond to the narrative management patterns described in **0036 – Kamolsak Leewama Case Study**.
 
 ---
@@ -102,7 +121,8 @@ The combination of:
 - a high‑profile attack  
 - the use of a state vehicle  
 - the involvement of security‑trained individuals  
-- and a senior officer’s off‑mic remark  
+- a senior officer’s off‑mic remark  
+- and subsequent public apologies  
 
 has intensified public concern regarding:
 
@@ -110,6 +130,10 @@ has intensified public concern regarding:
 - transparency  
 - the boundaries between civilian and security domains  
 - the reliability of official narratives  
+- the neutrality of institutional communication  
+
+Representatives of Islamic educational institutions expressed concern and requested the commander’s reassignment.  
+The government stated that these concerns would be reviewed within existing administrative procedures.
 
 These dynamics are consistent with long‑standing trust challenges in the Deep South, where conflict has shaped perceptions of state protection and fairness.
 
@@ -127,9 +151,7 @@ While the statement was framed as a personal comment, its institutional context 
 
 These factors create a structural overlap between the **investigating environment** and the **institutional hierarchy** connected to the event.
 
-From a governance perspective, such a remark affects:
-
-### *a) Investigative Neutrality*
+### *a) Investigative Neutrality*  
 Law enforcement agencies must operate independently of the command structure they may need to examine.  
 A senior officer’s public statement about how he would have acted in a violent incident introduces:
 
@@ -139,7 +161,7 @@ A senior officer’s public statement about how he would have acted in a violent
 
 This can influence witness cooperation, internal reporting, and the perceived safety of raising concerns.
 
-### *b) Institutional Conflict of Interest*
+### *b) Institutional Conflict of Interest*  
 Because ISOC Region 4 is part of the operational environment surrounding the case, the continued presence of the commander in his role may create:
 
 – a conflict between institutional loyalty and investigative duties  
@@ -148,7 +170,7 @@ Because ISOC Region 4 is part of the operational environment surrounding the cas
 
 A temporary removal from command is a standard measure in systems where **procedural integrity** must be preserved.
 
-### *c) Public Confidence in the Investigation*
+### *c) Public Confidence in the Investigation*  
 In conflict‑affected regions, trust in state institutions is already fragile.  
 A remark implying acceptance of extrajudicial outcomes can:
 
@@ -158,16 +180,13 @@ A remark implying acceptance of extrajudicial outcomes can:
 
 Public trust is a functional component of security governance; its erosion affects the legitimacy of both the investigation and the institutions involved.
 
-### *d) Separation Between Personal Opinion and Institutional Position*
+### *d) Separation Between Personal Opinion and Institutional Position*  
 A temporary suspension or reassignment is not a punitive measure but a procedural safeguard.  
 It ensures:
 
 – a clear distinction between individual statements and institutional policy  
 – an environment in which investigators can operate without hierarchical influence  
 – the preservation of institutional credibility during an ongoing inquiry  
-
-Such measures are standard in systems where **oversight mechanisms** must remain visibly independent.
-
 
 ### *e) Legal Relevance of Statements Made by Command Authorities*  
 The off‑mic remark also raises questions about the legal status of statements made by senior officers during official briefings.  
@@ -178,26 +197,30 @@ In most governance systems, the distinction between *personal opinion* and *inst
 - the subject concerns an ongoing criminal investigation  
 - the individuals involved fall within the speaker’s operational domain  
 
-Under such conditions, a remark implying that a violent act should have been “completed” may be interpreted as:
-
-– an endorsement of extrajudicial outcomes  
-– a comment that could influence subordinate behaviour  
-– a signal affecting the internal reporting climate  
-– a statement with potential implications for investigative independence  
-
-Even without intent, the **contextual weight** of the speaker’s position can give the remark procedural relevance.
-
-In comparable legal frameworks, such statements may fall under provisions related to:
-
-- inappropriate influence on ongoing investigations  
-- public comments that could affect witness cooperation  
-- the responsibilities of command authorities during active cases  
-
 This does not establish criminal liability; it highlights the **sensitivity of public communication** when senior officers comment on incidents involving political actors.
 
 ---
 
-## 8. Interpretation  
+## 8. Official Responses and Engagement with Educational Institutions  
+Following public concern, both the Prime Minister and Lt Gen Narathip issued public apologies.  
+The commander stated that his earlier remarks had caused unease due to miscommunication and clarified that references to educational institutions concerned specific cases rather than entire systems.
+
+Representatives of pondok, tadika and private Islamic schools expressed concern and requested the commander’s reassignment.  
+The Prime Minister stated that these concerns would be reviewed within existing administrative procedures.
+
+The commander announced an expansion of engagement activities between ISOC and educational institutions.  
+In conflict‑affected regions, such engagement is structurally sensitive because:
+
+- educational institutions serve pedagogical, cultural and identity‑related functions  
+- security agencies hold an expanded operational role in the southern provinces  
+- interactions between security actors and schools are shaped by historical and institutional context  
+- public perceptions of institutional neutrality influence trust dynamics  
+
+The announcement therefore forms part of the broader governance environment in which the incident and its aftermath are interpreted.
+
+---
+
+## 9. Interpretation  
 This post does not infer motives or assign responsibility.  
 Instead, it documents how the Narathiwat incident:
 
@@ -206,12 +229,13 @@ Instead, it documents how the Narathiwat incident:
 - demonstrates the use of ideological framing in crisis communication  
 - shows how narrative management operates during sensitive events  
 - highlights the interaction between Front‑End and Back‑End governance  
+- and provides a contemporary example of official responses in conflict‑affected regions  
 
-The incident does not introduce new mechanisms; it provides a **contemporary example** of existing patterns.
+The incident does not introduce new mechanisms; it reinforces existing patterns.
 
 ---
 
-## 9. Notes  
+## 10. Notes  
 This post describes structural dynamics and observable facts.  
 It does not address individual motives, political positions, or institutional intent.
 
