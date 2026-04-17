@@ -49,4 +49,5 @@ This section contains analytical case studies and narrative investigations.
 - [0004 – Bangkok Post: Ownership Structure, Financial Dependencies, and Editorial Patterns](0004-bangkok-post-ownership-financial-structure.md)
 - [0003 – Bangkok Post: Financial Baseline 2024–2026](0003-bangkok-post-financial-baseline-2024–2026.md)
 - [0002 – Visa Policy Narrative Shift in Thai Media](0002-visa-policy-narrative-shift.md)
-- [0001 – Media Mechanics: Ownership, Interests, and Editorial Patterns](0001-media-mechanics-ownership-editorial-patterns.md)  
+- [0001 – Media Mechanics: Ownership, Interests, and Editorial Patterns](0001-media-mechanics-ownership-editorial-patterns.md)
+- [0000 – The Origin of the Observatory of 42](0000-the-origin-of-the-observatory-of-42.md) 
