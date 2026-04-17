@@ -17,6 +17,6 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**How heat, haze, wildfires and governance gaps converge into a multi‑layered systemic emergency**  
-0047 – Thailand’s 2026 Environmental‑Crisis Architecture
+**Cost pressure, demographic shifts and governance asymmetries in the 2026 education landscape**  
+0048 – The Collapse Architecture of Thailand’s Private Schools
 
