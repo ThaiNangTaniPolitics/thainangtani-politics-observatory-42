@@ -240,3 +240,7 @@ The educational Gini coefficient rises, reflecting widening structural inequalit
 This article focuses exclusively on documented economic, demographic and governance mechanisms.  
 It does not infer individual motives or assign moral responsibility.
 
+
+<img src="../images/0048.webp" alt="0048" style="width: 480px; margin: auto;" loading="lazy">
+
+
