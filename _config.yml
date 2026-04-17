@@ -3,7 +3,7 @@ title: Thai Nang Tani Politics Observatory
 #theme: minima
 
 # Force rebuild
-force_rebuild: 64
+force_rebuild: 65
 
 # Disable minima's default collections/static overrides
 collections: {}
