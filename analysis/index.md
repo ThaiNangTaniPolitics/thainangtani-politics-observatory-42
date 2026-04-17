@@ -4,7 +4,8 @@ This section contains analytical case studies and narrative investigations.
 
 ---
 
-- [ 0045 – The Narathiwat Incident (2026): Administrative Penetration, Narrative Framing, and Public Trust](0045-the-narathiwat-incident-2026.md)
+- [0046 – Myanmar’s Legitimacy‑Seeking Architecture (2026)](0046-myanmars-legitimacy-seeking-architecture-2026.md)
+- [0045 – The Narathiwat Incident (2026): Administrative Penetration, Narrative Framing, and Public Trust](0045-the-narathiwat-incident-2026.md)
 - [0044 – Bangkok Post: Debt‑to‑Equity Conversion and Ownership Realignment (2024–2026)](0044-how-the-bangkok-post-was-restructured.md)
 - [0043 – Control and Fear Inside the Clergy in Thailand](0043-control-and-fear-inside-the-clergy-in-thailand.md)
 - [0042 – OECD standards and Thailand’s 2024–2026 institutional escalation](0042-thailand-oecd-structural-incompatibilities.md)
