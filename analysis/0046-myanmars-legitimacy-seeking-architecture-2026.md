@@ -108,5 +108,5 @@ This architecture demonstrates that international legitimacy is not merely a leg
 This article focuses exclusively on documented structural mechanisms and regional diplomatic patterns.  
 It does not infer individual motives or assign moral responsibility.
 
-<img src="../images/0046.webp" alt="0046 - Myanmar's Legitimacy-Seeking Architecture" style="width: 480px; margin: auto;" loading="lazy">
+<img src="../images/0046.webp" alt="0046" style="width: 480px; margin: auto;" loading="lazy">
 
