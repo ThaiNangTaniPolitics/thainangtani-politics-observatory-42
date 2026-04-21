@@ -4,6 +4,7 @@ This section contains analytical case studies and narrative investigations.
 
 ---
 
+-  [0049 – Thai–Cambodian Border Dispute (2026)](0049-thai-cambodian-border-dispute-2026.md)
 - [0048 – The Collapse Architecture of Thailand’s Private Schools](0048-the-collapse-architecture-of-thailands-private-schools.md)
 - [0047 – Thailand’s 2026 Environmental‑Crisis Architecture](0047-thailands-2026-environmental-crisis-architecture.md)
 - [0046 – Myanmar’s Legitimacy‑Seeking Architecture (2026)](0046-myanmars-legitimacy-seeking-architecture-2026.md)
