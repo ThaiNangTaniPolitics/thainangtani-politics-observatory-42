@@ -17,6 +17,7 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**Cost pressure, demographic shifts and governance asymmetries in the 2026 education landscape**  
-0048 – The Collapse Architecture of Thailand’s Private Schools
+**How de‑facto control, diplomatic signalling and external perceptions shape a stalled territorial dispute**  
+0049 – Thai–Cambodian Border Dispute (2026): Frozen Conflict, Narrative Competition and Post‑Ceasefire Dynamics
+
 
