@@ -186,3 +186,6 @@ The framing appears tailored to a Thai domestic readership, which shapes narrati
 **Bangkok Post – 21 April 2026**  
 <a href="https://www.bangkokpost.com/thailand/general/3237650/border-dispute-needs-steady-dialogue" target="_blank" rel="noopener noreferrer">https://www.bangkokpost.com/thailand/general/3237650/border-dispute-needs-steady-dialogue</a>
 
+<img src="../images/0049.webp" alt="0049" style="width: 480px; margin: auto;" loading="lazy">
+
+
