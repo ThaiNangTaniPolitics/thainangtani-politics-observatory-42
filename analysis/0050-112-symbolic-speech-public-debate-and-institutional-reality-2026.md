@@ -1,4 +1,4 @@
-## 0050 – Symbolic Speech, Public Debate and Institutional Reality (2026)
+## 0050 – 112 Symbolic Speech, Public Debate and Institutional Reality (2026)
 ### *How historical statements, contemporary discourse and constitutional practice diverge in the Section 112 debate*
 
 -----
