@@ -148,7 +148,7 @@ Across symbolic speech, public debate and institutional practice, several patter
 
 This divergence is not a matter of evaluation but a structural characteristic of Thailand’s contemporary constitutional landscape.
 
-
+<img src="../images/0050.webp" alt="0050" style="width: 480px; margin: auto;" loading="lazy">
 
 
 
