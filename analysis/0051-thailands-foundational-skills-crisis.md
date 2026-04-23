@@ -417,7 +417,7 @@ It does not infer individual motives or assign moral responsibility.
 World Bank (2024). Fostering Foundational Skills in Thailand: From a Skills Crisis to a Learning Society.  
 Available at: https://documents1.worldbank.org/curated/en/099021424061519032/pdf/P1734411f818b80a9190d813a4e0c04f02c.pdf
 
-<img src="../images/0050.webp" alt="0050" style="width: 480px; margin: auto;" loading="lazy">
+<img src="../images/0051.webp" alt="0051" style="width: 480px; margin: auto;" loading="lazy">
 
-
+<img src="../images/0051_2.webp" alt="0051_2" style="width: 480px; margin: auto;" loading="lazy">
 
