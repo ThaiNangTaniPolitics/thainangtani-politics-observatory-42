@@ -448,12 +448,12 @@ This creates a **structural vulnerability** in consumer finance.
 
 ---
 
-## 13. The Political Dimension: Information Access and Participation
+## 12. The Political Dimension: Information Access and Participation
 
 Political participation requires the ability to decode programs, evaluate narratives and interpret institutional communication.  
 Foundational‑skills deficits create several barriers.
 
-### *13.1 Dependence on Intermediaries*
+### *12.1 Dependence on Intermediaries*
 
 When individuals struggle to process complex information, reliance on:
 
@@ -464,7 +464,7 @@ When individuals struggle to process complex information, reliance on:
 increases.  
 This dynamic is widely described in governance research as **information asymmetry**.
 
-### *13.2 Passive Consumption vs. Active Analysis*
+### *12.2 Passive Consumption vs. Active Analysis*
 
 Institutions such as the Thailand Development Research Institute (TDRI) note that the dominance of short‑form digital content:
 
@@ -476,12 +476,12 @@ This affects the **quality and depth of civic engagement**.
 
 ---
 
-## 14. The Legal Dimension: High‑Penalty Formalism and Cognitive Barriers
+## 13. The Legal Dimension: High‑Penalty Formalism and Cognitive Barriers
 
 Thailand’s legal system is often characterized in international analyses as **formalistic**, with complex procedures and high demands on textual comprehension.  
 This creates structural challenges for individuals with low foundational literacy.
 
-### *14.1 Information Barriers*
+### *13.1 Information Barriers*
 
 Research shows that individuals below the literacy threshold often struggle to:
 
@@ -490,7 +490,7 @@ Research shows that individuals below the literacy threshold often struggle to:
 - evaluate the implications of written warnings  
 - assess risks in digital communication  
 
-### *14.2 Digital Interpretation Risk*
+### *13.2 Digital Interpretation Risk*
 
 In a digital environment where online actions may carry legal significance, misinterpretation of:
 
@@ -500,7 +500,7 @@ In a digital environment where online actions may carry legal significance, misi
 
 can lead to unintended legal exposure if the semantic meaning is not fully understood.
 
-### *14.3 Procedural Vulnerability*
+### *13.3 Procedural Vulnerability*
 
 Low functional literacy increases vulnerability in formal proceedings:
 
@@ -513,7 +513,7 @@ the complexity of the legal system exceeds the interpretive capacity of a large 
 
 ---
 
-## 15. Synthesis: The Structural Vulnerability Loop
+## 14. Synthesis: The Structural Vulnerability Loop
 
 Across economic, political and legal dimensions, a multi‑layered vulnerability emerges when low foundational literacy intersects with complex institutional environments.
 
@@ -525,7 +525,7 @@ The result is a **self‑reinforcing structural inequality**, in which limited c
 
 ---
 
-## 16. Notes
+## 15. Notes
 
 This article focuses exclusively on documented empirical findings and structural mechanisms.  
 It does not infer individual motives or assign moral responsibility.
