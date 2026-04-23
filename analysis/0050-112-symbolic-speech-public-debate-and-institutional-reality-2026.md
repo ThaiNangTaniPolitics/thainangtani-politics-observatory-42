@@ -39,6 +39,22 @@ This variability is not unusual: political leaders, like all individuals, may ex
 In many political cultures, statements by senior figures acquire a status of moral authority.  
 When such authority is perceived as unquestionable, contradictions may be overlooked or rationalised, and earlier statements may be selectively invoked.
 
+### *2.4 Semantic Entrapment: When Historical Statements Become Interpretive Traps*
+
+Historical statements can function as a form of semantic entrapment.
+When a past statement (e.g., “criticism is welcome”) contradicts contemporary institutional practice, observers experience cognitive dissonance.
+Institutions typically do not resolve this dissonance by altering their behaviour.
+Instead, they engage in **interpretive over‑engineering**:
+they reinterpret the original statement in a way that aligns with current practice.
+
+In this process:
+
+- the historical statement remains symbolically authoritative
+- its meaning is retrofitted to justify contemporary enforcement
+- the contradiction is absorbed through semantic reinterpretation rather than institutional adjustment
+
+This mechanism allows institutions to maintain continuity while neutralising the normative force of earlier statements.
+
 -----
 
 ## 3. Public Debate: Fragmentation and Symbolic Anchoring
@@ -77,7 +93,23 @@ This created a protected domain insulated from legislative debate.
 The ethics proceedings against 44 MPs and the subsequent Supreme Court phase operate independently of public argumentation.  
 Their legal basis derives from institutional continuity, not from public discourse.
 
-### *4.3 Structural autonomy of the enforcement architecture*
+### *4.3 Path Dependency and Recursive Momentum*
+
+Institutional processes exhibit strong path dependency.
+Once a procedure is initiated — such as the NACC investigation into 44 MPs — it develops recursive momentum: each procedural step validates the previous one and generates the next.
+
+Because the system is designed for deterministic output (investigation → conclusion → referral → judicial review), it cannot easily respond to external signals such as:
+- public debate
+- historical quotations
+- moral appeals
+- political commentary
+
+Interrupting or reversing the process would threaten the system’s object state persistence — its internal requirement to maintain consistency across time.
+From the system’s perspective, discontinuation would constitute a logic error, not a discretionary option.
+
+This explains why institutional processes continue autonomously even when public discourse shifts.
+
+### *4.4 Structural autonomy of the enforcement architecture*
 
 Institutional processes follow:
 
@@ -120,6 +152,19 @@ The operative constitution may enforce insulation, restriction or procedural rig
 
 This divergence is structural, not personal.
 
+### *5.4 Asynchronous Interface Between Symbolic and Operative Layers*
+The divergence between symbolic and operative constitutional orders can be conceptualised as an asynchronous interface.
+
+- The public sphere communicates on the symbolic layer:
+moral principles, historical references, democratic ideals.
+- The state apparatus operates on the logic layer:
+constitutional doctrine, procedural law, institutional mandates.
+
+There is no shared protocol between these layers.
+Arguments transmitted on the symbolic layer do not reach the operative layer because the interface is not designed to receive them.
+The result is a structural communication gap:
+public debate continues, but it has no procedural entry point into the institutional core.
+
 -----
 
 ## 6. Personal Continuity and Institutional Trajectories
@@ -129,10 +174,18 @@ This divergence is structural, not personal.
 Figures involved in earlier phases of Section 112 enforcement continue to hold influential positions in 2026.  
 This reflects institutional continuity rather than personal intent.
 
-## *6.2 The interpretive significance of continuity*
+### *6.2 The interpretive significance of continuity*
 
 Such continuity illustrates how institutional trajectories can persist across political cycles, independent of public debate or historical rhetoric.
 
+### *6.3 Institutional Embodiment and Hardcoded Variables*
+
+Individuals within the system — whether elected representatives, petitioners, investigators, or judicial actors — function as institutional embodiments rather than isolated personalities. Their roles, histories, and positions act as hardcoded variables within the system’s architecture.
+
+This results in a state of **Object State Persistence**, characterized by:
+- **Recursive Processing:** Actors involved in earlier phases of the Section 112 trajectory continue to shape later phases. This is not a matter of personal intent, but of institutional positions carrying forward the logic of previous cycles.
+- **Deterministic Output:** Because the variables (the actors and their procedural mandates) remain constant, the system is predisposed to produce the same outputs. The conflict patterns of 2020–2024 are not merely remembered; they are re-executed in 2026 according to the same procedural logic.
+- **Systemic Reproduction:** The architecture reproduces its own past through the individuals who inhabit its structures. In this framework, "personal continuity" serves as the Data-Infrastructure that prevents the system from resetting or adapting to new public discourse.
 -----
 
 ## 7. Analytical Synthesis
