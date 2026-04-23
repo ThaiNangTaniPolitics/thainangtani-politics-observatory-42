@@ -360,9 +360,9 @@ This increases **Unit Labor Costs**:
 
 The foundational‑skills crisis becomes a **direct cost driver** for Thai industry.
 
-### *11.5 Triangulation With PISA: Generational Erosion*
+### *10.5 Triangulation With PISA: Generational Erosion*
 
-### *11.5.1 PISA 2022 as Early Warning Signal*
+### *10.5.1 PISA 2022 as Early Warning Signal*
 
 Thailand’s PISA 2022 results were the **lowest in two decades**.  
 The ASAT data show that these deficits:
@@ -371,7 +371,7 @@ The ASAT data show that these deficits:
 - translate directly into the labor force  
 - accumulate across generations  
 
-### *11.5.2 From School Deficit to Workforce Deficit*
+### *10.5.2 From School Deficit to Workforce Deficit*
 
 This is not a temporary school‑system anomaly.  
 It is a **generational erosion**:
@@ -383,9 +383,9 @@ It is a **generational erosion**:
 
 The cycle repeats.
 
-### *11.6 Deterministic Output Logic of the Education System*
+### *10.6 Deterministic Output Logic of the Education System*
 
-### *11.6.1 Rote Learning as Systemic Design Principle*
+### *10.6.1 Rote Learning as Systemic Design Principle*
 
 Thailand’s education infrastructure prioritizes:
 
@@ -400,7 +400,7 @@ over:
 - problem‑solving  
 - application  
 
-### *11.6.2 Deterministic Output Statement*
+### *10.6.2 Deterministic Output Statement*
 
 **The systemic output of Thailand’s education infrastructure is deterministic:**  
 By prioritizing rote memorization over cognitive transfer, the architecture of the system inevitably produces a functional‑literacy gap that scales proportionally with the complexity of the modern economy.
