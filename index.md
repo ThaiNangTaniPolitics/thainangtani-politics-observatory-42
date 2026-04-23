@@ -17,7 +17,6 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**How historical statements, contemporary discourse and constitutional practice diverge in the Section 112 debate**  
-0050 – 112 Symbolic Speech, Public Debate and Institutional Reality (2026)
-
+**Reading deficits, health‑literacy failures and the structural implications of the World Bank’s 2024–2025 assessment**  
+0051-thailands-foundational-skills-crisis.md
 
