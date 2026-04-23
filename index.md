@@ -17,7 +17,7 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**How de‑facto control, diplomatic signalling and external perceptions shape a stalled territorial dispute**  
-0049 – Thai–Cambodian Border Dispute (2026): Frozen Conflict, Narrative Competition and Post‑Ceasefire Dynamics
+**How historical statements, contemporary discourse and constitutional practice diverge in the Section 112 debate**  
+0050 – 112 Symbolic Speech, Public Debate and Institutional Reality (2026)
 
 
