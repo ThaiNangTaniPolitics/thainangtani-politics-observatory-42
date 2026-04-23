@@ -407,11 +407,6 @@ By prioritizing rote memorization over cognitive transfer, the architecture of t
 
 ---
 
-Here you go, Jörg — **Sections 12–15 translated into clean, neutral, Observatory‑style English**, preserving your analytical sharpness while avoiding political value judgments.  
-Format is exactly as requested.
-
----
-
 ## 11. The Economic Dimension: Debt Exposure as a Cognitive Trap
 
 Thailand’s household‑debt ratio — among the highest in the region in relation to GDP — intersects with low foundational literacy in ways documented by international economic research.
