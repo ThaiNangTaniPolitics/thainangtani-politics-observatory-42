@@ -252,8 +252,169 @@ The middle collapses — mirroring patterns in education, income and opportunity
 
 -----
 
-## 10. Notes
+## 10. Structural Extensions
+
+### *10.1 The Middle‑Income Trap Nexus: Human‑Capital Ceiling*
+
+### *10.1.1 Technological Upgrading Without Absorptive Capacity*
+
+Thailand is accelerating investments in **automation, AI‑enabled manufacturing, smart‑farming systems, digital public services and high‑tech logistics**.  
+However, the workforce lacks the **foundational absorptive capacity** required to operate, maintain or adapt to these technologies.
+
+The 64.7 % below‑threshold literacy rate functions as a **structural glass ceiling**:
+
+- advanced technologies cannot be productively integrated  
+- digital transformation yields diminishing returns  
+- firms cannot transition into higher‑value production  
+- innovation diffusion slows dramatically  
+
+### *10.1.2 The Human‑Capital Ceiling as a Development Constraint*
+
+This creates a **Human‑Capital Ceiling**:  
+a point at which economic modernization outpaces the cognitive capacity of the labor force.
+
+The result is a **Middle‑Income Trap Nexus**:
+
+- technological ambition ↑  
+- human‑capital capacity →  
+- productivity stagnation ↓  
+
+Thailand’s growth trajectory becomes capped by its foundational‑skills deficit.
+
+### *10.2 Epistemic Inequality and Governance Asymmetry*
+
+### *10.2.1 Credentials Without Agency*
+
+Thailand’s education system produces **credentials**, but not **agency**.  
+Individuals may hold secondary or tertiary degrees, yet remain unable to:
+
+- interpret legal documents  
+- understand medical instructions  
+- navigate bureaucratic procedures  
+- exercise rights as citizens, workers or patients  
+
+### *10.2.2 Governance Asymmetry as Structural Outcome*
+
+This produces **epistemic inequality** — a divide between those who can interpret institutional information and those who cannot.
+
+Consequences include:
+
+- exclusion from state benefits  
+- vulnerability in legal and administrative processes  
+- dependency on intermediaries  
+- reduced civic participation  
+
+A large share of the population becomes **de facto excluded** from complex governance systems, reinforcing socio‑economic stratification.
+
+### *10.3 Cognitive Load and the Medical‑Instruction Error Chain*
+
+### *10.3.1 The Cognitive Load of a Simple Instruction*
+
+The benchmark instruction —  
+*“Take one tablet daily after dinner until the medicine is finished.”* —  
+contains three cognitive components:
+
+- **frequency** (daily)  
+- **timing** (after dinner)  
+- **duration** (until finished)  
+
+Below‑threshold individuals fail to integrate these elements.
+
+### *10.3.2 The Error Chain and Public‑Health Risk*
+
+Misinterpretation triggers an **error chain**:
+
+- incorrect dosage  
+- premature discontinuation  
+- inconsistent intake  
+- antibiotic misuse  
+
+At scale, this produces:
+
+- rising antimicrobial resistance  
+- treatment failure  
+- higher healthcare costs  
+
+A micro‑level reading deficit becomes a **macro‑level biological‑security risk**.
+
+### *10.4 The Hidden Cost of Correction in the Private Sector*
+
+### *10.4.1 Supervision and Correction as Structural Overhead*
+
+When 64.7 % of workers cannot reliably follow simple written instructions, firms must invest heavily in:
+
+- supervision  
+- correction  
+- repeated training  
+- error mitigation  
+- workflow simplification  
+
+### *10.4.2 Impact on Competitiveness*
+
+This increases **Unit Labor Costs**:
+
+- more supervisors per worker  
+- more time spent correcting errors  
+- lower process efficiency  
+- reduced international competitiveness  
+
+The foundational‑skills crisis becomes a **direct cost driver** for Thai industry.
+
+### *11.5 Triangulation With PISA: Generational Erosion*
+
+### *11.5.1 PISA 2022 as Early Warning Signal*
+
+Thailand’s PISA 2022 results were the **lowest in two decades**.  
+The ASAT data show that these deficits:
+
+- do not disappear in adulthood  
+- translate directly into the labor force  
+- accumulate across generations  
+
+### *11.5.2 From School Deficit to Workforce Deficit*
+
+This is not a temporary school‑system anomaly.  
+It is a **generational erosion**:
+
+- weak reading skills at 15  
+→ weak foundational skills at 25  
+→ low productivity at 35  
+→ low income and low learning exposure at 45  
+
+The cycle repeats.
+
+### *11.6 Deterministic Output Logic of the Education System*
+
+### *11.6.1 Rote Learning as Systemic Design Principle*
+
+Thailand’s education infrastructure prioritizes:
+
+- memorization  
+- exam performance  
+- credential accumulation  
+
+over:
+
+- comprehension  
+- cognitive transfer  
+- problem‑solving  
+- application  
+
+### *11.6.2 Deterministic Output Statement*
+
+**The systemic output of Thailand’s education infrastructure is deterministic:**  
+By prioritizing rote memorization over cognitive transfer, the architecture of the system inevitably produces a functional‑literacy gap that scales proportionally with the complexity of the modern economy.
+
+---
+
+## 11. Notes
 
 This article focuses exclusively on documented empirical findings and structural mechanisms.  
 It does not infer individual motives or assign moral responsibility.
+
+## Source
+
+World Bank (2024). Fostering Foundational Skills in Thailand: From a Skills Crisis to a Learning Society.  
+Available at: https://documents1.worldbank.org/curated/en/099021424061519032/pdf/P1734411f818b80a9190d813a4e0c04f02c.pdf
+
 
