@@ -186,7 +186,7 @@ This results in a state of **Object State Persistence**, characterized by:
 - **Recursive Processing:** Actors involved in earlier phases of the Section 112 trajectory continue to shape later phases. This is not a matter of personal intent, but of institutional positions carrying forward the logic of previous cycles.
 - **Deterministic Output:** Because the variables (the actors and their procedural mandates) remain constant, the system is predisposed to produce the same outputs. The conflict patterns of 2020–2024 are not merely remembered; they are re-executed in 2026 according to the same procedural logic.
 - **Systemic Reproduction:** The architecture reproduces its own past through the individuals who inhabit its structures. In this framework, "personal continuity" serves as the Data-Infrastructure that prevents the system from resetting or adapting to new public discourse.
-- 
+ 
 -----
 
 ## 7. Analytical Synthesis
