@@ -407,7 +407,125 @@ By prioritizing rote memorization over cognitive transfer, the architecture of t
 
 ---
 
-## 11. Notes
+Here you go, Jörg — **Sections 12–15 translated into clean, neutral, Observatory‑style English**, preserving your analytical sharpness while avoiding political value judgments.  
+Format is exactly as requested.
+
+---
+
+## 11. The Economic Dimension: Debt Exposure as a Cognitive Trap
+
+Thailand’s household‑debt ratio — among the highest in the region in relation to GDP — intersects with low foundational literacy in ways documented by international economic research.
+
+### *11.1 Informal Credit Vulnerability*
+
+Individuals with limited ability to interpret written information are more likely to:
+
+- misunderstand loan terms  
+- misjudge interest structures  
+- overlook compounding effects  
+
+This increases exposure to **informal lenders**, where short‑term liquidity often comes with long‑term financial risk.
+
+### *11.2 Limited Financial Resilience*
+
+Financial‑literacy studies show that low foundational literacy reduces the ability to:
+
+- distinguish consumption loans from investment loans  
+- plan long‑term repayment strategies  
+- evaluate financial risk  
+
+Debt management becomes reactive rather than strategic.
+
+### *11.3 Marketing and Contract Exposure*
+
+Low functional literacy increases susceptibility to:
+
+- installment‑based marketing  
+- underestimation of total repayment costs  
+- misinterpretation of promotional terms  
+
+This creates a **structural vulnerability** in consumer finance.
+
+---
+
+## 13. The Political Dimension: Information Access and Participation
+
+Political participation requires the ability to decode programs, evaluate narratives and interpret institutional communication.  
+Foundational‑skills deficits create several barriers.
+
+### *13.1 Dependence on Intermediaries*
+
+When individuals struggle to process complex information, reliance on:
+
+- local intermediaries  
+- social‑media influencers  
+- informal authority figures  
+
+increases.  
+This dynamic is widely described in governance research as **information asymmetry**.
+
+### *13.2 Passive Consumption vs. Active Analysis*
+
+Institutions such as the Thailand Development Research Institute (TDRI) note that the dominance of short‑form digital content:
+
+- reduces analytical engagement  
+- weakens critical‑thinking habits  
+- shifts political participation toward emotional rather than evaluative responses  
+
+This affects the **quality and depth of civic engagement**.
+
+---
+
+## 14. The Legal Dimension: High‑Penalty Formalism and Cognitive Barriers
+
+Thailand’s legal system is often characterized in international analyses as **formalistic**, with complex procedures and high demands on textual comprehension.  
+This creates structural challenges for individuals with low foundational literacy.
+
+### *14.1 Information Barriers*
+
+Research shows that individuals below the literacy threshold often struggle to:
+
+- interpret legal documents  
+- understand procedural steps  
+- evaluate the implications of written warnings  
+- assess risks in digital communication  
+
+### *14.2 Digital Interpretation Risk*
+
+In a digital environment where online actions may carry legal significance, misinterpretation of:
+
+- shared content  
+- comments  
+- symbolic interactions (e.g., likes)  
+
+can lead to unintended legal exposure if the semantic meaning is not fully understood.
+
+### *14.3 Procedural Vulnerability*
+
+Low functional literacy increases vulnerability in formal proceedings:
+
+- reduced ability to navigate administrative processes  
+- difficulty understanding rights and obligations  
+- higher likelihood of withdrawing from public discourse due to uncertainty  
+
+This creates a **legal‑cognitive asymmetry**:  
+the complexity of the legal system exceeds the interpretive capacity of a large share of the population.
+
+---
+
+## 15. Synthesis: The Structural Vulnerability Loop
+
+Across economic, political and legal dimensions, a multi‑layered vulnerability emerges when low foundational literacy intersects with complex institutional environments.
+
+1. **Financial pressure** consumes resources and limits long‑term planning.  
+2. **Low literacy** restricts the ability to analyze causes and evaluate options.  
+3. **Complex institutional systems** raise barriers to participation and protection.  
+
+The result is a **self‑reinforcing structural inequality**, in which limited cognitive capacity reduces access to economic opportunity, political agency and legal security.
+
+---
+
+## 16. Notes
 
 This article focuses exclusively on documented empirical findings and structural mechanisms.  
 It does not infer individual motives or assign moral responsibility.
