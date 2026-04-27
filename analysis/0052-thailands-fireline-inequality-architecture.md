@@ -162,3 +162,4 @@ The result is a **fireline inequality system**, where those who contribute least
 **Bangkok Post – 27 April 2026**
 <a href="https://www.bangkokpost.com/opinion/opinion/3244535/volunteer-firefighters-left-to-plight" target="_blank" rel="noopener noreferrer">https://www.bangkokpost.com/opinion/opinion/3244535/volunteer-firefighters-left-to-plight</a>
 
+<img src="../images/0052.webp" alt="0052" style="width: 480px; margin: auto;" loading="lazy">
