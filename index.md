@@ -17,6 +17,6 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**Reading deficits, health‑literacy failures and the structural implications of the World Bank’s 2024–2025 assessment**  
-0051-thailands-foundational-skills-crisis.md
+**How volunteer firefighters, agricultural expansion and institutional barriers shape the human cost of the haze crisis**  
+0052 – Thailand’s Fireline Inequality Architecture
 
