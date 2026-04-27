@@ -216,13 +216,13 @@ A structural crisis requires structural solutions:
 **Bangkok Post – 27 April 2026**  
 [https://www.bangkokpost.com/opinion/opinion/3244535/volunteer-firefighters-left-to-plight](https://www.bangkokpost.com/opinion/opinion/3244535/volunteer-firefighters-left-to-plight)
 
-**NASA – ASIA‑AQ (2024)**
+**NASA – ASIA‑AQ (2024)**  
 <a href="https://science.nasa.gov/earth-science/earth-science-data/earthdata/grappling-with-thailands-seasonal-haze/" target="_blank" rel="noopener noreferrer">https://science.nasa.gov/earth-science/earth-science-data/earthdata/grappling-with-thailands-seasonal-haze/</a> 
 
-**Nation Thailand – GISTDA Hotspot Data**
+**Nation Thailand – GISTDA Hotspot Data**  
 <a href="https://www.nationthailand.com/thailand/general/40034569" target="_blank" rel="noopener noreferrer">https://www.nationthailand.com/thailand/general/40034569</a> 
 
-**EGU – ASIA‑AQ Scientific Abstract**
+**EGU – ASIA‑AQ Scientific Abstract**  
 <a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-2016.html" target="_blank" rel="noopener noreferrer">https://meetingorganizer.copernicus.org/EGU25/EGU25-2016.html</a>
 
 <img src="../images/0052.webp" alt="0052" style="width: 480px; margin: auto;" loading="lazy">
