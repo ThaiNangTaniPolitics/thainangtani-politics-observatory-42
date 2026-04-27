@@ -216,13 +216,13 @@ A structural crisis requires structural solutions:
 **Bangkok Post – 27 April 2026**  
 [https://www.bangkokpost.com/opinion/opinion/3244535/volunteer-firefighters-left-to-plight](https://www.bangkokpost.com/opinion/opinion/3244535/volunteer-firefighters-left-to-plight)
 
-**NASA – ASIA‑AQ (2024)**  
-`https://science.nasa.gov/earth-science/earth-science-data/earthdata/grappling-with-thailands-seasonal-haze/` [(science.nasa.gov in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fscience.nasa.gov%2Fearth-science%2Fearth-science-data%2Fearthdata%2Fgrappling-with-thailands-seasonal-haze%2F")
+**NASA – ASIA‑AQ (2024)**
+<a href="https://science.nasa.gov/earth-science/earth-science-data/earthdata/grappling-with-thailands-seasonal-haze/" target="_blank" rel="noopener noreferrer">https://science.nasa.gov/earth-science/earth-science-data/earthdata/grappling-with-thailands-seasonal-haze/</a> 
 
-**Nation Thailand – GISTDA Hotspot Data**  
-`https://www.nationthailand.com/thailand/general/40034569` [(nationthailand.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fwww.nationthailand.com%2Fthailand%2Fgeneral%2F40034569")
+**Nation Thailand – GISTDA Hotspot Data**
+<a href="https://www.nationthailand.com/thailand/general/40034569" target="_blank" rel="noopener noreferrer">https://www.nationthailand.com/thailand/general/40034569</a> 
 
-**EGU – ASIA‑AQ Scientific Abstract**  
-`https://meetingorganizer.copernicus.org/EGU25/EGU25-2016.html` [(meetingorganizer.copernicus.org in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fmeetingorganizer.copernicus.org%2FEGU25%2FEGU25-2016.html")
+**EGU – ASIA‑AQ Scientific Abstract**
+<a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-2016.html" target="_blank" rel="noopener noreferrer">https://meetingorganizer.copernicus.org/EGU25/EGU25-2016.html</a>
 
 <img src="../images/0052.webp" alt="0052" style="width: 480px; margin: auto;" loading="lazy">
