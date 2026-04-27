@@ -225,3 +225,4 @@ A structural crisis requires structural solutions:
 **EGU – ASIA‑AQ Scientific Abstract**  
 `https://meetingorganizer.copernicus.org/EGU25/EGU25-2016.html` [(meetingorganizer.copernicus.org in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fmeetingorganizer.copernicus.org%2FEGU25%2FEGU25-2016.html")
 
+<img src="../images/0052.webp" alt="0052" style="width: 480px; margin: auto;" loading="lazy">
