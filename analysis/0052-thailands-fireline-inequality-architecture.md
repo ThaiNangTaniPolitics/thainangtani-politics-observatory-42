@@ -223,6 +223,7 @@ A structural crisis requires structural solutions:
 <a href="https://www.nationthailand.com/thailand/general/40034569" target="_blank" rel="noopener noreferrer">https://www.nationthailand.com/thailand/general/40034569</a> 
 
 **EGU – ASIA‑AQ Scientific Abstract**  
-<a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-2016.html" target="_blank" rel="noopener noreferrer">https://meetingorganizer.copernicus.org/EGU25/EGU25-2016.html</a>
+<a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-2016.html" target="_blank" rel="noopener noreferrer">https://meetingorganizer.copernicus.org/EGU25/EGU25-2016.html</a>  
+
 
 <img src="../images/0052.webp" alt="0052" style="width: 480px; margin: auto;" loading="lazy">
