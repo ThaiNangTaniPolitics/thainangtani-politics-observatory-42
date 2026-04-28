@@ -44,7 +44,7 @@ title: Image Gallery
   margin-top: 12px;
   font-size: 0.82em;
   line-height: 1.4;
-  min-height: 4.2em;
+  min-height: 4.5em;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -66,11 +66,8 @@ title: Image Gallery
 </style>
 
 <div class="gallery">
-{% capture webp_list %}
-  {% for file in site.static_files %}
-    {% if file.path contains '.webp' %}{{ file.path | remove: '.webp' }}|{% endif %}
-  {% endfor %}
-{% endcapture %}
+{% comment %} 1. WebP-Liste für Dubletten-Check erstellen {% endcomment %}
+{% capture webp_list %}{% for file in site.static_files %}{% if file.path contains '.webp' %}{{ file.path | remove: '.webp' }}|{% endif %}{% endfor %}{% endcapture %}
 
 {% for file in site.static_files %}
   {% if file.path contains 'images/' %}
@@ -81,8 +78,10 @@ title: Image Gallery
       {% if file.basename != 'observatory-logo' %}
         
         {% assign skip = false %}
-        {% if ext != '.webp' and webp_list contains base %}
-          {% assign skip = true %}
+        {% if ext != '.webp' %}
+          {% if webp_list contains base %}
+            {% assign skip = true %}
+          {% endif %}
         {% endif %}
 
         {% unless skip %}
@@ -92,37 +91,30 @@ title: Image Gallery
             </div>
             
             <div class="img-caption">
-
-              {% comment %}
-                1. ID aus dem Bildnamen extrahieren (z.B. 0053)
-              {% endcomment %}
+              {% comment %} Kern-ID holen (z.B. 0053) {% endcomment %}
               {% assign filename_parts = file.basename | split: '_' %}
               {% assign article_id = filename_parts[0] %}
+              {% assign id_check = article_id | append: "-" %}
               
               {% assign found_article = nil %}
 
-              {% comment %}
-                2. Suche in site.html_pages (Markdown in Unterordnern)
-              {% endcomment %}
-              {% for p in site.html_pages %}
+              {% comment %} Suche in site.pages (kompatibler als html_pages) {% endcomment %}
+              {% for p in site.pages %}
                 {% if p.path contains 'analysis/' %}
-                  {% assign path_parts = p.path | split: '/' %}
-                  {% assign actual_file = path_parts | last %}
-                  
-                  {% if actual_file starts_with article_id %}
+                  {% comment %} Wir prüfen, ob die ID am Anfang des Dateinamens steht {% endcomment %}
+                  {% if p.path contains id_check %}
                     {% assign found_article = p %}
-                    {% break %}
                   {% endif %}
                 {% endif %}
               {% endfor %}
 
               {% if found_article %}
-                <a href="{{ found_article.url }}" target="_blank" rel="noopener noreferrer">
-                  {{ found_article.title | default: found_article.basename | truncate: 60 }} ↗
+                <a href="{{ site.baseurl }}{{ found_article.url }}" target="_blank" rel="noopener noreferrer">
+                  {{ found_article.title | default: article_id | truncate: 60 }} ↗
                 </a>
               {% else %}
                 <span style="color: #ffaa00; font-style: italic; font-size: 0.8em;">
-                  Unlinked: {{ article_id }}
+                  Artifact {{ article_id }} (Unlinked)
                 </span>
               {% endif %}
 
