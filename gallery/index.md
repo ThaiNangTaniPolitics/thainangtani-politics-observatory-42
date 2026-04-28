@@ -94,7 +94,7 @@ title: Image Gallery
             <div class="img-caption">
 
               {% comment %}
-                1. Extrahiere die ID (z.B. 0053) vom Bildnamen
+                1. ID aus dem Bildnamen extrahieren (z.B. 0053)
               {% endcomment %}
               {% assign filename_parts = file.basename | split: '_' %}
               {% assign article_id = filename_parts[0] %}
@@ -102,14 +102,14 @@ title: Image Gallery
               {% assign found_article = nil %}
 
               {% comment %}
-                2. Suche in allen Dokumenten (nicht pages!) nach passendem Artikel
+                2. Suche in site.html_pages (Markdown in Unterordnern)
               {% endcomment %}
-              {% for p in site.documents %}
-                {% if p.url contains '/analysis/' %}
+              {% for p in site.html_pages %}
+                {% if p.path contains 'analysis/' %}
                   {% assign path_parts = p.path | split: '/' %}
-                  {% assign real_filename = path_parts | last %}
+                  {% assign actual_file = path_parts | last %}
                   
-                  {% if real_filename starts_with article_id %}
+                  {% if actual_file starts_with article_id %}
                     {% assign found_article = p %}
                     {% break %}
                   {% endif %}
@@ -118,10 +118,12 @@ title: Image Gallery
 
               {% if found_article %}
                 <a href="{{ found_article.url }}" target="_blank" rel="noopener noreferrer">
-                  {{ found_article.title | default: found_article.basename | truncate: 65 }} ↗
+                  {{ found_article.title | default: found_article.basename | truncate: 60 }} ↗
                 </a>
               {% else %}
-                <span style="color: #d1d5da; font-style: italic;">Mapping: {{ article_id }}?</span>
+                <span style="color: #ffaa00; font-style: italic; font-size: 0.8em;">
+                  Unlinked: {{ article_id }}
+                </span>
               {% endif %}
 
               <span class="artifact-id">ID: {{ file.basename }}</span>
