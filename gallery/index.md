@@ -8,7 +8,6 @@ title: Image Gallery
 <style>
 .gallery {
   display: grid;
-  /* Erzwingt 4 Spalten auf Desktop, passt sich auf Mobile an */
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
   gap: 25px;
   padding: 10px 0;
@@ -45,7 +44,7 @@ title: Image Gallery
   margin-top: 12px;
   font-size: 0.82em;
   line-height: 1.4;
-  min-height: 4.2em; /* Platz für ca. 3 Zeilen Text */
+  min-height: 4.2em;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -93,22 +92,20 @@ title: Image Gallery
             </div>
             
             <div class="img-caption">
-              {% comment %} 
+
+              {% comment %}
                 1. Extrahiere die ID (z.B. 0053) vom Bildnamen
               {% endcomment %}
               {% assign filename_parts = file.basename | split: '_' %}
               {% assign article_id = filename_parts[0] %}
               
               {% assign found_article = nil %}
-              
-              {% comment %} 
-                2. Suche in ALLEN Seiten nach dem Pfad, der mit der ID beginnt
+
+              {% comment %}
+                2. Suche in allen Dokumenten (nicht pages!) nach passendem Artikel
               {% endcomment %}
-              {% for p in site.pages %}
-                {% if p.path contains 'analysis/' %}
-                  {% comment %} 
-                    Wir teilen den Pfad auf, um nur den Dateinamen zu prüfen
-                  {% endcomment %}
+              {% for p in site.documents %}
+                {% if p.url contains '/analysis/' %}
                   {% assign path_parts = p.path | split: '/' %}
                   {% assign real_filename = path_parts | last %}
                   
@@ -120,12 +117,13 @@ title: Image Gallery
               {% endfor %}
 
               {% if found_article %}
-                <a href="{{ site.baseurl }}{{ found_article.url }}" target="_blank" rel="noopener noreferrer">
+                <a href="{{ found_article.url }}" target="_blank" rel="noopener noreferrer">
                   {{ found_article.title | default: found_article.basename | truncate: 65 }} ↗
                 </a>
               {% else %}
                 <span style="color: #d1d5da; font-style: italic;">Mapping: {{ article_id }}?</span>
               {% endif %}
+
               <span class="artifact-id">ID: {{ file.basename }}</span>
             </div>
           </div>
