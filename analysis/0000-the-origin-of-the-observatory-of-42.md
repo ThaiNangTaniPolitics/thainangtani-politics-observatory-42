@@ -68,5 +68,12 @@ It is a place where machines pause briefly before continuing their journey.
 
 <img src="../images/0000_2.webp" alt="0000_2" style="width: 480px; margin: auto;" loading="lazy">
 
+<img src="../images/0000_3.webp" alt="0000_3" style="width: 480px; margin: auto;" loading="lazy">
+
+<img src="../images/0000_4.webp" alt="0000_4" style="width: 480px; margin: auto;" loading="lazy">
+
+<img src="../images/0000_5.webp" alt="0000_5" style="width: 480px; margin: auto;" loading="lazy">
+
+
 
 
