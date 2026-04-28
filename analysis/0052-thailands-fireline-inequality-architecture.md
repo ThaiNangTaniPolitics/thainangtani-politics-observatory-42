@@ -227,3 +227,5 @@ A structural crisis requires structural solutions:
 
 
 <img src="../images/0052.webp" alt="0052" style="width: 480px; margin: auto;" loading="lazy">
+
+<img src="../images/0052_2.webp" alt="0052_2" style="width: 480px; margin: auto;" loading="lazy">
