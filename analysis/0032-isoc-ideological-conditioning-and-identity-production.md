@@ -91,3 +91,9 @@ Through these mechanisms, ISOC embeds itself not only in institutions but in the
 ---
 
 <img src="../images/0032_3.webp" alt="0032_3" style="width: 480px; margin: auto;" loading="lazy">
+
+<img src="../images/0032_2.webp" alt="0032_2" style="width: 480px; margin: auto;" loading="lazy">
+
+<img src="../images/0032_1.webp" alt="0032_1" style="width: 480px; margin: auto;" loading="lazy">
+
+
