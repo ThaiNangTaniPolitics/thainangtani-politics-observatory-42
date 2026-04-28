@@ -139,7 +139,7 @@ This dataset presents the raw comments utilized for statistical and thematic ana
 
 Future research could incorporate longitudinal tracking of deleted comments, if accessible, to quantify the full extent of editorial intervention. Additionally, cross-referencing comment timestamps with moderation windows may further illuminate the operational structure of the secondary review layer.
 
-**Primary Source Reference:**
+**Primary Source Reference:**  
 <a href="[https://www.bangkokpost.com/opinion/postbag/](https://www.bangkokpost.com/opinion/postbag/)" target="_blank" rel="noopener noreferrer">[https://www.bangkokpost.com/opinion/postbag/](https://www.bangkokpost.com/opinion/postbag/)</a>
 
 <img src="../images/0053.webp" alt="0053" style="width: 480px; margin: auto;" loading="lazy">
