@@ -350,15 +350,5 @@ the only persistent comment archive becomes discursively narrowed, historically 
 
 <img src="../images/0011.webp" alt="0011" style="width: 480px; margin: auto;" loading="lazy">
 
-<script>
-document.addEventListener("dblclick", e => {
-  if(e.target.tagName === "IMG") {
-    const img = e.target.cloneNode();
-    Object.assign(img.style, {maxWidth:"100vw", maxHeight:"100vh"});
-    const o = Object.assign(document.createElement("div"), {
-      style:"position:fixed;inset:0;background:#000c;display:flex;align-items:center;justify-content:center;cursor:zoom-out;z-index:9999"
-    });
-    o.appendChild(img); o.onclick=()=>o.remove(); document.body.appendChild(o);
-  }
-});
-</script>
+
+<img src="../images/0011_2.webp" alt="0011_2" style="width: 480px; margin: auto;" loading="lazy">
