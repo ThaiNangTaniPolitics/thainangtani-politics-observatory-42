@@ -252,3 +252,7 @@ It does not address individual motives, political positions, or institutional in
 
 <img src="../images/0045_3.webp" alt="0045_3" style="width: 480px; margin: auto;" loading="lazy">
 
+<img src="../images/0045_2.webp" alt="0045_2" style="width: 480px; margin: auto;" loading="lazy">
+
+<img src="../images/0045_1.webp" alt="0045_1" style="width: 480px; margin: auto;" loading="lazy">
+
