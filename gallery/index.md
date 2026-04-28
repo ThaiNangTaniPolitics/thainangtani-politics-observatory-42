@@ -8,47 +8,61 @@ title: Image Gallery
 <style>
 .gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 30px;
+  /* Erzwingt 4 Spalten auf Desktop, passt sich auf Mobile an */
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 25px;
+  padding: 10px 0;
 }
 .gallery-item {
   display: flex;
   flex-direction: column;
-  background: #fff;
-  border: 1px solid #ddd;
+  background: #ffffff;
+  border: 1px solid #e1e4e8;
   border-radius: 8px;
-  padding: 10px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  padding: 12px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  transition: all 0.2s ease-in-out;
+}
+.gallery-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  border-color: #0366d6;
 }
 .gallery .img-container {
   width: 100%;
   aspect-ratio: 1 / 1;
   overflow: hidden;
   border-radius: 4px;
-  background: #f9f9f9;
+  background: #f6f8fa;
 }
 .gallery img {
   width: 100%;
   height: 100%;
   object-fit: cover;
   cursor: zoom-in;
-  transition: transform 0.3s ease;
-}
-.gallery img:hover {
-  transform: scale(1.05);
 }
 .img-caption {
   margin-top: 12px;
-  font-size: 0.9em;
-  line-height: 1.3;
+  font-size: 0.82em;
+  line-height: 1.4;
+  min-height: 4.2em; /* Platz für ca. 3 Zeilen Text */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 .img-caption a {
-  color: #0066cc;
+  color: #0366d6;
   text-decoration: none;
-  font-weight: 500;
+  font-weight: 600;
+  margin-bottom: 4px;
 }
 .img-caption a:hover {
   text-decoration: underline;
+}
+.artifact-id {
+  color: #6a737d;
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+  font-size: 0.85em;
 }
 </style>
 
@@ -65,47 +79,50 @@ title: Image Gallery
     {% assign base = file.path | remove: file.extname %}
     
     {% if ext == '.webp' or ext == '.png' or ext == '.jpg' or ext == '.jpeg' %}
-      {% assign skip = false %}
-      {% if ext != '.webp' and webp_list contains base %}
-        {% assign skip = true %}
-      {% endif %}
+      {% if file.basename != 'observatory-logo' %}
+        
+        {% assign skip = false %}
+        {% if ext != '.webp' and webp_list contains base %}
+          {% assign skip = true %}
+        {% endif %}
 
-      {% unless skip %}
-        <div class="gallery-item">
-          <div class="img-container">
-            <img src="{{ site.baseurl }}{{ file.path }}" alt="{{ file.basename }}">
-          </div>
-          
-          <div class="img-caption">
-            {% comment %} 
-              Kernnummer extrahieren: Aus '0053_2' wird '0053'
-            {% endcomment %}
-            {% assign filename_parts = file.basename | split: '_' %}
-            {% assign article_id = filename_parts[0] %}
+        {% unless skip %}
+          <div class="gallery-item">
+            <div class="img-container">
+              <img src="{{ site.baseurl }}{{ file.path }}" alt="{{ file.basename }}">
+            </div>
             
-            {% assign found_article = nil %}
-            {% for post in site.pages %}
-              {% if post.path contains 'analysis/' %}
-                {% comment %} 
-                  Wir prüfen, ob der Artikel-Dateiname mit der article_id beginnt (z.B. 0053-)
-                {% endcomment %}
-                {% if post.basename contains article_id %}
-                  {% assign found_article = post %}
-                  {% break %}
+            <div class="img-caption">
+              {% comment %} 
+                Wir extrahieren die ID (z.B. 0032) und suchen nach einer Datei, 
+                die mit genau dieser ID und einem Bindestrich beginnt.
+              {% endcomment %}
+              {% assign filename_parts = file.basename | split: '_' %}
+              {% assign article_id = filename_parts[0] %}
+              {% assign id_with_dash = article_id | append: "-" %}
+              
+              {% assign found_article = nil %}
+              {% for post in site.pages %}
+                {% if post.path contains 'analysis/' %}
+                  {% if post.basename contains id_with_dash %}
+                    {% assign found_article = post %}
+                    {% break %}
+                  {% endif %}
                 {% endif %}
-              {% endif %}
-            {% endfor %}
+              {% endfor %}
 
-            {% if found_article %}
-              <a href="{{ site.baseurl }}{{ found_article.url }}" target="_blank" rel="noopener noreferrer">
-                {{ found_article.title }} ↗
-              </a>
-            {% else %}
-              <span style="color: #888;">Artifact {{ file.basename }}</span>
-            {% endif %}
+              {% if found_article %}
+                <a href="{{ site.baseurl }}{{ found_article.url }}" target="_blank" rel="noopener noreferrer">
+                  {{ found_article.title | truncate: 65 }} ↗
+                </a>
+              {% else %}
+                <span style="color: #d1d5da; font-style: italic;">No mapping found</span>
+              {% endif %}
+              <span class="artifact-id">ID: {{ file.basename }}</span>
+            </div>
           </div>
-        </div>
-      {% endunless %}
+        {% endunless %}
+      {% endif %}
     {% endif %}
   {% endif %}
 {% endfor %}
