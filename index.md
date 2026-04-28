@@ -17,6 +17,6 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**How volunteer firefighters, agricultural expansion and institutional barriers shape the human cost of the haze crisis**  
-0052 – Thailand’s Fireline Inequality Architecture
+**An analysis of commentator persistence, narrative alignment, and the mechanics of disproportionate amplification**  
+0053 – Bangkok Post: Institutional Discourse Distortion: A Case Study on Structured Comment Environments
 
