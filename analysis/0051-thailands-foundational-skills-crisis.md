@@ -532,5 +532,3 @@ World Bank – 2024
 
 <img src="../images/0051.webp" alt="0051" style="width: 480px; margin: auto;" loading="lazy">
 
-<img src="../images/0051_2.webp" alt="0051_2" style="width: 480px; margin: auto;" loading="lazy">
-
