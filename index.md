@@ -18,5 +18,5 @@ The goal is not advocacy, but **structured observation**.
 ## 📌 Latest Update
 
 **An analysis of commentator persistence, narrative alignment, and the mechanics of disproportionate amplification**  
-0053 – Bangkok Post: Institutional Discourse Distortion: A Case Study on Structured Comment Environments
+0053 – Bangkok Post Institutional Discourse Distortion: A Case Study on Structured Comment Environments
 
