@@ -30,7 +30,7 @@ Hier ist die Tabelle sauber formatiert und klar strukturiert:
 | **Akteur (2026)**     | **Legacy‑Identität (2025)** | **Kommentare (Sample)** | **Anteil (%)** |
 |------------------------|------------------------------|---------------------------|------------------|
 | **Ima Thailand**       | lessimore (Rang 1)           | 29                        | **50,0 %**       |
-| **Kryptisch**          | Cryptic (Rang 5)             | 9                         | **15,5 %**       |
+| **Cryptic**            | Cryptic (Rang 5)             | 9                         | **15,5 %**       |
 | **Alaska Thailand**    | Alaska (Top 10)              | 4                         | **6,9 %**        |
 | **Keskaseksa**         | keskeseksa (Rang 2)          | 2                         | **3,4 %**        |
 | **Gdgbbb**             | Gdgbbb                       | 2                         | **3,4 %**        |
@@ -76,9 +76,9 @@ This cluster utilizes personified blame and structural allegations against state
 
 ### *4.3 Cluster: Eastern Europe and NATO*
 The comments contain a factual relativization of military conflicts and a downgrading of the agency of European institutions.
-* **Kryptisch:** "The Eu is like a lost puppy... That Russia would attack Europe is ridiculous." (27 April 2026).
-* **Kryptisch:** "Putin loves his people, Trump regards his with contempt." (6 April 2026).
-* **Kryptisch:** "THE EU & GLOBALISTS HAVE BEEN MADE TO LOOK TOTAL FOOLS." (19 April 2026).
+* **Cryptic:** "The Eu is like a lost puppy... That Russia would attack Europe is ridiculous." (27 April 2026).
+* **Cryptic:** "Putin loves his people, Trump regards his with contempt." (6 April 2026).
+* **Cryptic:** "THE EU & GLOBALISTS HAVE BEEN MADE TO LOOK TOTAL FOOLS." (19 April 2026).
 
 ---
 
