@@ -94,18 +94,26 @@ title: Image Gallery
             
             <div class="img-caption">
               {% comment %} 
-                Wir extrahieren die ID (z.B. 0032) und suchen nach einer Datei, 
-                die mit genau dieser ID und einem Bindestrich beginnt.
+                1. Extrahiere die ID (z.B. 0053) vom Bildnamen
               {% endcomment %}
               {% assign filename_parts = file.basename | split: '_' %}
               {% assign article_id = filename_parts[0] %}
-              {% assign id_with_dash = article_id | append: "-" %}
               
               {% assign found_article = nil %}
-              {% for post in site.pages %}
-                {% if post.path contains 'analysis/' %}
-                  {% if post.basename contains id_with_dash %}
-                    {% assign found_article = post %}
+              
+              {% comment %} 
+                2. Suche in ALLEN Seiten nach dem Pfad, der mit der ID beginnt
+              {% endcomment %}
+              {% for p in site.pages %}
+                {% if p.path contains 'analysis/' %}
+                  {% comment %} 
+                    Wir teilen den Pfad auf, um nur den Dateinamen zu prüfen
+                  {% endcomment %}
+                  {% assign path_parts = p.path | split: '/' %}
+                  {% assign real_filename = path_parts | last %}
+                  
+                  {% if real_filename starts_with article_id %}
+                    {% assign found_article = p %}
                     {% break %}
                   {% endif %}
                 {% endif %}
@@ -113,10 +121,10 @@ title: Image Gallery
 
               {% if found_article %}
                 <a href="{{ site.baseurl }}{{ found_article.url }}" target="_blank" rel="noopener noreferrer">
-                  {{ found_article.title | truncate: 65 }} ↗
+                  {{ found_article.title | default: found_article.basename | truncate: 65 }} ↗
                 </a>
               {% else %}
-                <span style="color: #d1d5da; font-style: italic;">No mapping found</span>
+                <span style="color: #d1d5da; font-style: italic;">Mapping: {{ article_id }}?</span>
               {% endif %}
               <span class="artifact-id">ID: {{ file.basename }}</span>
             </div>
