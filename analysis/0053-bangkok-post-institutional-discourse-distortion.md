@@ -178,3 +178,7 @@ Future research could incorporate longitudinal tracking of deleted comments, if 
 <a href="[https://www.bangkokpost.com/opinion/postbag/](https://www.bangkokpost.com/opinion/postbag/)" target="_blank" rel="noopener noreferrer">[https://www.bangkokpost.com/opinion/postbag/](https://www.bangkokpost.com/opinion/postbag/)</a>
 
 <img src="../images/0053.webp" alt="0053" style="width: 480px; margin: auto;" loading="lazy">
+
+<img src="../images/0053_2.webp" alt="0053_2" style="width: 480px; margin: auto;" loading="lazy">
+
+<img src="../images/0053_3.webp" alt="0053_3" style="width: 480px; margin: auto;" loading="lazy">
