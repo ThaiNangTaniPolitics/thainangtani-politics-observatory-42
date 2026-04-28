@@ -4,6 +4,7 @@ This section contains analytical case studies and narrative investigations.
 
 ---
 
+- [0053 – Institutional Discourse Distortion: A Case Study on Structured Comment Environments](0053-bangkok-post-institutional-discourse-distortion.md)
 - [0052 – Thailand’s Fireline Inequality Architecture](0052-thailands-fireline-inequality-architecture.md)
 - [0051 – Thailand’s Foundational Skills Crisis](0051-thailands-foundational-skills-crisis.md)
 - [0050 – 112 Symbolic Speech, Public Debate and Institutional Reality (2026)](0050-112-symbolic-speech-public-debate-and-institutional-reality-2026.md)
