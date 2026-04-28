@@ -40,7 +40,7 @@ The persistence of accounts with overwhelmingly negative peer feedback indicates
 
 In a standard community-moderated forum, such rejection rates typically lead to content suppression. In this environment, the account remains the most prominent voice, indicating that visibility is a function of **selective tolerance** rather than community preference.
 
-
+The visibility pattern creates functional pairings between dominant users, where one account posts high‑volume provocative content and another provides reinforcing replies. This pairing effect emerges structurally, even without coordination, due to the selective survival of only a few voices.
 
 ---
 
