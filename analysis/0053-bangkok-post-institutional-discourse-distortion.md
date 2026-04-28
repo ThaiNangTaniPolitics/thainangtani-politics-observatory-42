@@ -24,10 +24,6 @@ Longitudinal data indicates a progressive contraction of the discursive space. T
 
 This acceleration suggests a self-reinforcing mechanism: as the visible field narrows, the probability of alternative voices entering the discursive space decreases. The system thus exhibits characteristics of a semi-closed loop, where historical visibility predicts future visibility with increasing accuracy.
 
-Hier ist die Tabelle sauber formatiert und klar strukturiert:
-
----
-
 ### *2.2 Akteurs‑Mapping (April 2026)*
 
 | **Akteur (2026)**     | **Legacy‑Identität (2025)** | **Kommentare (Sample)** | **Anteil (%)** |
