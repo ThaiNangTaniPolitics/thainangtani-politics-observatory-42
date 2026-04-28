@@ -21,6 +21,20 @@ Longitudinal data indicates a progressive contraction of the discursive space. T
 
 This acceleration suggests a self-reinforcing mechanism: as the visible field narrows, the probability of alternative voices entering the discursive space decreases. The system thus exhibits characteristics of a semi-closed loop, where historical visibility predicts future visibility with increasing accuracy.
 
+Hier ist die Tabelle sauber formatiert und klar strukturiert:
+
+---
+
+### *2.2 Akteurs‑Mapping (April 2026)*
+
+| **Akteur (2026)**     | **Legacy‑Identität (2025)** | **Kommentare (Sample)** | **Anteil (%)** |
+|------------------------|------------------------------|---------------------------|------------------|
+| **Ima Thailand**       | lessimore (Rang 1)           | 29                        | **50,0 %**       |
+| **Kryptisch**          | Cryptic (Rang 5)             | 9                         | **15,5 %**       |
+| **Alaska Thailand**    | Alaska (Top 10)              | 4                         | **6,9 %**        |
+| **Keskaseksa**         | keskeseksa (Rang 2)          | 2                         | **3,4 %**        |
+| **Gdgbbb**             | Gdgbbb                       | 2                         | **3,4 %**        |
+
 ---
 
 ## 3. The Downvote Disparity: Peer Rejection vs. Visibility
@@ -47,6 +61,24 @@ The comments of dominant actors correlate with three consistent thematic areas s
 * **Cluster C: Geopolitical Relativization**: Characterization of European institutions as "lost puppies" and framing military conflicts as "fake wars".
 
 These clusters were identified through a frequency-based thematic coding process applied to the full dataset (Appendix A). The recurrence of specific rhetorical motifs across multiple dates and contexts suggests a stable narrative alignment rather than spontaneous or article-specific reactions.
+
+### *4.1 Cluster: Financial Systems and Western Institutions*
+The rhetoric focuses on the perceived collapse of Western economic structures and the delegitimization of the US dollar.
+* **Ima:** "Trump plans to crash the world economy... he will roll out a digital dollar with a digital ID and it will be YOU paying off America's ridiculous 39 trillion dollar debt." (22 April 2026).
+* **Ima:** "The US is dying in debt and is holding the war hostage to try and force everyone to use Petro Dollars." (26 April 2026).
+* **Ima:** "Abandon by the US they [the EU] now feel they have to go to war with their neighbor Russia." (27 April 2026).
+
+### *4.2 Cluster: Middle East Conflict and Transnational Networks*
+This cluster utilizes personified blame and structural allegations against state actors and intelligence services.
+* **Ima:** "Who genocided Palestine? ... Who started the war with Iran? ... Who looks at everyone else as Goyim?" (1 April 2026).
+* **Ima:** "Its obvious he [Trump] is owned by Israel because of the files Mossad has on him via the Epstein files." (18 April 2026).
+* **Ima:** "The Zionists are doing a good job making themselves the most hated group on the planet." (17 April 2026).
+
+### *4.3 Cluster: Eastern Europe and NATO*
+The comments contain a factual relativization of military conflicts and a downgrading of the agency of European institutions.
+* **Kryptisch:** "The Eu is like a lost puppy... That Russia would attack Europe is ridiculous." (27 April 2026).
+* **Kryptisch:** "Putin loves his people, Trump regards his with contempt." (6 April 2026).
+* **Kryptisch:** "THE EU & GLOBALISTS HAVE BEEN MADE TO LOOK TOTAL FOOLS." (19 April 2026).
 
 ---
 
