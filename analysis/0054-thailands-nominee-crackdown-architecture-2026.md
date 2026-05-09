@@ -172,7 +172,9 @@ The historical record thus shows that such campaigns do not eliminate informalit
 **The Nation – DBD cracks down on foreign ‘nominee’ firms on Samui, Phangan**  
 <a href="https://www.nationthailand.com/thailand/general/40038041" target="_blank" rel="noopener noreferrer">https://www.nationthailand.com/thailand/general/40038041</a>
 
+---
+
 <img src="../images/0054.webp" alt="0054" style="width: 480px; margin: auto;" loading="lazy">
 
-
+<img src="../images/0054_2.webp" alt="0054_2" style="width: 480px; margin: auto;" loading="lazy">
 
