@@ -134,14 +134,7 @@ Just as cryptographic anomalies reveal tampering, the repetition of this narrati
 
 ---
 
-## 7. Conclusion
-The 2026 nominee crackdown is best understood as a **political and administrative realignment**, not an anti‑corruption reform. By reframing long‑standing informal practices as existential threats, the Anutin administration gains the authority to restructure island economies, weaken local patronage networks, and centralize control over lucrative sectors.
-
-The campaign’s timing, narrative framing, and operational design indicate a strategic effort to reshape the governance architecture of Thailand’s tourism regions. Its long‑term impact will depend not on the elimination of nominee structures, but on the extent to which the state succeeds in reconfiguring them under its own authority.
-
----
-
-## 8. Comparative International Precedents
+## 7. Comparative International Precedents
 
 Attempts to “re‑nationalize” sectors dominated by foreign or informally structured investment are not unique to Thailand. Several countries in Southeast Asia have launched similar campaigns over the past two decades. The historical record shows a consistent pattern: such interventions rarely produce genuine nationalization. Instead, they tend to generate **re‑monopolization**, where political or local elites absorb the assets and influence previously held by foreign actors. The few cases that appear successful are those in which the state itself had long enabled the informal structures and later reclassified them as illegitimate in order to consolidate authority.
 
@@ -159,7 +152,14 @@ For Thailand, the implications are clear. The structural conditions that produce
 
 The historical record thus shows that such campaigns do not eliminate informality; they **reconfigure it**. They do not restore national ownership; they **redistribute control**. And they do not reduce corruption; they **shift its beneficiaries**.
 
-**Primary Source Reference:** 
+---
+
+## 8. Conclusion
+The 2026 nominee crackdown is best understood as a **political and administrative realignment**, not an anti‑corruption reform. By reframing long‑standing informal practices as existential threats, the Anutin administration gains the authority to restructure island economies, weaken local patronage networks, and centralize control over lucrative sectors.
+
+The campaign’s timing, narrative framing, and operational design indicate a strategic effort to reshape the governance architecture of Thailand’s tourism regions. Its long‑term impact will depend not on the elimination of nominee structures, but on the extent to which the state succeeds in reconfiguring them under its own authority.
+
+---
 
 ## Sources
 
