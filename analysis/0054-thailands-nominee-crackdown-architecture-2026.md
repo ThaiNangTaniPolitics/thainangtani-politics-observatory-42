@@ -178,3 +178,4 @@ The historical record thus shows that such campaigns do not eliminate informalit
 
 <img src="../images/0054_2.webp" alt="0054_2" style="width: 480px; margin: auto;" loading="lazy">
 
+<img src="../images/0054_3.webp" alt="0054_3" style="width: 480px; margin: auto;" loading="lazy">
