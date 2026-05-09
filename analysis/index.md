@@ -4,6 +4,7 @@ This section contains analytical case studies and narrative investigations.
 
 ---
 
+- [0054 – Thailand’s Nominee Crackdown Architecture (2026](0054-thailands-nominee-crackdown-architecture-2026.md)
 - [0053 – Bangkok Post Institutional Discourse Distortion: A Case Study on Structured Comment Environments](0053-bangkok-post-institutional-discourse-distortion.md)
 - [0052 – Thailand’s Fireline Inequality Architecture](0052-thailands-fireline-inequality-architecture.md)
 - [0051 – Thailand’s Foundational Skills Crisis](0051-thailands-foundational-skills-crisis.md)
