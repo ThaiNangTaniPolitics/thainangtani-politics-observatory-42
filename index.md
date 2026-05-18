@@ -17,5 +17,5 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**A structural analysis of timing, intent, and systemic consequences under the Anutin administration**  
-0054 – Thailand’s Nominee Crackdown Architecture (2026)
+**Legal ambiguity, military narratives and the collapse of a bilateral architecture**  
+0055 – The MoU 44 Crisis (2024–2026)
