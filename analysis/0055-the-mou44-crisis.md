@@ -118,3 +118,7 @@ The MoU 44 crisis is a multi‑layered structure of narrative construction, lega
 
 At its core, the crisis demonstrates that cooperative architecture collapses not through legal argument, but through narrative construction and structural incentives.
 
+
+---
+
+<img src="../images/0055.webp" alt="0055" style="width: 480px; margin: auto;" loading="lazy">
