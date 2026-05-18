@@ -122,3 +122,5 @@ At its core, the crisis demonstrates that cooperative architecture collapses not
 ---
 
 <img src="../images/0055.webp" alt="0055" style="width: 480px; margin: auto;" loading="lazy">
+
+<img src="../images/0055_2.webp" alt="0055_2" style="width: 480px; margin: auto;" loading="lazy">
