@@ -135,3 +135,5 @@ The analytical task is therefore twofold:
 Both dimensions are now empirically traceable.
 
 <img src="../images/0056.webp" alt="0056" style="width: 480px; margin: auto;" loading="lazy">
+
+<img src="../images/0056_2.webp" alt="0056_2" style="width: 480px; margin: auto;" loading="lazy">
