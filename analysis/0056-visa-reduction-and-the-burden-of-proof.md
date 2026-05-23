@@ -134,6 +134,4 @@ The analytical task is therefore twofold:
 
 Both dimensions are now empirically traceable.
 
-‑Arguments einbauen,  
-- die **Encapsulated‑Logic‑Passage** weiter verdichten,  
-- oder Kapitel 8 um eine **kurze institutionelle Typologie** ergänzen.
+<img src="../images/0056.webp" alt="0056" style="width: 480px; margin: auto;" loading="lazy">
