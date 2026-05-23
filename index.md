@@ -17,5 +17,5 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**Legal ambiguity, military narratives and the collapse of a bilateral architecture**  
-0055 – The MoU 44 Crisis (2024–2026)
+**A structural analysis of causal assertions, enforcement patterns, and security‑driven mobility governance**  
+0056 – Visa Reduction and the Burden of Proof
