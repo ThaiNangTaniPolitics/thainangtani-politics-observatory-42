@@ -96,3 +96,4 @@ But the simultaneous events in Thailand have **punctured** it.
 
 This robs the francophile spectacle of any moral legitimacy.
 
+<img src="../images/0056.webp" alt="0056" style="width: 480px; margin: auto;" loading="lazy">
