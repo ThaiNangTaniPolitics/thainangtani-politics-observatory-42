@@ -4,6 +4,7 @@ This section contains analytical case studies and narrative investigations.
 
 ---
 
+- [0057 – The Paris Bubble: Soft Power, Champagne and the Invisible Reality](0057-the-paris-bubble.md)
 - [0056 – Visa Reduction and the Burden of Proof](0056-visa-reduction-and-the-burden-of-proof.md)
 - [0055 – The MoU 44 Crisis (2024–2026)](0055-the-mou44-crisis.md)
 - [0054 – Thailand’s Nominee Crackdown Architecture (2026)](0054-thailands-nominee-crackdown-architecture-2026.md)
