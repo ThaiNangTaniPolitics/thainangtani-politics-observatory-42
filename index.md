@@ -17,5 +17,5 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**A structural analysis of causal assertions, enforcement patterns, and security‑driven mobility governance**  
-0056 – Visa Reduction and the Burden of Proof
+**How France and Thailand built a perfect PR‑staged narrative – and why it collapses when confronted with facts**  
+0057 – The Paris Bubble: Soft Power, Champagne and the Invisible Reality
