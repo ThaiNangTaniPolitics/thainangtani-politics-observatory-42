@@ -17,6 +17,9 @@ French diplomacy and the Thai PR apparatus worked visibly to produce a flawless 
 This bubble was not accidental.  
 It was **strategically curated** to present Thailand as modern, creative, climate‑conscious and internationally respectable.
 
+**The Mechanism of Discursive Insulation:**  
+This curated environment functions as a classic defense mechanism. By saturating the international media space with high‑status cultural symbols (Legion of Honour, UNESCO heritage claims), the state constructs an elite‑level *Narrative Shield*. This insulation ensures that Western partners interact exclusively with a hyper‑sanitized, feudal‑aesthetic representation of the state, neutralizing critical journalistic inquiry before it can even form.
+
 ---
 
 ## 2. THE PARALLEL REALITY AT HOME
@@ -35,7 +38,8 @@ At the same time, Anutin is politically linked to:
 - an **energy policy** that protects monopolies and burdens households  
 - and he publicly boasts of working at the **desk of former junta leader Prayut Chan‑o‑cha**  
 
-None of this appeared in the Paris narrative.
+**The Institutional Duality:**  
+While acting as a sophisticated cultural diplomat in Paris, Anutin simultaneously commands the Ministry of Interior at home. This unique concentration of power allows him to project a rule‑based, investment‑friendly façade internationally, while vertically executing highly securitized, nationalistic crackdowns on foreign economic presence domestically. He operates the machinery of an expanded surveillance state from the very desk that symbolized military rule.
 
 ---
 
@@ -79,7 +83,8 @@ Yet during this week:
 - no comment on nominee raids affecting French citizens  
 - instead: medals, photos, praise, receptions  
 
-The result is a **moral vacuum**.
+**The Enforcement Asymmetry:**  
+France’s total silence on domestic repression and the ongoing nominee raids — even when they directly affect French nationals in Thai tourist hubs — exposes a strictly transactional foreign policy. The awarding of high‑ranking medals functions as diplomatic lubricant to secure Western positioning in regional security frameworks and upcoming energy contracts (including Gastech 2026), effectively trading human‑rights advocacy for structural market access.
 
 ---
 
@@ -96,4 +101,3 @@ But the simultaneous events in Thailand have **punctured** it.
 
 This robs the francophile spectacle of any moral legitimacy.
 
-<img src="../images/0056.webp" alt="0056" style="width: 480px; margin: auto;" loading="lazy">
