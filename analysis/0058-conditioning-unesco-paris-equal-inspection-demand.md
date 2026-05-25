@@ -189,3 +189,5 @@ In this architecture, the soft‑power week in Paris and the procedural move on 
 - [0057 – The Paris Bubble](0057-the-paris-bubble.md)
 
 <img src="../images/0058.webp" alt="0058" style="width: 480px; margin: auto;" loading="lazy">
+
+<img src="../images/0058_2.webp" alt="0058_2" style="width: 480px; margin: auto;" loading="lazy">
