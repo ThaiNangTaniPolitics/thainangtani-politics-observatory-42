@@ -4,6 +4,7 @@ This section contains analytical case studies and narrative investigations.
 
 ---
 
+- [ 0059 – The Israeli–Thai Surveillance and Arms Pipeline: Civil Society Exposure and the Foreign Infrastructure of Repression](0059-the-israeli-thai-surveillance-and-arms-pipeline.md)
 - [0058 – Conditioning UNESCO: How Thailand's "Equal Inspection" Demand Shields the Post‑Sattawat Status Quo](0058-conditioning-unesco-paris-equal-inspection-demand.md)
 - [0057 – The Paris Bubble: Soft Power, Champagne and the Invisible Reality](0057-the-paris-bubble.md)
 - [0056 – Visa Reduction and the Burden of Proof](0056-visa-reduction-and-the-burden-of-proof.md)
