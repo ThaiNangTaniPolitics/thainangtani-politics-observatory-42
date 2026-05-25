@@ -17,6 +17,7 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**How a procedural condition on UNESCO access converts territorial gains from Operation Sattawat into protected facts on the ground**  
-0058 – Conditioning UNESCO: How Thailand's "Equal Inspection" Demand Shields the Post‑Sattawat Status Quo
+**How Israeli surveillance, defence, and forensic technology have become structural components of the Thai state's apparatus for monitoring and prosecuting domestic civil society — and what this means for the opposition movement**  
+ 0059 – The Israeli–Thai Surveillance and Arms Pipeline: Civil Society Exposure and the Foreign Infrastructure of Repression
+
 
