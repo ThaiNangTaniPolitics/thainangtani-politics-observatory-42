@@ -55,7 +55,7 @@ Section 112, by contrast, concerns expressive acts—defamation, insult, or thre
 
 ## 1.4 The 2020 Ten‑Point Declaration as Jurisprudential Reference Frame
 
-On 10 August 2020, the United Front of Thammasat and Demonstration issued a ten‑point declaration during the event *“Thammasat Will Not Tolerate”* at Thammasat University (Rangsit Campus). On 10 November 2021, the Constitutional Court ruled (Decision 19/2564) that speeches referencing these points constituted an attempt to overthrow the democratic regime with the King as Head of State under Section 49 of the Constitution.
+On 10 August 2020, the United Front of Thammasat and Demonstration issued a ten‑point declaration during the event *"Thammasat Will Not Tolerate"* at Thammasat University (Rangsit Campus). On 10 November 2021, the Constitutional Court ruled (Decision 19/2564) that the speeches delivered at this rally by three named activists — **Arnon Nampa, Panupong Jadnok, and Panusaya Sithijirawattanakul** — constituted an attempt to overthrow the democratic regime with the King as Head of State under Section 49 of the 2017 Constitution. While the ruling carried no direct penalty for the three respondents, the Court ordered them and "other organisations and networks" to cease further actions on these matters. Academic commentary (Thai Legal Studies Journal) has characterised the ruling as an instance of *"Thai‑style militant democracy"* and a paradigm case of the *judicialization of politics*.
 
 Although subsequent political actors—such as the Move Forward Party in 2021 and the People’s Party in 2026—did not adopt these demands, the declaration became a jurisprudential benchmark. The 2021 ruling established that proposals perceived as aligning with or resembling elements of the ten‑point declaration could be interpreted as constitutionally impermissible. This interpretive linkage contributed to the heightened insulation of Section 112 during the consolidation phase.
 
@@ -96,6 +96,18 @@ The ten‑point declaration of 2020 constituted a historical novelty in Thailand
 
 ---
 
+## 1.7 The Speech and the Record — A Necessary Caveat
+
+The 2005 Dusidalai address cited in Section 1 is included in this analysis as a historical reference point, not as moral authority. Bhumibol’s articulated openness to criticism in that speech coexisted with a sustained pattern of royal endorsement for extraconstitutional power transitions — including the 1957 Sarit coup, the 1976 Thanin appointment following the Thammasat massacre, the 1991 Suchinda coup, and (per academic consensus including Handley’s *The King Never Smiles*, Marshall’s *A Kingdom in Crisis*, Ferrara, and the 2008–2010 US diplomatic cables released via Wikileaks) the 2006 coup against Thaksin Shinawatra.
+
+Comparative scholarship on Thailand’s *"network monarchy"* (McCargo 2005; Ferrara; Handley; Haberkorn) treats the monarchy as inseparable from the institutional architecture that protects it, not as a counterweight to it. The widespread "good king versus bad institutions" framing is systematically critiqued in this literature as a discursive mechanism that obscures the actual lines of institutional continuity.
+
+The juxtaposition of the 2005 speech with the 2024–2026 consolidation phase in this chapter therefore operates as **documentary contrast** — the official rhetorical archive against the operational institutional pattern — rather than as evidence that the consolidation phase represents a betrayal of an earlier royal stance. The architecture analysed below is the architecture that the same monarchical period sustained throughout, including during the speech itself: at the moment the 2005 address was delivered, dozens of individuals were already serving Section 112 sentences whose release the speech did not produce.
+
+This caveat is necessary because without it the chapter risks reproducing the very legitimation framework that the consolidation phase relies on: the idea that the contemporary architecture is a deviation from rather than a continuation of the monarchy’s institutional posture. The analysis that follows treats the architecture as continuous.
+
+---
+
 ## 2. THE 2024 CONSTITUTIONAL COURT RULING: SECTION 112 AS A PROTECTED DOMAIN
 
 On 31 January 2024, the Constitutional Court ruled that the Move Forward Party’s campaign to amend Section 112 constituted an attempt to overthrow the constitutional monarchy.  
@@ -131,9 +143,10 @@ Following the 2024 ruling, the institutional cascade documented in 0012 continue
 - On **9 April 2026**, the NACC formally delivered the case files to the Supreme Court, as publicly reported on 10 and 11 April 2026.  
 - Of the 44 individuals named in the petition, **ten were serving MPs of the People’s Party**:  
   **Natthaphong Ruengpanyawut, Sirikanya Tansakun, Rangsiman Rome, Wayo Assawarungruang, Pakornwut Udompipatskul, Nattawut Buaprathum, Surachet Pravinvongvuth, Nattacha Boonchaiinsawat, Teerajchai Phunthumas, and Taopiphop Limjittrakorn.**  
-- Upon acceptance of the petition, the Supreme Court may order the **immediate suspension** of these ten MPs from parliamentary duties, unless the Court decides otherwise.  
-- Public statements by People’s Party leader Natthaphong Ruengpanyawut on 8 April 2026 described the process as routine while noting that an accelerated suspension could affect the party’s participation in the government’s policy debate scheduled for the same week.  
-- The timing of the submission coincided with the formation of the new parliament, the delivery of the government’s policy statement, and the selection of the opposition leader.
+- On **24 April 2026**, the Supreme Court formally accepted the petition for consideration. Contrary to expectations of an immediate procedural suspension under Section 235 of the 2017 Constitution, the Court allowed the ten serving MPs to remain on duty pending substantive review. The Court did, however, impose a **gag order** requiring them to refrain from public commentary on the case or related actions.  
+- The Court set the **first substantive hearing for 30 June 2026** and the **evidence examination phase for 4 August 2026**. If found guilty, the MPs face a **lifetime political ban** and a temporary suspension of voting rights.  
+- Public statements by People’s Party leader Natthaphong Ruengpanyawut on 8 April 2026 described the process as routine; following the 24 April acceptance, he and former MFP leader Pita Limjaroenrat publicly denied that the 2021 amendment proposal had constituted an attempt to overthrow the constitutional monarchy.  
+- The timing of the NACC submission coincided with the formation of the new parliament, the delivery of the government’s policy statement, and the selection of the opposition leader. The Supreme Court’s decision not to suspend the ten MPs represents a partial deceleration of the institutional cascade — without, however, altering its overall trajectory.
 
 ### *Institutional Logic*
 
@@ -167,6 +180,9 @@ This cross‑institutional coherence produces a form of procedural automation. T
 | 8 Apr 2026        | Public reporting identifies ten serving MPs potentially facing suspension |
 | 9 Apr 2026        | NACC formally delivers case files to the Supreme Court                 |
 | 10–11 Apr 2026    | Public reporting confirms Supreme Court receipt and outlines implications |
+| 24 Apr 2026       | Supreme Court accepts petition; ten MPs allowed to stay on duty under gag order |
+| 30 Jun 2026       | First substantive hearing scheduled                                     |
+| 4 Aug 2026        | Evidence examination phase scheduled                                    |
 
 
 
@@ -177,19 +193,20 @@ This cross‑institutional coherence produces a form of procedural automation. T
 Parallel to the institutional track, criminal enforcement of Section 112 intensified.
 
 ### *Sentencing Patterns*
-- Arnon Nampa received cumulative sentences exceeding 30 years.  
-- A man was sentenced to 50 years for Facebook posts.  
-- A satirical rubber‑duck calendar resulted in a two‑year sentence.  
+- **Arnon Nampa**, human rights lawyer and former protest leader, received cumulative sentences amounting to 31 years and 9 months across multiple Section 112 cases stemming from 2020–2021 protest speeches.  
+- **Mongkol Thirakot**, a 30‑year‑old man from Chiang Rai, was sentenced in January 2025 to 50 years in prison for 27 Facebook posts — the heaviest single‑defendant sentence recorded under Section 112; subsequent additions raised the cumulative term above 54 years. Each post was treated as a separate offence with penalties stacked consecutively.  
+- In December 2025, the Supreme Court sentenced **"Busbas"** to 46 years, and **"Tonphai"** received a 50‑year cumulative sentence — both records that exceed the precedent set by Mongkol Thirakot.  
+- **Narathorn Chotmankongsin**, 26, received a two‑year sentence (later upheld on appeal in October 2024) for selling a 2021 calendar depicting rubber ducks that a Bangkok court ruled resembled the King — the rubber duck having become a symbol of the 2020 protest movement.  
 - Courts expanded the scope of 112 to include references to deceased monarchs when deemed harmful to national security.
 
 ### *Statistical Trends*
-According to Thai Lawyers for Human Rights:
+According to Thai Lawyers for Human Rights (TLHR), as of 31 March 2026:
 
-- 1,938 people prosecuted for political expression since 2020  
-- 262 charged under Section 112  
-- 138 charged under Section 116  
-- Bail denial remained common  
-- Over 40% of cases involved online content  
+- **1,997 individuals** prosecuted in connection with public assemblies or political expression since the Free Youth assembly of 18 July 2020, across **1,346 cases**; counting repeat prosecutions, the total exceeds 4,076.  
+- **291 individuals** in **321 cases** charged under Section 112 specifically — of which at least 169 cases originated in police reports filed by private citizens rather than state initiation.  
+- At least **283 youths** (in 211 cases) prosecuted for political expression.  
+- Bail denial remained common; cumulative sentencing across multiple counts a defining pattern.  
+- A significant share of prosecutions concerned online content, particularly on Facebook and X (formerly Twitter).  
 
 ### *Dual‑Track Enforcement*
 The criminal and institutional tracks operated in parallel:
@@ -347,7 +364,7 @@ The value of the ESSF archive lies not in providing normative evaluation but in 
 
 ## 13. Complaint‑Driven Activation: The Role of Teerayut Suwankesorn in the Enforcement Sequence
 
-A central feature of the 2024–2026 consolidation phase was the activation of institutional processes through private complaints. Among the individuals who made use of this mechanism, lawyer **Teerayut Suwankesorn** played a particularly significant procedural role. His petitions did not determine outcomes, but they served as the initial triggers that brought multiple oversight bodies into motion.
+A central feature of the 2024–2026 consolidation phase was the activation of institutional processes through private complaints. Among the individuals who made use of this mechanism, lawyer **Teerayut Suwankesorn** played a particularly significant procedural role. His petitions did not determine outcomes, but they served as the initial triggers that brought multiple oversight bodies into motion. Teerayut is publicly known as legal counsel to the former activist monk **Suwit Thongprasert** (formerly known as Phra Buddha Isara), a prominent figure in the 2013–2014 PDRC movement — a biographical detail that situates his procedural interventions within a broader ideological alignment.
 
 ### *13.1 Procedural Initiation under Section 49*
 
@@ -411,6 +428,92 @@ Finally, the expansion of ethical oversight into the domain of legislative condu
 
 **Taken together, these developments illustrate a broader structural movement: the gradual reframing of earlier notions of openness and fallibility into a security‑oriented interpretive logic; the emergence of institutional automation in which procedural sequences unfold with increasing inevitability; and a temporal persistence in which actions undertaken years earlier continue to generate institutional effects across multiple electoral cycles. This combination of normative reinterpretation, procedural continuity, and temporal durability defines the consolidation phase and shapes the contemporary constitutional position of Section 112. Section 112 remains formally amendable. In practice, the consolidation phase has rendered meaningful reform structurally unattainable within the existing institutional framework.**  
 
+
+---
+
+## Sources
+
+**2026 Supreme Court / NACC Sequence**
+
+- Khaosod English, *"NACC rules against 44 ex-Move Forward MPs"* (9 Feb 2026): <a href="https://www.khaosodenglish.com/politics/2026/02/09/nacc-rules-against-44-ex-move-forward-mps/" target="_blank" rel="noopener noreferrer">link</a>
+- Thairath English, *"NACC Resolves to Refer All 44 Former Move Forward MPs to Supreme Court for Violating Section 112 Amendment Proposal"*: <a href="https://en.thairath.co.th/news/politic/2913164" target="_blank" rel="noopener noreferrer">link</a>
+- Bangkok Post, *"NACC delivers evidence in MPs' lese‑majeste case"*: <a href="https://www.bangkokpost.com/thailand/politics/3234284/nacc-delivers-evidence-in-mps-lesemajeste-case" target="_blank" rel="noopener noreferrer">link</a>
+- Nation Thailand, *"NACC advances Article 112 case against 44 ex-Move Forward MPs; 10 People's Party MPs at risk"*: <a href="https://www.nationthailand.com/news/politics/40064476" target="_blank" rel="noopener noreferrer">link</a>
+- Nation Thailand, *"Supreme Court to review 44-MP Section 112 case on April 24"*: <a href="https://www.nationthailand.com/news/politics/40065126" target="_blank" rel="noopener noreferrer">link</a>
+- Nation Thailand, *"Supreme Court accepts 44-MP case but lets 10 MPs stay on duty"* (24 Apr 2026): <a href="https://www.nationthailand.com/news/politics/40065424" target="_blank" rel="noopener noreferrer">link</a>
+- Bangkok Post, *"Supreme Court accepts petition in lese‑majeste amendment case"*: <a href="https://www.bangkokpost.com/thailand/politics/3243212/supreme-court-accepts-petition-in-lesemajeste-amendment-case" target="_blank" rel="noopener noreferrer">link</a>
+- Nation Thailand, *"Pita, Natthaphong vow to fight 44-MP case, deny overthrow claims over Section 112"*: <a href="https://www.nationthailand.com/news/politics/40065412" target="_blank" rel="noopener noreferrer">link</a>
+- Thai FYI, *"Supreme Court Accepts Case Against 44 Ex-MFP MPs; 10 From People's Party Allowed to Stay on Duty"* (24 Apr 2026): <a href="https://www.thai.fyi/2026/04/24/1307/supreme-court-thailand-politics" target="_blank" rel="noopener noreferrer">link</a>
+- Pattaya Mail, *"Supreme Court to hear NACC petition against 44 former Move Forward MPs over Section 112 amendment"*: <a href="https://www.pattayamail.com/thailandnews/supreme-court-to-hear-nacc-petition-against-44-former-move-forward-mps-over-section-112-amendment-545728" target="_blank" rel="noopener noreferrer">link</a>
+
+**2024 Constitutional Court Rulings**
+
+- TIME, *"Thailand's Move Forward Party Found Guilty Over Royal Reform Push"* (31 Jan 2024): <a href="https://time.com/6590363/thailand-move-forward-article-112-reform-unconstitutional-guilty/" target="_blank" rel="noopener noreferrer">link</a>
+- US Library of Congress, *"Thailand: Constitutional Court Rules Opposition Party's Proposal to Reform Lèse‑Majesté Law Violates Constitution"*: <a href="https://www.loc.gov/item/global-legal-monitor/2024-03-20/thailand-constitutional-court-rules-opposition-partys-proposal-to-reform-lese-majeste-law-violates-constitution/" target="_blank" rel="noopener noreferrer">link</a>
+- Nation Thailand, *"Court rules Pita, Move Forward's Article 112 campaign unconstitutional"*: <a href="https://www.nationthailand.com/thailand/politics/40035184" target="_blank" rel="noopener noreferrer">link</a>
+- Human Rights Watch, *"Thailand: Constitutional Court Dissolves Opposition Party"* (7 Aug 2024): <a href="https://www.hrw.org/news/2024/08/07/thailand-constitutional-court-dissolves-opposition-party" target="_blank" rel="noopener noreferrer">link</a>
+- Al Jazeera, *"Thai Constitutional Court dissolves election‑winning Move Forward Party"*: <a href="https://www.aljazeera.com/news/2024/8/7/thai-constitutional-court-dissolves-progressive-move-forward-party" target="_blank" rel="noopener noreferrer">link</a>
+- Amnesty International, *"Thailand: Dissolution of Move Forward Party an 'untenable decision' that stifles human rights"*: <a href="https://www.amnesty.org/en/latest/news/2024/08/thailand-dissolution-of-move-forward-party-an-untenable-decision-that-stifles-human-rights/" target="_blank" rel="noopener noreferrer">link</a>
+- Australian Institute of International Affairs, *"From State of Exception to Hyper‑Legalism: The Thai Constitutional Court and the Dissolution of the Move Forward Party"*: <a href="https://www.internationalaffairs.org.au/australianoutlook/from-state-of-exception-to-hyper-legalism-the-thai-constitutional-court-and-the-dissolution-of-the-move-forward-party/" target="_blank" rel="noopener noreferrer">link</a>
+- Verfassungsblog, *"A Standoff Between the Monarchy and the People: On the Ban of Thailand's Move Forward Party"*: <a href="https://verfassungsblog.de/move-forward-party-ban-thailand/" target="_blank" rel="noopener noreferrer">link</a>
+- TLHR, *"Public Statement on Section 112 and the Ruling to Dissolve the Move Forward Party"*: <a href="https://tlhr2014.com/en/archives/69269" target="_blank" rel="noopener noreferrer">link</a>
+
+**2021 Constitutional Court Decision 19/2564**
+
+- TLHR, *"Translation of Thailand Constitutional Court ruling No. 19/2564"*: <a href="https://tlhr2014.com/en/archives/38743" target="_blank" rel="noopener noreferrer">link</a>
+- Thai Legal Studies Journal, *"Constitutional Court Decision No. 19/2564: A Threat to Democracy?"*: <a href="https://so01.tci-thaijo.org/index.php/tls/article/view/261266" target="_blank" rel="noopener noreferrer">link</a>
+- TLHR, *"TLHR Expresses Concern Regarding the Constitutional Court's Ruling"*: <a href="https://tlhr2014.com/en/archives/64521" target="_blank" rel="noopener noreferrer">link</a>
+
+**10-Point Declaration (10 August 2020)**
+
+- Prachatai English, *"[Full statement] The demonstration at Thammasat proposes monarchy reform"*: <a href="https://prachatai.com/english/node/8709" target="_blank" rel="noopener noreferrer">link</a>
+- New Mandala, *"The ten demands that shook Thailand"*: <a href="https://www.newmandala.org/the-ten-demands-that-shook-thailand/" target="_blank" rel="noopener noreferrer">link</a>
+- ISEAS / Fulcrum, Anusorn Unno, *"'Reform, Not Abolition': The Thai Youth Movement and Its Demands for Reform of the Monarchy"*: <a href="https://fulcrum.sg/reform-not-abolition-the-thai-youth-movement-and-its-demands-for-reform-of-the-monarchy/" target="_blank" rel="noopener noreferrer">link</a>
+
+**Criminal Enforcement — Case Record**
+
+- CNN, *"Thailand sentences man to record 50 years in prison for insulting the monarchy"* (Mongkol Thirakot, Jan 2025): <a href="https://www.cnn.com/2024/01/19/asia/thailand-man-sentenced-50-years-lese-majeste-record-intl-hnk/index.html" target="_blank" rel="noopener noreferrer">link</a>
+- Bangkok Post, *"Chiang Rai man's lese‑majeste sentences top 54 years"*: <a href="https://www.bangkokpost.com/thailand/general/2859558/chiang-rai-mans-lese-majeste-sentences-top-54-years" target="_blank" rel="noopener noreferrer">link</a>
+- TLHR, *"UN Letter to Thai Government: UN Experts 'Alarmed' by Record‑Breaking 50‑Year Prison Term"*: <a href="https://tlhr2014.com/en/archives/67335" target="_blank" rel="noopener noreferrer">link</a>
+- 112Watch, *"A Half‑Century of Incarceration: Thai Court Sentences 'Tonphai' to 50‑Year Total Under Article 112"*: <a href="https://112watch.org/thai-court-sentences-tonphai-to-50-year-total-under-article-112/" target="_blank" rel="noopener noreferrer">link</a>
+- TLHR, *"December 2025: The Supreme Court sentenced 'Busbas' to 46 years under Section 112"*: <a href="https://tlhr2014.com/en/archives/81276" target="_blank" rel="noopener noreferrer">link</a>
+- Bangkok Post, *"Court extends sentence for lawyer who called for monarchy reform"* (Arnon Nampa, 31 years 9 months): <a href="https://www.bangkokpost.com/thailand/general/3201580/court-extends-sentence-for-lawyer-who-called-for-monarchy-reform" target="_blank" rel="noopener noreferrer">link</a>
+- Al Jazeera, *"Rubber duck calendar lands Thai man in jail for insult to monarch"* (Narathorn Chotmankongsin): <a href="https://www.aljazeera.com/news/2023/3/8/rubber-duck-calendar-lands-thai-man-in-jail-for-insult-to-monarch" target="_blank" rel="noopener noreferrer">link</a>
+- Political Prisoners in Thailand, *"Duck 112 appeal fails"* (29 Oct 2024): <a href="https://thaipoliticalprisoners.wordpress.com/2024/10/29/duck-112-appeal-fails/" target="_blank" rel="noopener noreferrer">link</a>
+
+**TLHR Statistical Records**
+
+- Thai Lawyers for Human Rights, monthly statistical reports: <a href="https://tlhr2014.com/en/home" target="_blank" rel="noopener noreferrer">link</a>
+- Political Prisoners in Thailand, *"112 statistics"*: <a href="https://thaipoliticalprisoners.wordpress.com/2024/11/19/112-statistics/" target="_blank" rel="noopener noreferrer">link</a>
+
+**Procedural Initiator — Teerayut Suwankesorn**
+
+- Bangkok Post, *"Lawyer petitions to gag Move Forward on lese majeste law"* (initial 2023 petition): <a href="https://www.bangkokpost.com/thailand/politics/2581495/lawyer-petitions-to-gag-move-forward-on-lese-majeste-law" target="_blank" rel="noopener noreferrer">link</a>
+- Bangkok Post, *"Requests for Move Forward Party disbandment filed"* (2024 EC petition): <a href="https://www.bangkokpost.com/thailand/politics/2734614/requests-for-move-forward-party-disbandment-filed" target="_blank" rel="noopener noreferrer">link</a>
+- THAI.NEWS, *"Teerayut Suwankesorn: Influential Legal Crusader in Thailand's Political Landscape 2024"* (profile, Suwit Thongprasert connection): <a href="https://thai.news/news/thailand/teerayut-suwankesorn-influential-legal-crusader-in-thailands-political-landscape-2024" target="_blank" rel="noopener noreferrer">link</a>
+
+**Comparative Monarchy Law**
+
+- Wikipedia, *"Lèse‑majesté"* (cross‑country overview): <a href="https://en.wikipedia.org/wiki/L%C3%A8se-majest%C3%A9" target="_blank" rel="noopener noreferrer">link</a>
+- Verfassungsblog, *"A Ghost that Haunts European Democracies: How lèse‑majesté laws across Europe threaten the right to dissent"*: <a href="https://verfassungsblog.de/a-ghost-that-haunts-european-democracies/" target="_blank" rel="noopener noreferrer">link</a>
+
+**Academic Frame**
+
+- Duncan McCargo, *"Network Monarchy and Legitimacy Crises in Thailand"*, The Pacific Review 18:4 (2005).
+- David Streckfuss, *Truth on Trial in Thailand: Defamation, Treason, and Lèse‑Majesté*, Routledge 2011.
+- Tyrell Haberkorn, *In Plain Sight: Impunity and Human Rights in Thailand*, University of Wisconsin Press 2018.
+- Pavin Chachavalpongpun (ed.), *Coup, King, Crisis: A Critical Interregnum in Thailand*, Yale 2020.
+- Puangthong Pawakapan, *Infiltrating Society: The Thai Military's Internal Security Affairs*, ISEAS 2021.
+
+**Related Observatory analyses**
+
+- [0012 – Section 112 and the Blocked Path of Democratic Reform (2021–2026)](0012-section-112-blocked-democratic-reform.md)
+- [0014 – Constitutional Mechanics I: The Analytical Framework (2024–2026)](0014-constitutional-mechanics-I.md)
+- [0016 – Section 235: The Constitutional Hardware of Exclusion](0016-section-235.md)
+- [0018 – The Supreme Court as Terminal Node](0018-the-supreme-court-as-terminal-node.md)
+- [0050 – 112 Symbolic Speech, Public Debate and Institutional Reality (2026)](0050-112-symbolic-speech-public-debate-and-institutional-reality-2026.md)
+
+---
 
 <img src="../images/0041.webp" alt="0041" style="width: 480px; margin: auto;" loading="lazy">
 
