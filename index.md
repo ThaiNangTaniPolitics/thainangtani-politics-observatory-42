@@ -19,3 +19,4 @@ The goal is not advocacy, but **structured observation**.
 
 **How a procedural condition on UNESCO access converts territorial gains from Operation Sattawat into protected facts on the ground**  
 0058 – Conditioning UNESCO: How Thailand's "Equal Inspection" Demand Shields the Post‑Sattawat Status Quo
+
