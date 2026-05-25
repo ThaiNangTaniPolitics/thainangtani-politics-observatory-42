@@ -308,6 +308,14 @@ In the same way, a platform that manipulates the user’s browser forfeits the t
 This is not a moral argument; it is a **forensic consequence** of the architecture.  
 A system that modifies the medium cannot simultaneously claim unmodified authority over the message.
 
+### 14.7 *Section: Dual-Use Failure of Identification-Based Enforcement*
+
+The platform deploys client-side identification mechanisms (plugin randomization, synthetic user-agent, __bwp session reconstruction, third-party fingerprinting via AnyMind360 and DoubleClick) for two distinct purposes simultaneously: behavioral attribution for advertising monetization, and rate-limiting enforcement for user interaction systems such as the comment like/dislike interface. Both functions rely on the same underlying infrastructure of client-side identifiability.
+
+This dual-use architecture exhibits a structural failure mode: any client-side intervention that defeats fingerprinting for privacy purposes - including standard anti-tracking browser extensions, fingerprint-rotation tools, or compartmentalized browser profiles - simultaneously defeats the rate-limiting enforcement. A user who exercises rights under PDPA Sections 19 and 32 by deploying tracking countermeasures gains, as a structural side-effect, the technical capacity to submit multiple votes per interaction surface. The platform's anti-manipulation system has no operational existence independent of its surveillance system.
+
+This is not a defect that can be remediated through partial hardening. The two functions are the same function viewed from opposite ends. A platform that wishes to enforce one-vote-per-user without fingerprinting would require either authenticated identity verification (which conflicts with anonymous commenting) or a fundamentally different architecture (such as cryptographic vote tokens issued post-consent). Neither is present.
+
 ---
 
 ## 15. Notes
