@@ -409,3 +409,5 @@ The May–July 2026 ruling window will therefore produce, irrespective of outcom
 
 *Filed under: constitutional mechanics; fiscal architecture; election‑promise jurisprudence; digital‑state infrastructure.*  
 *Cross‑references: [0013](0013-section-49.md), [0014](0014-constitutional-mechanics-I.md), [0016](0016-section-235.md), [0017](0017-the-jurisprudence-of-prevention.md), [0021](0021-governance-through-uncertainty.md), [0022](0022-how-anticipation-reinforces-institutional-power.md), [0023](0023-system-map-constitutional-mechanics-thailand-2021-2026.md), [0024](0024-politically-functional-law-and-technocratic-framing.md), [0030](0030-isoc-the-architecture-of-the-infiltrated-society.md), [0034](0034-isoc-budgetary-exceptionalism-and-security-finance.md), [0040](0040-analytical-note-on-the-2026-policy-statement-of-the-council-of-ministers.md).*
+
+<img src="../images/0060.webp" alt="0060" style="width: 480px; margin: auto;" loading="lazy">
