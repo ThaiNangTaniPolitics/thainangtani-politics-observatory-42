@@ -413,3 +413,7 @@ The May–July 2026 ruling window will therefore produce, irrespective of outcom
 <img src="../images/0060.webp" alt="0060" style="width: 480px; margin: auto;" loading="lazy">
 
 <img src="../images/0060_2.webp" alt="0060_2" style="width: 480px; margin: auto;" loading="lazy">
+
+<img src="../images/0060_3.webp" alt="0060_3" style="width: 480px; margin: auto;" loading="lazy">
+
+<img src="../images/0060_4.webp" alt="0060_4" style="width: 480px; margin: auto;" loading="lazy">
