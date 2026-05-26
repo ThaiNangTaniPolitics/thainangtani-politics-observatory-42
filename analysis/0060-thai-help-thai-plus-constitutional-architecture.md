@@ -77,7 +77,7 @@ The macroeconomic indicators publicly available at the time of the decree do not
 | Indicator | Value (early 2026) | Crisis threshold? |
 |---|---|---|
 | Headline CPI inflation | 2.9 % (forecast 3.2 %) | No — within BoT corridor |
-| GDP growth (annualised) | 2.5–3 % | No — slow but positive |
+| GDP growth (annualised) | 2.8 % | No — slow but positive |
 | Unemployment | 0.9 % | No — historically low |
 | Household debt / GDP (BoT) | 86.7 % | High, but stable |
 | Currency stress | None recorded | No |
