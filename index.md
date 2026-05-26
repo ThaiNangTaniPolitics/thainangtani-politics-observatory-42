@@ -17,7 +17,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**How Israeli surveillance, defence, and forensic technology have become structural components of the Thai state's apparatus for monitoring and prosecuting domestic civil society — and what this means for the opposition movement**  
- 0059 – The Israeli–Thai Surveillance and Arms Pipeline: Civil Society Exposure and the Foreign Infrastructure of Repression
+**Section 172, Section 57, and the Re‑Personalisation of Public Funds in the 2026 Emergency‑Decree Litigation**  
+ 0060 – Thai Help Thai Plus: The Constitutional Architecture of a Campaign‑Promise Disguised as Crisis Relief
+
 
 
