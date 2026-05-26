@@ -273,3 +273,5 @@ For the Observatory framework, this means the forensic record functions as a **d
 
 *Filed under: constitutional mechanics; institutional sequence; forensic AI as state instrument; administrative closure of investigation; Senate composition 2024–2029.*
 *Cross‑references: [0011](0011-bangkok-post-comment-ecology.md), [0013](0013-section-49.md), [0014](0014-constitutional-mechanics-I.md), [0016](0016-section-235.md), [0017](0017-the-jurisprudence-of-prevention.md), [0019](0019-the-architecture-of-permissible-speech-2021-2026.md), [0020](0020-the-chilling-effect-on-parliamentary-procedure.md), [0023](0023-system-map-constitutional-mechanics-thailand-2021-2026.md), [0024](0024-politically-functional-law-and-technocratic-framing.md), [0027](0027-bangkok-post-discursive-Filtering-comment-section-2026.md), [0030](0030-isoc-the-architecture-of-the-infiltrated-society.md), [0034](0034-isoc-budgetary-exceptionalism-and-security-finance.md), [0053](0053-bangkok-post-institutional-discourse-distortion.md), [0060](0060-thai-help-thai-plus-constitutional-architecture.md).*
+
+<img src="../images/0061.webp" alt="0061" style="width: 480px; margin: auto;" loading="lazy">
