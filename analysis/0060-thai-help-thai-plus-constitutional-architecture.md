@@ -1,5 +1,5 @@
 ## 0060 – Thai Help Thai Plus: The Constitutional Architecture of a Campaign‑Promise Disguised as Crisis Relief
-**Section 172, Section 57, and the Re‑Personalisation of Public Funds in the 2026 Emergency‑Decree Litigation**
+### *Section 172, Section 57, and the Re‑Personalisation of Public Funds in the 2026 Emergency‑Decree Litigation*
 
 ---
 
@@ -234,6 +234,18 @@ Chapter V "Duties of the State" supplies a stronger anchor: Section 48(2) is dra
 
 The proper litigation construction is therefore: **Section 48(2) as anchor, Section 71(4) as interpretive aid, Section 27 as constraint on the distribution mode.**
 
+**Three layers of discrimination.** The Section 48(2) violation operates not only through the *Windhund* mode of allocation analysed in Section 9.1, but at two further levels simultaneously, which compound rather than substitute for each other:
+
+| Layer | Mechanism | Source |
+|---|---|---|
+| **Categorical** | Allocation by registration speed rather than by need; correlates with handset speed, network quality, available time, prior KYC enrolment | Section 9.1 |
+| **Quantitative** | Welfare‑card pillar B36.9 bn genuine new aid (13.18 m × B700 × 4 mo) vs co‑payment pillar B120 bn (30 m × B1,000 × 4 mo). Per capita: B2,800 indigent vs B4,000 middle class — 30 % less for the constitutionally protected group | Cabinet decision, May 2026; Bangkok Post, 26 May 2026 |
+| **Regulatory** | Cabinet rule of 1 October 2025 explicitly excludes state welfare cardholders from registering for the Pao Tang co‑payment scheme. The vulnerable population that Section 48(2) protects is, by ministerial decision, denied access to the larger pillar | Nation Thailand, 21 May 2026 |
+
+The regulatory exclusion is the doctrinally sharpest of the three. It converts the discrimination from an incidental effect of design choices into a **named eligibility rule**. The decree of allocation does not merely fail to prioritise the indigent; it **affirmatively bars** them from the principal pillar of the programme. A constitutional right whose holders are excluded by ministerial rule from the larger vehicle for its realisation is not "appropriately" served within the meaning of Section 48(2).
+
+**A note on the substitution-effect counter‑argument.** A possible reading runs: the B700 top‑up to the welfare card might free up household cashflow that could be redeployed elsewhere, indirectly equalising outcomes. This holds only for welfare‑cardholders who *previously* spent B700/month from own cashflow on goods that the top‑up now covers — typically the better‑off segment of the welfare‑card population. For day‑labourers, subsistence farmers, and elderly recipients whose pre‑existing cashflow falls below the substitution threshold, the top‑up is purely *additive*, not *substitutive*. The argument therefore re‑sorts the welfare‑card population by relative wealth rather than equalising the gap with the co‑payment pillar; it amplifies, rather than mitigates, the discrimination at the bottom of the distribution.
+
 ### 9.3 Fracture line C — Section 26 + Section 4 (Proportionality and dignity)
 
 > *"The enactment of a law resulting in the restriction of rights or liberties of a person […] shall not be contrary to the rule of law, shall not unreasonably impose burden on or restrict the rights or liberties of a person and shall not affect the human dignity of a person […]"* (Section 26 paragraph 1)
@@ -385,6 +397,7 @@ The May–July 2026 ruling window will therefore produce, irrespective of outcom
 - Thairath — *Anutin reveals Royal Endorsement of 400 bn baht loan decree*: https://en.thairath.co.th/news/politic/2931164
 - Nation Thailand — *Cabinet approves THB176bn Thai Help Thai Plus cost relief scheme*: https://www.nationthailand.com/business/economy/40066437
 - Nation Thailand — *Government readies 500bn baht for Thai Help Thai Plus*: https://www.nationthailand.com/news/policy/40065736
+- Nation Thailand — *Khon La Khrueng Plus set for May registration ahead of June launch* (21 May 2026, regulatory exclusion of welfare cardholders from the Pao Tang co‑payment scheme): https://www.nationthailand.com/business/economy/40065444
 - Nation Thailand — *Thai household debt hits 86.7 % of GDP* (informal‑share trend): https://www.nationthailand.com/business/economy/40065070
 - Nation Thailand — *Election 2026 debt pledges under scrutiny / TDRI*: https://www.nationthailand.com/news/politics/40062116
 - Nation Thailand — *Thailand devises Ari Score system to ease household debt crisis*: https://www.nationthailand.com/business/economy/40041452
