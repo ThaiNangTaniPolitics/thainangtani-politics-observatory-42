@@ -17,8 +17,9 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**Section 172, Section 57, and the Re‑Personalisation of Public Funds in the 2026 Emergency‑Decree Litigation**  
- 0060 – Thai Help Thai Plus: The Constitutional Architecture of a Campaign‑Promise Disguised as Crisis Relief
+**How a money‑laundering probe with 1,200 suspects, forensic AI on 12,000 transactions and 20,000 phone records, and concrete findings against 138 sitting senators was processed into administrative quiet between September 2025 and May 2026**  
+0061 – The DSI Senate Investigation 2024–2026: Forensic AI, the 153 Blue Senators, and Administrative Closure under Bhumjaithai
+
 
 
 
