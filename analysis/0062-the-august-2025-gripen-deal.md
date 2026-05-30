@@ -636,17 +636,6 @@ This chapter documents the architecture so that the choice not to act is made in
 
 - Khaosod English, *"Thailand's first Gripen E/F enters production"* (13 May 2026): <a href="https://www.khaosodenglish.com/news/2026/05/13/thailands-first-gripen-e-f-enters-production/" target="_blank" rel="noopener noreferrer">link</a>
 
-**Related Observatory analyses**
-
-- [0028 – ISOC Dual Governance in Thailand](0028-isoc-dual-governance-in-thailand.md) (and the full 0028–0037 ISOC series)
-- [0035 – The Security–Monarchy Nexus](0035-isoc-the-security-monarchy-nexus.md)
-- [0041 – Section 112 in the Consolidation Phase (2024–2026)](0041-section-112-in-the-consolidation-phase-2024-2026.md)
-- [0049 – Thai–Cambodian Border Dispute (2026)](0049-thai-cambodian-border-dispute-2026.md)
-- [0055 – The MoU 44 Crisis (2024–2026)](0055-the-mou44-crisis.md)
-- [0057 – The Paris Bubble](0057-the-paris-bubble.md)
-- [0058 – Conditioning UNESCO: How Thailand's "Equal Inspection" Demand Shields the Post-Sattawat Status Quo](0058-conditioning-unesco-paris-equal-inspection-demand.md)
-- [0059 – The Israeli–Thai Surveillance and Arms Pipeline](0059-israeli-thai-surveillance-arms-pipeline.md)
-
 -----
 
 <img src="../images/0062.webp" alt="0062" style="width: 10124 px; margin: auto;" loading="lazy">
