@@ -638,4 +638,4 @@ This chapter documents the architecture so that the choice not to act is made in
 
 -----
 
-<img src="../images/0062.webp" alt="0062" style="width: 10124 px; margin: auto;" loading="lazy">
+<img src="../images/0062.webp" alt="0062" style="width: 480 px; margin: auto;" loading="lazy">
