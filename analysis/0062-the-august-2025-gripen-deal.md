@@ -467,4 +467,4 @@ The Gripen-Sattawat case is not the architecture's only instance. It is its most
 
 -----
 
-<img src="../images/0061.webp" alt="0061" style="width: 480px; margin: auto;" loading="lazy">
+<img src="../images/0062.webp" alt="0062" style="width: 480px; margin: auto;" loading="lazy">
