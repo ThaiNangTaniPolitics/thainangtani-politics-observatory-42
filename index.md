@@ -17,8 +17,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**How a $550 million arms contract signed during Thailand's constitutional crisis enabled an ICJ violation under EU export criteria designed to prevent precisely that outcome**  
-0062 – Three-Layer Impunity: The August 2025 Gripen Deal as Architecture of Multi-Jurisdictional Norm Evasion
+**How a $550 million arms contract signed during Thailand's constitutional crisis enabled an ICJ violation under EU export criteria designed to prevent precisely that outcome — and how the praetorian framework documented by Paul Chambers explains why no accountability layer intervened**  
+0062 – Three-Layer Impunity: The August 2025 Gripen Deal as Praetorian Procurement
 
 
 
