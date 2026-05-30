@@ -4,7 +4,7 @@ This section contains analytical case studies and narrative investigations.
 
 ---
 
-- [0062 – Three-Layer Impunity: The August 2025 Gripen Deal as Architecture of Multi-Jurisdictional Norm Evasion](0062-the-august-2025-gripen-deal.md)
+- [0062 – Three-Layer Impunity: The August 2025 Gripen Deal as Praetorian Procurement](0062-the-august-2025-gripen-deal.md)
 - [0061 – The DSI Senate Investigation 2024–2026: Forensic AI, the 153 Blue Senators, and Administrative Closure under Bhumjaithai](0061-dsi-senate-investigation-silenced-under-bhumjaithai.md)
 - [0060 – Thai Help Thai Plus: The Constitutional Architecture of a Campaign‑Promise Disguised as Crisis Relief](0060-thai-help-thai-plus-constitutional-architecture.md)
 - [ 0059 – The Israeli–Thai Surveillance and Arms Pipeline: Civil Society Exposure and the Foreign Infrastructure of Repression](0059-the-israeli-thai-surveillance-and-arms-pipeline.md)
