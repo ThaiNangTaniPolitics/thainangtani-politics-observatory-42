@@ -17,8 +17,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**How a money‑laundering probe with 1,200 suspects, forensic AI on 12,000 transactions and 20,000 phone records, and concrete findings against 138 sitting senators was processed into administrative quiet between September 2025 and May 2026**  
-0061 – The DSI Senate Investigation 2024–2026: Forensic AI, the 153 Blue Senators, and Administrative Closure under Bhumjaithai
+**How a $550 million arms contract signed during Thailand's constitutional crisis enabled an ICJ violation under EU export criteria designed to prevent precisely that outcome**  
+0062 – Three-Layer Impunity: The August 2025 Gripen Deal as Architecture of Multi-Jurisdictional Norm Evasion
 
 
 
