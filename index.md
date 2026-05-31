@@ -17,8 +17,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**How a multi-jurisdictionally sanctioned transshipment economy for Russia-bound dual-use technology converts the European arms-export "risk of diversion" criterion from an abstraction into a documented finding — and what that means for the Gripen transfer**  
-0063 – Thailand as a Diversion Jurisdiction: The Criterion 7 Evidence
+**The Traceable Ballot: Vote Secrecy, the 2026 Barcode System, and the Prosecution of Those Who Proved the Breach**  
+0064 — SCAFFOLD: The Traceable Ballot
 
 
 
