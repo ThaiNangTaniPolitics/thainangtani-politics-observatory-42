@@ -5,7 +5,7 @@
 
 ## 1. Scope and Purpose
 
-This chapter supplies the empirical basis for a single, narrowly framed claim made in [0062 – Three-Layer Impunity](0062-three-layer-impunity-gripen-deal-2025.md): that **Criterion 7 of EU Common Position 2008/944/CFSP — the risk of diversion of exported military technology — was independently engaged** at the moment Sweden authorised the Gripen E/F transfer to Thailand in August 2025.
+This chapter supplies the empirical basis for a single, narrowly framed claim made in 0062 – Three-Layer Impunity: that **Criterion 7 of EU Common Position 2008/944/CFSP — the risk of diversion of exported military technology — was independently engaged** at the moment Sweden authorised the Gripen E/F transfer to Thailand in August 2025.
 
 The argument must be stated precisely, because precision is what makes it survive scrutiny. This is **not** an allegation that the Royal Thai Air Force diverts equipment, that the Thai armed forces are complicit in the trade documented below, or that the Gripen itself will be re-exported to Russia. It is a narrower and better-supported claim: **Thailand has become, by the documented findings of three separate sanctions authorities, a transshipment jurisdiction for dual-use and military-relevant technology bound for Russia — operating under a regulatory regime that its own customs authority admits lacks the legal basis to stop it.** A jurisdiction with that record presents a structurally elevated diversion risk for any transfer of sensitive military technology, which is exactly what Criterion 7 instructs exporting states to assess.
 
@@ -73,7 +73,7 @@ The Gripen E/F is not a commercial drone. It carries advanced avionics, an elect
 Two documented facts converge on this point:
 
 1. Thailand's demonstrated, multi-jurisdictionally sanctioned record as a transshipment hub for controlled technology to Russia (Sections 3–6).
-2. The **United States' refusal to sell the F-35** to Thailand over fears of technology leakage given Thai-Chinese military alignment, documented in [0062 §3](0062-three-layer-impunity-gripen-deal-2025.md).
+2. The **United States' refusal to sell the F-35** to Thailand over fears of technology leakage given Thai-Chinese military alignment, documented in 0062 §3.
 
 Where the United States treated Thailand's leakage risk as disqualifying for its most sensitive platform, Sweden authorised the transfer of its most advanced fighter without — on the public record — any corresponding diversion assessment surfacing in the procurement narrative. That asymmetry is the Criterion 7 gap.
 
@@ -118,12 +118,4 @@ This is the fourth jurisdiction in the accountability architecture mapped in 006
 
 -----
 
-**Related Observatory analyses**
-
-- [0062 – Three-Layer Impunity: The August 2025 Gripen Deal as Praetorian Procurement](0062-three-layer-impunity-gripen-deal-2025.md)
-- [0059 – The Israeli–Thai Surveillance and Arms Pipeline](0059-israeli-thai-surveillance-arms-pipeline.md)
-- [0049 – Thai–Cambodian Border Dispute (2026)](0049-thai-cambodian-border-dispute-2026.md)
-
------
-
-<img src="../images/0063.webp" alt="0063" style="width: 480px; margin: auto;" loading="lazy">
+<img src="../images/0063.webp" alt="0063" style="width: 1024px; margin: auto;" loading="lazy">
