@@ -102,7 +102,7 @@ Vote traceability = surveillance applied to the franchise. Olarn's "democracy as
 - [0063 – Thailand as a Diversion Jurisdiction](0063-thailand-diversion-jurisdiction-criterion-7.md).
 - "Blue regime" debate (constitutional capture) — no standalone node yet.
 
-
+<img src="../images/0064.webp" alt="0064" style="width: 480px; margin: auto;" loading="lazy">
 ## TODO BEFORE PUBLISHING
 - [ ] Write finished prose (author).
 - [ ] Confirm latest Constitutional Court status (ruling as of late May/June 2026).
