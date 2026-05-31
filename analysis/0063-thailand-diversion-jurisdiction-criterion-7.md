@@ -116,4 +116,4 @@ This is the fourth jurisdiction in the accountability architecture mapped in 006
 
 - EU Council Common Position 2008/944/CFSP (8 December 2008) — Criterion 7, risk of diversion
 
-<img src="../images/0063.webp" alt="0063" style="width: 1024px; margin: auto;" loading="lazy">
+<img src="../images/0063.webp" alt="0063" style="width: 480px; margin: auto;" loading="lazy">
