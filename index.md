@@ -17,8 +17,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**How a $550 million arms contract signed during Thailand's constitutional crisis enabled an ICJ violation under EU export criteria designed to prevent precisely that outcome — and how the praetorian framework documented by Paul Chambers explains why no accountability layer intervened**  
-0062 – Three-Layer Impunity: The August 2025 Gripen Deal as Praetorian Procurement
+**How a multi-jurisdictionally sanctioned transshipment economy for Russia-bound dual-use technology converts the European arms-export "risk of diversion" criterion from an abstraction into a documented finding — and what that means for the Gripen transfer**  
+0063 – Thailand as a Diversion Jurisdiction: The Criterion 7 Evidence
 
 
 
