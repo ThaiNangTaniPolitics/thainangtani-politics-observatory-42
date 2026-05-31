@@ -4,6 +4,7 @@ This section contains analytical case studies and narrative investigations.
 
 ---
 
+- [0063 – Thailand as a Diversion Jurisdiction: The Criterion 7 Evidence](0063-thailand-diversion-jurisdiction-criterion-7.md)
 - [0062 – Three-Layer Impunity: The August 2025 Gripen Deal as Praetorian Procurement](0062-the-august-2025-gripen-deal.md)
 - [0061 – The DSI Senate Investigation 2024–2026: Forensic AI, the 153 Blue Senators, and Administrative Closure under Bhumjaithai](0061-dsi-senate-investigation-silenced-under-bhumjaithai.md)
 - [0060 – Thai Help Thai Plus: The Constitutional Architecture of a Campaign‑Promise Disguised as Crisis Relief](0060-thai-help-thai-plus-constitutional-architecture.md)
