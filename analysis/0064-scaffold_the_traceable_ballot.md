@@ -55,14 +55,6 @@ Vote traceability = surveillance applied to the franchise. Olarn's "democracy as
 
 -----
 
-## DISCIPLINE CHECKLIST (observe before publishing)
-- [ ] Seat-disproportionality (PP vs BJT votes/seats) = SEPARATE issue (electoral-system design, not fraud); keep out or flag clearly; pin numbers to official EC data.
-- [ ] "Digitisation occurred" = unaddressed gap + burden-shift, NOT asserted fact.
-- [ ] "Stored separately" = the EC's claim, not independently verified.
-- [ ] 6–3 acceptance ≠ the election will be voided; do not predict the verdict.
-- [ ] "Purge non-BJT voters" (a thread commenter) = alleged, not established.
-- [ ] Sections 83 + 85 = the Ombudsman's basis; Section 85 alone (as in the comment) is the narrower citation.
-
 ## SOURCES (embedded — verify on finalisation)
 
 **Technical / fact-check**
@@ -100,11 +92,5 @@ Vote traceability = surveillance applied to the franchise. Olarn's "democracy as
 - [0061 – The DSI Senate Investigation](0061-dsi-senate-investigation-silenced-under-bhumjaithai.md) — captured "independent agencies".
 - [0062 – The August 2025 Gripen Deal](0062-the-august-2025-gripen-deal.md) — the Section 112 self-defence-loop parallel.
 - [0063 – Thailand as a Diversion Jurisdiction](0063-thailand-diversion-jurisdiction-criterion-7.md).
-- "Blue regime" debate (constitutional capture) — no standalone node yet.
 
 <img src="../images/0064.webp" alt="0064" style="width: 480px; margin: auto;" loading="lazy">
-## TODO BEFORE PUBLISHING
-- [ ] Write finished prose (author).
-- [ ] Confirm latest Constitutional Court status (ruling as of late May/June 2026).
-- [ ] Pin Section 83/85 wording; confirm the 6-decoders procedural status (investigation vs. formal charge).
-- [ ] Wire cross-references and source links; add to index.md (newest on top); provide images/0064.webp.
