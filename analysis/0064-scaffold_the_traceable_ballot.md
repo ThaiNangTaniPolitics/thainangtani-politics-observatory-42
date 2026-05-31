@@ -1,4 +1,4 @@
-## 0064 — SCAFFOLD: The Traceable Ballot
+## 0064 - SCAFFOLD: The Traceable Ballot
 **The Traceable Ballot: Vote Secrecy, the 2026 Barcode System, and the Prosecution of Those Who Proved the Breach**
 
 ### THESIS (load-bearing — keep as the spine)
