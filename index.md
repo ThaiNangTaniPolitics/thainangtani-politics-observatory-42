@@ -17,8 +17,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**The Traceable Ballot: Vote Secrecy, the 2026 Barcode System, and the Prosecution of Those Who Proved the Breach**  
-0064 — SCAFFOLD: The Traceable Ballot
+**Sihasak, Anutin, Prayut, and the Establishment That Does Not Change**  
+ 0065 – No Transition, Only Continuity
 
 
 
