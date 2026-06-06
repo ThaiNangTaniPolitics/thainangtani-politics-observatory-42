@@ -4,6 +4,7 @@ This section contains analytical case studies and narrative investigations.
 
 ---
 
+- [0065 – No Transition, Only Continuity](0065-no-transition-only-continuity.md)
 - [0064 — SCAFFOLD: The Traceable Ballot](0064-scaffold_the_traceable_ballot.md)
 - [0063 – Thailand as a Diversion Jurisdiction: The Criterion 7 Evidence](0063-thailand-diversion-jurisdiction-criterion-7.md)
 - [0062 – Three-Layer Impunity: The August 2025 Gripen Deal as Praetorian Procurement](0062-the-august-2025-gripen-deal.md)
