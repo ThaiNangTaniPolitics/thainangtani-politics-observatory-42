@@ -84,6 +84,6 @@ No transition, only continuity. The seat is inherited (Anutin), the reward is th
 - [Anutin assigns portfolios to deputy premiers (Pakorn Nilprapunt, legal affairs) — Nation Thailand](https://www.nationthailand.com/news/politics/40064806)
 - [Pakorn tipped amid Borwornsak uncertainty — Bangkok Post](https://www.bangkokpost.com/thailand/politics/3222584/pakorn-tipped-amid-borwornsak-uncertainty)
 
-
+<img src="../images/0065.webp" alt="0065" style="width: 480px; margin: auto;" loading="lazy">
 
 
