@@ -47,10 +47,27 @@ The breach occurred at the moment of voting, not the count; a clean recount cann
 ## VIII. The self-defence loop
 The EC moved against **six citizens** (sedition + membership of an unlawful secret society) for photographing and decoding the QR codes at the **22 February re-run election in Khan Na Yao, Bangkok**, to demonstrate the secrecy flaw. The proof is criminalised → the "not proven" evidentiary bar becomes **unmeetable by design**. (Parallel to the Section 112 self-defence loop in 0062: the architecture prosecutes its documenters.)
 
-## IX. The verdict as an open data point
+## IX. The administrator removed — accountability by spreadsheet (June 2026)
+
+In June 2026 the EC **secretary-general, Sawaeng Boonmee** — the named defendant in the Section 157 complaint (VII) and the official who administered the barcode election and moved against the six decoders (VIII) — faced dismissal. The trigger was neither the barcode breach nor the Senate-collusion case in which he is co-accused, but a **performance score**: under **Section 56 of the organic law on the EC**, the secretary-general must reach 60% in the annual evaluation; he reportedly fell below it. Decision expected mid-June, under the new EC board chaired by **Narong Klunwarin**.
+
+**The administrative constant.** Sawaeng has overseen every contested national vote of the era: the **2019 general election** (party-list seat-formula dispute), the **2023 general election** (the blocking of election-winner Pita Limjaroenrat), the **2024 Senate "self-selection"** (blue-senator collusion → 0061), and the **2026 barcode election** (this node). On the documentary record he is the single executor common to all four — multiply sourced (Bangkok Post, Nation, Thai Examiner).
+
+**The procedural irony.** The evaluation is itself tainted: four commissioners who scored him — **Ittiporn Boonpracong** (chairman, stepped down 6 Dec 2025), **Santad Siriananphai, Lertviroj Kowattana, Pakorn Mahannop** — did so *after leaving office*, though the contract requires evaluators to be *serving* commissioners. The body that polices electoral procedure cannot run its own internal procedure cleanly. (Ex-commissioner **Somchai Srisutthiyakorn**: contradictory to remove Sawaeng for poor performance while the EC itself stays beyond scrutiny.)
+
+**Why him, why now? — hypotheses, not established motive.** The four ex-commissioners accepted a *fresh* legal risk (a void evaluation) to lock in his removal; the size of the risk taken is itself the measure of the stakes. Candidate readings, each falsifiable:
+- **Blame-allocation / self-protection** — the four and Sawaeng are *co-accused* in the Senate-collusion case; branding him a "poor performer" pre-positions the administrator as the operational fall guy ("commissioners set policy; the secretary-general botched execution"). *Tell:* timing tracks collusion-case milestones.
+- **Discrediting a witness** — he knows the mechanics; a dismissed "failure" is a weaker accuser if he shifts blame upward. *Tell:* he later testifies / counter-accuses.
+- **Acting before the power lapses** — done invalidly, in the window before the outgoing board lost standing and Narong's board could intervene. *Tell:* the new board reverses it.
+- **Control of the machinery** — the secretary-general runs the apparatus that administers elections; the post is worth capturing. *Tell:* a faction-aligned successor is installed.
+- **Null hypothesis (kept honest):** genuine poor performance (barcode, advance-voting anomalies), scored low and executed sloppily — but routine review does not require former officials to vote without authority; the *risk taken* is what the benign reading cannot explain.
+
+**What it is not.** Not the accountability the contested elections demand. The substantive reckoning — the Section 157 complaint, the Constitutional Court petition, the Supreme Court collusion cases — is displaced by an internal metric. Sawaeng is **not an innocent victim** (he is co-accused in the substance); the point is that a **performance score is the wrong instrument for the right problem**, and it shields the institution: one official is offered up while the commissioners and the capture remain. The captured body's "self-cleaning" is a move *within* the impunity game, not an exit from it.
+
+## X. The verdict as an open data point
 Do NOT predict the outcome. Note the irony: the court reviewing the breach is itself one of the "independent agencies" whose capture the broader thesis alleges — the ruling *tests* whether any accountability layer functions. A "not proven" dismissal would itself be the evidentiary-bar manoeuvre (cf. Olarn, "no legal evidence").
 
-## X. Synthesis
+## XI. Synthesis
 Vote traceability = surveillance applied to the franchise. Olarn's "democracy as performance" made literal: the **form** (an election) preserved, the **function** (secrecy) hollowed.
 
 -----
