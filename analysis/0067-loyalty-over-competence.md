@@ -117,5 +117,5 @@ The June 2026 manipulation cannot be resolved by rechecking 480,000 papers, beca
 
 *Cross-references: [0065](0065-no-transition-only-continuity.md), [0066](0066-the-dual-system.md), [0060](0060-thai-help-thai-plus-constitutional-architecture.md), [0061](0061-dsi-senate-investigation-silenced-under-bhumjaithai.md), [0051](0051-thailands-foundational-skills-crisis.md), [0042](0042-thailand-oecd-structural-incompatibilities.md), [0010](0010-buri‑ramization-of-defense.md).*
 
-<img src="../images/0066.webp" alt="0066" style="width: 480px; margin: auto;" loading="lazy">
+<img src="../images/0067.webp" alt="0067" style="width: 480px; margin: auto;" loading="lazy">
 
