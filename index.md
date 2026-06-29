@@ -17,9 +17,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**Sihasak, Anutin, Prayut, and the Establishment That Does Not Change**  
- 0065 – No Transition, Only Continuity
-
+**Thailand's Dysfunctional Elite Culture — from the Rigged Civil-Service Exam to the Palace-Picked General**  
+0067 – Loyalty over Competence
 
 
 
