@@ -4,6 +4,7 @@ This section contains analytical case studies and narrative investigations.
 
 ---
 
+- [0067 – Loyalty over Competence](0067-loyalty-over-competence.md)
 - [0066 – The Dual System](0066-the-dual-system.md)
 - [0065 – No Transition, Only Continuity](0065-no-transition-only-continuity.md)
 - [0064 — SCAFFOLD: The Traceable Ballot](0064-scaffold_the_traceable_ballot.md)
