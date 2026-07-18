@@ -161,3 +161,5 @@ The decisive point is not that the constitution *fails* to protect against autom
 *Filed under: constitutional mechanics, social & economic rights, labour, automation & AI political economy, the 2017 charter, self-amnesty.*
 
 *Cross-references: [0067](0067-loyalty-over-competence.md), [0066](0066-the-dual-system.md), [0060](0060-thai-help-thai-plus-constitutional-architecture.md), [0042](0042-thailand-oecd-structural-incompatibilities.md), [0041](0041-section-112-in-the-consolidation-phase-2024-2026.md), [0014](0014-constitutional-mechanics-I.md).*
+
+<img src="../images/0068.webp" alt="0068" style="width: 480px; margin: auto;" loading="lazy">
