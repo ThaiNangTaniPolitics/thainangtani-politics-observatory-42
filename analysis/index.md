@@ -4,6 +4,7 @@ This section contains analytical case studies and narrative investigations.
 
 ---
 
+- [0072 – The Baht as Gold Proxy: A Currency That Rises While the Economy Falls, and Who Pays for It](0072-the-baht-as-gold-proxy.md)
 - [0071 – The Ledger and the Sun: The 2017–2018 Crown Property Transfer, the Fixed-Budget Welfare Purge, and the Legitimation Gap](0071-the-ledger-and-the-sun.md)
 - [0070 - The Swap Mart](0070-the-swap-mart.md)
 - [0069 – The Way Out Runs Through the Politics](0069-the-way-out-runs-through-the-politics.md)
