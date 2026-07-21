@@ -19,7 +19,7 @@
        non-justiciable", "self-amnesty in §279". Never name the royal apex in a public comment.
      OPEN (User): index.md entry (newest on top) + images/0068.webp. -->
 
-## 0068 – Should, Not Shall
+## 0068 – 0068 – Should, Not Shall deleted Social Rights
 
 ### *The 2017 Constitution, the Deletion of Enforceable Social Rights, and Thailand's Missing Anchor for the Automation Shock*
 
