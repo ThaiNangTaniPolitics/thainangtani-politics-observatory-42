@@ -4,6 +4,7 @@ This section contains analytical case studies and narrative investigations.
 
 ---
 
+- [0069 – The Way Out Runs Through the Politics](0069-the-way-out-runs-through-the-politics.md)
 - [0068 – Should, Not Shall deleted Social Rights](0068-should-not-shall-deleted-social-rights.md)
 - [0067 – Loyalty over Competence](0067-loyalty-over-competence.md)
 - [0066 – The Dual System](0066-the-dual-system.md)
