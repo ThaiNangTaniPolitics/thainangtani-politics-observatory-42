@@ -4,7 +4,7 @@ This section contains analytical case studies and narrative investigations.
 
 ---
 
-- [0068 – Should, Not Shall](0068-should-not-shall.md)
+- [0068 – Should, Not Shall deleted sozial rights](0068-should-not-shall-deleted-social-rights.md)
 - [0067 – Loyalty over Competence](0067-loyalty-over-competence.md)
 - [0066 – The Dual System](0066-the-dual-system.md)
 - [0065 – No Transition, Only Continuity](0065-no-transition-only-continuity.md)
