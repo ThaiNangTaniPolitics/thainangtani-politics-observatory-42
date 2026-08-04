@@ -4,6 +4,7 @@ This section contains analytical case studies and narrative investigations.
 
 ---
 
+- [0073 – Where the Comments Went: A Measurement That Failed to Confirm Its Hypothesis](0073-where-the-comments-went.md)
 - [0072 – The Baht as Gold Proxy: A Currency That Rises While the Economy Falls, and Who Pays for It](0072-the-baht-as-gold-proxy.md)
 - [0071 – The Ledger and the Sun: The 2017–2018 Crown Property Transfer, the Fixed-Budget Welfare Purge, and the Legitimation Gap](0071-the-ledger-and-the-sun.md)
 - [0070 - The Swap Mart](0070-the-swap-mart.md)
