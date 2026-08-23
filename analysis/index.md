@@ -4,6 +4,7 @@ This section contains analytical case studies and narrative investigations.
 
 ---
 
+- [0079 – The Captured Regulator (NBTC)](0079–the-captured-regulator-(NBTC).md)
 - [0078 – The Court as Instrument](0078-the-court-as-instrument.md)
 - [0077 – The Postbag Filter](0077-the-postbag-filter.md)
 - [0076 – The Border as Instrument](0076-the-border-as-instrument.md)
