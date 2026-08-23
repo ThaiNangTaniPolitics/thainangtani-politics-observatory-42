@@ -11,8 +11,6 @@ This is an umbrella node. It gathers the mechanism-nodes already written — [00
 
 Thailand's modern judiciary — created in the 1891 reform (unification of the courts, a Ministry of Justice) — has never been as compromised as an impartial arbiter as it is now. This is not an episodic rupture (coup, then a return to norm) but a **systematised, normalised** shift: the courts now do routinely what tanks once did. The academic frame is available — "judicialization of politics" (Dressel), "juristocracy" (Hirschl), "judicial coup" (McCargo), "from state of exception to hyper-legalism" (AIIA 2024), "judicial overreach" (Fulcrum/ISEAS 2024). The defensible public formulation: **"the gravest crisis of legitimacy and structure since the 1891 judicial reform."**
 
-<!-- §112-INTERNAL NOTE: the 1891 reform is King Chulalongkorn's (Chakri) reform; name the monarch only here, never in a public derivative. The public text says "the 1891 judicial reform" without a royal name. -->
-
 ## 2. Five pillars
 
 ### Pillar 1 — party dissolutions as a series (documented)
