@@ -202,4 +202,5 @@ The feeder relationship is also worth naming. [0069](0069-the-way-out-runs-throu
 *Cross-references: [0010](0010-buri‑ramization-of-defense.md), [0019](0019-the-architecture-of-permissible-speech-2021-2026.md), [0024](0024-politically-functional-law-and-technocratic-framing.md), [0060](0060-thai-help-thai-plus-constitutional-architecture.md), [0061](0061-dsi-senate-investigation-silenced-under-bhumjaithai.md), [0066](0066-the-dual-system.md), [0069](0069-the-way-out-runs-through-the-politics.md), [0071](0071-the-ledger-and-the-sun.md), [0074](0074-the-uncounted-debt-and-the-poverty-line.md).*
 
 <img src="../images/0075_1.webp" alt="0075_1" style="width: 480px; margin: auto;" loading="lazy">
+
 <img src="../images/0075_2.webp" alt="0075_2" style="width: 480px; margin: auto;" loading="lazy">
