@@ -8,7 +8,7 @@ This section contains analytical case studies and narrative investigations.
 - [0078 – The Court as Instrument](0078-the-court-as-instrument.md)
 - [0077 – The Postbag Filter](0077-the-postbag-filter.md)
 - [0076 – The Border as Instrument](0076-the-border-as-instrument.md)
-- [0075 – The Compression: Thailand's Prisons 2021–2026, the Capacity Standard That Defines Away the Crowding, and What Grew While the Total Fell](0075-the-compression-thai-prisons.md)
+- [0075 – The Compression: Thailand's Prisons 2021–2026](0075-the-compression:-thailand's-prisons-2021-2026.md)
 - [0074 – The Uncounted: Household Debt, the Poverty Line, and the Architecture of a Smaller Crisis](0074-the-uncounted-debt-and-the-poverty-line.md)
 - [0073 – Where the Comments Went: A Measurement That Failed to Confirm Its Hypothesis](0073-where-the-comments-went.md)
 - [0072 – The Baht as Gold Proxy: A Currency That Rises While the Economy Falls, and Who Pays for It](0072-the-baht-as-gold-proxy.md)
