@@ -37,8 +37,6 @@ About **87%** (July 2026, live counter, fresh-vs-settled pages in the same month
 
 These are evidenced by the user's screen-captures of the *state before deletion* — independent of the crawl data.
 
-<!-- §112-INTERNAL NOTE: royal-touching moderation cases (comments removed for referencing the monarchy/palaces) are held only in [[bp-moderation-royale-kommentare]] and NEVER surface in a public derivative. The public finding is the secular one: characterisation of a person is reportable and removed; the point it carried is not. -->
-
 ## 5. The cluster and the news counter-test
 
 A few accounts (the Ima chain, the keskeseksa chain, Cryptic, Chris_Z, bkkmatt …) supply ~50% of the surviving Postbag stock, with a net-negative vote balance. Account *successions* are visible (keskeseksa → keskesaksa → Keskaseksa): the Post has no rename, so a new name is a new account and, the old name being taken, one letter is swapped (details in the actor dossier). **The news counter-test (two windows):** the same accounts there hold only **10–13%**, with a positive climate (+0.45/+0.61). ⇒ **It is not the actors, it is the selection inside the Postbag.**
