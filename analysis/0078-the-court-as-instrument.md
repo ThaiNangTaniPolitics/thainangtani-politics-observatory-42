@@ -29,11 +29,11 @@ The Constitutional Court/Tribunal dissolves elected parties and bans their leade
 
 The pattern: **the voters do not decide who governs.**
 
-<!-- §112-INTERNAL — PILLAR 3 STAYS HERE, NEVER IN A BP COMMENT.
+
 ### Pillar 3 — Section 49: reform itself recast as "overthrow"
 - 31 Jan 2024: the Court finds that Pita/MFP, with the s112 reform campaign, violated Section 49(1) ("overthrow the democratic regime with the King as Head of State"). Sources: Nation, Library of Congress, TLHR, HRW.
 - The trap in the ruling: it forbids s112 reform "except through the legitimate legislative process" — then punishes exactly the parliamentary bill. The exit is illusory. An ordinary Criminal Code section is thereby made effectively unamendable, not even debatable by parliament → the Court asserts a veto over parliament's competence for its own criminal law. This is the documented "hegemon" proof. Developed in 0013 (mechanics) and 0018 (Sections 195/235, ethics-based extinction).
--->
+
 
 ### Pillar 4 — the juristocratic architecture (documented / attributed)
 The constitutions of **1997 → 2007 → 2017** build, step by step, a veto system of unelected bodies (the Constitutional Court + Election Commission + NACC + the 2017 appointed 250-member Senate) over elected politics. This is **capture *by design*, not by bribery**: no judge need be corrupt; it is enough that the (military-drafted) charter is built so that its *faithful* application neutralises elected majorities. In 2021 the Court also placed a full charter rewrite under a referendum condition → deadlock (secular, BP-usable). **Hold the dividing line:** the strong thesis (capture by design, provable) versus the weak one (bans "to order / on command," unprovable and defamation-prone). Nodes and signed texts use the strong thesis; "on demand" is tenable only as a comment-opinion.
