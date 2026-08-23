@@ -126,10 +126,16 @@ Frozen conflicts tend to stabilise short‑term security while prolonging long�
 
 ### *8.1 De‑facto control and consolidation*  
 Thailand maintains **de‑facto control** over several disputed zones occupied during the escalation.  
-Analysts describe this as *status quo entrenchment*.
+Analysts describe this as *status quo entrenchment*.  
+**Evidence added 17 July 2026 — see §11**, which documents the December offensive and names the sites. Until then this section carried the claim without a source; it is now grounded.
 
 ### *8.2 Stable but fragile ceasefire*  
-The ceasefire is stable in practice but fragile in design, lacking monitoring mechanisms or a demarcation roadmap.
+**CORRECTED 17 July 2026.** This section previously stated that the ceasefire lacked monitoring mechanisms or a demarcation roadmap. **That was wrong on both counts and must not be reused:**
+
+- **Monitoring exists.** A team of **ASEAN observers** monitors implementation of the 27 December 2025 agreement, with a 72‑hour compliance window at the outset.
+- **Demarcation is not foreclosed.** The pact expressly does **not** affect ongoing border‑demarcation activity, leaving that task to the existing bilateral mechanisms (JBC).
+
+The fragility is therefore **not** procedural absence. It is substantive: the agreement freezes **troop positions** — both sides undertook to maintain current deployments without further movement — while leaving the underlying territorial question untouched. The design does not fail to resolve the dispute; it is not addressed to it.
 
 ### *8.3 Expectations for bilateral mechanisms*  
 ASEAN, the EU and China emphasise the need to return to the JBC.  
@@ -181,10 +187,336 @@ The framing appears tailored to a Thai domestic readership, which shapes narrati
 
 -----
 
+## 11. The December 2025 offensive: what the ceasefire froze (added 17 July 2026)
+
+This section supplies the evidentiary basis that §8.1 previously lacked.
+
+### *11.1 Operation Sattawat*  
+On **10 December 2025** the Royal Thai Army launched **Operation Sattawat** (ยุทธการศตวรรษ), codenamed after **Sergeant Major Sattawat Sujarit**, the first Thai soldier killed in the second round of clashes. During the operation the RTA seized a number of localities inside Cambodian‑claimed territory. Fighting had resumed on **7 December**; the second round ran until the **27 December** ceasefire.
+
+### *11.2 The sites*  
+Documented in Thai reporting (Bangkok Post, The Nation, Thairath) and in Cambodian defence statements:
+
+| Site | Location / note |
+|---|---|
+| **Hill 350** | Ta Kwai (Ta Krabey) area, Surin — taken after a prolonged engagement |
+| **Hill 500**, Hill 677, Huai Bon base | Chong An Ma area, Ubon Ratchathani |
+| **Chong An Ma** | ~75% under Thai control per RTA statements |
+| **O'Smach** | Oddar Meanchey, near the Chong Chom crossing (Surin) |
+| **Phu Makhuea** (Khmer: **Phnom Trap**) | Sisaket sector, near Preah Vihear — control claimed **26 July 2025**, national flag raised |
+| **Thma Da / Thmor Da** | Pursat — SEZ with casino/scam complex, heavily bombed; Thai forces **reportedly** occupying (attribute; not firmly established) |
+| **Ta Krabey** (Thai: Ta Kwai) | Surin sector — held by Cambodian forces from 24 July 2025 (acknowledged by the Thai army spokesman on 30 July); struck repeatedly on **8–10 December**, severely damaged; **retaken by Thailand 15 December 2025** |
+| **Ta Muen Thom** (Khmer: Tamone) | Surin sector — under Thai control from December 2025 |
+| **Nong Khana** (Khmer: **K'nar**) | third temple of the group, taken December 2025 |
+
+Prachatai English aggregates the pattern as **“Thailand claimed to take control of 11 disputed sites.”**
+
+### *11.2a The temples: from capture to registry (verified 17 July 2026)*  
+The three temples are the clearest documented case, because Thailand subsequently **converted possession into administrative title**:
+
+| Date | Act |
+|---|---|
+| **8–10 Dec 2025** | Ta Krabey struck multiple times; ancient sandstone structure partly destroyed or collapsed |
+| **15 Dec 2025** | Thailand retakes Ta Krabey; the Ta Muen group follows |
+| **27 Dec 2025** | ceasefire freezes deployments — the gain is fixed |
+| **22 Apr 2026** | the **Minister of Defence and the Minister of Culture** hold a ceremony at Ta Krabey: monks, water blessings, dancers in traditional costume, uniformed soldiers. Ostensibly the 15th anniversary of the 2011 clashes — and of the 2025 fighting. Cambodia “strongly protests the presence of senior Thai officials… such high‑level involvement reinforces the unlawful character of these actions, and undermines ongoing efforts toward a peaceful and negotiated settlement.” |
+| **5 May 2026** | cabinet abrogates MoU 44 (see [0055](0055-the-mou44-crisis.md) §5.4) |
+| **9 May 2026** | **Royal Gazette registration takes effect**: Ta Muen Thom, Ta Kwai and Nong Khana enter Thailand’s official list of **protected ancient monuments** |
+
+**Cambodia’s objection** is precise and worth quoting exactly: the listing is “an unlawful attempt to create an **artificial legal appearance** over cultural sites situated within the sovereign territory of the Kingdom of Cambodia,” and it “**cannot serve as evidence of territorial sovereignty** or as a mechanism for border delimitation.” Phnom Penh invokes the **Franco‑Siamese Treaty of 1907** and demands delisting.
+
+**Thailand’s counter‑frame (do not ignore it):** Bangkok asserts that Ta Muen Thom was registered as a Thai ancient monument **18 years before Cambodian independence**, i.e. that the May 2026 act is continuity, not novelty. Any external use of this material should expect that response. It does not touch the December 2025 seizure, the ministerial ceremony, or the timing of the 9 May entry.
+
+**The counter‑frame has a date, and the date defeats it (added 19 July 2026).** The 1935 registration was published in the **Royal Gazette of 8 March 1935 (B.E. 2478)**, and it covered **three** sites: **Ta Kwai, Ta Muen Thom and Ta Muen Tot**. The 2026 declaration — signed **9 April 2026** by Fine Arts Department director‑general **Phanomboot Chanthachot**, effective **9 May**, published in the Gazette **12 May** — covers **Ta Muen Thom, Ta Kwai and Nong Khana**. Two of the three temples registered in 2026 were, on Bangkok’s own account, **already on the register since 1935**.
+
+This yields a symmetrical trap that requires no interpretation:
+
+- If the 1935 entry settled sovereignty, the 2026 entry was unnecessary.
+- If registration cannot settle sovereignty — Cambodia’s position, and the correct one in international law — the 2026 entry settles nothing either.
+- Bangkok cannot hold both propositions at once.
+
+The defensible public formulation is therefore a **question**, not an assertion: *“Bangkok says both were already on that register, by Royal Gazette of 8 March 1935. Then why do it again, once the army was standing there?”* It concedes the counter‑frame, uses it as its own premise, and leaves the conclusion to the reader — so there is nothing in it to refute.
+
+**Historical context — and why it must stay out of the argument.** The 1935 registration was not opportunism at a weak neighbour’s border. In 1935 **French Indochina was at the height of its administrative capacity** (the EFEO had catalogued and restored Khmer monuments, Angkor included, since 1900), while **Siam was the unstable party**: the 1932 revolution, the 1933 Boworadet rebellion, the abdication of Rama VII in **March 1935**, and a Fine Arts Department reconstituted only in 1933. The genuine power‑vacuum annexation is **1941** — the Franco‑Thai War against Vichy France, the Tokyo treaty of **9 May 1941**, Battambang and Pailin reorganised as *Phra Tabong* Province and Siem Reap, Banteay Meanchey and Oddar Meanchey as *Phibunsongkhram* Province — and it was **reversed in October 1946** under French threat of veto on Thai UN membership. Because it was reversed, it cannot carry an argument about 2026.
+
+### *11.2b Khmer provenance is not sovereignty — the Phimai trap (added 19 July 2026)*  
+Distinct from §11.4, which concerns the ICJ. This one concerns **architecture**.
+
+Ta Muen Thom and Ta Krabey are **11th‑century Khmer temples**, built under Suryavarman I and Udayadityavarman II, on the royal road from **Angkor to Phimai**. The inference “Khmer‑built, therefore Cambodian” is **immediately refutable in one word: Phimai.** That road’s destination lies in Nakhon Ratchasima; **Phanom Rung** lies in Buri Ram; both are Khmer monuments of the same period and indisputably Thai. The Khmer Empire extended deep into present‑day Thailand, so provenance of construction establishes nothing about modern title.
+
+The mirror inference fails as well. Siam held **Battambang, Siem Reap and Angkor Wat itself from 1795 to 1907** — 112 years — until the **Franco‑Siamese Treaty of 23 March 1907**. Equally true, equally irrelevant: it ended by treaty.
+
+**No court has ruled on Ta Muen Thom or Ta Krabey.** The 1962 and 2013 ICJ proceedings concerned Preah Vihear alone; these sites lie in a different Dangrek sector (Surin). Reference works themselves split on their location (Oddar Meanchey vs. Surin) — which is the dispute, not a settled fact.
+
+**Operational rule:** any argument that opens the historical register loses either at Phimai or at 1907. The only position that holds is conduct in 2025–26 — the seizure, the ceremony, the registry entry.
+
+**Analytical significance.** This is the strongest single indicator that the ceasefire is not a way‑station to a settlement. Registration is not a military act but a **bureaucratic one**: a state does not enter into its national heritage register property it intends to relinquish. Possession taken in December is being domesticated into Thai law by April and May — the sequence *bombard → seize → freeze → consecrate → register*. It converts §11.3 from an inference into a documented policy.
+
+### *11.3 The freeze as consolidation*  
+The 27 December agreement obliges both sides to **hold current deployments without further movement**. It therefore does not interrupt the December gains — it **fixes them in place**. This reframes the “frozen conflict” of §7: the freeze is not a failure to reach peace but the **stabilisation of a new line of control**. A settlement would require relinquishing what the ceasefire secures, which supplies the structural reason peace does not follow the truce.
+
+### *11.4 Phnom Trap and the ICJ — a trap to avoid*  
+**Do not claim that Thai control of Phu Makhuea violates the 2013 ICJ judgment.** The opposite is the case:
+
+- In its **11 November 2013** interpretation judgment the Court held that the promontory of Preah Vihear **“ends at the foot of the hill of Phnom Trap”**, and that the “vicinity” of the Temple means the whole promontory **“but excluding the hill of Phnom Trap.”**
+- The Court **“did not address the issue of sovereignty over Phnom Trap, or any other area beyond the limits of the promontory.”** Its reasoning: Phnom Trap and the promontory are distinct geographical features, shown separately on the Annex I map.
+
+**Phu Makhuea = Phnom Trap.** No court has assigned it to either state; the ICJ deliberately declined. The defensible formulation is therefore *not* “breach of the ruling” but: **the hill was settled by possession — taken, flagged, and fixed by a ceasefire that freezes both armies where they stand.** This is stronger because it cannot be refuted, and it also disposes of the opposite claim that Thai presence there is judicially sanctioned.
+
+### *11.5 Framing caution*  
+Thai reporting uses **“recapture,” “retake,” “secure”**; Cambodian and international sources use **“seized.”** Any external comment should expect the recapture counter‑frame. It does not affect the structural point: the army holds ground in December that it did not hold in November, and the ceasefire keeps it there.
+
+### *11.6 Casualty figures diverge — do not cite loosely*  
+Reported tallies for the December round differ: **“16 days, at least 86 killed”** in some accounts, **“20 days, at least 101 killed and more than half a million displaced”** in others. Establish which count is whose before using a number.
+
+-----
+
+## 12. Public sentiment: the antipathy predates the war (added 19 July 2026)
+
+Sections 1–11 treat narrative, control and law. They do not address the **substrate** on which the 2025 escalation landed. The Asia Foundation’s survey *Thai Public Views on International Issues* supplies it — and its value lies less in the numbers than in **when they were collected**.
+
+### *12.1 The time slice*  
+Fieldwork ran **August–November 2023**; publication June 2024. The first border war began in **July 2025**. Every figure below therefore predates the fighting by roughly two years.
+
+| Measure | Cambodia | Comparison |
+|---|---|---|
+| “Takes advantage of Thailand” vs. “friendly” | **48% vs. 25%** (net −23) | Myanmar 45 vs. 24; Russia 27 vs. 23 |
+| ASEAN trust: least trusted / most trusted | **40% / 2% (gap −38)** — worst in ASEAN | Myanmar −36; **Singapore +42**; **Laos +10** |
+| Net positive gap, friendliness question | — | **Laos 64**, Japan 56, Malaysia 43, Australia 42, UK 37 |
+
+**This cuts in both directions, which is why it is usable.** It refutes the claim that the fighting poisoned the relationship — the hostility was already the worst in the region. It equally refutes the claim that the sentiment was manufactured in 2025 — it was documented before, by a third party, for another purpose.
+
+### *12.2 Laos is the control case*  
+Laos shares a long border, a comparable income gap, and the same role as a labour source. It scores **+10**. Cambodia scores **−38**. Proximity, poverty and migration therefore cannot be the explanation, and neither can the **“lost territories” school narrative** — Laos sits in that same list (the 1893 Paknam crisis and the left bank of the Mekong). Whatever explains the gap must be something Cambodia has and Laos does not:
+
+- **A court case Thailand lost.** Preah Vihear, ICJ 1962, reactivated 2008 (UNESCO listing), 2011 (armed clashes), 2013 (interpretation). Laos has no equivalent.
+- **A burned embassy in living memory.** On 18 January 2003 the Cambodian paper *Rasmei Angkor* reported that Thai actress Suvanant Kongying had said Cambodia “stole” Angkor Wat. On **29 January 2003** rioters sacked and burned the **Thai embassy** in Phnom Penh and attacked Thai businesses including Thai Airways and Shin Corp. Thailand evacuated nationals by military aircraft, deployed the carrier *Chakri Naruebet*, closed the border until 21 March, and received **US$6 million** in compensation.
+- **Cambodia as a lever in Thai domestic politics.** Hun Sen appointed the fugitive Thaksin economic adviser in 2009 and refused extradition; Preah Vihear became a PAD nationalist campaign 2008–2011. The pattern repeated in 2025: the leaked Paetongtarn–Hun Sen call of **18 June**, Bhumjaithai’s exit from the coalition, Paetongtarn’s removal. **No other neighbour has twice been the instrument by which a Thai government fell.**
+- **The scam industry.** UN estimates put roughly **100,000** people trafficked into Cambodian scam compounds; Thai nationals are among the recruited, and the compounds sit at Poipet on the Thai border and in Pursat — the province containing the **Thma Da** zone of §11.2. Thai media coverage peaked in **2022–2023**, i.e. precisely during this survey’s fieldwork.
+
+### *12.3 The grievance is reciprocal*  
+That a rumour about Angkor Wat produced a burned embassy within eleven days indicates a standing Cambodian narrative of Siamese occupation and looting (1795–1907). This is **two nationalisms with mirrored injury stories**, not a one‑sided prejudice — and any external commentary that treats it as the latter will be read as partisan.
+
+### *12.4 Citation discipline (mandatory)*  
+1. **Several headline figures are “IR‑informed,” not the full sample** — the 86% neutrality figure and the 40% Cambodia figure explicitly. That group comprises the 73% of the randomised 1,200 who passed a five‑question knowledge filter (~876) **plus 450 respondents selected purposively, not randomly**. The report discloses this and states it found “very few significant differences” between the groups.
+2. **Urban only.** “Thesaban Nakhon” districts above 50,000 people — a population of **8,576,544**. The 3% margin of error is stated as representative of the **urban** Thai population, not the country.
+3. **Funding, verbatim:** “The Asia Foundation’s Innovation Fund, **drawing on appropriated funds from the United States Congress**.” A US‑funded survey asking Thais about US–China influence and Western democracy promotion. Disclose it first rather than be corrected with it.
+4. **Never generalise to “Thais dislike Cambodians.”** That is a collective characterisation by nationality; the survey figures are citable, the generalisation is not — and the Bangkok Post terms clause against disparagement by origin has to stay clean for use against others.
+
+### *12.5 Relevance to this node*  
+The registry sequence of §11.2a required no manufactured public support: the sentiment was already in place, and at ASEAN‑worst levels, two years earlier. Conversely, the survey shows what the government does **not** have a mandate for — **86% preferred neutrality** in a great‑power conflict and only 19% favoured aligning with either the US or China, which is the standing constraint on any bloc‑binding mechanism proposed from outside.
+
+## 13. The price of the policy: the first quantified bill (added 20 July 2026)
+
+Sections 1–12 treat narrative, control, law and public sentiment. **None treats cost.** Until this section the node contained no economic figure at all — no company, no trade volume, no balance. That omission mattered, because the freeze described in §11.3 is not free, and the first precisely quantified invoice has now been issued against a state‑controlled company.
+
+### *13.1 The sequence, which decides the causal question*  
+The order of the June 2025 measures is not a detail; it determines who is described as acting and who as reacting.
+
+| Date | Measure | Actor |
+|---|---|---|
+| 13 Feb 2025 | Cambodian soldiers escort ~25 civilians to Prasat Ta Muen Thom; anthem sung; Thai troops stop it; Suranaree Task Force protests **via the Regional Border Committee** | both |
+| **29 Apr 2025** | **Commanders of Thai Infantry Company 211 and a Cambodian infantry unit reconcile at the temple**; agree to settle disputes directly and pre‑notify activities | both |
+| 28 May 2025 | Firefight at Chong Bok, one Cambodian soldier killed — **a different location** | Thailand |
+| **7 Jun 2025** | **Crossing hours cut at all checkpoints, ordered by the regional military commands, without agreement** | **Thailand** |
+| 17 Jun 2025 | Import restriction on Thai vegetables and fruit | Cambodia |
+| 22/23 Jun 2025 | **All fuel and gas imports from Thailand suspended** | Cambodia |
+| 16 Jul 2025 | Ban widened to eleven categories, incl. electricity, internet, films | Cambodia |
+| Feb 2026 | Border trade with Cambodia recorded at **zero** | — |
+
+Hun Manet's framing is the operative quotation: **“You closed the border unilaterally, so you must reopen it unilaterally.”** Thailand moved first, and Cambodia's premier tied the lifting of his own ban to a Thai decision. The February temple incident, by contrast, **cannot** carry the causal weight sometimes placed on it: it was settled at company level on 29 April, five weeks before a firefight in a different sector.
+
+### *13.2 OR — the most precisely quantified single loss*  
+**In March 2025 PTT Oil and Retail Business (OR) named Cambodia its “second homebase,”** its largest overseas market: **254 Café Amazon outlets, more than in any country outside Thailand.** OR has earmarked **8bn baht for CLMV markets over 2024–2028**, about 12% of total investment.
+
+| Period | Fuel volume, Cambodia |
+|---|---|
+| Pre‑conflict quarters | regularly **>150m litres** |
+| Q1 2025 | **169m litres** |
+| Q4 2025 | 54m litres |
+| **Q1 2026** | **46m litres — −72.8% year on year** |
+
+A three‑stage plan runs from review through cost reduction to **“systematic withdrawal.”** A decision was targeted for **H1 2026; as of 20 July 2026 no announcement is findable** — a negative finding, to be stated as such.
+
+**Ownership chain:** Ministry of Finance **51.11%** of PTT; PTT **75%** of OR; Vayupak funds a further 12.16% of PTT.
+
+### *13.3 The wider corporate ledger — three firms, not six*  
+| Firm | Action | Figures |
+|---|---|---|
+| **Major Cineplex Group** | Ceased Cambodian operations (announced 26 Feb 2026); 70% stake sold to Sabay Digital | **US$5.14m / 161m baht**; revenue 533m baht (2024) → 380m (2025), **−29%** |
+| **Thai President Foods** (Mama) | Cambodia removed from 2026 revenue outlook; plant production halted | Export sales **to zero** |
+| **Osotspa** | Exports halted since June 2025 | **No recovery expected before 2027** |
+
+### *13.4 The aggregate figures, and who produced them*  
+- **180bn baht** — **Voratat Tantimongkolsuk, chairman of the Thailand‑Cambodia Business Council**, to *Thansettakij*, 13 May 2026. Scope, verbatim: *“Looking only at land border trade.”* He adds that roughly **30% of border enterprises have closed.** A trade‑body estimate, not an official statistic.
+- **Official, and harder:** Ministry of Commerce, February 2026 — Malaysia 24.4bn baht, Laos 23.8bn, Myanmar 13.8bn, **Cambodia no recorded value.**
+- **UTCC projection:** 66.61bn baht in lost exports, 20.37bn in foregone imports, **Thai GDP −0.74% in 2026.**
+- **Substitution is already visible:** in the first two months of 2026, Singapore's trade with Cambodia rose **over 200%**, Vietnam over 20%, Malaysia 30–40%. This is what makes the loss structural rather than cyclical.
+
+### *13.5 The Cambodian side (ISEAS, 12 May 2026)*  
+Yarrow and Kenh, *Cambodia's Economy before and after the 2025 Border Conflict*:
+
+- **~1.3m Cambodians** worked in Thailand pre‑conflict — about **90% of all Cambodian overseas workers**; an estimated **940,000 returned between June and October 2025.**
+- Remittances **>6% of GDP** (~US$2.8bn in 2024); returning workers saw monthly earnings fall **40% or more.**
+- Cross‑border trade **US$4.3bn (2024)**; monthly exports fell from US$90–100m to **US$40–60m**; edible vegetables **−US$81m (−38%)**.
+- Thai visitors fell from **150–200,000 per month to 15–20,000.**
+- GDP growth **6.0% (2024) → 5.2% (2025) → 4.3% projected (2026).**
+
+**ISEAS's own verdict must travel with the figures: the impact proved “milder than might be expected.”** Citing the losses without the verdict misrepresents the source.
+
+### *13.6 The condition that does not mention itself*  
+The reopening is conditioned on the Joint Statement of 27 December 2025 — *“the border will remain shut unless the Joint Statement is followed through.”*
+
+The full text (PA‑X, University of Edinburgh, agreement 2878) contains **sixteen points**: ceasefire, frozen deployments, JBC demarcation, civilian return, no force increases, no provocations, civilian protection, no disinformation, mine obligations via the JCTF, transnational crime, return of the 18 Cambodian soldiers, the ASEAN Observer Team, Border Coordination Units, direct ministerial lines, demining notification, media coordination.
+
+**No point mentions border checkpoints, trade, or reopening.** The condition for opening the crossings is the fulfilment of a document that never refers to them.
+
+**Caveat:** this is a negative claim resting on a single reproduction of the text. The Cambodian primary source (MFAIC) was unreachable. **A third copy should be obtained before this is used publicly.**
+
+### *13.7 Citation discipline (mandatory)*  
+1. **Station count unresolved.** Public reporting gives **186 PTT stations** (also “over 160”) and 254 Café Amazon. A figure of **91 stations** circulates in earlier working notes. The two are not reconciled — plausibly 186 minus 35 defected dealers minus ~60 expected, but **that arithmetic is an inference, not a source.** Do not publish 91.
+2. **“Six major Thai companies have withdrawn” is unsourced.** Three are documented (§13.3). The number appears only in search summaries.
+3. **Never “the border conflict is ruining OR.”** Cambodia is **2–3% of group revenue**; the 44.9% profit slump has other causes; the Laos decline is independent (Middle East supply constraints).
+4. **Two causes, not one.** Thailand moved first (7 June), but the proximate cause of the *fuel volume* collapse is Cambodia's import ban plus the consumer boycott and dealer defections. Any text attributing the collapse solely to Bangkok is refuted in one reply.
+5. **Both sides' aggregates are interest‑led.** Always name the origin — business council, ministry, university, or foreign institute.
+6. **No intent attribution.** The ownership chain establishes who bears the cost. It does not establish that anyone intended it.
+
+### *13.8 Relevance to this node*  
+§11.3 described the freeze as consolidation and §11.2a documented its domestication into Thai law. This section supplies the **price**: the state holds ground taken in December, keeps the crossings shut — the Prime Minister has publicly left reopening to the army — and the most precisely measurable bill falls on a company whose majority shareholder is the Ministry of Finance.
+
+The analytical point is not corruption or folly but **structure**: OR's decisive country risk was never Cambodian politics, which is ordinary and priceable. It was domestic — and a state‑controlled company cannot hedge against its own controlling shareholder. That is a statement about a shareholding structure, and it is the strongest formulation this material supports without leaving the record.
+
+-----
+
 ## Sources
 
 **Bangkok Post – 21 April 2026**  
 <a href="https://www.bangkokpost.com/thailand/general/3237650/border-dispute-needs-steady-dialogue" target="_blank" rel="noopener noreferrer">https://www.bangkokpost.com/thailand/general/3237650/border-dispute-needs-steady-dialogue</a>
+
+### Added 17 July 2026 (§8.2 correction and §11)
+
+**Al Jazeera – Thailand and Cambodia agree on ceasefire (27 December 2025); ASEAN observer monitoring, deployments frozen**  
+<a href="https://www.aljazeera.com/news/2025/12/27/thailand-and-cambodia-agree-on-ceasefire-cambodia-defence-ministry-says" target="_blank" rel="noopener noreferrer">https://www.aljazeera.com/news/2025/12/27/thailand-and-cambodia-agree-on-ceasefire-cambodia-defence-ministry-says</a>
+
+**Al Jazeera – Thailand launches new offensive as Cambodia halts all border crossings (14 December 2025)**  
+<a href="https://www.aljazeera.com/news/2025/12/14/thailand-launches-new-offensive-as-cambodia-halts-all-border-crossings" target="_blank" rel="noopener noreferrer">https://www.aljazeera.com/news/2025/12/14/thailand-launches-new-offensive-as-cambodia-halts-all-border-crossings</a>
+
+**Wikipedia – 2025 Cambodian–Thai border crisis (Operation Sattawat; localities seized)**  
+<a href="https://en.wikipedia.org/wiki/2025_Cambodian%E2%80%93Thai_border_crisis" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/2025_Cambodian%E2%80%93Thai_border_crisis</a>
+
+**Bangkok Post – Thai troops secure Hill 350, retrieve two soldiers' bodies**  
+<a href="https://www.bangkokpost.com/thailand/general/3160385/thai-troops-secure-hill-350-retrieve-two-soldiers-bodies" target="_blank" rel="noopener noreferrer">https://www.bangkokpost.com/thailand/general/3160385/thai-troops-secure-hill-350-retrieve-two-soldiers-bodies</a>
+
+**The Nation – Thai troops seize large cache of Cambodian weapons on Hill 500**  
+<a href="https://www.nationthailand.com/news/general/40059851" target="_blank" rel="noopener noreferrer">https://www.nationthailand.com/news/general/40059851</a>
+
+**Bangkok Post – Thai soldiers reclaim Phu Makua after repelling Cambodian assaults**  
+<a href="https://www.bangkokpost.com/thailand/general/3076052/thai-soldiers-reclaim-phu-makua-after-repelling-cambodian-assaults" target="_blank" rel="noopener noreferrer">https://www.bangkokpost.com/thailand/general/3076052/thai-soldiers-reclaim-phu-makua-after-repelling-cambodian-assaults</a>
+
+**The Nation – Thai troops secure Phu Ma Kua, raise the national flag after Cambodian assaults**  
+<a href="https://www.nationthailand.com/news/general/40053093" target="_blank" rel="noopener noreferrer">https://www.nationthailand.com/news/general/40053093</a>
+
+**Wikipedia – Phu Makhuea (Khmer: Phnom Trap)**  
+<a href="https://en.wikipedia.org/wiki/Phu_Makhuea" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Phu_Makhuea</a>
+
+**Prachatai English – Thailand claimed to take control of 11 disputed sites. What does this mean for peace?**  
+<a href="https://prachataienglish.com/node/11502" target="_blank" rel="noopener noreferrer">https://prachataienglish.com/node/11502</a>
+
+**ICJ – Summary of the Judgment of 11 November 2013 (promontory ends at the foot of Phnom Trap; Court did not address sovereignty over Phnom Trap)**  
+<a href="https://www.icj-cij.org/node/103956" target="_blank" rel="noopener noreferrer">https://www.icj-cij.org/node/103956</a>
+
+**The Diplomat – Cambodia Counts the Costs of Its Border Conflict with Thailand (December 2025)**  
+<a href="https://thediplomat.com/2025/12/cambodia-counts-the-costs-of-its-border-conflict-with-thailand/" target="_blank" rel="noopener noreferrer">https://thediplomat.com/2025/12/cambodia-counts-the-costs-of-its-border-conflict-with-thailand/</a>
+
+### Temples: capture, ceremony, registry (§11.2a)
+
+**Khaosod English – Thailand lists Ta Muen, Ta Kwai as ancient monuments (12 May 2026)**  
+<a href="https://www.khaosodenglish.com/politics/2026/05/12/thailand-lists-ta-muen-ta-kwai-as-ancient-monuments/" target="_blank" rel="noopener noreferrer">https://www.khaosodenglish.com/politics/2026/05/12/thailand-lists-ta-muen-ta-kwai-as-ancient-monuments/</a>
+
+**Free Malaysia Today – Thai registry listing of disputed border temples draws Cambodia ire (13 May 2026)**  
+<a href="https://www.freemalaysiatoday.com/category/world/2026/05/13/thai-registry-listing-of-disputed-border-temples-draws-cambodia-ire" target="_blank" rel="noopener noreferrer">https://www.freemalaysiatoday.com/category/world/2026/05/13/thai-registry-listing-of-disputed-border-temples-draws-cambodia-ire</a>
+
+**Khmer Times – Cambodia rejects Thailand's registration of border temples as national monuments**  
+<a href="https://www.khmertimeskh.com/501897378/cambodia-rejects-thailands-registration-of-border-temples-as-national-monuments/" target="_blank" rel="noopener noreferrer">https://www.khmertimeskh.com/501897378/cambodia-rejects-thailands-registration-of-border-temples-as-national-monuments/</a>
+
+**Khaosod English – Cambodia urges Thailand to delist disputed border temples (13 May 2026)**  
+<a href="https://www.khaosodenglish.com/news/2026/05/13/cambodia-urges-thailand-to-delist-disputed-border-temples/" target="_blank" rel="noopener noreferrer">https://www.khaosodenglish.com/news/2026/05/13/cambodia-urges-thailand-to-delist-disputed-border-temples/</a>
+
+**The Star / Inquirer – Thailand ceremony at disputed border temple draws Cambodia rebuke (22 April 2026)**  
+<a href="https://www.thestar.com.my/aseanplus/aseanplus-news/2026/04/22/thailand-ceremony-at-disputed-border-temple-draws-cambodia-rebuke" target="_blank" rel="noopener noreferrer">https://www.thestar.com.my/aseanplus/aseanplus-news/2026/04/22/thailand-ceremony-at-disputed-border-temple-draws-cambodia-rebuke</a>
+
+**Wikipedia – Prasat Ta Khwai / Ta Krabey (control chronology, retaken 15 December 2025)**  
+<a href="https://en.wikipedia.org/wiki/Prasat_Ta_Khwai" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Prasat_Ta_Khwai</a>
+
+**Khaosod English – The Disputed Ancient Temple: Latest Casualty of Thai-Cambodian War (11 December 2025)**  
+<a href="https://www.khaosodenglish.com/opinion/2025/12/11/the-disputed-ancient-temple-latest-casualty-of-thai-cambodian-war/" target="_blank" rel="noopener noreferrer">https://www.khaosodenglish.com/opinion/2025/12/11/the-disputed-ancient-temple-latest-casualty-of-thai-cambodian-war/</a>
+
+**Khaosod English – Thailand says Ta Muen Thom registered as Thai ancient monument 18 years before Cambodia's independence (19 January 2026) — Thai counter-frame**  
+<a href="https://www.khaosodenglish.com/news/2026/01/19/thailand-says-ta-muen-thom-registered-as-thai-ancient-monument-18-years-before-cambodias-independence/" target="_blank" rel="noopener noreferrer">https://www.khaosodenglish.com/news/2026/01/19/thailand-says-ta-muen-thom-registered-as-thai-ancient-monument-18-years-before-cambodias-independence/</a>
+
+### Added 19 July 2026 (§11.2a Gazette dates, §11.2b Phimai trap, §12 public sentiment)
+
+**Khaosod English – Thailand lists Ta Muen, Ta Kwai as ancient monuments (12 May 2026) — Gazette publication date, signed 9 April by FAD DG Phanomboot Chanthachot, effective 9 May**  
+<a href="https://www.khaosodenglish.com/politics/2026/05/12/thailand-lists-ta-muen-ta-kwai-as-ancient-monuments/" target="_blank" rel="noopener noreferrer">https://www.khaosodenglish.com/politics/2026/05/12/thailand-lists-ta-muen-ta-kwai-as-ancient-monuments/</a>
+
+**Nation Thailand – Ta Muen Thom listed as national monument since 1935 — Royal Gazette of 8 March 1935 (B.E. 2478), covering Ta Kwai, Ta Muen Thom and Ta Muen Tot**  
+<a href="https://www.nationthailand.com/news/general/40061458" target="_blank" rel="noopener noreferrer">https://www.nationthailand.com/news/general/40061458</a>
+
+**Free Malaysia Today – Thai registry listing of disputed border temples draws Cambodia ire (13 May 2026)**  
+<a href="https://www.freemalaysiatoday.com/category/world/2026/05/13/thai-registry-listing-of-disputed-border-temples-draws-cambodia-ire" target="_blank" rel="noopener noreferrer">https://www.freemalaysiatoday.com/category/world/2026/05/13/thai-registry-listing-of-disputed-border-temples-draws-cambodia-ire</a>
+
+**Wikipedia – Prasat Ta Muen Thom / Prasat Ta Krabey (11th century, Suryavarman I and Udayadityavarman II, royal road Angkor–Phimai)**  
+<a href="https://en.wikipedia.org/wiki/Prasat_Ta_Muen_Thom" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Prasat_Ta_Muen_Thom</a>
+
+**Wikipedia – Franco‑Siamese Treaty of 1907 (cession of Battambang, Siem Reap, Sisophon; Siamese rule 1795–1907)**  
+<a href="https://en.wikipedia.org/wiki/Franco-Siamese_Treaty_of_1907" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Franco-Siamese_Treaty_of_1907</a>
+
+**Wikipedia – Franco‑Thai War (Tokyo treaty 9 May 1941; Phra Tabong and Phibunsongkhram Provinces; reversed October 1946)**  
+<a href="https://en.wikipedia.org/wiki/Franco-Thai_War" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Franco-Thai_War</a>
+
+**The Asia Foundation – Thai Public Views on International Issues (June 2024; fieldwork August–November 2023; 1,650 urban respondents; enumeration by MI Advisory)**  
+<a href="https://asiafoundation.org/wp-content/uploads/2024/06/Thailand_Thai-Public-Views-on-International-Issues.pdf" target="_blank" rel="noopener noreferrer">https://asiafoundation.org/wp-content/uploads/2024/06/Thailand_Thai-Public-Views-on-International-Issues.pdf</a>
+
+**Wikipedia – 2003 Phnom Penh riots (Rasmei Angkor report 18 January; embassy burned 29 January; carrier Chakri Naruebet; border closed to 21 March; US$6m compensation)**  
+<a href="https://en.wikipedia.org/wiki/2003_Phnom_Penh_riots" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/2003_Phnom_Penh_riots</a>
+
+**Khaosod English – Phnom Penh 2003: When nationalism turned violent (29 January 2026)**  
+<a href="https://www.khaosodenglish.com/featured/2026/01/29/phnom-penh-2003-when-nationalism-turned-violent/" target="_blank" rel="noopener noreferrer">https://www.khaosodenglish.com/featured/2026/01/29/phnom-penh-2003-when-nationalism-turned-violent/</a>
+
+**Wikipedia – Scam centers in Cambodia (Sihanoukville, Poipet, Pursat; UN estimate ~100,000 trafficked)**  
+<a href="https://en.wikipedia.org/wiki/Scam_centers_in_Cambodia" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Scam_centers_in_Cambodia</a>
+
+### Added 20 July 2026 (§13 — economic cost)
+
+**PA-X, University of Edinburgh – Joint Statement of the 3rd Special General Border Committee, 27 December 2025 (full text; sixteen points; no mention of checkpoints, trade or reopening)**  
+<a href="https://www.peaceagreements.org/agreements/2878/" target="_blank" rel="noopener noreferrer">https://www.peaceagreements.org/agreements/2878/</a>
+
+**Kaohoon International – OR Initiates Aggressive Plan to Set Cambodia as 'Second Homebase' (25 March 2025; 186 PTT stations, 254 Café Amazon)**  
+<a href="https://www.kaohooninternational.com/markets/554853" target="_blank" rel="noopener noreferrer">https://www.kaohooninternational.com/markets/554853</a>
+
+**Al Jazeera – Cambodia halts fuel and gas imports from Thailand (22 June 2025; effective midnight 23 June)**  
+<a href="https://www.aljazeera.com/news/2025/6/22/cambodia-halts-fuel-and-gas-imports-from-thailand-as-crisis-simmers" target="_blank" rel="noopener noreferrer">https://www.aljazeera.com/news/2025/6/22/cambodia-halts-fuel-and-gas-imports-from-thailand-as-crisis-simmers</a>
+
+**The Diplomat – Thailand Closes Most Border Crossings With Cambodia as Dispute Escalates (June 2025; crossing hours cut from 7 June by regional military commands)**  
+<a href="https://thediplomat.com/2025/06/thailand-closes-most-border-crossings-with-cambodia-as-dispute-escalates/" target="_blank" rel="noopener noreferrer">https://thediplomat.com/2025/06/thailand-closes-most-border-crossings-with-cambodia-as-dispute-escalates/</a>
+
+**The Nation – Thai-Cambodia border trade losses hit THB180 billion in nearly a year (13 May 2026; Voratat Tantimongkolsuk, Thailand-Cambodia Business Council, via Thansettakij; land border trade only; ~30% of border enterprises closed)**  
+<a href="https://www.nationthailand.com/news/asean/40066145" target="_blank" rel="noopener noreferrer">https://www.nationthailand.com/news/asean/40066145</a>
+
+**Globe News Bangkok – Thai Businesses Retreat From Cambodia As Tensions Persist (20 April 2026; Major Cineplex, Thai President Foods, Osotspa; February 2026 border trade by country)**  
+<a href="https://www.globe.co.th/news/thailand/thai-businesses-retreat-from-cambodia-as-tensions-persist/" target="_blank" rel="noopener noreferrer">https://www.globe.co.th/news/thailand/thai-businesses-retreat-from-cambodia-as-tensions-persist/</a>
+
+**ISEAS Perspective 2026/35 – Richard Yarrow and Sovath Kenh, Cambodia's Economy before and after the 2025 Border Conflict (12 May 2026)**  
+<a href="https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2026-35-cambodias-economy-before-and-after-the-2025-border-conflict-by-richard-yarrow-and-sovath-kenh/" target="_blank" rel="noopener noreferrer">https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2026-35-cambodias-economy-before-and-after-the-2025-border-conflict-by-richard-yarrow-and-sovath-kenh/</a>
+
+**The Nation – Anutin gives military final say on reopening border with Cambodia**  
+<a href="https://www.nationthailand.com/news/asean/40055719" target="_blank" rel="noopener noreferrer">https://www.nationthailand.com/news/asean/40055719</a>
+
+**The Nation – Thai, Cambodian troops reconcile over Prasat Ta Muen Thom incident (29 April 2025)**  
+<a href="https://www.nationthailand.com/news/asean/40049409" target="_blank" rel="noopener noreferrer">https://www.nationthailand.com/news/asean/40049409</a>
+
+**Khmer Times – 35 gas stations end PTT contracts, rebrand as PPC (dealer defections; 50–60 further terminations expected)**  
+<a href="https://www.khmertimeskh.com/501748031/35-gas-stations-end-ptt-contracts-rebrand-as-ppc/" target="_blank" rel="noopener noreferrer">https://www.khmertimeskh.com/501748031/35-gas-stations-end-ptt-contracts-rebrand-as-ppc/</a>
 
 <img src="../images/0049.webp" alt="0049" style="width: 480px; margin: auto;" loading="lazy">
 
