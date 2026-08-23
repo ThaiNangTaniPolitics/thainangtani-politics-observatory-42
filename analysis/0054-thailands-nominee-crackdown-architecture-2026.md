@@ -67,8 +67,46 @@ The public justification for the crackdown relies on a set of recurring narrativ
 ### *4.1 “Foreign Takeover” Framing*  
 Authorities emphasize that 68% of firms are “run by foreigners,” despite the absence of evidence that these firms exert disproportionate control or operate illegally. The statistic is presented without sectoral context, historical baselines, or economic interpretation, producing a perception of crisis.
 
+### *4.1a The statute names Thai offenders — the framing does not (added 19 July 2026)*  
+The “foreign takeover” frame survives only as long as the applicable law goes unquoted. In every nominee structure the statute creates **separate Thai offences**, and in one case the heaviest sentence in the chain attaches to a Thai official:
+
+| Provision | Who | Penalty |
+|---|---|---|
+| **Penal Code s. 157** | official who “wrongfully exercises or does not exercise any of his functions to the injury of any person, or dishonestly exercises or omits” | **1–10 years**, or 20,000–200,000 baht, or both |
+| **Foreign Business Act s. 36** | Thai national or non‑foreign juristic person who “assists in or aids and abets or participates in the operation… **or acts as a foreigner’s nominee** in holding shares” | up to **3 years**, or 100,000–1,000,000 baht, or both — and **the court shall order the arrangement to cease**; breaching that order costs **10,000 baht per day** |
+| **Land Code s. 111** | “any person who violates or fails to comply with Section 86” | up to **2 years**, or up to 20,000 baht, or both |
+| **Land Code s. 113** | person who “acquires land **as an agent of an alien or juristic person under the provisions of Section 97 or 98**” | up to **2 years**, or up to 20,000 baht, or both |
+
+*The s. 157 fine was raised tenfold — from 2,000–20,000 to 20,000–200,000 baht — by the Criminal Code Amendment Act (No. 26), B.E. 2560, in force 21 March 2017. Translations still in circulation carry the pre‑2017 figure; the prison term is unchanged.*
+
+Three structural points follow, none requiring interpretation:
+
+1. **FBA s. 36 is a standalone offence, not accessory liability.** The nominee is a principal in his own right, not an accomplice to the foreigner.
+2. **Land Code ss. 111 and 113 carry identical penalties.** Acquiring in breach of s. 86 and acquiring as an alien’s agent are punished exactly alike — the statute does not rank the foreigner above the Thai title‑holder. Note that s. 111 is drafted against “any person,” not against foreigners as such.
+3. **The official is exposed to the longest term of anyone in the transaction** — up to ten years against the nominee’s three.
+
+**Precision required when using this:** the nominee is liable by the act itself; the **broker and the official are liable only on knowledge** (“knowingly arranges,” “knows what he is signing”). Without that qualifier the claim is simply wrong, and with it the claim is unanswerable. Note equally that a genuine 45/55 holding with a real Thai partner is entirely lawful — **what is criminal is the nominee arrangement, not the shareholding ratio.** The formulation “the rule made that shape a crime” must never be used.
+
 ### *4.2 Moral Panic as Governance Tool*  
 The language of “uprooting” nominee firms and “taking back control” transforms administrative enforcement into a symbolic defense of national integrity. This framing obscures the fact that many of the targeted structures were previously facilitated by the same institutions now condemning them.
+
+### *4.2a The panic measured — and the instrument that produced it (added 19 July 2026)*  
+NIDA’s survey **“ต่างชาติ ผิดกฎหมาย”** (fieldwork 13–15 July 2026, n = 1,310, telephone) is usually read as evidence of public concern about foreigners. Read as an **instrument**, it is better evidence for §4.2 than for anything about foreigners.
+
+**Both questions are closed lists with directional catalogues.**
+
+- The danger battery offers **eight items, every one a foreign offence**, under a stem that already characterises them as “dangerous to Thailand” (ที่เป็นอันตรายต่อประเทศไทย). The nominee items are phrased with **การจ้าง — “the hiring of”** — so the foreigner is grammatical subject throughout and the Thai is the object hired.
+- The causation battery offers **seven items, every one a domestic failing**: corrupt officials 67.10%, lenient penalties 59.31%, legal loopholes 52.21%, corrupt politicians 50.46%, self‑interested Thais 48.70%, officials not watching 44.35%, indifferent Thais 29.54%.
+
+**Across all fifteen items, no Thai appears as an offender — only as a condition.** The questionnaire therefore cannot produce any finding other than *foreigners commit, Thais enable*, which is precisely the frame described in §4.1 and §4.2. Set against §4.1a, the contradiction is exact: **the Penal Code and the FBA know a Thai principal; the survey has no box for him.**
+
+**Two inference traps, both tested and rejected (19 July 2026):**
+- **Do not build a “perceived danger vs. personally witnessed” gap** (94% call money laundering very dangerous; 26% have seen it). The danger question measures **severity, not frequency**; rating a rare hazard as dangerous is rational, and financial crime is designed to be unobservable. The arithmetic looks damning and proves nothing.
+- **Do not read the 67% as “the public blames the state rather than foreigners.”** It is true of the **option list**, not of the respondents — no foreign‑conduct option was offered.
+
+**Methodological ledger:** n = 1,310 is below NIDA’s own norm of 2,000–2,533; **no response rate is published**; the Master Sample is a standing panel (~376,867 units) with conditioning effects; 52.14% of respondents are 46 or older and 46.72% hold a tertiary degree. The stated bound “≤0.05 at 97% confidence” is a **design constant, not a computed precision** — at n = 1,310 the figure would be roughly ±3.0 points — and must never be cited as “±2%.” **Do not argue that NIDA is disreputable:** comparative assessments place it *above* other Thai pollsters on methodological disclosure, so the institutional attack carries its own rebuttal. The defensible criticism is the **instrument**, evidenced from the questionnaire itself.
+
+**Contrast case for method.** The Asia Foundation’s 2024 survey (see [0049](0049-thai-cambodian-border-dispute-2026.md) §12) discloses its own construction — stating explicitly that it asked whether the West **“can”** do more rather than **“should,”** and why. That is the disclosure standard against which NIDA’s closed catalogues should be measured, without any claim about NIDA’s good faith.
 
 ### *4.3 Selective Visibility of Cases*  
 Individual examples—such as an accounting firm linked to 66 companies or villas marketed without hotel licenses—are amplified to imply systemic criminality. These cases function as **narrative anchors**, shaping public perception while masking the broader economic logic of the islands.
@@ -77,6 +115,19 @@ Individual examples—such as an accounting firm linked to 66 companies or villa
 The 66‑company example also reveals a new **algorithmic enforcement logic**. Investigators increasingly rely on deterministic thresholds—such as automatic audits for any address hosting more than five registered companies—to classify entities as suspicious. These binary filters constitute a **Decision Matrix** that redefines legality through programmable criteria rather than contextual assessment.
 
 This shift allows the state to mass‑generate violations at scale. What was once a fluid, negotiable regulatory environment becomes a system in which enforcement outputs are **deterministic**, predictable, and centrally controlled. The result is a high‑volume production of actionable targets, enabling the state to demonstrate activity while simultaneously reshaping the economic landscape.
+
+### *4.3.2 The Decision Matrix at national scale — the 2026 figures (added 19 July 2026)*  
+By mid‑2026 the threshold logic of §4.3.1 has been applied nationally, and the operative threshold is the **49% ceiling itself**:
+
+- The DBD screens companies in which foreigners hold **0.01% to 49.99%**, and has narrowed the search to the band **40% to 49.99%** — immediately beneath the statutory ceiling — across **16 target provinces**.
+- **Nearly 120,000 companies** fall inside that population.
+- **852 companies** have been prosecuted, with approximately **THB 15.1 billion** in economic damage identified.
+- A separate stream identifies **21,459 companies** suspected of breaching foreign land and property restrictions, and **2,040+ companies** in which bookkeepers or accounting offices themselves held stakes (combined share value above **THB 2.528 billion**) across eight high‑risk provinces.
+- The DBD reports working with at least **17 agencies**; from **1 April 2026** registrars additionally verify the **source of Thai shareholders’ funds** and cross‑reference beneficial‑ownership data.
+
+**Analytical significance.** This is §4.3.1 generalised from an address‑level heuristic to a **national shareholding band**, and it demonstrates the structural argument of §3.3 without recourse to intent. The 49/51 rule does not exclude foreign capital; it determines the **shape** in which capital arrives — and the state’s own screening confirms where that shape sits, since it has defined its risk zone as the ten percentage points immediately below its own line.
+
+**Arithmetic discipline.** *Screened is not guilty*: 852 prosecutions against a flagged population of ~120,000 is **0.7%**. Any external use must carry the 852 alongside the 120,000, both because it is honest and because it forecloses the objection that 120,000 firms are being described as criminal. Note further that the discretionary lawful routes — BOI promotion, a foreign business licence, the US Treaty of Amity, IEAT — do exist; they are narrow and sector‑bound rather than closed. The defensible proposition is that **discretion has value to whoever holds it**, which is a definition rather than an accusation. **Do not claim that the legislature designed the rule to generate rents** — a purpose attribution to a parliament across decades, unprovable and refutable in a line. The rent‑seeking structure holds without it.
 
 ---
 
@@ -173,6 +224,35 @@ The campaign’s timing, narrative framing, and operational design indicate a st
 <a href="https://www.nationthailand.com/thailand/general/40038041" target="_blank" rel="noopener noreferrer">https://www.nationthailand.com/thailand/general/40038041</a>
 
 ---
+
+### Added 19 July 2026 (§4.1a statutory apparatus, §4.2a NIDA instrument, §4.3.2 national figures)
+
+**Board of Investment – Foreign Business Act B.E. 2542 (1999), official translation (s. 36 nominee liability)**  
+<a href="https://www.boi.go.th/upload/Foreign%20Business%20Act_5dd766122ff27.pdf" target="_blank" rel="noopener noreferrer">https://www.boi.go.th/upload/Foreign%20Business%20Act_5dd766122ff27.pdf</a>
+
+**FAOLEX (FAO legislative database) – Land Code Promulgating Act, B.E. 2497 (1954), as amended until Land Code Amendment Act (No. 12), B.E. 2551 (2008) — ss. 86, 111, 113 quoted from pp. 22, 28**  
+<a href="https://faolex.fao.org/docs/pdf/tha33176.pdf" target="_blank" rel="noopener noreferrer">https://faolex.fao.org/docs/pdf/tha33176.pdf</a>
+
+**FAOLEX (FAO legislative database) – Criminal Code, B.E. 2499 (1956), as amended until Criminal Code (No. 17), B.E. 2547 — s. 157 at p. 37 (pre‑2017 fine figure)**  
+<a href="https://faolex.fao.org/docs/pdf/tha208355.pdf" target="_blank" rel="noopener noreferrer">https://faolex.fao.org/docs/pdf/tha208355.pdf</a>
+
+**Criminal Code Amendment Act (No. 26), B.E. 2560 — s. 7 raises the s. 157 fine to 20,000–200,000 baht; published Royal Gazette vol. 134, part 32 A, 20 March 2017, p. 51. Scan‑backed transcription:**  
+<a href="https://en.wikisource.org/wiki/Translation:Criminal_Code_Amendment_Act_(No_26),_2560_BE" target="_blank" rel="noopener noreferrer">https://en.wikisource.org/wiki/Translation:Criminal_Code_Amendment_Act_(No_26),_2560_BE</a>
+
+**Nation Thailand – DBD tightens nominee crackdown, orders financial‑trail checks in 16 risk provinces (0.01–49.99% screening band; ~120,000 companies; 852 prosecuted; THB 15.1bn)**  
+<a href="https://www.nationthailand.com/news/general/40068701" target="_blank" rel="noopener noreferrer">https://www.nationthailand.com/news/general/40068701</a>
+
+**Nation Thailand – Thailand’s DBD steps up nominee crackdown with finance checks**  
+<a href="https://www.nationthailand.com/news/general/40067740" target="_blank" rel="noopener noreferrer">https://www.nationthailand.com/news/general/40067740</a>
+
+**NIDA Poll – “ต่างชาติ ผิดกฎหมาย” (fieldwork 13–15 July 2026, n = 1,310; full item wording and response catalogues)**  
+<a href="https://nidapoll.nida.ac.th/en/polls/nidapoll_illegal_foreigner/" target="_blank" rel="noopener noreferrer">https://nidapoll.nida.ac.th/en/polls/nidapoll_illegal_foreigner/</a>
+
+**Bangkok Post – Corrupt officials blamed for businesses illegally run by foreigners (19 July 2026)**  
+<a href="https://www.bangkokpost.com/thailand/general/3288327/corrupt-officials-blamed-for-businesses-illegally-run-by-foreigners" target="_blank" rel="noopener noreferrer">https://www.bangkokpost.com/thailand/general/3288327/corrupt-officials-blamed-for-businesses-illegally-run-by-foreigners</a>
+
+**Thai Data Points – Assessing Thai pollsters on methodology: accuracy and bias (NIDA rated above peers on disclosure)**  
+<a href="https://www.thaidatapoints.com/post/whose-poll-should-i-believe-assessing-2023-thai-pollsters-on-methodology-accuracy-and-bias-part-2" target="_blank" rel="noopener noreferrer">https://www.thaidatapoints.com/post/whose-poll-should-i-believe-assessing-2023-thai-pollsters-on-methodology-accuracy-and-bias-part-2</a>
 
 <img src="../images/0054.webp" alt="0054" style="width: 480px; margin: auto;" loading="lazy">
 

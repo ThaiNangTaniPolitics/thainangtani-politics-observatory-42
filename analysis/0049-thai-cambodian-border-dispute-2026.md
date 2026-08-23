@@ -191,21 +191,24 @@ The framing appears tailored to a Thai domestic readership, which shapes narrati
 
 This section supplies the evidentiary basis that §8.1 previously lacked.
 
-### *11.1 Operation Sattawat*  
-On **10 December 2025** the Royal Thai Army launched **Operation Sattawat** (ยุทธการศตวรรษ), codenamed after **Sergeant Major Sattawat Sujarit**, the first Thai soldier killed in the second round of clashes. During the operation the RTA seized a number of localities inside Cambodian‑claimed territory. Fighting had resumed on **7 December**; the second round ran until the **27 December** ceasefire.
+### *11.1 Operation Satawat (corrected 23 August 2026)*  
+Fighting resumed on **7 December 2025**; the Royal Thai Army’s Second Army Region opened its own operations on **8 December**. On **10 December** the army gave the campaign its name — **ยุทธการศตวรรษ**, *Yutthakan Satawat* — in honour of **จ.ส.อ. ศตวรรษ สุจริต** (Sgt Maj Satawat Sucharit), the first Thai soldier killed in the second round. The word ศตวรรษ means *century*; the codename is his given name, not a reference to a period. During the operation the RTA seized a number of localities inside Cambodian‑claimed territory. The second round ran until the **27 December** ceasefire.
+
+*An earlier version of this section dated the launch to 10 December. That is the date of the naming announcement, not of the operation.*
 
 ### *11.2 The sites*  
 Documented in Thai reporting (Bangkok Post, The Nation, Thairath) and in Cambodian defence statements:
 
 | Site | Location / note |
 |---|---|
-| **Hill 350** | Ta Kwai (Ta Krabey) area, Surin — taken after a prolonged engagement |
+| **Hill 350** | Ta Kwai (Ta Krabey) area, Phanom Dong Rak district, Surin — still under operation on 15 December; reported taken on **20 December 2025** by Lt Gen Veerayut Rakasilp, commander of the Second Army Region, with two Thai bodies recovered |
+| **Prasat Khna** | Kap Choeng district, Surin — announced by the Second Army Region on **8 December 2025**, the opening day of Thai operations |
 | **Hill 500**, Hill 677, Huai Bon base | Chong An Ma area, Ubon Ratchathani |
 | **Chong An Ma** | ~75% under Thai control per RTA statements |
 | **O'Smach** | Oddar Meanchey, near the Chong Chom crossing (Surin) |
-| **Phu Makhuea** (Khmer: **Phnom Trap**) | Sisaket sector, near Preah Vihear — control claimed **26 July 2025**, national flag raised |
+| **Phu Makhuea** (Khmer: **Phnom Trap**) | Sisaket sector, near Preah Vihear — retaken **between 24 and 28 July 2025** per The Nation, which also reports Cambodian presence in the area since 2008; national flag raised. *Single‑day datings of 26 July circulate but are not carried by the reporting cited here.* |
 | **Thma Da / Thmor Da** | Pursat — SEZ with casino/scam complex, heavily bombed; Thai forces **reportedly** occupying (attribute; not firmly established) |
-| **Ta Krabey** (Thai: Ta Kwai) | Surin sector — held by Cambodian forces from 24 July 2025 (acknowledged by the Thai army spokesman on 30 July); struck repeatedly on **8–10 December**, severely damaged; **retaken by Thailand 15 December 2025** |
+| **Ta Krabey** (Thai: Ta Kwai) | Surin sector — held by Cambodian forces from 24 July 2025 (acknowledged by the Thai army spokesman on 30 July); struck repeatedly on **8–10 December**, severely damaged; **the temple area declared under Thai control on 15 December 2025** by army spokesman Maj Gen Winthai Suvaree, who stated in the same announcement that neighbouring objectives were still being fought over |
 | **Ta Muen Thom** (Khmer: Tamone) | Surin sector — under Thai control from December 2025 |
 | **Nong Khana** (Khmer: **K'nar**) | third temple of the group, taken December 2025 |
 
@@ -242,7 +245,9 @@ The defensible public formulation is therefore a **question**, not an assertion:
 ### *11.2b Khmer provenance is not sovereignty — the Phimai trap (added 19 July 2026)*  
 Distinct from §11.4, which concerns the ICJ. This one concerns **architecture**.
 
-Ta Muen Thom and Ta Krabey are **11th‑century Khmer temples**, built under Suryavarman I and Udayadityavarman II, on the royal road from **Angkor to Phimai**. The inference “Khmer‑built, therefore Cambodian” is **immediately refutable in one word: Phimai.** That road’s destination lies in Nakhon Ratchasima; **Phanom Rung** lies in Buri Ram; both are Khmer monuments of the same period and indisputably Thai. The Khmer Empire extended deep into present‑day Thailand, so provenance of construction establishes nothing about modern title.
+Ta Muen Thom and Ta Krabey are **Khmer temples of the 11th century**, standing on the royal road from **Angkor to Phimai**. The inference “Khmer‑built, therefore Cambodian” is **immediately refutable in one word: Phimai.** That road’s destination lies in Nakhon Ratchasima; **Phanom Rung** lies in Buri Ram; both are Khmer monuments of the same period and indisputably Thai. The Khmer Empire extended deep into present‑day Thailand, so provenance of construction establishes nothing about modern title.
+
+The road is not a literary flourish; it has been mapped. A 2023 least‑cost‑path reconstruction of the route network across eight Dangrek passes, covering 292 moated sites, finds the **Ta Muen pass to be the most suitable route of the whole network**, with most monuments falling within 1.5 km of the calculated paths (Khamsiri et al., *Archaeological Prospection*). The contested ground is the historic principal pass of the Angkor–Phimai road — which is precisely why it carries monuments, and precisely why that fact settles nothing about sovereignty.
 
 The mirror inference fails as well. Siam held **Battambang, Siem Reap and Angkor Wat itself from 1795 to 1907** — 112 years — until the **Franco‑Siamese Treaty of 23 March 1907**. Equally true, equally irrelevant: it ended by treaty.
 
@@ -258,10 +263,15 @@ The 27 December agreement obliges both sides to **hold current deployments witho
 ### *11.4 Phnom Trap and the ICJ — a trap to avoid*  
 **Do not claim that Thai control of Phu Makhuea violates the 2013 ICJ judgment.** The opposite is the case:
 
-- In its **11 November 2013** interpretation judgment the Court held that the promontory of Preah Vihear **“ends at the foot of the hill of Phnom Trap”**, and that the “vicinity” of the Temple means the whole promontory **“but excluding the hill of Phnom Trap.”**
-- The Court **“did not address the issue of sovereignty over Phnom Trap, or any other area beyond the limits of the promontory.”** Its reasoning: Phnom Trap and the promontory are distinct geographical features, shown separately on the Annex I map.
+- In its **11 November 2013** interpretation judgment the Court read the 1962 judgment as giving Cambodia sovereignty over the entire Preah Vihear promontory, bounded by the Annex I map line to the north and **extending westward only as far as the ground begins to rise at the foot of Phnom Trap** (paras. 98, 108).
+- It reasoned that the promontory and Phnom Trap are **“distinct geographical features”**, presented as such on the Annex I map (para. 93).
+- It left the precise location of that line and **sovereignty over the remainder of the disputed 4.6 km² strip — Phnom Trap included — to further negotiation** (para. 99).
 
-**Phu Makhuea = Phnom Trap.** No court has assigned it to either state; the ICJ deliberately declined. The defensible formulation is therefore *not* “breach of the ruling” but: **the hill was settled by possession — taken, flagged, and fixed by a ceasefire that freezes both armies where they stand.** This is stronger because it cannot be refuted, and it also disposes of the opposite claim that Thai presence there is judicially sanctioned.
+*Rendered from John D. Ciorciari’s case note in the* American Journal of International Law *108(2), 2014, which carries the paragraph numbers. The judgment’s own wording has not been checked against the Court’s text for this node; do not place these passages in quotation marks without doing so.*
+
+**Phu Makhuea = Phnom Trap.** No court has assigned it to either state; the ICJ declined to. Note the counter‑position, and name it rather than ignore it: Cambodian foreign minister **Hor Namhong** stated after the ruling that the Court’s reliance on the Annex I map line means Phnom Trap is Cambodian. That is a claim about the map, not a holding of the Court.
+
+The defensible formulation is therefore *not* “breach of the ruling” but: **the hill was settled by possession — taken, flagged, and fixed by a ceasefire that freezes both armies where they stand.** This is stronger because it cannot be refuted, and it also disposes of the opposite claim that Thai presence there is judicially sanctioned.
 
 ### *11.5 Framing caution*  
 Thai reporting uses **“recapture,” “retake,” “secure”**; Cambodian and international sources use **“seized.”** Any external comment should expect the recapture counter‑frame. It does not affect the structural point: the army holds ground in December that it did not hold in November, and the ceasefire keeps it there.
@@ -292,7 +302,7 @@ Laos shares a long border, a comparable income gap, and the same role as a labou
 - **A court case Thailand lost.** Preah Vihear, ICJ 1962, reactivated 2008 (UNESCO listing), 2011 (armed clashes), 2013 (interpretation). Laos has no equivalent.
 - **A burned embassy in living memory.** On 18 January 2003 the Cambodian paper *Rasmei Angkor* reported that Thai actress Suvanant Kongying had said Cambodia “stole” Angkor Wat. On **29 January 2003** rioters sacked and burned the **Thai embassy** in Phnom Penh and attacked Thai businesses including Thai Airways and Shin Corp. Thailand evacuated nationals by military aircraft, deployed the carrier *Chakri Naruebet*, closed the border until 21 March, and received **US$6 million** in compensation.
 - **Cambodia as a lever in Thai domestic politics.** Hun Sen appointed the fugitive Thaksin economic adviser in 2009 and refused extradition; Preah Vihear became a PAD nationalist campaign 2008–2011. The pattern repeated in 2025: the leaked Paetongtarn–Hun Sen call of **18 June**, Bhumjaithai’s exit from the coalition, Paetongtarn’s removal. **No other neighbour has twice been the instrument by which a Thai government fell.**
-- **The scam industry.** UN estimates put roughly **100,000** people trafficked into Cambodian scam compounds; Thai nationals are among the recruited, and the compounds sit at Poipet on the Thai border and in Pursat — the province containing the **Thma Da** zone of §11.2. Thai media coverage peaked in **2022–2023**, i.e. precisely during this survey’s fieldwork.
+- **The scam industry.** The UN Human Rights Office estimated in August 2023 that **at least 120,000 people in Myanmar and another 100,000 in Cambodia** may be held in conditions of forced online scamming; Thailand is named among the destination and transit states. Thai nationals are among the recruited. Compounds are commonly reported at Poipet on the Thai border and in Pursat — the province containing the **Thma Da** zone of §11.2 — *though the UN figure carries the headcount, not the siting; the locations rest on press reporting.* Thai media coverage peaked in **2022–2023**, i.e. precisely during this survey’s fieldwork.
 
 ### *12.3 The grievance is reciprocal*  
 That a rumour about Angkor Wat produced a burned embassy within eleven days indicates a standing Cambodian narrative of Siamese occupation and looting (1795–1907). This is **two nationalisms with mirrored injury stories**, not a one‑sided prejudice — and any external commentary that treats it as the latter will be read as partisan.
@@ -401,8 +411,17 @@ The analytical point is not corruption or folly but **structure**: OR's decisive
 **Al Jazeera – Thailand launches new offensive as Cambodia halts all border crossings (14 December 2025)**  
 <a href="https://www.aljazeera.com/news/2025/12/14/thailand-launches-new-offensive-as-cambodia-halts-all-border-crossings" target="_blank" rel="noopener noreferrer">https://www.aljazeera.com/news/2025/12/14/thailand-launches-new-offensive-as-cambodia-halts-all-border-crossings</a>
 
-**Wikipedia – 2025 Cambodian–Thai border crisis (Operation Sattawat; localities seized)**  
-<a href="https://en.wikipedia.org/wiki/2025_Cambodian%E2%80%93Thai_border_crisis" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/2025_Cambodian%E2%80%93Thai_border_crisis</a>
+**Matichon – กองทัพบกประกาศ “ยุทธการศตวรรษ” (10 December 2025, 15:03): the army announces the campaign name; operations dated “ตั้งแต่วันที่ 7 ธันวาคม เป็นต้นมา”**  
+<a href="https://www.matichon.co.th/politics/news_5497469" target="_blank" rel="noopener noreferrer">https://www.matichon.co.th/politics/news_5497469</a>
+
+**Siamrath – ทบ.ประกาศชื่อปฏิบัติการรบครั้งใหม่ “ยุทธการศตวรรษ” เพื่อสดุดี “จ.ส.อ.ศตวรรษ” — names จ.ส.อ. ศตวรรษ สุจริต as the first soldier killed and the source of the codename**  
+<a href="https://siamrath.co.th/politics/national-politics/116057" target="_blank" rel="noopener noreferrer">https://siamrath.co.th/politics/national-politics/116057</a>
+
+**The Nation – Thai Army Launches ‘Targeted Operation’ Against Cambodia (8 December 2025): “Today, 8 December 2025, the 2nd Army Region retaliated…”; seizure of Prasat Khna, Kap Choeng district, Surin**  
+<a href="https://www.nationthailand.com/news/general/40059438" target="_blank" rel="noopener noreferrer">https://www.nationthailand.com/news/general/40059438</a>
+
+**The Nation – Thai Army says it has secured Prasat Ta Kwai; Hill 350 still under operation (15 December 2025), Maj Gen Winthai Suvaree**  
+<a href="https://www.nationthailand.com/news/general/40059811" target="_blank" rel="noopener noreferrer">https://www.nationthailand.com/news/general/40059811</a>
 
 **Bangkok Post – Thai troops secure Hill 350, retrieve two soldiers' bodies**  
 <a href="https://www.bangkokpost.com/thailand/general/3160385/thai-troops-secure-hill-350-retrieve-two-soldiers-bodies" target="_blank" rel="noopener noreferrer">https://www.bangkokpost.com/thailand/general/3160385/thai-troops-secure-hill-350-retrieve-two-soldiers-bodies</a>
@@ -416,7 +435,7 @@ The analytical point is not corruption or folly but **structure**: OR's decisive
 **The Nation – Thai troops secure Phu Ma Kua, raise the national flag after Cambodian assaults**  
 <a href="https://www.nationthailand.com/news/general/40053093" target="_blank" rel="noopener noreferrer">https://www.nationthailand.com/news/general/40053093</a>
 
-**Wikipedia – Phu Makhuea (Khmer: Phnom Trap)**  
+**Wikipedia – Phu Makhuea (Khmer: Phnom Trap). UNVERIFIED — carries only the identification of the Thai and Khmer names of the hill; no substitute source has been checked for this node. Do not rely on it for anything beyond the naming.**  
 <a href="https://en.wikipedia.org/wiki/Phu_Makhuea" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Phu_Makhuea</a>
 
 **Prachatai English – Thailand claimed to take control of 11 disputed sites. What does this mean for peace?**  
@@ -424,6 +443,9 @@ The analytical point is not corruption or folly but **structure**: OR's decisive
 
 **ICJ – Summary of the Judgment of 11 November 2013 (promontory ends at the foot of Phnom Trap; Court did not address sovereignty over Phnom Trap)**  
 <a href="https://www.icj-cij.org/node/103956" target="_blank" rel="noopener noreferrer">https://www.icj-cij.org/node/103956</a>
+
+**John D. Ciorciari – case note on Request for Interpretation of the Judgment of 15 June 1962 (Cambodia v. Thailand), American Journal of International Law 108(2), April 2014, pp. 288–295 (JSTOR 10.5305/amerjintelaw.108.2.0288). Source for the paragraph numbers in §11.4 and for Hor Namhong’s post‑ruling statement**  
+<a href="https://iilj.org/wp-content/uploads/2016/08/Ciociari-Request-for-Interpretation-of-the-Judgment-of-15-June-1962-in-the-Case-Concerning-the-Temple-of-Preah-Vihear-2014.pdf" target="_blank" rel="noopener noreferrer">https://iilj.org/wp-content/uploads/2016/08/Ciociari-Request-for-Interpretation-of-the-Judgment-of-15-June-1962-in-the-Case-Concerning-the-Temple-of-Preah-Vihear-2014.pdf</a>
 
 **The Diplomat – Cambodia Counts the Costs of Its Border Conflict with Thailand (December 2025)**  
 <a href="https://thediplomat.com/2025/12/cambodia-counts-the-costs-of-its-border-conflict-with-thailand/" target="_blank" rel="noopener noreferrer">https://thediplomat.com/2025/12/cambodia-counts-the-costs-of-its-border-conflict-with-thailand/</a>
@@ -445,9 +467,6 @@ The analytical point is not corruption or folly but **structure**: OR's decisive
 **The Star / Inquirer – Thailand ceremony at disputed border temple draws Cambodia rebuke (22 April 2026)**  
 <a href="https://www.thestar.com.my/aseanplus/aseanplus-news/2026/04/22/thailand-ceremony-at-disputed-border-temple-draws-cambodia-rebuke" target="_blank" rel="noopener noreferrer">https://www.thestar.com.my/aseanplus/aseanplus-news/2026/04/22/thailand-ceremony-at-disputed-border-temple-draws-cambodia-rebuke</a>
 
-**Wikipedia – Prasat Ta Khwai / Ta Krabey (control chronology, retaken 15 December 2025)**  
-<a href="https://en.wikipedia.org/wiki/Prasat_Ta_Khwai" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Prasat_Ta_Khwai</a>
-
 **Khaosod English – The Disputed Ancient Temple: Latest Casualty of Thai-Cambodian War (11 December 2025)**  
 <a href="https://www.khaosodenglish.com/opinion/2025/12/11/the-disputed-ancient-temple-latest-casualty-of-thai-cambodian-war/" target="_blank" rel="noopener noreferrer">https://www.khaosodenglish.com/opinion/2025/12/11/the-disputed-ancient-temple-latest-casualty-of-thai-cambodian-war/</a>
 
@@ -465,26 +484,20 @@ The analytical point is not corruption or folly but **structure**: OR's decisive
 **Free Malaysia Today – Thai registry listing of disputed border temples draws Cambodia ire (13 May 2026)**  
 <a href="https://www.freemalaysiatoday.com/category/world/2026/05/13/thai-registry-listing-of-disputed-border-temples-draws-cambodia-ire" target="_blank" rel="noopener noreferrer">https://www.freemalaysiatoday.com/category/world/2026/05/13/thai-registry-listing-of-disputed-border-temples-draws-cambodia-ire</a>
 
-**Wikipedia – Prasat Ta Muen Thom / Prasat Ta Krabey (11th century, Suryavarman I and Udayadityavarman II, royal road Angkor–Phimai)**  
-<a href="https://en.wikipedia.org/wiki/Prasat_Ta_Muen_Thom" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Prasat_Ta_Muen_Thom</a>
+**Sutthikan Khamsiri, Pira Venunan, Chawalit Khaokheiw, Praon Silapanth, Santi Pailoplee – “Reconstructing the ancient route network in the Thailand–Cambodia borders: A case study of the Angkorian Royal Road,” Archaeological Prospection 30(3), 2023, pp. 357–368 (least‑cost‑path analysis over 292 moated sites and eight Dangrek passes; the Ta Muen pass is the most suitable route)**  
+<a href="https://doi.org/10.1002/arp.1897" target="_blank" rel="noopener noreferrer">https://doi.org/10.1002/arp.1897</a>
 
-**Wikipedia – Franco‑Siamese Treaty of 1907 (cession of Battambang, Siem Reap, Sisophon; Siamese rule 1795–1907)**  
-<a href="https://en.wikipedia.org/wiki/Franco-Siamese_Treaty_of_1907" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Franco-Siamese_Treaty_of_1907</a>
-
-**Wikipedia – Franco‑Thai War (Tokyo treaty 9 May 1941; Phra Tabong and Phibunsongkhram Provinces; reversed October 1946)**  
-<a href="https://en.wikipedia.org/wiki/Franco-Thai_War" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Franco-Thai_War</a>
+**Lawrence Palmer Briggs – “The Treaty of March 23, 1907 between France and Siam and the Return of Battambang and Angkor to Cambodia,” The Far Eastern Quarterly 5(4), August 1946, pp. 439–454 (JSTOR 2049791). Dates Siamese control of the province from the 1795 coronation of Ang Em at Bangkok — “annexation by seduction, without treaty or other agreement” — to the 1907 cession**  
+<a href="https://cdn.angkordatabase.asia/libs/docs/Briggs-TreatyMarch23-1946.pdf" target="_blank" rel="noopener noreferrer">https://cdn.angkordatabase.asia/libs/docs/Briggs-TreatyMarch23-1946.pdf</a>
 
 **The Asia Foundation – Thai Public Views on International Issues (June 2024; fieldwork August–November 2023; 1,650 urban respondents; enumeration by MI Advisory)**  
 <a href="https://asiafoundation.org/wp-content/uploads/2024/06/Thailand_Thai-Public-Views-on-International-Issues.pdf" target="_blank" rel="noopener noreferrer">https://asiafoundation.org/wp-content/uploads/2024/06/Thailand_Thai-Public-Views-on-International-Issues.pdf</a>
 
-**Wikipedia – 2003 Phnom Penh riots (Rasmei Angkor report 18 January; embassy burned 29 January; carrier Chakri Naruebet; border closed to 21 March; US$6m compensation)**  
-<a href="https://en.wikipedia.org/wiki/2003_Phnom_Penh_riots" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/2003_Phnom_Penh_riots</a>
-
 **Khaosod English – Phnom Penh 2003: When nationalism turned violent (29 January 2026)**  
 <a href="https://www.khaosodenglish.com/featured/2026/01/29/phnom-penh-2003-when-nationalism-turned-violent/" target="_blank" rel="noopener noreferrer">https://www.khaosodenglish.com/featured/2026/01/29/phnom-penh-2003-when-nationalism-turned-violent/</a>
 
-**Wikipedia – Scam centers in Cambodia (Sihanoukville, Poipet, Pursat; UN estimate ~100,000 trafficked)**  
-<a href="https://en.wikipedia.org/wiki/Scam_centers_in_Cambodia" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Scam_centers_in_Cambodia</a>
+**UN News – “Hundreds of thousands trafficked into online criminality across SE Asia” (29 August 2023), reporting the OHCHR study: “at least 120,000 people across Myanmar and another 100,000 in Cambodia may be held in situations where they are forced to execute lucrative online scams”**  
+<a href="https://news.un.org/en/story/2023/08/1140187" target="_blank" rel="noopener noreferrer">https://news.un.org/en/story/2023/08/1140187</a>
 
 ### Added 20 July 2026 (§13 — economic cost)
 
