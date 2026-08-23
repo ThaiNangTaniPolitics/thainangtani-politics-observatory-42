@@ -4,6 +4,7 @@ This section contains analytical case studies and narrative investigations.
 
 ---
 
+- [0078 – The Court as Instrument](0078-the-court-as-instrument.md)
 - [0077 – The Postbag Filter](0077-the-postbag-filter.md)
 - [0076 – The Border as Instrument](0076-the-border-as-instrumen.md)
 - [0075 – The Compression: Thailand's Prisons 2021–2026, the Capacity Standard That Defines Away the Crowding, and What Grew While the Total Fell](0075-the-compression-thai-prisons.md)
