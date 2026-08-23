@@ -25,10 +25,6 @@ Entry for new competitors is frozen — **MVNO market-opening deferred ~55 times
 ## 6. Paralysis as a weapon
 A disqualified chair means every decision taken under him is challengeable → litigation risk; the boycott freezes the board. **Whoever wants to block, profits from the standstill.**
 
-<!-- §112-INTERNAL — royal-removal axis. NEVER in a BP comment.
-Pillar 7: Sarana — "only a royal command can terminate my duty." NBTC members are royally appointed → ordinary removal is locked → hence the appeal to the PM. The whole force of this line comes from pointing at the royal apex; there is no de-royalised rescue, so it stays node-internal.
--->
-
 ## 7. The whistleblower sub-plot (documented / motive unproven)
 The evidence was filed by **Dr Supat Hasuwannakit** — a doctor who had clashed with **Anutin's** Health Ministry and was **purged as a hospital director (Songkhla) in January 2026**. The man who brings down the **Prawit-aligned** Sarana is a **purged Anutin antagonist.** The motive is open (good governance vs a Prawit-vs-Bhumjaithai faction fight) — **not to be presented as a faction fight; only the interlocking is documented** (link [0061](0061-dsi-senate-investigation-silenced-under-bhumjaithai.md)).
 
