@@ -42,8 +42,6 @@ To this, **Duncan McCargo's "network monarchy"** *(node-internal; see §112 note
 
 The reductio of the whole culture is a documented anecdote: a **royal pet recorded at the rank of Air Chief Marshal** (US Embassy Bangkok cable, 2009). Status flows from proximity to power rather than from capability — to the point where an animal can formally outrank essentially every serving soldier. It is the **emblem, not the proof**: the proof is the structural pattern of §§ I–II. The emblem only makes visible, in a single absurd image, what the rigged exam and the palace-picked general establish by repetition.
 
-*§112 discipline:* this anecdote, McCargo's network monarchy, and the Royal Guard 904 material are **royal-touching** and belong **only in this pseudonymous node**, in a scholarly, cited register. They must **never** appear in a public-facing comment under the commenting identity. In public the identical argument travels **de-royalised and abstracted** — "a system that rewards loyalty over competence," or at most a single-veil "a four-legged mammal outranking 99.99% of soldiers," with no royal naming and no second cue.
-
 -----
 
 ### V. The four inversions (anchored, not aphoristic)
