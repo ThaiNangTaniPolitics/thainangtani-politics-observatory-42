@@ -126,4 +126,5 @@ https://www.fccthai.com/
 *Cross-references: [[0068]], [[0070]], [[0065]]*
 
 <img src="../images/0073_1.webp" alt="0073_1" style="width: 480px; margin: auto;" loading="lazy">
+
 <img src="../images/0073_2.webp" alt="0073_2" style="width: 480px; margin: auto;" loading="lazy">
