@@ -5,7 +5,7 @@
 
 Pheu Thai was not voted out. An externally-triggered border conflict handed the Constitutional Court its case, and the camp that had fought the elected government's Cambodia policy emerged holding the ground, an enlarged defence budget and Government House. The lasting winner is not the prime minister — whose mandate is time-limited — but the military behind him. This node keeps to secular actors (Pheu Thai, the military, Anutin, Hun Sen) and separates what is documented from what is merely inferred.
 
-<!-- §112-INTERNAL NOTE: Prayut and the Privy Council are NOT to be named in any public derivative. The circulating claim that Hun Sen expected Prayut as successor is unproven, constitutionally implausible (Prayut left politics in late 2023), and a s112 tripwire via the Privy Council route. The argument below carries without it. -->
+{% comment %} §112-INTERNAL NOTE: Prayut and the Privy Council are NOT to be named in any public derivative. The circulating claim that Hun Sen expected Prayut as successor is unproven, constitutionally implausible (Prayut left politics in late 2023), and a s112 tripwire via the Privy Council route. The argument below carries without it. {% endcomment %}
 
 ## 1. The pattern — removal without the ballot box
 
