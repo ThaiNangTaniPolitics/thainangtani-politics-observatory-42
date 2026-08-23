@@ -177,4 +177,4 @@ Three questions remain unresolved at the time of publication. They are stated he
 
 *Cross-references: [0060](0060-thai-help-thai-plus-constitutional-architecture.md), [0069](0069-the-way-out-runs-through-the-politics.md), [0074](0074-the-uncounted-debt-and-the-poverty-line.md), [0068](0068-should-not-shall-deleted-social-rights.md), [0067](0067-loyalty-over-competence.md).*
 
-<!-- optional closing image: images/0080.webp (none required; 0069–0073 also ship without one). -->
+<img src="../images/0080.webp" alt="0080" style="width: 480px; margin: auto;" loading="lazy">
