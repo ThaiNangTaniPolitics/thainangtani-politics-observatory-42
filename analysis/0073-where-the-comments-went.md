@@ -119,10 +119,11 @@ https://freedomhouse.org/country/thailand
 **EPRS – Thailand ahead of the February 2026 general election, PE 782.627 (January 2026)**
 https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2026)782627
 
-<img src="../images/0073.webp" alt="0073" style="width: 480px; margin: auto;" loading="lazy">
-
 **FCCT – Foreign Correspondents' Club of Thailand**
 https://www.fccthai.com/
 
 *Filed under: method, negative findings, press freedom, public sphere, own-sample measurement*
 *Cross-references: [[0068]], [[0070]], [[0065]]*
+
+<img src="../images/0073_1.webp" alt="0073_1" style="width: 480px; margin: auto;" loading="lazy">
+<img src="../images/0073_2.webp" alt="0073_2" style="width: 480px; margin: auto;" loading="lazy">
