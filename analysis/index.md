@@ -2,21 +2,23 @@
 
 This section contains analytical case studies and narrative investigations.
 
+**Find a node:** [🔍 Keyword search](search.html) (live filter by actor, law, date or tag) · [Thematic index & keyword map](index-thematic.md) (clusters + a grep-able register of every node's actors, laws and treaties).
+
 ---
 
-- [0080 – The App-Handout Economy: A Sugar High, Not a Cure](0080-the-app-handout-economy-sugar-high-not-cure.md)
-- [0079 – The Captured Regulator NBTC](0079–the-captured-regulator-NBTC.md)
-- [0078 – The Court as Instrument](0078-the-court-as-instrument.md)
-- [0077 – The Postbag Filter](0077-the-postbag-filter.md)
-- [0076 – The Border as Instrument](0076-the-border-as-instrument.md)
-- [0075 – The Compression: Thailand's Prisons 2021–2026](0075-the-compression-thailands-prisons-2021-2026.md)
+- [0080 – The App-Handout Economy: A Sugar High, Not a Cure (gross circulation vs net benefit)](0080-the-app-handout-economy-sugar-high-not-cure.md)
+- [0079 – The Captured Regulator (NBTC): Pay, Paralysis, and the Jailing of a Commissioner](0079–the-captured-regulator-NBTC.md)
+- [0078 – The Court as Instrument: Thailand's Crisis of Judicial Legitimacy (party bans, PM removals, Tak Bai impunity)](0078-the-court-as-instrument.md)
+- [0077 – The Postbag Filter: How Moderation, Not Authorship, Produces the Voices That Survive](0077-the-postbag-filter.md)
+- [0076 – The Border as Instrument: How an Externally-Triggered Conflict Removed an Elected Government and Rearmed Its Opponents](0076-the-border-as-instrument.md)
+- [0075 – The Compression: Thailand's Prisons 2021–2026, the Capacity Standard That Defines Away the Crowding, and What Grew While the Total Fell](0075-the-compression-thailands-prisons-2021-2026.md)
 - [0074 – The Uncounted: Household Debt, the Poverty Line, and the Architecture of a Smaller Crisis](0074-the-uncounted-debt-and-the-poverty-line.md)
-- [0073 – Where the Comments Went: A Measurement That Failed to Confirm Its Hypothesis](0073-where-the-comments-went.md)
+- [0073 – Where the Comments Went: A Measurement That Failed to Confirm Its Hypothesis](0073-where-the-comments-went.md) *(negative finding)*
 - [0072 – The Baht as Gold Proxy: A Currency That Rises While the Economy Falls, and Who Pays for It](0072-the-baht-as-gold-proxy.md)
 - [0071 – The Ledger and the Sun: The 2017–2018 Crown Property Transfer, the Fixed-Budget Welfare Purge, and the Legitimation Gap](0071-the-ledger-and-the-sun.md)
-- [0070 - The Swap Mart](0070-the-swap-mart.md)
-- [0069 – The Way Out Runs Through the Politics](0069-the-way-out-runs-through-the-politics.md)
-- [0068 – Should, Not Shall deleted Social Rights](0068-should-not-shall-deleted-social-rights.md)
+- [0070 – The Swap Mart: Transnational Repression as a Constant of the Thai State, the Anti-Torture Law It Broke to Feed It, and the Trade Deals That Test It](0070-the-swap-mart.md)
+- [0069 – The Way Out Runs Through the Politics: The Known Exit from the Economic Spiral and the Power Arrangement Built to Block It](0069-the-way-out-runs-through-the-politics.md)
+- [0068 – Should, Not Shall: The 2017 Charter, the Deletion of Enforceable Social Rights, and the Automation Shock](0068-should-not-shall-deleted-social-rights.md)
 - [0067 – Loyalty over Competence](0067-loyalty-over-competence.md)
 - [0066 – The Dual System](0066-the-dual-system.md)
 - [0065 – No Transition, Only Continuity](0065-no-transition-only-continuity.md)
