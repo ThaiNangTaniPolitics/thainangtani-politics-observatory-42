@@ -142,4 +142,23 @@ The structural conditions imply:
 
 This baseline supports future analysis of narrative shifts, editorial tone, and policy‑related communication.
 
+---
+
+## 11. FY2025 Audited Results (filed with SEC, 26 May 2026)
+The audited 2025 financial statements — auditor **Dharmniti** (qualified opinion), Board approval **16 Feb 2026**, disclosed via the **SEC filing system** (market.sec.or.th) though **not** on the company's own website — confirm the distress continued into 2025:
+
+- **Revenue:** ~248m Baht (2024: ~296m), **−16%**. Publishing & advertising 173m (2024: 212m); the TV‑production segment closed (0m).
+- **Net loss attributable to owners:** **−49.2m** Baht (2024: −76.5m). Pre‑tax loss −48.3m (2024: −53.0m).
+- **Caveat on the smaller loss:** it is largely a *tax‑line* effect — 2024 carried a ~36m deferred‑tax‑asset write‑off that did not recur. The *operating* (pre‑tax) improvement was only ~9%.
+- **Shareholders' equity:** still below zero, **≈ −495m** Baht (2024: −444m) — **deeper** negative. *(The face balance sheet is embedded as a non‑extractable object; −495m is derived two independent ways: the loss roll‑forward and the disclosed debt‑to‑equity ratio.)*
+- **Debt‑to‑equity ratio:** **(1.20):1** consolidated (2024: (1.33):1) — negative, reflecting the equity deficit.
+- **Director loans grew to 347.07m** Baht (2024: 301.90m), unsecured, 3.50% — the patron lent a further ~45m **rather than converting to equity**.
+- **Recapitalisation not yet booked:** paid‑up capital unchanged at **500m** — the debt‑to‑equity conversion (sections 7–8) had **not completed** by year‑end 2025.
+- **Cash:** 2.42m Baht (2024: 3.66m). **Goodwill (94.85m) fully impaired.** Personnel cost 167.61m = 67.6% of revenue.
+- **Going concern uncertainty and qualified opinion both continue**, unchanged from 2024.
+
+**Reading:** operations stabilised on an insolvent footing but did not recover; the balance sheet deteriorated further (equity −444m → ≈ −495m; +45m more patron debt); the promised recapitalisation was deferred. The report was disclosed to the regulator **on time** but not self‑published — a self‑publication gap, not non‑disclosure.
+
+---
+
 <img src="../images/0003.webp" alt="0003" style="width: 480px; margin: auto;" loading="lazy">
