@@ -230,4 +230,6 @@ https://www.bangkokpost.com/opinion/opinion/3290357/why-we-face-economic-contrac
 - [x] **VAT/regressivity correction (§9).** The informal majority is not framed as paying "no tax": it owes no income tax but bears VAT (7%) and excise regressively. "Off the books = non-contributor" is corrected, not repeated.
 - [x] **No evasion verdict (§9).** "Subsistence, not evasion" mirrors the source; no claim of illegality or deliberate avoidance is made. KKP labelled as a bank research arm.
 
-<img src="../images/0074.webp" alt="0074" style="width: 480px; margin: auto;" loading="lazy">
+<img src="../images/0074_1.webp" alt="0074_1" style="width: 480px; margin: auto;" loading="lazy">
+<img src="../images/0074_2.webp" alt="0074_2" style="width: 480px; margin: auto;" loading="lazy">
+
