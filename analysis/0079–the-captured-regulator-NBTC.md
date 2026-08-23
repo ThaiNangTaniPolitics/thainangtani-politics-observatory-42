@@ -1,4 +1,4 @@
-## 0079 – The Captured Regulator (NBTC)
+## 0079 – The Captured Regulator NBTC
 ### *How a billion-baht regulator became a stacked-sinecure prize: pay, paralysis, and the jailing of a commissioner*
 
 -----
