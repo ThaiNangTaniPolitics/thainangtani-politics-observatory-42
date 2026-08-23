@@ -117,5 +117,6 @@ https://www.bangkokpost.com/thailand/general/3172898/troops-to-man-border-for-at
 *Cross-references: [0049 – Thai-Cambodian Border Dispute 2026](0049-thai-cambodian-border-dispute-2026.md), [0055 – The MoU44 Crisis](0055-the-mou44-crisis.md), [0065 – No Transition, Only Continuity](0065-no-transition-only-continuity.md), [0062 – The August 2025 Gripen Deal](0062-the-august-2025-gripen-deal.md)*
 
 <img src="../images/0076_1.webp" alt="0076_1" style="width: 480px; margin: auto;" loading="lazy">
+
 <img src="../images/0076_2.webp" alt="0076_2" style="width: 480px; margin: auto;" loading="lazy">
 
