@@ -4,6 +4,7 @@ This section contains analytical case studies and narrative investigations.
 
 ---
 
+- [0080 – The App-Handout Economy: A Sugar High, Not a Cure](0080-the-app-handout-economy-sugar-high-not-cure.md)
 - [0079 – The Captured Regulator NBTC](0079–the-captured-regulator-NBTC.md)
 - [0078 – The Court as Instrument](0078-the-court-as-instrument.md)
 - [0077 – The Postbag Filter](0077-the-postbag-filter.md)
