@@ -231,5 +231,6 @@ https://www.bangkokpost.com/opinion/opinion/3290357/why-we-face-economic-contrac
 - [x] **No evasion verdict (§9).** "Subsistence, not evasion" mirrors the source; no claim of illegality or deliberate avoidance is made. KKP labelled as a bank research arm.
 
 <img src="../images/0074_1.webp" alt="0074_1" style="width: 480px; margin: auto;" loading="lazy">
+
 <img src="../images/0074_2.webp" alt="0074_2" style="width: 480px; margin: auto;" loading="lazy">
 
