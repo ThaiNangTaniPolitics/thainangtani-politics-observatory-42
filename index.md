@@ -17,8 +17,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**Thailand's Dysfunctional Elite Culture — from the Rigged Civil-Service Exam to the Palace-Picked General**  
-0067 – Loyalty over Competence
+**Gross circulation is not benefit — how app-delivered consumption subsidies substitute a repeatable glucose spike for the structural cure, and why they run against the grain of the state's own austerity**  
+ 0080 – The App-Handout Economy: A Sugar High, Not a Cure
 
 
 
