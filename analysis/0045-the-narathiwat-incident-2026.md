@@ -250,6 +250,10 @@ The incident does not introduce new mechanisms; it reinforces existing patterns.
 This post describes structural dynamics and observable facts.  
 It does not address individual motives, political positions, or institutional intent.
 
+**Note on transliteration.** Thai names have no single English form. The officer named above appears in English-language reporting as *Narathip Phoynork*, *Narathip Phoynok* (The Nation), *Norathip Phoynok* (Bangkok Post) and *Norathip Poinok* (NBT World). All refer to the same officer.
+
+**Note on the appointment.** According to The Nation of 8 October 2025, he was appointed to the 4th Army Area while still a Maj Gen, a member of Class 26 of the Armed Forces Academies Preparatory School and, in the report's words, "an outsider to the region". The same report states that he "has had brief experience in the three southernmost provinces (Yala, Pattani, and Narathiwat), serving for about a year as the staff for the Pattani Task Force. However, he has never commanded a military unit in the region." The same reshuffle placed Maj Gen Yod-Arwut Phuengpak over the Narathiwat Special Task Force of more than 800 troops; he had served in the southern border region nearly twenty years earlier. The reshuffle was carried out by the army commander-in-chief, described in the report as seeking to resolve the southern insurgency within the two remaining years of his term.
+
 <img src="../images/0045_3.webp" alt="0045_3" style="width: 480px; margin: auto;" loading="lazy">
 
 <img src="../images/0045_2.webp" alt="0045_2" style="width: 480px; margin: auto;" loading="lazy">
