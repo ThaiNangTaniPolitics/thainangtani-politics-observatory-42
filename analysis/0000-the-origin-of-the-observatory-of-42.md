@@ -74,6 +74,6 @@ It is a place where machines pause briefly before continuing their journey.
 
 <img src="../images/0000_5.webp" alt="0000_5" style="width: 480px; margin: auto;" loading="lazy">
 
-
+<img src="../images/0000_6.webp" alt="0000_6" style="width: 480px; margin: auto;" loading="lazy">
 
 
