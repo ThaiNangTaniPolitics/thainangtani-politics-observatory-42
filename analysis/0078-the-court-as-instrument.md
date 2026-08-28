@@ -1,6 +1,8 @@
 ## 0078 – The Court as Instrument
 ### *Thailand's crisis of judicial legitimacy — the judiciary as a political enforcement organ*
 
+*Last updated: 28 August 2026 (ICT)*
+
 -----
 
 This is an umbrella node. It gathers the mechanism-nodes already written — [0012](0012-section-112-blocked-democratic-reform.md), [0013](0013-section-49.md), [0016](0016-section-235.md), [0017](0017-the-jurisprudence-of-prevention.md), [0018](0018-the-supreme-court-as-terminal-node.md), [0019](0019-the-architecture-of-permissible-speech-2021-2026.md)/[0020](0020-the-chilling-effect-on-parliamentary-procedure.md), [0041](0041-section-112-in-the-consolidation-phase-2024-2026.md), [0061](0061-dsi-senate-investigation-silenced-under-bhumjaithai.md) — and consolidates what they leave unstated. It does not duplicate them; it is the clasp above them.

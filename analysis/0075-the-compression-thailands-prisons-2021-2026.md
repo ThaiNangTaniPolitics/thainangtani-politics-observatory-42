@@ -2,6 +2,8 @@
 
 ### *How a 1.6 m² benchmark makes a 21% overcrowding figure out of a system holding people at roughly 1.3 m² each — and why the population that grew fastest is the one that has not been convicted*
 
+*Last updated: 28 August 2026 (ICT)*
+
 ---
 
 ## 1. Scope and the claim
