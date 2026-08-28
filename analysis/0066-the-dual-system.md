@@ -1,3 +1,13 @@
+<!-- 0066 — FINALISIERT 2026-06-29 (Prosa ausformuliert + Quellen gepinnt).
+     Verifiziert/gepinnt:
+       - Stithorn "deal system" → BP "Blue regime debate ignites" (3263553).
+       - "Nationalism is a Bad Fit for Thailand" → BP opinion 3266820 (~Juni 2026; ausgelöst durch Lehrplan-Nationalisierung).
+       - "A double dip on the cards?" → BP business 3267593 (Privatinvestition ~20% BIP vs. Vietnam 30%+).
+       - Prasat Ta Kwai (Surin): Cambodia-Besetzung Juli 2025 → Thai-Rückeroberung Dez 2025 → Armee-Pickup-Tourismus ab Songkran/Juni 2026.
+       - Sattahip U-Boot-HQ US$17,3 Mio. (eröffnet 2014, Marine ohne U-Boote).
+     Kalibriert: "late 2025"→korrekte Ta-Kwai-Chronologie; "same week"-OECD-Behauptung entschärft; "BoT's own figure" gestrichen (Zahl steht im double-dip-Artikel).
+     OFFEN (User): index.md-Eintrag (neueste oben) + images/0066.webp. §112-Kern bleibt interne Note. -->
+
 ## 0066 – The Dual System
 
 ### *Nationalism for the Masses, Openness for Capital — One Establishment, Two Faces*
@@ -88,6 +98,10 @@ The contradiction, in other words, is not a flaw in the system. It is the design
 
 -----
 
+<!-- §112-INTERNAL NOTE (nicht in öffentliche Kommentare): Der unausgesprochene Motor unter der Nationalismus-Schicht
+     ist der royalistisch-sakdina-Kern (Thron an der Spitze der Hierarchie, vgl. 0035 security-monarchy-nexus).
+     NUR im pseudonymen Knoten, Chambers/Thongchai-Register; in öffentlichen Kommentaren NIE referenzieren. -->
+
 ## Sources
 
 **Framework**
@@ -133,4 +147,3 @@ The contradiction, in other words, is not a flaw in the system. It is the design
 *Cross-references: [0065](0065-no-transition-only-continuity.md), [0060](0060-thai-help-thai-plus-constitutional-architecture.md), [0042](0042-thailand-oecd-structural-incompatibilities.md), [0064](0064-the-traceable-ballot.md), [0055](0055-the-mou44-crisis.md), [0049](0049-thai-cambodian-border-dispute-2026.md), [0051](0051-thailands-foundational-skills-crisis.md), [0057](0057-the-paris-bubble.md).*
 
 <img src="../images/0066.webp" alt="0066" style="width: 480px; margin: auto;" loading="lazy">
-

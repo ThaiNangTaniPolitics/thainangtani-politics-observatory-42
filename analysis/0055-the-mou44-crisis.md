@@ -61,6 +61,16 @@ Thailand terminated the MoU unilaterally without citing any recognised legal jus
 ### *5.3 The official claim*
 The assertion that Thailand had the “right to revoke” the MoU remains unsubstantiated. No legal argument was articulated, and the claim functions primarily as a political statement rather than a legal position.
 
+### *5.4 The dated record (added 17 July 2026)*
+The termination is not a projected outcome but a completed act, and its sequence is electoral rather than legal:
+
+- **Before 8 February 2026** — Anutin pledges the cancellation of MoU 44 at his final campaign rally ahead of the general election. The abolition enters office as a **campaign promise**, not as a response to a legal event.
+- **5 May 2026** — the **cabinet approves the abrogation** of MoU 44. Thailand voids the 2001 maritime instrument **unilaterally**.
+- **Same period** — Anutin frames the act as a sovereignty guarantee: “Once there is no MoU 44, there will no longer be any maritime line crossing Koh Kood that could create doubt or concern,” and “Koh Kood belongs to Thailand.” This closes the circle described in §3: the manufactured Koh‑Kood threat is retired by removing the instrument that never contained it.
+- **MoU 43 (land) is retained.** Only the maritime instrument was voided; the land‑border MoU remains in force. This asymmetry matters — it undercuts any reading of the termination as a general repudiation of bilateral architecture and points instead at the **hydrocarbon zone** as the operative stake (§6.2).
+
+**Analytical consequence:** the chronology forecloses the “reaction to Cambodian conduct” defence. The commitment predates the act by three months and was made to voters, not to Phnom Penh.
+
 ---
 
 ## 6. The military narrative: Escalation through symbolism
@@ -118,6 +128,28 @@ The MoU 44 crisis is a multi‑layered structure of narrative construction, lega
 
 At its core, the crisis demonstrates that cooperative architecture collapses not through legal argument, but through narrative construction and structural incentives.
 
+
+---
+
+## Sources
+
+**Bangkok Post – Thailand scraps sea boundary pact with Cambodia**  
+<a href="https://www.bangkokpost.com/thailand/general/3249990/thailand-scraps-sea-boundary-pact-with-cambodia" target="_blank" rel="noopener noreferrer">https://www.bangkokpost.com/thailand/general/3249990/thailand-scraps-sea-boundary-pact-with-cambodia</a>
+
+**The Diplomat – Thailand Unilaterally Voids Maritime Boundary Agreement With Cambodia (May 2026)**  
+<a href="https://thediplomat.com/2026/05/thailand-unilaterally-voids-maritime-boundary-agreement-with-cambodia/" target="_blank" rel="noopener noreferrer">https://thediplomat.com/2026/05/thailand-unilaterally-voids-maritime-boundary-agreement-with-cambodia/</a>
+
+**Thai PBS World – Anutin says Cabinet approves abrogation of MOU44**  
+<a href="https://world.thaipbs.or.th/detail/61231" target="_blank" rel="noopener noreferrer">https://world.thaipbs.or.th/detail/61231</a>
+
+**The Nation – Anutin Pledges to Scrap Maritime MOU in Final Election Rally Push**  
+<a href="https://www.nationthailand.com/news/politics/40062219" target="_blank" rel="noopener noreferrer">https://www.nationthailand.com/news/politics/40062219</a>
+
+**The Nation – MOU 44 row deepens: Anutin says Koh Kood remains Thai**  
+<a href="https://www.nationthailand.com/news/asean/40065999" target="_blank" rel="noopener noreferrer">https://www.nationthailand.com/news/asean/40065999</a>
+
+**9DASHLINE – The patriot's paradox: Thailand's withdrawal from MOU 44, cheap nationalism, and elite interests**  
+<a href="https://www.9dashline.com/article/the-patriots-paradox-thailands-withdrawal-from-mou-44-cheap-nationalism-and-elite-interests" target="_blank" rel="noopener noreferrer">https://www.9dashline.com/article/the-patriots-paradox-thailands-withdrawal-from-mou-44-cheap-nationalism-and-elite-interests</a>
 
 ---
 

@@ -1,3 +1,14 @@
+<!-- 0067 — FINALISIERT 2026-06-29 (Prosa ausformuliert + Quellen gepinnt; baut auf dem Scaffold v. 2026-06-25 auf,
+     fasst die Zugewinne des akademischen Entwurfs ein: SCMP-Quelle, "structural capacity trap", Makro-Abschnitt).
+     Verifiziert/kalibriert:
+       - Exam: ~480.000 Bewerber / ~7.000 (real 6.669) Stellen; Bestechung 350k–800k ฿ (US$10.500–24.000); ~4,5 Mrd. ฿ gesamt;
+         ~3.000 Bogen-Kopien der Prüfung v. 15.02.2025 geborgen, ~2.000 bereits verändert; ~10 Beamte bei der Manipulation gefasst (Nonthaburi).
+       - Gesundheits-Zweiklassigkeit KORRIGIERT: CSMBS deckt ~7% der Bevölkerung / ~19% der Gesundheitsausgaben; UCS ~76% / ~22%;
+         pro Kopf ~4× (≈13.800 vs ≈3.200 ฿, 2012–15). NICHT "1.600–2.400" / "5–7×" (Überschuss in beiden Vorentwürfen).
+       - Vietnam-Lag ENTSCHÄRFT: ~6–7% vs Thailand ~2–3% ("roughly double"), Thitinan zugeschrieben — NICHT "7–10%".
+     §112: §§III–IV (network monarchy, Royal Guard 904, Pet-Rank) bleiben NODE-INTERN; öffentlich nur de-royalisiert.
+     OFFEN (User): index.md-Eintrag (neueste oben) + images/0067.webp. -->
+
 ## 0067 – Loyalty over Competence
 
 ### *Thailand's Dysfunctional Elite Culture — from the Rigged Civil-Service Exam to the Palace-Picked General*
@@ -42,6 +53,8 @@ To this, **Duncan McCargo's "network monarchy"** *(node-internal; see §112 note
 
 The reductio of the whole culture is a documented anecdote: a **royal pet recorded at the rank of Air Chief Marshal** (US Embassy Bangkok cable, 2009). Status flows from proximity to power rather than from capability — to the point where an animal can formally outrank essentially every serving soldier. It is the **emblem, not the proof**: the proof is the structural pattern of §§ I–II. The emblem only makes visible, in a single absurd image, what the rigged exam and the palace-picked general establish by repetition.
 
+*§112 discipline:* this anecdote, McCargo's network monarchy, and the Royal Guard 904 material are **royal-touching** and belong **only in this pseudonymous node**, in a scholarly, cited register. They must **never** appear in a public-facing comment under the commenting identity. In public the identical argument travels **de-royalised and abstracted** — "a system that rewards loyalty over competence," or at most a single-veil "a four-legged mammal outranking 99.99% of soldiers," with no royal naming and no second cue.
+
 -----
 
 ### V. The four inversions (anchored, not aphoristic)
@@ -70,6 +83,11 @@ The comparison Thitinan Pongsudhirak drew in June 2026 is the headline symptom: 
 The June 2026 manipulation cannot be resolved by rechecking 480,000 papers, because the rechecking treats the symptom. The disease is a selection culture that **prizes loyalty over competence at every tier**, from the exam hall to the general staff — a patrimonial bureaucracy that misallocates human capital precisely in order to preserve network cohesion. Deal system ([0065](0065-no-transition-only-continuity.md)) → dual system ([0066](0066-the-dual-system.md)) → the **personnel logic that staffs both**. The recheck is accountability theatre unless it reaches that culture; and cultures are not rechecked, they are replaced.
 
 -----
+
+<!-- §112-INTERNAL NOTE: §§ III–IV (network monarchy, Royal Guard 904, the royal pet rank) are royal-touching and stay
+     in this pseudonymous node, in a scholarly/cited register (McCargo, Chambers, the 2009 cable). NEVER in a public comment
+     under the commenting identity. Public derivatives carry the point de-royalised: "loyalty over competence",
+     "a four-legged mammal outranking 99.99% of soldiers" (abstracted, single-veil, no royal naming). -->
 
 ## Sources
 
@@ -116,4 +134,3 @@ The June 2026 manipulation cannot be resolved by rechecking 480,000 papers, beca
 *Cross-references: [0065](0065-no-transition-only-continuity.md), [0066](0066-the-dual-system.md), [0060](0060-thai-help-thai-plus-constitutional-architecture.md), [0061](0061-dsi-senate-investigation-silenced-under-bhumjaithai.md), [0051](0051-thailands-foundational-skills-crisis.md), [0042](0042-thailand-oecd-structural-incompatibilities.md), [0010](0010-buri‑ramization-of-defense.md).*
 
 <img src="../images/0067.webp" alt="0067" style="width: 480px; margin: auto;" loading="lazy">
-

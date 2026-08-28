@@ -11,6 +11,8 @@ This is an umbrella node. It gathers the mechanism-nodes already written — [00
 
 Thailand's modern judiciary — created in the 1891 reform (unification of the courts, a Ministry of Justice) — has never been as compromised as an impartial arbiter as it is now. This is not an episodic rupture (coup, then a return to norm) but a **systematised, normalised** shift: the courts now do routinely what tanks once did. The academic frame is available — "judicialization of politics" (Dressel), "juristocracy" (Hirschl), "judicial coup" (McCargo), "from state of exception to hyper-legalism" (AIIA 2024), "judicial overreach" (Fulcrum/ISEAS 2024). The defensible public formulation: **"the gravest crisis of legitimacy and structure since the 1891 judicial reform."**
 
+<!-- §112-INTERNAL NOTE: the 1891 reform is King Chulalongkorn's (Chakri) reform; name the monarch only here, never in a public derivative. The public text says "the 1891 judicial reform" without a royal name. -->
+
 ## 2. Five pillars
 
 ### Pillar 1 — party dissolutions as a series (documented)
@@ -29,11 +31,11 @@ The Constitutional Court/Tribunal dissolves elected parties and bans their leade
 
 The pattern: **the voters do not decide who governs.**
 
-
+<!-- §112-INTERNAL — PILLAR 3 STAYS HERE, NEVER IN A BP COMMENT.
 ### Pillar 3 — Section 49: reform itself recast as "overthrow"
 - 31 Jan 2024: the Court finds that Pita/MFP, with the s112 reform campaign, violated Section 49(1) ("overthrow the democratic regime with the King as Head of State"). Sources: Nation, Library of Congress, TLHR, HRW.
 - The trap in the ruling: it forbids s112 reform "except through the legitimate legislative process" — then punishes exactly the parliamentary bill. The exit is illusory. An ordinary Criminal Code section is thereby made effectively unamendable, not even debatable by parliament → the Court asserts a veto over parliament's competence for its own criminal law. This is the documented "hegemon" proof. Developed in 0013 (mechanics) and 0018 (Sections 195/235, ethics-based extinction).
-
+-->
 
 ### Pillar 4 — the juristocratic architecture (documented / attributed)
 The constitutions of **1997 → 2007 → 2017** build, step by step, a veto system of unelected bodies (the Constitutional Court + Election Commission + NACC + the 2017 appointed 250-member Senate) over elected politics. This is **capture *by design*, not by bribery**: no judge need be corrupt; it is enough that the (military-drafted) charter is built so that its *faithful* application neutralises elected majorities. In 2021 the Court also placed a full charter rewrite under a referendum condition → deadlock (secular, BP-usable). **Hold the dividing line:** the strong thesis (capture by design, provable) versus the weak one (bans "to order / on command," unprovable and defamation-prone). Nodes and signed texts use the strong thesis; "on demand" is tenable only as a comment-opinion.
@@ -124,6 +126,7 @@ The same **Adisak Tantiwong** (in office since 1 Oct 2025, retiring end-Sept 202
 - [ ] **Still open:** the exact WJP "Constraints on Government Powers" sub-score; the precise Mérieau phrase before it is quoted; and URLs for the BP "Asean judicial meetings" piece and the Adisak guideline.
 
 -----
+
 
 *Filed under: judicial legitimacy, judicialization of politics, party dissolution, impunity, rule of law*
 *Cross-references: [0013 – Section 49](0013-section-49.md), [0018 – The Supreme Court as Terminal Node](0018-the-supreme-court-as-terminal-node.md), [0061 – DSI Senate Investigation Silenced](0061-dsi-senate-investigation-silenced-under-bhumjaithai.md), [0079 – The Captured Regulator](0079-the-captured-regulator.md)*

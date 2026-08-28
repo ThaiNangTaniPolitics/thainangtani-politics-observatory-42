@@ -228,7 +228,90 @@ For the Observatory framework, this means the forensic record functions as a **d
 
 ---
 
-## 12. Sources
+## 12. Who chaired the rounds — the selection regulation and the Interior Ministry (added 22 July 2026)
+
+**Content analysis**
+
+Section 2 of this node records that the 2024 selection ran at *amphoe*, provincial and national level. It did not record **who presided at each level**. The EC's own implementing regulation — *ระเบียบคณะกรรมการการเลือกตั้ง ว่าด้วยการเลือกสมาชิกวุฒิสภา พ.ศ. 2567*, Chapter 1, clauses 7–11 — answers that, and the answer is not the EC:
+
+| Level | Chair of the selection committee | Ministry |
+|---|---|---|
+| **District** (*amphoe*), cl. 7 | **นายอำเภอ** — the district chief | Interior |
+| **Province**, cl. 9 | **ผู้ว่าราชการจังหวัด** — the provincial governor | Interior |
+| **National**, cl. 11 | Chairman of the Election Commission | EC |
+
+Each committee has seven seats. At district level the chief also **appoints three of the members** (heads of district government agencies); two further members are local qualified persons; an EC officer or district civil servant serves as member and secretary. The Bangkok variants place the *khet* director (district) and the BMA permanent secretary (provincial) in the chair. Clause 24 requires that the auxiliary staff appointed at district and provincial level **include personnel of the district and provincial registration offices** (*สำนักทะเบียนอำเภอ / จังหวัด*) — the civil-registration arm of the same ministry.
+
+iLaw's summary of the regulation, published **6 March 2024**, three months before the selection of 9–26 June 2024: at district and provincial level, Interior Ministry civil servants sit on the committee **automatically**; the national level is the exception ([iLaw 21137](https://www.ilaw.or.th/articles/21137)).
+
+**Legal/constitutional analysis**
+
+District chiefs and provincial governors are career officials of the Interior Ministry's Department of Provincial Administration; governors are appointed on the ministry's proposal. The regulation therefore distributes the conduct of the selection across two authorities: the EC sets the rules and presides over the final round, while the ministry's territorial administration presides over **the two rounds in which the alleged coordination is located** — the district and provincial screening stages that determine who reaches the national round at all.
+
+**Anutin Charnvirakul held the Interior portfolio from 2023 until 19 June 2025**, i.e. for the entirety of the June 2024 selection, while leading Bhumjaithai. The 229-person suspect group subsequently comprised 138 sitting senators and 91 Bhumjaithai executives, members and associates (§4, §7).
+
+**Tension — and the limit of this finding**
+
+This is a **positional** record, not a causal one. Nothing in the regulation, and nothing in the DSI file as published, attributes an act to the minister, and no district chief or governor has been found to have acted improperly. What the regulation establishes is that the chain of custody over the district and provincial rounds ran through a ministry headed by the leader of the party whose affiliates emerged holding the chamber. The distinction matters for the comment channel: the overlap of offices is documentary; any step from overlap to instruction is not, and is not made here.
+
+A secondary observation belongs on the record: the regulation was documented and made publicly legible by **iLaw** — the organisation whose director the same minister, now prime minister, announced he would sue (§13).
+
+---
+
+## 13. July 2026 — the lawsuit and the board's deadline (added 22 July 2026)
+
+**Content analysis**
+
+- **21 July 2026:** iLaw urged the opposition to pursue **nine senior Bhumjaithai figures**, including Anutin, over alleged involvement in manipulating the 2024 Senate selection. Opposition chief whip **Parit Wacharasindhu** (People's Party) said the opposition would review the petition and use parliamentary mechanisms.
+- **22 July 2026:** Anutin announced a defamation suit against iLaw director **Yingcheep Atchanont**. His stated grounds: *"The matter remains under the judicial process, and no indictment has yet been filed"*; *"Who is he to pass judgement and mention people's names like that?"*; on motive, *"Perhaps he simply doesn't want us to succeed."*
+- On the instrument itself: *"In the past, we have seen many cases like this. Once lawsuits were filed, the other side often sought reconciliation and pleaded for leniency from the courts. This time, however, that is unlikely, as it has happened too many times."*
+- Bhumjaithai assigned **Supachai Jaisamut**, list MP and party legal expert, to pursue action; he raised iLaw's funding, including foreign sources. iLaw's own *About Us* page lists the **Open Society Foundations** and the **National Endowment for Democracy**.
+- **The EC's full board is expected to decide by August 2026** whether to forward the 229 cases — i.e. whether to confirm the sub-committee's May 2026 clearance (§7). The DSI has interviewed hundreds on the associated money-laundering reports and is reviewing findings.
+
+**Legal/constitutional analysis**
+
+Two propositions are advanced simultaneously and point in opposite directions. The first is that the process is unfinished and must therefore be left undescribed. The second is the documented state of that process: at its first decisional stage the file was **cleared 5–2 without the forensic record being addressed** (§7). Pendency is thus invoked against description at precisely the moment the pendency is being resolved by closure rather than by adjudication.
+
+The self-description of the instrument is the second element. The sentence about past cases makes no claim about whether the allegation is true; it states what the filing of suits has reliably produced — reconciliation and pleas for leniency. Read alongside the **26 May 2026 ultimatum of 89 senators** demanding an apology within three days for the phrase "blue Senate" (§8), the pattern is the same disciplinary signal, exercised by a different actor at a higher office.
+
+**Tension**
+
+Section 11 described the forensic record as a *dormant evidentiary substrate* — interrupted, not ended. The August board decision is the point at which "interrupted" is tested. If the board confirms closure without published reasoning, the substrate remains intact but loses its last institutional claimant; the reserve senators' petitions and the parliamentary route flagged by Parit become the only live channels. The narrow, defensible public demand is therefore **not exoneration or prosecution but published reasons**: whether the Commission examined the 12,000 transactions and 20,000 phone records, or did not.
+
+---
+
+## 14. The affordability funnel — why the pool was small enough to buy (added 4 August 2026)
+
+**Content analysis**
+
+Sections 2–4 establish that the 2024 Senate was selected by intra-professional cooptation and that the DSI's forensic file named 138 sitting senators, 229 suspects in all. What the moral framing of the episode omits is the *forensic* reason the chamber was capturable in the first place: **a paid, self-selecting pool small enough to be bought.** The Senate was not gamed *despite* its design; it was gameable *because* the design priced out the many and let a placed few decide.
+
+The documented anchors:
+
+- The selection carried a **registration fee of 2,500 baht** — which iLaw called, in as many words, a **"poll tax"** ("an election in which desired voters have to pay a poll tax"; Human Rights Watch put it at ~US$70, roughly seven times the daily minimum wage).
+- Roughly **210,000 people registered an *intention* to apply, but only ~48,117 actually applied and were admitted** at district level — the 2,500-baht friction filtering the pool by more than three-quarters between intention and registration. (The Election Commission, on the record, feared the *opposite* problem: that too many would apply and overload verification.)
+- The pool then narrowed by design: ~48,117 applicants → **23,645** after the district round (878 districts) → **~3,000** at provincial level → **2,995** nationally → 200 selected. (The larger figures sometimes quoted — 55,680, 3,080 — are the *theoretical maxima* of the funnel, not actual counts.)
+
+**The asymmetry — the arithmetic is the argument.** The point is not that the pool fell short of some expected figure; it is that, at a 2,500-baht head-fee, the two strategies cost wildly different sums:
+
+| Strategy | Arithmetic | Result |
+|---|---|---|
+| **Democracy** (flood the pool) | 100,000 × ~3,000 | **250–300 million baht** → impossible for civil society |
+| **Manipulation** (place a bloc) | ~500 × ~3,000 | **~1.5 million baht** → "peanuts" for a war chest |
+
+The *same* head-fee makes the chamber **~170–200× cheaper to capture than to democratise.** The fee prices out the mass and lets the money in. And ~500 placed candidates suffice because, under Section 107, candidates vote *among themselves*: in the small internal electorates at district and provincial level (§12), placed insiders decide who advances, not a public.
+
+**Legal/constitutional analysis**
+
+The Election Commission is here a lever-setter, not a guardian. It sets the fee and the rules that generate the gameable pool; its own complaint channels produced nothing — it was the **DSI, not the EC**, that cracked the file (§4–§7). Structurally the EC belongs to the same appointed architecture the Senate helps sustain ([0078](0078-the-court-as-instrument.md)): the guardian sits inside the guarded system. The exploitation is documented on the operational side — the DSI's **229/138** suspect group matches the order of magnitude of the ~500-candidate model, and four whistleblowers came forward (Direk Phornsima, Tharin Phanthumai, Sananchai Chuayudomthanikit, Montri Chiaplaem). The minister who led the ministry chairing the district and provincial rounds (§12) has since sued the organisation that made the mechanics legible (§13).
+
+**Tension — and the dividing line**
+
+The forensic finding needs no proof of intent, and that is its strength. **Documented:** the 2,500-baht fee (iLaw's "poll tax"), the ~210,000-intention → ~48,117-registration drop-off, the funnel to 200, the DSI 229/138, the vote-among-candidates design, the EC's passivity. **Attributed / model:** the ~500-strawmen / ~1.5-million-baht figure (an order of magnitude, consistent with the DSI file); the 100,000 as the counterfactual scale at which capture becomes unaffordable; any imputation of intent to the fee. The strong, litigation-safe claim is the functional one — **money over numbers** — which holds whether or not anyone intended the fee to do this work. The fee prices out the many and admits the few; the rest is arithmetic. *(Verified 4 Aug 2026: the fee and the 48,117 district figure are documented (iLaw / HRW / ISEAS); the earlier "100,000–200,000 expectation" framing and the 48,226 figure are dropped; 55,680 / 3,080 are theoretical maxima, not counts.)*
+
+---
+
+## 15. Sources
 
 - Wikipedia — *2024 Thai Senate election scandal*: https://en.wikipedia.org/wiki/2024_Thai_Senate_election_scandal
 - Wikipedia — *2024 Thai Senate election*: https://en.wikipedia.org/wiki/2024_Thai_Senate_election
@@ -269,9 +352,26 @@ For the Observatory framework, this means the forensic record functions as a **d
 - Thai Constitution, B.E. 2560 (2017), unofficial translation by the Office of the Council of State — primary source for Sections 107, 256, 269. Mirror: https://www.constituteproject.org/constitution/Thailand_2017?lang=en
 - *Political Prisoners in Thailand* (blog) — *All those senate twists* (21 May 2025): https://thaipoliticalprisoners.wordpress.com/2025/05/21/all-those-senate-twists/
 
+### Added 22 July 2026 (§12 selection regulation and Interior Ministry, §13 lawsuit and board deadline)
+
+- iLaw — *ดูการเลือก สว. ชุดใหม่! กระทรวงมหาดไทยดูแลเลือกระดับอำเภอ-จังหวัด* (6 March 2024) — clause-by-clause summary of *ระเบียบ กกต. ว่าด้วยการเลือกสมาชิกวุฒิสภา พ.ศ. 2567*, Chapter 1, cl. 7–11 and cl. 24: https://www.ilaw.or.th/articles/21137
+- iLaw — *เลือก สว. 2567: รู้จักผู้ควบคุมการเลือก สว.* — composition of the selection committees at each level: https://www.ilaw.or.th/articles/6374
+- Nation Thailand — *ECT subcommittee says 229 in Senate collusion case have no case to answer*: https://www.nationthailand.com/news/politics/40063693
+- Bangkok Post — *PM to sue over Senate collusion claim* (22 July 2026; Anutin's statements, Supachai Jaisamut on iLaw funding, Parit Wacharasindhu on parliamentary review, August board deadline) — **(URL to confirm)**
+- iLaw — *About Us* (declared funders, incl. Open Society Foundations and the National Endowment for Democracy): https://www.ilaw.or.th
+
+**Note on §12.** The regulation is cited here through iLaw's clause-by-clause summary, which quotes cl. 7, 9, 11 and 24 directly. The Royal Gazette text of the regulation itself has **not** been retrieved; before any of §12 is used outside this node, the Gazette version should be pinned. The tenure dates for the Interior portfolio (2023 – 19 June 2025) rest on secondary biographical sources and warrant the same treatment. A further open item: whether Anutin holds the Interior portfolio concurrently with the premiership in the Anutin 2 cabinet (confirmed 14 March 2026) — indicated by two secondary sources, **not verified**, and deliberately excluded from §12 until it is.
+
+### Added 4 August 2026 (§14 the affordability funnel — verified)
+
+- **Fee (2,500 baht) verified** — iLaw calls it a "poll tax": https://www.ilaw.or.th/articles/20706 · HRW ("fundamentally flawed"; ~US$70, ~7× the daily minimum wage): https://www.hrw.org/news/2024/05/02/thailands-upcoming-senate-election-fundamentally-flawed
+- **District pool 48,117; funnel 48,117 → 23,645 → ~3,000 → 2,995 → 200; ~210,000 "intention to apply"** — ISEAS (Termsak, "Bhumjaithai reaps windfall benefits…"): https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2024-57-bhumjaithai-party-reaps-windfall-benefits-from-astonishing-outcome-of-thai-senate-election-by-termsak-chalermpalanupap/ · Wikipedia, "2024 Thai Senate election": https://en.wikipedia.org/wiki/2024_Thai_Senate_election · IDEA explainer: https://www.idea.int/blog/explainer-how-thailands-senate-elections-work
+- **Corrections (4 Aug 2026):** the earlier "EC/iLaw expected 100,000–200,000" framing is **dropped** — the EC on the record feared *overload* (too many applicants); **48,226 is unverifiable → replaced by 48,117**; 55,680 / 3,080 are theoretical maxima, not actual counts.
+- DSI 229/138 and the four whistleblowers (Direk Phornsima, Tharin Phanthumai, Sananchai Chuayudomthanikit, Montri Chiaplaem): per §4 and §7. The ~500-strawmen / ~1.5-million-baht model and the 100,000 counterfactual are carried as **model / attributed**, not documented fact (§14).
+
 ---
 
-*Filed under: constitutional mechanics; institutional sequence; forensic AI as state instrument; administrative closure of investigation; Senate composition 2024–2029.*
+*Filed under: constitutional mechanics; institutional sequence; forensic AI as state instrument; administrative closure of investigation; Senate composition 2024–2029; electoral-design economics.*
 *Cross‑references: [0011](0011-bangkok-post-comment-ecology.md), [0013](0013-section-49.md), [0014](0014-constitutional-mechanics-I.md), [0016](0016-section-235.md), [0017](0017-the-jurisprudence-of-prevention.md), [0019](0019-the-architecture-of-permissible-speech-2021-2026.md), [0020](0020-the-chilling-effect-on-parliamentary-procedure.md), [0023](0023-system-map-constitutional-mechanics-thailand-2021-2026.md), [0024](0024-politically-functional-law-and-technocratic-framing.md), [0027](0027-bangkok-post-discursive-Filtering-comment-section-2026.md), [0030](0030-isoc-the-architecture-of-the-infiltrated-society.md), [0034](0034-isoc-budgetary-exceptionalism-and-security-finance.md), [0053](0053-bangkok-post-institutional-discourse-distortion.md), [0060](0060-thai-help-thai-plus-constitutional-architecture.md).*
 
 <img src="../images/0061.webp" alt="0061" style="width: 480px; margin: auto;" loading="lazy">

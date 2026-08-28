@@ -1,4 +1,5 @@
 ## 0075 – The Compression: Thailand's Prisons 2021–2026
+
 ### *How a 1.6 m² benchmark makes a 21% overcrowding figure out of a system holding people at roughly 1.3 m² each — and why the population that grew fastest is the one that has not been convicted*
 
 ---
@@ -156,6 +157,8 @@ Against that, the aggregate record for the same system: 120 of 143 institutions 
 **Tension**
 
 The reforms and the figures are not in contradiction; they operate at different scales. The reforms describe what the system can do where attention is directed. The figures describe what it does at scale, where attention is not. The analytical error is to read the first as evidence about the second — which is the move the commemorative frame invites.
+
+<!-- §112-INTERNAL NOTE: The full argument — that royal welfare projects function as legitimation for an institution whose aggregate performance is deteriorating, and that this is the corrections-sector instance of the pattern in 0071 — belongs here and only here. NEVER in a public comment under the NangTani identity: §112 does not by its terms extend to a princess who is not heir-apparent, but the enforcement practice around a royal death is not predictable, and the two-channel rule exists for exactly this case. See the standing rule: royal-adjacent analysis to the Observatory, never to the comment column. -->
 
 ---
 
