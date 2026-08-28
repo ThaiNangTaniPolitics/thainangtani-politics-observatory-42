@@ -1,6 +1,8 @@
 ## 0045 – The Narathiwat Incident (2026): Administrative Penetration, Narrative Framing, and Public Trust
 ### *A documented case illustrating how a contemporary event aligns with structural patterns in Thailand’s security architecture*
 
+*Last updated: 28 August 2026 (ICT)*
+
 ---
 
 ## 1. Event Overview  
@@ -249,6 +251,8 @@ The incident does not introduce new mechanisms; it reinforces existing patterns.
 ## 11. Notes  
 This post describes structural dynamics and observable facts.  
 It does not address individual motives, political positions, or institutional intent.
+
+*Added 28 Aug 2026*
 
 **Note on transliteration.** Thai names have no single English form. The officer named above appears in English-language reporting as *Narathip Phoynork*, *Narathip Phoynok* (The Nation), *Norathip Phoynok* (Bangkok Post) and *Norathip Poinok* (NBT World). All refer to the same officer.
 
