@@ -354,6 +354,9 @@ prevent.
 - 0078 — The Court as Instrument.
 - 0081 — The Identity-Bound Prompt (identification built in, assurance offered afterwards).
 
+<img src="../images/0064.webp" alt="0064" style="width: 480px; margin: auto;" loading="lazy">
+
+
 <!--
 WORKING NOTES — author only, delete before publishing.
 Written 29 Aug 2026 from the scaffold, at the author's request. Section VI is the author's own
