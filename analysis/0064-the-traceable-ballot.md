@@ -242,9 +242,19 @@ sources carry.*
 In June 2026 the Commission's secretary-general, **Sawaeng Boonmee** — the named defendant in the
 section 157 complaint and the official who administered the barcode election and moved against the
 six decoders — faced dismissal. The trigger was neither the barcode breach nor the Senate
-collusion case in which he is co-accused, but an annual **performance score**: the secretary-general
-must reach sixty per cent, a requirement reported to rest on section 56 of the organic law on the
-Election Commission, and he reportedly fell short.
+collusion case in which he is co-accused, but an annual **performance score**, reported to have
+fallen below sixty per cent.
+
+Where that threshold comes from matters. Section 56 of the organic law on the Election Commission
+sets out how a secretary-general leaves office, and its fifth limb is the one written for an
+official judged unfit: a resolution of the Commission carried by **more than half of all sitting
+commissioners**, on grounds of disgraceful conduct or of acts or qualities unsuited to the post.
+Its sixth limb is residual — the conditions laid down in the employment contract. **The sixty per
+cent benchmark appears nowhere in the statute**; it can only be a term of that contract. Nothing
+in the reporting indicates the fifth limb was invoked — the record describes a contractual
+performance assessment throughout. The route that would have required a majority of serving
+commissioners to put their names to a finding of unfitness was available, and the one that ran was
+the residual one.
 
 On the documentary record he is the executor common to every contested national vote of the era:
 the 2019 general election and its seat-formula dispute, the 2023 election and the blocking of its
@@ -270,8 +280,9 @@ the post itself is worth controlling. The benign reading, genuine poor performan
 executed, does not account for the fresh legal risk the four accepted by voting without authority.
 
 None of this makes Sawaeng a victim: he is co-accused in the substance. The point is narrower and
-harder, and the July vote sharpens it. **A performance score was the wrong instrument for the
-right problem — and it was then withdrawn on a technicality, leaving the problem untouched.** The
+harder, and both the choice of instrument and the July vote sharpen it. **A performance score was
+the wrong instrument for the right problem — and the right one sits one limb above it in the same
+section.** The score was then withdrawn on a technicality, leaving the problem untouched. The
 substantive reckoning — the section 157 complaint, the constitutional petition, the collusion
 proceedings — was displaced by an internal metric; the metric has since been cancelled over a
 defect in who signed it; and the administrator of every contested national vote of the era remains
@@ -355,6 +366,7 @@ prevent.
 **The secretary-general**
 - [Election Commission chief risks dismissal — Bangkok Post](https://www.bangkokpost.com/thailand/politics/3266654/election-commission-chief-risks-dismissal), 6 June 2026
 - [EC chief silent on performance evaluation — Bangkok Post](https://www.bangkokpost.com/thailand/politics/3267988/ec-chief-silent-on-performance-evaluation), 9 June 2026
+- [Organic Act on the Election Commission, B.E. 2560 (2017) — Royal Gazette vol. 134 part 93 Kor, 13 September 2017](https://www.ratchakitcha.soc.go.th/DATA/PDF/2560/A/093/1.PDF) — section 56, the six grounds on which a secretary-general leaves office. Thai text; the Act recognises no other as authoritative.
 - [PM named in new petition for Senate poll probe — Bangkok Post](https://www.bangkokpost.com/thailand/general/3289409/pm-named-in-new-petition-for-senate-poll-probe), 21 July 2026 — the five-to-two vote nullifying the performance review, and the petition on his salary and contract.
 - [Senators press Election Commission on collusion case — Bangkok Post](https://www.bangkokpost.com/thailand/politics/3156990/senators-press-election-commission-on-collusion-case)
 - [Court accepts case against EC members — Bangkok Post](https://www.bangkokpost.com/thailand/politics/3162525/court-accepts-case-against-ec-members)
@@ -387,10 +399,22 @@ to "still in office". Source URL for the 6 June article corrected to 3266654 (th
 listed, 3273652, was wrong) and two further sources added. Section 56 is now attributed
 ("a requirement reported to rest on section 56"), not asserted, because the wording has not been
 read: the only English text sits behind Cloudflare on ect.go.th.
-STILL OPEN before publishing: the referral document and the section actually invoked · section 56
-wording and the 60 per cent benchmark · the procedural status of the six decoders (investigation
-or formal charge) · whether the constituency QR code is in fact resolvable (Stithorn against Thai
-PBS Verify and I·CONnect) · image 0064.webp · entry in index.md and index-thematic.md.
+SECOND UPDATE 29 Aug 2026 — section 56 read in the Royal Gazette (vol. 134 part 93 Kor, held
+locally as BangkokPost.pdf). The 60 per cent benchmark is NOT in the statute: section 56 lists
+six grounds, the fifth being a resolution of more than half of all sitting commissioners on
+unfitness, the sixth a residual reference to the employment contract. The benchmark can only be a
+contract term. Text changed from asserting the statute to setting out the two limbs — this makes
+the section's central claim demonstrable rather than asserted. Prior wording ("a requirement
+reported to rest on section 56") was still carrying the press's error and is gone.
+Also checked and NOT used: section 96 of the Organic Act on the Election of MPs 2018, which
+Thairath cites as breached. Its wording — "Any person shall not intentionally affix a mark on a
+ballot card with a view to its conspicuousness" — addresses voters marking their own papers and
+requires intent. It does not carry a charge against the Commission and must not be cited as one.
+STILL OPEN before publishing: the referral document and the section actually invoked · the
+procedural status of the six decoders (investigation or formal charge) · whether the constituency
+QR code is in fact resolvable (Stithorn against Thai PBS Verify and I·CONnect) · the wording of
+clause 129 of the election regulations, which is the Commission's own defence · image 0064.webp ·
+entry in index.md and index-thematic.md.
 ALSO OPEN, from the 29 Aug ballot-image work: the secrecy guarantee for BOTH ballots is section 83
 paragraph 2 as amended in 2021 (gazette read: vol. 138 part 76 Kor, 21 Nov 2021, held locally as
 BangkokPost\T_0001.pdf), NOT section 85 — section 85 covers constituency seats only and was not
