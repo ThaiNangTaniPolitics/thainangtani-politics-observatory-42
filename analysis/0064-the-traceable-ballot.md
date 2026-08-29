@@ -237,34 +237,45 @@ present on both ballot types on 22 February is documented; whether the papers we
 identical to those used on 8 February is not, and the point should not be pressed beyond what the
 sources carry.*
 
-## X. The administrator, removed by spreadsheet
+## X. The administrator, still in office
 
 In June 2026 the Commission's secretary-general, **Sawaeng Boonmee** — the named defendant in the
 section 157 complaint and the official who administered the barcode election and moved against the
 six decoders — faced dismissal. The trigger was neither the barcode breach nor the Senate
-collusion case in which he is co-accused, but an annual **performance score**: under section 56 of
-the organic law on the Election Commission the secretary-general must reach sixty per cent, and he
-reportedly fell short.
+collusion case in which he is co-accused, but an annual **performance score**: the secretary-general
+must reach sixty per cent, a requirement reported to rest on section 56 of the organic law on the
+Election Commission, and he reportedly fell short.
 
 On the documentary record he is the executor common to every contested national vote of the era:
 the 2019 general election and its seat-formula dispute, the 2023 election and the blocking of its
 winner, the 2024 Senate self-selection, and the 2026 barcode election. *(This is a documented
 role, not a claim that he personally caused each outcome.)*
 
-The evaluation itself is contested. Four of the commissioners who scored him are reported to have
+The evaluation itself was contested. Four of the commissioners who scored him are reported to have
 done so after leaving office, although the rules require serving commissioners; the body that
-polices electoral procedure did not run its own procedure cleanly. Why the removal came when it
-did is not established, and this node does not settle it. Several readings are available and each
-is falsifiable — that the score pre-positions an operational fall guy in the collusion case, in
-which the same people are co-accused; that it weakens a potential witness; that it was executed
-before the outgoing board lost standing; that the post itself is worth controlling. The benign
-reading, genuine poor performance sloppily executed, does not account for the fresh legal risk the
-four accepted by voting without authority.
+polices electoral procedure did not run its own procedure cleanly.
+
+**He was not removed.** In July 2026 the Commission voted five to two to nullify the review
+altogether, and the Bangkok Post records the consequence plainly: the vote "cleared the way for Mr
+Sawaeng to remain in his role until his contract expires in 2027". What undid the score was the
+procedural defect — who was entitled to sign it — not any finding about the performance it
+measured. Later that month a reserve senator petitioned the opposition to examine the salary and
+allowances paid to him while the failed evaluation stood, and to review his contract.
+
+Why the removal was attempted when it was is not established, and this node does not settle it.
+Several readings are available and each is falsifiable — that the score pre-positions an
+operational fall guy in the collusion case, in which the same people are co-accused; that it
+weakens a potential witness; that it was executed before the outgoing board lost standing; that
+the post itself is worth controlling. The benign reading, genuine poor performance sloppily
+executed, does not account for the fresh legal risk the four accepted by voting without authority.
 
 None of this makes Sawaeng a victim: he is co-accused in the substance. The point is narrower and
-harder. **A performance score is the wrong instrument for the right problem.** The substantive
-reckoning — the section 157 complaint, the constitutional petition, the collusion proceedings — is
-displaced by an internal metric, one official is offered up, and the institution continues.
+harder, and the July vote sharpens it. **A performance score was the wrong instrument for the
+right problem — and it was then withdrawn on a technicality, leaving the problem untouched.** The
+substantive reckoning — the section 157 complaint, the constitutional petition, the collusion
+proceedings — was displaced by an internal metric; the metric has since been cancelled over a
+defect in who signed it; and the administrator of every contested national vote of the era remains
+in post until 2027. The institution continues.
 
 ## XI. The ruling as an open data point
 
@@ -342,7 +353,9 @@ prevent.
 - [EC defends case against 6 'decoders' — Bangkok Post](https://www.bangkokpost.com/thailand/politics/3256165/ec-defends-case-against-6-decoders)
 
 **The secretary-general**
-- [Election Commission chief risks dismissal — Bangkok Post](https://www.bangkokpost.com/thailand/politics/3273652/election-commission-chief-risks-dismissal), 6 June 2026 *(URL to be confirmed on finalisation)*
+- [Election Commission chief risks dismissal — Bangkok Post](https://www.bangkokpost.com/thailand/politics/3266654/election-commission-chief-risks-dismissal), 6 June 2026
+- [EC chief silent on performance evaluation — Bangkok Post](https://www.bangkokpost.com/thailand/politics/3267988/ec-chief-silent-on-performance-evaluation), 9 June 2026
+- [PM named in new petition for Senate poll probe — Bangkok Post](https://www.bangkokpost.com/thailand/general/3289409/pm-named-in-new-petition-for-senate-poll-probe), 21 July 2026 — the five-to-two vote nullifying the performance review, and the petition on his salary and contract.
 - [Senators press Election Commission on collusion case — Bangkok Post](https://www.bangkokpost.com/thailand/politics/3156990/senators-press-election-commission-on-collusion-case)
 - [Court accepts case against EC members — Bangkok Post](https://www.bangkokpost.com/thailand/politics/3162525/court-accepts-case-against-ec-members)
 - [EC to summon 60 senators over voting collusion charges — Nation Thailand](https://www.nationthailand.com/news/politics/40049682)
@@ -367,9 +380,21 @@ Discipline checks observed: no verdict prediction (VIII, XI) · "partly because"
 to the EC throughout · Sawaeng motives marked as falsifiable readings, co-accused status stated
 (X) · administrative constant framed as documented role, not causation (X) · seat
 disproportionality kept out entirely · no behavioural claim about how people voted (III).
+UPDATE 29 Aug 2026 — section X rewritten. The June dismissal did NOT happen: in July the
+Commission voted 5-2 to nullify the review and Sawaeng stays until his contract ends in 2027
+(Bangkok Post 3289409, 21 July 2026, read in full). Heading changed from "removed by spreadsheet"
+to "still in office". Source URL for the 6 June article corrected to 3266654 (the one previously
+listed, 3273652, was wrong) and two further sources added. Section 56 is now attributed
+("a requirement reported to rest on section 56"), not asserted, because the wording has not been
+read: the only English text sits behind Cloudflare on ect.go.th.
 STILL OPEN before publishing: the referral document and the section actually invoked · section 56
 wording and the 60 per cent benchmark · the procedural status of the six decoders (investigation
-or formal charge) · Sawaeng's tenure dates and the outcome of the mid-June decision · whether the
-constituency QR code is in fact resolvable (Stithorn against Thai PBS Verify and I·CONnect) ·
-image 0064.webp · entry in index.md and index-thematic.md.
+or formal charge) · whether the constituency QR code is in fact resolvable (Stithorn against Thai
+PBS Verify and I·CONnect) · image 0064.webp · entry in index.md and index-thematic.md.
+ALSO OPEN, from the 29 Aug ballot-image work: the secrecy guarantee for BOTH ballots is section 83
+paragraph 2 as amended in 2021 (gazette read: vol. 138 part 76 Kor, 21 Nov 2021, held locally as
+BangkokPost\T_0001.pdf), NOT section 85 — section 85 covers constituency seats only and was not
+touched by the amendment. Thairath cites section 85 for both papers. The node should carry
+section 83(2); check every paragraph reference in this article against that finding before the
+next deploy.
 -->
