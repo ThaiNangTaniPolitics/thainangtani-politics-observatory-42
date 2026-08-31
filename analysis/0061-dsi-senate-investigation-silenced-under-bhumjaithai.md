@@ -311,7 +311,56 @@ The forensic finding needs no proof of intent, and that is its strength. **Docum
 
 ---
 
-## 15. Sources
+
+---
+
+## 15. Update 1 September 2026 — the closure did not hold, and the judicial record was never empty
+
+**Content analysis**
+
+Three developments since 4 August 2026 require the §1 thesis to be stated more precisely rather than more strongly.
+
+**(a) The August board deadline lapsed.** §13 recorded that the EC's full board was "expected to decide by August 2026" whether to confirm the sub‑committee's May clearance of all 229. It did not. The board met on 28 August 2026 and is now expected to vote on **14 September 2026** whether to forward the file to the Supreme Court. The administrative closure described in §7 therefore did not complete: between June and August 2026 the file was reopened in public by two actors outside the state apparatus — opposition whip Parit Wacharasindhu, who published further material in June, and iLaw director Yingcheep Atchanont, who in late July presented evidence naming nine Bhumjaithai figures including the Prime Minister, and set the Commission a public deadline of end‑August.
+
+**(b) The judicial record from this election is not empty.** §1 states that the forensic findings were dismantled "not by judicial refutation, but by administrative attrition." That remains true of the 229‑file. It is **not** true of the election as a whole. Between August and November 2025 the Supreme Court's Election Cases Division decided at least four collusion cases arising from the 2024 selection, **in every one of them on the Election Commission's own petition**, and in every one it revoked the candidate's right to stand for ten years:
+
+| Red no. | Black no. | Judgment | Province | Conduct | Consummated? |
+|---|---|---|---|---|---|
+| **47/2568** | 1/2568 | 5 Aug 2025 | Chon Buri | two applicants agreed by Line message to vote for each other | agreement reached |
+| **49/2568** | 2/2568 | 22 Sep 2025 | Saraburi | telephone call to an applicant in a *different* group: withdraw, don't vote, "whatever you want, say so" | offer |
+| **52/2568** | 9/2568 | 12 Nov 2025 | Ubon Ratchathani | 50,000 baht offered as "travel costs"; audio held genuine, "only joking" rejected | offer |
+| **53/2568** | 7/2568 | 26 Nov 2025 | Nakhon Ratchasima | Line message: "I ask one vote from you, but I will give you two — is that acceptable?" | **refused and reported** |
+
+All four rest on **section 62** of the Organic Act on the Acquisition of Senators and **section 226** of the Constitution — the same provisions the Commission must apply to the 229. The court numbering runs in two series: `คดีหมายเลขแดง` (red) is the judgment number, `คดีหมายเลขดำ` (black) the filing number; citations that mix them cite different figures for the same case.
+
+**The gradient across the four is the operative finding.** 47/2568 held that the agreement alone completes the offence, irrespective of whether votes followed. 53/2568 goes below that: the person addressed **declined** ("that is risky"), reported the approach three days later, and no exchange took place. Ten years nonetheless. The threshold is therefore not consummation, not even agreement, but **the offer**.
+
+**(c) A second, faster track exists in the same file.** On 28 August 2026 the Commission brought criminal charges against **1,767 Senate applicants** — not senators; there are 200 — under **section 74**, for standing while knowing themselves ineligible. Penalty: one to ten years, 20,000–200,000 baht, and twenty years' disqualification; elected senators must additionally repay salary and benefits. The underlying resolutions were taken in EC sessions 46/2569 (19 May 2026, 1,605 persons) and 51/2569 (4 June 2026, a further 162).
+
+**Legal/constitutional analysis**
+
+The four judgments alter the evidentiary posture of the 229‑file in a way the May sub‑committee vote did not address. The Commission cannot maintain that the "reasonable grounds to believe" standard is unmet on facts of this kind, because it has itself litigated that standard to judgment four times on materially thinner records — in one case four chat lines and a refusal. What is at issue on 14 September is therefore not whether the threshold exists but whether it is applied to the same evidentiary weight as before.
+
+The section 74 track sharpens the same point structurally. Read as diversion, it would be an attempt to displace attention from the 229. Read as **self‑binding**, which is the stronger reading, it is the opposite: an institution that has publicly applied the strict standard to the formal defects of 1,767 individuals has made it materially harder to leave the 229 unresolved. The discrepancy would itself require explanation.
+
+**Tension**
+
+Both aggregate figures conceal legally distinct populations, and the node should not use either as though it were homogeneous.
+
+- The **1,767** may comprise invented occupational membership, double applications (registering in more than one group or district is a separate ground of exclusion), and **relative constellations** — parents, spouses and children of applicants are barred from standing simultaneously. Three of the twenty‑five cases in the Isranews series concern precisely the last of these. Section 74 requires knowledge in every variant; a spouse unaware of the bar is not the same case as a fabricated occupation.
+- The **229** may likewise contain coordination and mere attendance. Provincial applicants are transported to the national round collectively; group travel and shared accommodation are ordinary practice in the Thai civil service, and a person who travels with the others has no intent. What distinguishes the four convictions is exactly this: none rests on presence or on a payment record. Each rests on a documented individual act — a message, a recorded call, an agreed pairing.
+
+This has a direct consequence for the money‑laundering track described in §4. If collective payment for buses and hotels is unremarkable in the sector, a transfer record alone establishes nothing; the link between payment and voting behaviour must be shown, and that link does not appear in a booking. It may explain why some 1,200 suspects have been under investigation since March 2025 without result, while four prosecutions built on chat logs and audio succeeded.
+
+**Two further data points bearing on §14**
+
+The affordability funnel described in §14 — a paid, self‑selecting pool small enough to be bought — is completed by a second filter that is not financial. Under the EC's 2567 selection regulation, occupational membership is evidenced by **form สว.4: one guarantor and at least one witness**, who need be neither employer, nor professional body, nor member of the group — any citizen who can attest to ten years' experience. Self‑description in form สว.3 is limited to five lines. **Identity groups** (women; elderly, disabled, ethnic minorities) require no สว.4 at all. The test is thus waived where membership is objectively ascertainable and imposed where it cannot be verified — and two catch‑all categories, "freelancers" and "other", admit anyone. If 1,767 were admitted without entitlement, a guarantor and a witness signed falsely in each instance.
+
+Finally, the chamber's own first act is a public measurement of the bloc. On **23 July 2024** the Senate elected its presidency: **Mongkol Surasajja**, former governor of Buriram, president with **159 of 200** (rivals 19 and 13); **Gen Kriangkrai Srirak**, former Fourth Army commander, first deputy with **150**; **Boonsong Noisophon**, **a former member of the Election Commission**, second deputy with **167** (rivals 18, 8 and 4) — more than the president received. The figure of 153 in §3 is thus corroborated from the parliamentary record itself, and §14's characterisation of the Commission as "lever‑setter, not guardian — the guardian sits inside the guarded system" acquires its most concrete instance: a former commissioner presides over the chamber that the Commission's own procedure produced. *(The period of his membership has not been established here; nothing in this paragraph asserts that he administered the 2024 selection.)*
+
+---
+
+## 16. Sources
 
 - Wikipedia — *2024 Thai Senate election scandal*: https://en.wikipedia.org/wiki/2024_Thai_Senate_election_scandal
 - Wikipedia — *2024 Thai Senate election*: https://en.wikipedia.org/wiki/2024_Thai_Senate_election
@@ -369,6 +418,18 @@ The forensic finding needs no proof of intent, and that is its strength. **Docum
 - **Corrections (4 Aug 2026):** the earlier "EC/iLaw expected 100,000–200,000" framing is **dropped** — the EC on the record feared *overload* (too many applicants); **48,226 is unverifiable → replaced by 48,117**; 55,680 / 3,080 are theoretical maxima, not actual counts.
 - DSI 229/138 and the four whistleblowers (Direk Phornsima, Tharin Phanthumai, Sananchai Chuayudomthanikit, Montri Chiaplaem): per §4 and §7. The ~500-strawmen / ~1.5-million-baht model and the 100,000 counterfactual are carried as **model / attributed**, not documented fact (§14).
 
+
+### Added 1 September 2026 (§15)
+
+- Bangkok Post — *How the 'Blue Senators' claim turned into a sprawling probe* (Wisawaporn Jukgoljun, 31 Aug 2026): https://www.bangkokpost.com/thailand/politics/3310988/how-the-blue-senators-claim-turned-into-a-sprawling-probe
+- Bangkok Post — *Fraud claims mar Senate poll* (Mongkol Bangprapa and Chairith Yonpiam, 26 Jun 2024; EC monitoring since the district round; the 50,000‑baht‑per‑vote approach reported by Isaan Record editor Hathairat Phaholtap): https://www.bangkokpost.com/thailand/politics/2818284/fraud-claims-mar-senate-poll
+- Isranews — full texts of the four judgments: Chon Buri 47/2568 https://www.isranews.org/article/isranews/141177-senate.html · Saraburi 49/2568 https://www.isranews.org/article/isranews-scoop/142432-isr-13.html · Ubon Ratchathani 52/2568 https://www.isranews.org/article/isranews-scoop/143562-isr-14.html · Nakhon Ratchasima 53/2568 https://www.isranews.org/article/isranews-scoop/143989-korat.html
+- Matichon — EC resolution and charges against 1,767 applicants under s. 74, sessions 46/2569 and 51/2569, with Parit Wacharasindhu's response: https://www.matichon.co.th/politics/news_5865325
+- iLaw — evidence required for occupational membership (forms สว.3 / สว.4, guarantor and witness, clause 50 and sub‑clause 11 ¶2 of the 2567 selection regulation): https://www.ilaw.or.th/articles/27999
+- Thai PBS — election of the Senate presidency, 23 July 2024: https://www.thaipbs.or.th/news/content/342291 · profile of the second deputy president: https://www.thaipbs.or.th/news/content/342317
+- The Standard — first deputy president described as a friend of Mr Anutin: https://thestandard.co/kriangkrai-anutin-friend-vice-president-senate/
+
+**Note on §15.** The four judgments are cited from Isranews' full‑text reproductions; the Supreme Court's own case pages (`supremecourt.or.th`) were unreachable from this workstation — DNS resolves, neither HTTPS nor HTTP connects. The text of the 2567 selection regulation is cited through iLaw's clause‑by‑clause summary, as in §12; the Royal Gazette version has not been pinned. Section 77 of the Organic Act, which appears in the charges against the 55 senators summoned in 2025, has not been read and may bear on the Commission's powers during an ongoing selection — an open item.
 ---
 
 *Filed under: constitutional mechanics; institutional sequence; forensic AI as state instrument; administrative closure of investigation; Senate composition 2024–2029; electoral-design economics.*
