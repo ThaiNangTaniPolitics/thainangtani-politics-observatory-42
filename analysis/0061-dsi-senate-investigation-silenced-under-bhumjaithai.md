@@ -390,24 +390,56 @@ The disagreement is therefore not between two investigations. It is between an i
 | 28 August 2026 | full Commission | vote postponed; further evidence sought **from external agencies** |
 | 14 September 2026 | full Commission | decision |
 
-### 16.1 The Secretary-General's opinion, 15 September 2025
+### 16.1 The Secretary-General's opinion, 15 September 2025 — the first cut
 
-Signed by Deputy Secretary-General **Kanchit Charoen-in** acting for Secretary-General **Sawaeng Boonmee**, within the 60-day period the EC's investigation regulation allows. Reported by iLaw from the document.
+⚠️ **Status of the source, first.** What follows is **iLaw's account of the document**, not the document. The opinion is internal and has not been read here in the original. Everything in this sub-section is to be used as *iLaw reports from the opinion*, never as *the opinion states*.
 
-It proposed petitioning the Supreme Court to revoke the right to stand of **respondents 1–140**, less four (two exempted, one already disqualified, one deceased) — **136 senators**. The ground is **sections 36 and 70** of the Senate Organic Act: self-introduction otherwise than by the method and conditions the Commission prescribed. **Not vote-buying, and no criminal complaint** against those 136.
+Signed by Deputy Secretary-General **Kanchit Charoen-in** acting for Secretary-General **Sawaeng Boonmee**. The EC's investigation regulation allows the Secretary-General 60 days: 17 July plus 60 is 15 September. **The date is explained by the deadline, not by the change of government of that month** — a point to concede before anyone else makes it.
 
-The evidentiary basis, as reported:
+**The application.** A petition to the Supreme Court to revoke the right to stand of **respondents 1 to 140**, less four — two exempted by name, one already disqualified, one deceased. **136 senators remain.**
 
-- The candidate numbers of **140 senators** appear in the vote-instruction lists (โพย), entered as a table on or near the final page of the self-introduction form (สว.3), where it could be consulted during voting without attracting attention. Witnesses present corroborated this.
-- **Three mathematicians and statisticians** gave evidence. Analysing the ballots by group, they concluded that the probability of candidates producing identical clusters of votes was very low or effectively nil, and that the pattern indicated advance preparation.
-- The consequence found: the voters lacked independence, and the ballot was not secret.
-- Separately, bank transaction data disclosed **at least 17 instances** in which elected senators appear to have paid other candidates.
+**Where the 140 come from.** The candidate numbers of 140 senators appear **in the vote-instruction lists** (โพย), entered as a table on the last or second-to-last page of the self-introduction form **สว.3** — so the sheet could be consulted while voting without drawing the attention of the presiding officials. Several witnesses who were present corroborated this.
 
-**What it dismissed, and on what reasoning.** The charge under **section 76** against **18 named** party executives and MPs, including the party leader and its founder, was dismissed. The principal witness — a former Bhumjaithai MP expelled by the party, testifying as a participant and seeking witness status — was held to be **hearsay and not an eyewitness**: he had the account from a fellow MP whom he did not name; there were no minutes and no photographs; he gave no date for the meeting he described; and the plan he described could have been inferred from the published result. Further complaints supported by payment records were dismissed for want of proof that payment was made **to induce voting**.
+**The charge is the light one.** Breach of **sections 36 and 70**: self-introduction otherwise than by the method and conditions the Commission prescribed. **No criminal complaint** against these 136. **Not vote-buying.** Any use of the figure that omits this invites the obvious question.
 
-Two individuals were carried forward with a criminal complaint attached, on evidence including document-registry irregularities, identically worded written statements filed in place of testimony, and telephone location data.
+**The evidence accepted**
 
-The decisive narrowing is therefore at this stage, not at the 36th panel — and this is the only one of the three stages whose reasoning is on the record.
+- The lists themselves, together with witnesses present when they were made.
+- **Three mathematicians and statisticians as witnesses.** Their concurring finding: on an analysis of the ballots by group, the probability that candidates would produce such identical clusters of votes is very low to effectively nil. The pattern indicates preparation.
+- The effect found: those entitled to vote lacked independence, and the ballot was not secret.
+- Separately, bank transaction data disclosed **at least 17 instances** in which senators returned in this selection appear to have paid other candidates.
+
+⚠️ The statistical finding attaches to **the national-round ballots measured against the lists**, where there is both a pattern and a comparator. It does **not** transfer to the presidency vote of 23 July 2024 (§15), where there is neither.
+
+**What it dismissed, and on what reasoning**
+
+The charge under **section 76** against **18 respondents named in the file**, among them **Anutin Charnvirakul** and **Newin Chidchob**: **dismissed.**
+
+The reasoning is the substance. The principal witness was a former Bhumjaithai MP, expelled from the party by resolution of its executive and its MPs, who gave evidence as a participant and asked to be kept as a witness. He described a party meeting at which a plan to procure Senate candidates was presented from an offline flash drive plugged into a computer and shown on screen, with a list of key provinces to be covered.
+
+Against this the Secretary-General held: the witness **stood in conflict with the party executive**; he had the account **from a fellow MP**, making him a **hearsay and not an eyewitness**, to be weighed with particular care; he **did not name** that colleague; there were **no minutes and no photographs** to support it; he gave **no date** for the meeting; and he could have **worked the picture out for himself from the published result**. No other evidence of sufficient weight ⇒ dismissed.
+
+Also dismissed: several complaints **supported by payment records** — because proof was lacking that the money was paid **to induce voting**.
+
+⇒ This is the evidentiary discipline the Observatory applies to its own material, applied here by the institution under examination. It is citable as reasoning even by someone who thinks the outcome wrong.
+
+**What it carried forward at the political level**
+
+Two persons, **with a criminal complaint attached**: **Napintorn Srisunpang**, Deputy Minister of Commerce, and a reserve senator from Trang. On the account reported, on **25 June 2024** a group of people entitled to vote were summoned to his ministry office to be "looked over"; those whose numbers appeared in the lists were required to sign undated letters of resignation in advance; the group was then taken to a hotel in Pathum Thani where the lists were compiled. Telephone location data placed the reserve senator at that hotel for about three hours.
+
+The respondent's answer was that the meeting at the ministry took place but concerned a surplus of turkeys on the market, not the Senate selection. The Secretary-General held against it that **the letter requesting budget support for the turkey matter was never entered in the ministry's document registry**, which is irregular for a government office; that the respondent's witnesses submitted **written statements in identical wording and form** instead of appearing to testify, suggesting arrangement beforehand; and that telephone data placed **two senators returned from Ratchaburi at the Ministry of Commerce at the same time** the witness described.
+
+⚠️ These are proposals in an internal opinion, reported at second hand. The full Commission has ruled on none of them.
+
+**⇒ What this changes: the funnel is legible, and the decisive stage is the middle one**
+
+| Stage | Outcome | State of reasoning |
+|---|---|---|
+| 26th committee, 17 July 2025 | **229** | evidence taken, jointly with the DSI |
+| **Office of the Secretary-General, 15 Sept 2025** | **136 senators on the light charge; the party leadership out** | **reasoned at length; the weighing of evidence can be followed** |
+| 36th panel, 12 March 2026 | **0** | reasons unknown to this day |
+
+**A correction to the record.** Thai PBS reported that the Office of the Secretary-General concurred with the 26th committee. On iLaw's account of the document that is not accurate: the opinion is described as **differing in part**. **The first cut was made there, not at the 36th panel** — and it is the only one of the three stages whose grounds are on the record at all.
 
 ### 16.2 The 36th panel — composition and practice
 
@@ -419,13 +451,44 @@ At sitting 3/2568 on **18 November 2025**, the framework of assessment for secti
 
 ⚠️ These are the characterisations of a former commissioner publishing a document obtained from inside the institution. The four criteria have not been read in their own wording; the two given here are reported at second hand. Bhumjaithai has pursued the disclosure rather than the file: the House Police Committee summoned Parit Wacharasindhu over publication of case material.
 
-### 16.3 Who decides on 14 September
+### 16.3 How the political level came out — two layers, neither of them a refusal to look
+
+The question that will be asked of this file years from now is not how the Senate was assembled. It is **how the people at the top of the party came out of it** while 136 senators and 1,767 applicants did not. The two documents that surfaced in September 2026 answer it, and the answer is not that anyone declined to investigate. It is that two separate filters were applied in sequence, each defensible in isolation.
+
+**Layer one, at the Secretary-General's stage (15 September 2025): the evidence is disqualified.**
+
+The case against the 18 named respondents rested on a single insider. Every ground on which he was set aside is a standard ground:
+
+| Ground | What it required |
+|---|---|
+| in conflict with the party executive | that he had been expelled — which he had, and which is what made him willing to speak |
+| hearsay, not an eyewitness | that he learned of the meeting from a colleague rather than attending it |
+| the colleague unnamed | that he protect the source — the ordinary conduct of a person still exposed |
+| no minutes, no photographs | **that the meeting left no record** |
+| no date given | that he could not fix one |
+| could have inferred it from the published result | that the result was public — which it necessarily was |
+
+The fourth row is the load-bearing one, and it is where the **offline flash drive** belongs. On the account reported, the plan was presented from a drive plugged into a computer and shown on a screen. A presentation delivered that way generates no email, no server copy, no circulation list, no attachment in anyone's inbox. Whatever the reason for doing it that way — and none is established here — **the method described is one that produces no documentary trace**, and the absence of a documentary trace is precisely what the dismissal rests on.
+
+The sixth row deserves naming as a general instrument. *The witness could have worked it out from the published result* can be said of any insider witness in any case whose outcome is public. It is not evidence of fabrication; it is a reason to discount, and it is available every time.
+
+Alongside this, the complaints supported by payment records fell for want of proof that the money was paid **to induce voting** — the same gap identified at §4 and §15 for the money-laundering track. A transfer establishes a payment, never its purpose.
+
+**Layer two, at the 36th panel (from 18 November 2025): the provision is construed so the conduct falls outside it.**
+
+Where the first layer removed the evidence, the second removed the reach of the norm. On the framework reported from the minutes, section 76 ¶2 does not bite where the candidate did not know (not knowing being treated as not consenting), nor where the person had no intention of becoming a senator, and only a *candidate* can offend at all. Paragraph 2 having failed, paragraph 1 — the politician who assists the candidate — fails with it, because there is no assisted candidate for a politician to have assisted.
+
+**⇒ The structure of the outcome.** The two layers are independent and they are cumulative. The first says: on these facts, the evidence does not reach the political level. The second says: on this construction, the provision would not reach it even if the evidence did. Nobody in the chain is recorded as declining to examine anything.
+
+⚠️ **This is a description of what the two reported documents contain, not an allegation about why.** Each individual step is defensible; several would be applied the same way in an ordinary criminal matter, and the Observatory applies the hearsay caution itself at §14 and §15. The finding is not that any step is wrong. It is that the steps compose — and that the composition, arrived at through two bodies and eight months, produces a result in which the 229 include 138 senators and no one above them.
+
+### 16.4 Who decides on 14 September
 
 Four of the seven sitting Commissioners were confirmed by the Senate whose selection is under examination. The fourth, **Jiruth Wisalchit**, former Director-General of the Department of Land Transport, was approved on **26 February 2026** in a secret ballot; a second nominee was rejected the same day. The two vacancies had arisen on 4 December 2025 with the expiry of the terms of Lertwiroj Kowattana and Thitichet Nuchanat — the latter being the member who had nominated the chair of the 36th panel.
 
 The conflict was identified inside the institution before it arose. In an interview of **29 September 2025**, chairman **Itthiporn Boonprakong** observed that if the adjudication panel used its full 90 days, the final ruling could fall to a Commission including four members newly confirmed by the 2567 senators. The panel took longer than 90 days; the fourth confirmation followed in February 2026; the ruling is set for 14 September 2026.
 
-### 16.4 Two open items closed, one dispute left open
+### 16.5 Two open items closed, one dispute left open
 
 **§12 — the Interior portfolio (closed).** Anutin Charnvirakul holds the Interior portfolio concurrently with the premiership in **both** cabinets: the first, gazetted 19 September 2025 (his appointment as Prime Minister dated 7 September), and the second, gazetted 31 March 2026. The note appended on 22 July 2026, which excluded this from §12 as unverified, is superseded. The line is continuous but for one interval: Interior from 2023 to 19 June 2025, covering the June 2024 selection, and again from 19 September 2025 to date.
 
