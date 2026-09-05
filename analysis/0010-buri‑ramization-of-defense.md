@@ -52,6 +52,8 @@ Thai PBS World frames Adul’s appointment as a product of:
 
 This reframes **patronage** as **qualification**.
 
+> **Clarification of the second point** *(added 28 Aug 2026)*. The education Adul shares with Anutin is **not** the Armed Forces Academies Preparatory School. Thairath English states that Adul "graduated from the 61st class of the **National Defence College**, where he was a classmate of Anutin Charnvirakul", and separately that he "graduated from the 26th class of the Armed Forces Academies Preparatory School". The two cohorts must be kept apart: the AFAPS is a military preparatory school for officer candidates, while the National Defence College runs a one-year course mixing officers, senior officials, business figures and politicians. **Anutin belongs to no military cohort** — his schooling was Assumption College Bangkok, Worcester Academy, an engineering degree at Hofstra (1989) and an MBA at Thammasat (1990). Reading the three bullet points above as one cohort produces a claim that a single rebuttal would destroy.
+
 ### *b) The Buri Ram Network as a Stabilizing Force*
 The article constructs a narrative in which:
 

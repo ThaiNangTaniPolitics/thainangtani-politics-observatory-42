@@ -1,11 +1,13 @@
 ## 0076 – The Border as Instrument
 ### *How an externally-triggered conflict removed an elected government and rearmed its opponents*
 
+*Last updated: 28 August 2026 (ICT)*
+
 -----
 
 Pheu Thai was not voted out. An externally-triggered border conflict handed the Constitutional Court its case, and the camp that had fought the elected government's Cambodia policy emerged holding the ground, an enlarged defence budget and Government House. The lasting winner is not the prime minister — whose mandate is time-limited — but the military behind him. This node keeps to secular actors (Pheu Thai, the military, Anutin, Hun Sen) and separates what is documented from what is merely inferred.
 
-{% comment %} §112-INTERNAL NOTE: Prayut and the Privy Council are NOT to be named in any public derivative. The circulating claim that Hun Sen expected Prayut as successor is unproven, constitutionally implausible (Prayut left politics in late 2023), and a s112 tripwire via the Privy Council route. The argument below carries without it. {% endcomment %}
+<!-- §112-INTERNAL NOTE: Prayut and the Privy Council are NOT to be named in any public derivative. The circulating claim that Hun Sen expected Prayut as successor is unproven, constitutionally implausible (Prayut left politics in late 2023), and a s112 tripwire via the Privy Council route. The argument below carries without it. -->
 
 ## 1. The pattern — removal without the ballot box
 
@@ -54,12 +56,12 @@ The conclusion is therefore narrow and defensible: **no bribe and no broken deal
 
 ## 5. Cui bono — documented benefit
 
-| Gain                                                         | Evidence                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Military control over contested border ground, ongoing       | ~20,000 Cambodians still displaced at the anniversary        |
+| Gain | Evidence |
+|---|---|
+| Military control over contested border ground, ongoing | ~20,000 Cambodians still displaced at the anniversary |
 | Troops on the border "for at least one year" (Defence Minister Natthaphon, ~Jan 2026, under Anutin) | Bangkok Post, "Troops to man border for 'at least one year'" (art. 3172898) |
-| Budget: recession → rearmament                               | +4.8% (US$5.8→6.1bn) plus a 5bn-baht special allocation      |
-| Government House to Bhumjaithai/Anutin                       | 5 September 2025 vote                                        |
+| Budget: recession → rearmament | +4.8% (US$5.8→6.1bn) plus a 5bn-baht special allocation |
+| Government House to Bhumjaithai/Anutin | 5 September 2025 vote |
 
 ISEAS/Fulcrum attributes the budget rise expressly to "anti-Cambodian nationalism and the increasingly close ties between the conservative Bhumjaithai Party and the military." East Asia Forum (Dec 2025): "the Thai military leverages the border crisis to reassert its political influence." **Anutin's mandate is time-limited** (a People's Party condition: dissolve parliament within four months) — so the lasting winner is the institution, not the premier.
 
@@ -119,4 +121,3 @@ https://www.bangkokpost.com/thailand/general/3172898/troops-to-man-border-for-at
 <img src="../images/0076_1.webp" alt="0076_1" style="width: 480px; margin: auto;" loading="lazy">
 
 <img src="../images/0076_2.webp" alt="0076_2" style="width: 480px; margin: auto;" loading="lazy">
-
