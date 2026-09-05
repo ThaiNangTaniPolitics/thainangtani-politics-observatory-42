@@ -1,7 +1,7 @@
 ## 0061 – The DSI Senate Investigation 2024–2026: Forensic AI, the 153 Blue Senators, and Administrative Closure under Bhumjaithai
 **How a money‑laundering probe with 1,200 suspects, forensic AI on 12,000 transactions and 20,000 phone records, and concrete findings against 138 sitting senators was processed into administrative quiet between September 2025 and May 2026**
 
-*Last updated: 1 September 2026 (ICT)*
+*Last updated: 5 September 2026 (ICT)*
 
 ---
 
@@ -362,7 +362,80 @@ Finally, the chamber's own first act is a public measurement of the bloc. On **2
 
 ---
 
-## 16. Sources
+## 16. The three internal stages — 229, 136, 0 (added 5 September 2026)
+
+The account in §7 treated the Commission's clearing of the 229 as a single administrative event. It was not. Thai-language reporting, and two internal documents that reached the press in early September 2026, show **three successive stages inside the Commission**, each narrower than the last, and only the first of them an investigation.
+
+**A categorial distinction the English coverage does not make.** The two bodies are not comparable in kind. The Bangkok Post editorial of 5 September 2026 ("EC must come clean") rests on the assumption that they are, asking how "two internal investigations into essentially the same allegations" could reach opposite conclusions.
+
+| Body | Thai designation | Function |
+|---|---|---|
+| **26th central investigation committee** | คณะกรรมการสืบสวนและไต่สวนส่วนกลาง ชุดที่ 26 | investigation, jointly with the DSI; chaired by **Pol Capt Chanin Noilek**, Deputy Secretary-General of the EC. Took witness evidence, financial records, physical exhibits |
+| **36th adjudication sub-committee** | คณะอนุกรรมการวินิจฉัยชี้ขาดปัญหาหรือข้อโต้แย้ง คณะที่ 36 | adjudication of issues or disputes; its task was to screen the completed file (กลั่นกรองสำนวน). Appointed **25 September 2025** by the then chairman, **Itthiporn Boonprakong** |
+
+The disagreement is therefore not between two investigations. It is between an investigation and a panel constituted after that investigation had closed, in order to rule on its file.
+
+**The sequence.**
+
+| Date | Stage | Outcome |
+|---|---|---|
+| 17 July 2025 | 26th committee | prosecution of **229** — 138 sitting senators, 50 candidate-network members, 21 Bhumjaithai MPs and executives, 20 staff |
+| **15 September 2025** | Office of the Secretary-General | petition the Supreme Court against **at least 136** senators; dismiss against 18 named politicians |
+| 25 September 2025 | 36th panel appointed | — |
+| 4 November 2025 | first sitting | — |
+| 18 November 2025 | sitting 3/2568 | framework of assessment set |
+| 24 February 2026 | last sitting | — |
+| **12 March 2026** | 36th panel | **5–2: no case against any of the 229** |
+| 18 August 2026 | full Commission | consideration of the file completed |
+| 28 August 2026 | full Commission | vote postponed; further evidence sought **from external agencies** |
+| 14 September 2026 | full Commission | decision |
+
+### 16.1 The Secretary-General's opinion, 15 September 2025
+
+Signed by Deputy Secretary-General **Kanchit Charoen-in** acting for Secretary-General **Sawaeng Boonmee**, within the 60-day period the EC's investigation regulation allows. Reported by iLaw from the document.
+
+It proposed petitioning the Supreme Court to revoke the right to stand of **respondents 1–140**, less four (two exempted, one already disqualified, one deceased) — **136 senators**. The ground is **sections 36 and 70** of the Senate Organic Act: self-introduction otherwise than by the method and conditions the Commission prescribed. **Not vote-buying, and no criminal complaint** against those 136.
+
+The evidentiary basis, as reported:
+
+- The candidate numbers of **140 senators** appear in the vote-instruction lists (โพย), entered as a table on or near the final page of the self-introduction form (สว.3), where it could be consulted during voting without attracting attention. Witnesses present corroborated this.
+- **Three mathematicians and statisticians** gave evidence. Analysing the ballots by group, they concluded that the probability of candidates producing identical clusters of votes was very low or effectively nil, and that the pattern indicated advance preparation.
+- The consequence found: the voters lacked independence, and the ballot was not secret.
+- Separately, bank transaction data disclosed **at least 17 instances** in which elected senators appear to have paid other candidates.
+
+**What it dismissed, and on what reasoning.** The charge under **section 76** against **18 named** party executives and MPs, including the party leader and its founder, was dismissed. The principal witness — a former Bhumjaithai MP expelled by the party, testifying as a participant and seeking witness status — was held to be **hearsay and not an eyewitness**: he had the account from a fellow MP whom he did not name; there were no minutes and no photographs; he gave no date for the meeting he described; and the plan he described could have been inferred from the published result. Further complaints supported by payment records were dismissed for want of proof that payment was made **to induce voting**.
+
+Two individuals were carried forward with a criminal complaint attached, on evidence including document-registry irregularities, identically worded written statements filed in place of testimony, and telephone location data.
+
+The decisive narrowing is therefore at this stage, not at the 36th panel — and this is the only one of the three stages whose reasoning is on the record.
+
+### 16.2 The 36th panel — composition and practice
+
+Seven members. Chair: **Chaowana Traimas**, former Secretary-General of the Office of the Constitutional Court, nominated by Commissioner **Thitichet Nuchanat**. According to internal minutes published from 1 September 2026 by former Election Commissioner **Somchai Srisutthiyakorn** — over 200 pages, watermarked for internal use, carrying no secrecy classification, and supplied, he states, from inside the EC office — the chair did not lead the sittings. That role was taken throughout by **Anucha Chansuriya**, nominated by chairman Itthiporn Boonprakong. Three members are recorded as speaking (Anucha; **Atsathai Rattanadilok na Phuket**; **Nantasak Poonsuk**); the remaining four — Chaowana, **Decha Pruekphatpanarak**, **Thatsakon Phromchamat**, **Pol Capt Piya Raksakul** — barely appear in the minutes, and voted.
+
+On the same account, the sittings ran Tuesdays and Thursdays, 13:30 to 16:00. A secretariat of about nine read the case summaries aloud, case by case, together with the opinions of the 26th committee and of the Secretary-General. In the minutes of sitting 12/2569 (12 February 2026), 38 of 39 pages — **95.62 %** — are that reading, without questions; the resolution occupies one line, recording that the panel takes note of the facts as presented.
+
+At sitting 3/2568 on **18 November 2025**, the framework of assessment for section 76 ¶2 was set out in four points. Two are reported in terms: that **not knowing is to be treated as not consenting**, and that a person who **did not intend to become a senator** is not covered. Read together with a construction under which only a *candidate* can offend, the effect described is that payments to applicants who registered in order to vote for others fall outside the provision — and, paragraph 2 having failed, paragraph 1 (the politician assisting the candidate) fails with it.
+
+⚠️ These are the characterisations of a former commissioner publishing a document obtained from inside the institution. The four criteria have not been read in their own wording; the two given here are reported at second hand. Bhumjaithai has pursued the disclosure rather than the file: the House Police Committee summoned Parit Wacharasindhu over publication of case material.
+
+### 16.3 Who decides on 14 September
+
+Four of the seven sitting Commissioners were confirmed by the Senate whose selection is under examination. The fourth, **Jiruth Wisalchit**, former Director-General of the Department of Land Transport, was approved on **26 February 2026** in a secret ballot; a second nominee was rejected the same day. The two vacancies had arisen on 4 December 2025 with the expiry of the terms of Lertwiroj Kowattana and Thitichet Nuchanat — the latter being the member who had nominated the chair of the 36th panel.
+
+The conflict was identified inside the institution before it arose. In an interview of **29 September 2025**, chairman **Itthiporn Boonprakong** observed that if the adjudication panel used its full 90 days, the final ruling could fall to a Commission including four members newly confirmed by the 2567 senators. The panel took longer than 90 days; the fourth confirmation followed in February 2026; the ruling is set for 14 September 2026.
+
+### 16.4 Two open items closed, one dispute left open
+
+**§12 — the Interior portfolio (closed).** Anutin Charnvirakul holds the Interior portfolio concurrently with the premiership in **both** cabinets: the first, gazetted 19 September 2025 (his appointment as Prime Minister dated 7 September), and the second, gazetted 31 March 2026. The note appended on 22 July 2026, which excluded this from §12 as unverified, is superseded. The line is continuous but for one interval: Interior from 2023 to 19 June 2025, covering the June 2024 selection, and again from 19 September 2025 to date.
+
+**§15 — the second deputy president (closed in part).** Boonsong Noisophon is a former member of the Election Commission who went on to chair the Commission's **legal advisory committee**, resigning that position upon his selection as a senator; the Commission then dissolved the advisory committee as a whole. Former senator **Somchai Sawaengkarn** publicly raised the conflict of interest at the time. ⚠️ The years of his membership are still not established here, and nothing in this paragraph asserts that he administered the 2024 selection.
+
+**Open: whether any time limit binds the Commission.** Two secondary accounts conflict. iLaw, reporting chairman Itthiporn's own statement of 18 July 2025, sets out a three-stage frame of 60 + 90 + 90 = **240 days** from the handover to the Secretary-General, citing clauses 59 ¶4, 79 and 82 of the investigation regulation as amended in 2566. The public-law jurist **Nattawut Wongniom** holds that the former clause 82 set no limit at all, and that the limit introduced by the third amendment is in **clause 92** — one year from the announcement of the result, which fell on 10 July 2024. Chairman Itthiporn has stated publicly that the period may be extended beyond a year; Nattawut disputes this and argues that a decision taken out of time would give the respondents a limitation defence. **The regulation itself has not been retrieved:** `ect.go.th`, `ratchakitcha.soc.go.th` and the parliamentary repository were all unreachable from this workstation. Until the text is pinned, neither account should be relied on.
+
+---
+
+## 17. Sources
 
 - Wikipedia — *2024 Thai Senate election scandal*: https://en.wikipedia.org/wiki/2024_Thai_Senate_election_scandal
 - Wikipedia — *2024 Thai Senate election*: https://en.wikipedia.org/wiki/2024_Thai_Senate_election
@@ -432,6 +505,24 @@ Finally, the chamber's own first act is a public measurement of the bloc. On **2
 - The Standard — first deputy president described as a friend of Mr Anutin: https://thestandard.co/kriangkrai-anutin-friend-vice-president-senate/
 
 **Note on §15.** The four judgments are cited from Isranews' full‑text reproductions; the Supreme Court's own case pages (`supremecourt.or.th`) were unreachable from this workstation — DNS resolves, neither HTTPS nor HTTP connects. The text of the 2567 selection regulation is cited through iLaw's clause‑by‑clause summary, as in §12; the Royal Gazette version has not been pinned. Section 77 of the Organic Act, which appears in the charges against the 55 senators summoned in 2025, has not been read and may bear on the Commission's powers during an ongoing selection — an open item.
+
+### Added 5 September 2026 (§16 the three internal stages)
+
+- Posttoday — *"สมชัย" เปิดเอกสารคดีฮั้ว สว. ชี้พิรุธคณะ 36 ก่อน กกต. ชี้ขาด* (1 Sep 2026; chair and de facto chair of the 36th panel, the 5–2 vote, provenance of the documents): https://www.posttoday.com/politics/747945
+- Dailynews — panel membership and who spoke in the minutes: https://www.dailynews.co.th/news/6154433/ · framework of assessment, part 4: https://www.dailynews.co.th/news/6162259/
+- Thai Post — meeting practice, sitting 12/2569, the 95.62 % figure: https://www.thaipost.net/x-cite-news/1061878/ · the four criteria under s. 76 ¶2: https://www.thaipost.net/x-cite-news/1063284/
+- MGR Online — same series: https://mgronline.com/politics/detail/9690000085819
+- Thai PBS — the 36th panel's 5–2 resolution, 12 March 2026: https://www.thaipbs.or.th/news/content/503276 · the seven charges, the chain of custody of the file, appointment of the panel on 25 Sep 2025: https://www.thaipbs.or.th/news/content/509826 · the postponement of 28 August 2026 and the new date: https://www.thaipbs.or.th/news/content/510030
+- iLaw — the Secretary-General's opinion of 15 Sep 2025 (136 senators, the poy, the statisticians, the dismissal under s. 76): https://www.ilaw.or.th/articles/59265 · the 240-day frame and clauses 59 ¶4, 79, 82: https://www.ilaw.or.th/articles/53491 · chairman Itthiporn on the four newly confirmed commissioners (29 Sep 2025): https://www.ilaw.or.th/articles/55431 · confirmation of Jiruth Wisalchit as the fourth, 26 Feb 2026: https://www.ilaw.or.th/articles/57254
+- Thai Post — Nattawut Wongniom on clause 92 and the one-year limit (13 May 2025): https://www.thaipost.net/politics-news/788315/
+- Thairath — cabinet gazetted 19 Sep 2025, Prime Minister concurrently Minister of the Interior: https://www.thairath.co.th/news/politic/2883215 · the same in the second cabinet, gazetted 31 Mar 2026: https://www.thairath.co.th/news/politic/2921202
+- Bangkok Business — former senator Somchai Sawaengkarn on the conflict of interest of the EC legal adviser who stood as a candidate: https://www.bangkokbiznews.com/politics/1137813
+- The Standard — election of the second deputy president, four nominees: https://thestandard.co/boonsong-elected-senate-leadership/
+- Matichon — presidency vote of 23 July 2024, 159 / 19 / 13, four abstentions, five spoilt: https://www.matichon.co.th/politics/news_4695155
+- Thairath — first deputy president elected with 150: https://www.thairath.co.th/news/politic/2802712
+
+**Note on §16.** The Secretary-General's opinion and the minutes of the 36th panel are both internal documents; neither has been read in the original. The opinion is cited through iLaw's account of it, the minutes through the extracts and characterisations published by a former Election Commissioner. The four criteria of 18 November 2025 are reported at second hand and their own wording has not been seen. The EC investigation regulation of 2561 as amended has **not** been retrieved — three official sources were unreachable — and the conflicting accounts of the time limit are therefore both left standing and neither used. The years of Boonsong Noisophon's membership of the Commission remain unestablished.
+
 ---
 
 *Filed under: constitutional mechanics; institutional sequence; forensic AI as state instrument; administrative closure of investigation; Senate composition 2024–2029; electoral-design economics.*
