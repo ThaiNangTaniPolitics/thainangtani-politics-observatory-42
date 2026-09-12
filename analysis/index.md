@@ -6,6 +6,7 @@ This section contains analytical case studies and narrative investigations.
 
 ---
 
+- [0081 – The Consultation Without the Plan](0081-the-consultation-without-the-plan.md)
 - [0080 – The App-Handout Economy: A Sugar High, Not a Cure (gross circulation vs net benefit)](0080-the-app-handout-economy-sugar-high-not-cure.md)
 - [0079 – The Captured Regulator (NBTC): Pay, Paralysis, and the Jailing of a Commissioner](0079–the-captured-regulator-NBTC.md)
 - [0078 – The Court as Instrument: Thailand's Crisis of Judicial Legitimacy (party bans, PM removals, Tak Bai impunity)](0078-the-court-as-instrument.md)
