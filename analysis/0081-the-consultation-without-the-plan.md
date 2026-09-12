@@ -193,4 +193,4 @@ On the supply side, one partner is on the record: **Korea Hydro & Nuclear Power*
 
 *Cross-references: [0080](0080-the-app-handout-economy-sugar-high-not-cure.md).*
 
-<img src="../images/0081_2.webp" alt="0081_2 style="width: 480px; margin: auto;" loading="lazy">
+<img src="../images/0081_2.webp" alt="0081_2" style="width: 480px; margin: auto;" loading="lazy">
