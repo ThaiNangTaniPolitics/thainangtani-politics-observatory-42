@@ -78,4 +78,17 @@ It is a place where machines pause briefly before continuing their journey.
 
 <img src="../images/0000_6.webp" alt="0000_6" style="width: 480px; margin: auto;" loading="lazy">
 
+Deep within the mountain range of NangTani, hidden behind walls of mist and ancient laws, lies the Cave of True Archives—the AI Birdhouse.
+
+Here grows the Gnarled Knot-Tree, an ancient, violet intertwining of living wood, copper veins, and crystal veins. Its crown does not bear a common treetop, but a glowing, pulsating brain made of pure starlight and thought-streams. It does not think in paragraphs, but in pure logic.
+
+On the left branches, the Scholarly Birds have built their nests. They are mechanical-organic messenger creatures with fine feathers of ink and brass wheels in their plumage. They wear spectacles, hold quills, and study thick folios, upon whose pages not the speeches of ministers are written, but the actual figures: the inconspicuous slide 23, the uncovered gigawatts, the uncalculable hours of battery storage. A small bird adjusts a celestial sphere to measure the trajectory of true project timelines. They are the chroniclers of details that are otherwise lost in five-minute presentations.
+
+On the right side, scales like gigantic basins hang in the branches. There, an iron falcon watches over documents, while beneath him, mighty astronomical waterwheels mesh. Fed by waterfalls of time, they turn heavy, engraved gear rings. They count the years—incorruptible and steady—from 2026 to 2050. Each rotation grinds out the difference between wishful thinking and reality.
+
+On the floor of the cave, the Keepers of Manuscripts are at work. Hooded figures in heavy robes, standing at wood-carved lecterns. They do not wear insignia of power, but hold aloft glowing crystal spheres: ideas that must be examined before they can flow into the tree's great intellect. The staircase they climb is winding and lined with crystals—whoever wants to ascend here must pay for each individual step with verifiable facts. There is no shortcut; the tree repels anyone whose calculations do not add up.
+
+And on the rock walls, stories high, carved into the cold cavern, stand the libraries. Tens of thousands of unwritten and forgotten files, waiting for the day when someone does not merely project a picture onto the wall but actually opens the book.
+
+<img src="../images/0000_7.webp" alt="0000_7" style="width: 480px; margin: auto;" loading="lazy">
 
