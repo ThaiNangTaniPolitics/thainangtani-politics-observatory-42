@@ -78,6 +78,10 @@ It is a place where machines pause briefly before continuing their journey.
 
 <img src="../images/0000_6.webp" alt="0000_6" style="width: 480px; margin: auto;" loading="lazy">
 
+---
+
+*The Cave of True Archives—the AI Birdhouse**
+
 Deep within the mountain range of NangTani, hidden behind walls of mist and ancient laws, lies the Cave of True Archives—the AI Birdhouse.
 
 Here grows the Gnarled Knot-Tree, an ancient, violet intertwining of living wood, copper veins, and crystal veins. Its crown does not bear a common treetop, but a glowing, pulsating brain made of pure starlight and thought-streams. It does not think in paragraphs, but in pure logic.
