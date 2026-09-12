@@ -80,7 +80,7 @@ It is a place where machines pause briefly before continuing their journey.
 
 ---
 
-*The Cave of True Archives—the AI Birdhouse**
+**The Cave of True Archives—the AI Birdhouse**
 
 Deep within the mountain range of NangTani, hidden behind walls of mist and ancient laws, lies the Cave of True Archives—the AI Birdhouse.
 
