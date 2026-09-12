@@ -84,6 +84,7 @@
 - [0072 — The baht as gold proxy: currency rising while economy falls](0072-the-baht-as-gold-proxy.md)
 - [0074 — The Uncounted: Household Debt, the Poverty Line, and the Architecture of a Smaller Crisis](0074-the-uncounted-debt-and-the-poverty-line.md)
 - [0080 — The App-Handout Economy: A Sugar High, Not a Cure (gross circulation vs net benefit)](0080-the-app-handout-economy-sugar-high-not-cure.md)
+- [0081 — The Consultation Without the Plan (PDP2026: 9,000MW nuclear, a one-week hearing, no draft)](0081-the-consultation-without-the-plan.md)
 
 **Governance, rights & society**  
 - [0075 — The Compression: prisons, the 1.6 m² capacity standard, and the rise in pre-trial detention](0075-the-compression-thailands-prisons-2021-2026.md)
