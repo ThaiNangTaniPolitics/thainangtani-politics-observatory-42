@@ -195,4 +195,3 @@ On the supply side, one partner is on the record: **Korea Hydro & Nuclear Power*
 
 <img src="../images/0081_2.webp" alt="0081_2" style="width: 480px; margin: auto;" loading="lazy">
 
-<img src="../images/0081_3.webp" alt="0081_3" style="width: 480px; margin: auto;" loading="lazy">
