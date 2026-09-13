@@ -37,6 +37,8 @@
 
 ### *Transnational Repression as a Constant of the Thai State - the Anti-Torture Law It Broke to Feed It, and the Trade Deals That Test It*
 
+*Last updated: 27 August 2026, 23:08:30 (ICT)*
+
 In the small hours of 27 February 2025, a convoy of trucks with black-sheeted windows left Bangkok's Immigration Detention Center for Don Mueang airport, where an unscheduled China Southern flight carried forty Uyghurs - held arbitrarily for more than a decade - to Kashgar. Five days earlier, Thailand's Prevention and Suppression of Torture and Enforced Disappearance Act had turned two years old. That law contains a plain statutory ban on exactly what the trucks were doing. The juxtaposition is this node's subject: Thailand has built Southeast Asia's most reliable machine for handing exiles back to the states that hunt them - and it runs regardless of which government is in office, and regardless of the country's own law forbidding it. Where the deleted social rights ([0068](0068-should-not-shall-deleted-social-rights.md)) show a constitution that says *should* where it once said *shall*, this node shows a statute that says *shall not* and is simply ignored. The question it ends on is not domestic. It is whether any external lever - a US sanction, an EU trade chapter - can move a machine the Thai state has decided to keep running.
 
 -----

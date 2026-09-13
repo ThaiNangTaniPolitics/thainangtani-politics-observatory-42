@@ -1,6 +1,7 @@
 ## 0042 – OECD standards and Thailand’s 2024–2026 institutional escalation
 ### *Governance convergence vs. institutional escalation: Constraints on Thailand’s OECD accession trajectory*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
 
 The OECD is not solely an economic organisation; its accession framework is built on a set of governance principles that include:
 

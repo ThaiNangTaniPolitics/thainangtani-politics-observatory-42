@@ -1,6 +1,8 @@
 ## 0006 - **Bangkok Post: Ownership Timeline (2019–2026)**  
 ### *From dispersed shareholders → to single‑patron control (>70%)*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 ---
 
 ## **2019–2022 — Fragmented Ownership**

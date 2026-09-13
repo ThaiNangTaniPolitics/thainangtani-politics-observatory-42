@@ -1,6 +1,8 @@
 ## 0035 – The Security–Monarchy Nexus
 ### *How ISOC Protects and Reproduces Thailand’s Network Monarchy*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 The relationship between Thailand’s security apparatus and the monarchy is structural, not symbolic. ISOC functions as the operational backbone of the “network monarchy,” providing ideological, administrative, and coercive support that stabilizes the existing power configuration. This nexus is central to understanding why ISOC persists across political transitions and why its authority extends far beyond conventional security mandates.
 
 ---

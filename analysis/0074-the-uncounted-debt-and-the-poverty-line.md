@@ -1,6 +1,8 @@
 ## 0074 – The Uncounted: Household Debt, the Poverty Line, and the Architecture of a Smaller Crisis
 ### *How a low threshold and a formal-only debt figure recode structural precarity as a "traditional way of life" — and how the welfare filter manufactures the exclusion it then borrows to soothe*
 
+*Last updated: 27 August 2026, 23:08:30 (ICT)*
+
 -----
 
 ## 1. Scope and the claim

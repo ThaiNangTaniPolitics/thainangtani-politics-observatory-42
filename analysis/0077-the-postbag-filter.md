@@ -1,6 +1,8 @@
 ## 0077 – The Postbag Filter
 ### *How moderation, not authorship, produces the voices that survive Bangkok Post's letters forum*
 
+*Last updated: 23 August 2026, 08:49:46 (ICT)*
+
 -----
 
 The Postbag letters section is pluralistic; the comment space beneath it is not. The difference is not produced by who writes — it is produced by a **retrospective, selective moderation that follows the *who*, not the *what*.** This node answers with measurement the question [0073](0073-where-the-comments-went.md) left open as a negative finding, and builds on the comment-ecology baselines of [0011](0011-bangkok-post-comment-ecology.md), [0027](0027-bangkok-post-discursive-Filtering-comment-section-2026.md) and [0053](0053-bangkok-post-institutional-discourse-distortion.md).

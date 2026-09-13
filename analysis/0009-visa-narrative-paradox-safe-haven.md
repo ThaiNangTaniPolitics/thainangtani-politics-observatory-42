@@ -1,6 +1,8 @@
 ## 0009 – Visa Narrative Paradox: Thailand as “Safe Haven” vs. “Infiltration”
 ### *How media framing transforms a tourism policy reversal into a security narrative*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 ---
 
 ## 1. Event Overview

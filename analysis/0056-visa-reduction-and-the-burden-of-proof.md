@@ -1,4 +1,7 @@
 ## 0056 – Visa Reduction and the Burden of Proof  
+
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 **A structural analysis of causal assertions, enforcement patterns, and security‑driven mobility governance**
 
 ## 1. Introduction

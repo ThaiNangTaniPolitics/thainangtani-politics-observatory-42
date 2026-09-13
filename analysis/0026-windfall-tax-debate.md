@@ -1,6 +1,8 @@
 ## 0026 – Windfall Tax Debate: Refinery Margins, MOPS Linkage, and State Exposure
 ### *A structural analysis of windfall profits, regulatory options, and systemic incentives*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 ---
 
 ## 1. Context: Why the Windfall‑Tax Debate Emerged

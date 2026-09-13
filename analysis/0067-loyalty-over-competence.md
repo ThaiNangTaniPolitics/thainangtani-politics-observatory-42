@@ -13,6 +13,8 @@
 
 ### *Thailand's Dysfunctional Elite Culture — from the Rigged Civil-Service Exam to the Palace-Picked General*
 
+*Last updated: 21 July 2026, 02:17:22 (ICT)*
+
 The June 2026 civil-service exam scandal was reported as a crime: a gang caught altering answer sheets for bribes. Read it instead as a **self-portrait**. A state that reproduces its officials by selling entry rather than testing merit is not malfunctioning; it is running to specification. Where the deal system ([0065](0065-no-transition-only-continuity.md)) describes *who* rules and the dual system ([0066](0066-the-dual-system.md)) describes *how* power legitimises and finances itself, this node names the **logic that selects the personnel who staff both**: loyalty and patronage over competence. The exam scandal is that logic at the **entry gate**; military promotion by palace endorsement is the same logic at the **apex**; and a pet holding a marshal's rank is its **emblem**.
 
 -----

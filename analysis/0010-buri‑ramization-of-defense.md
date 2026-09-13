@@ -1,6 +1,8 @@
 ## 0010 – The Buri‑Ramization of Defense
 ### *How regional patronage networks reshape Thailand’s military leadership and security doctrine*
 
+*Last updated: 28 August 2026, 10:48:07 (ICT)*
+
 ---
 
 ## 1. Event Overview

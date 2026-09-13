@@ -1,4 +1,7 @@
 ## 0053 – Bangkok Post Institutional Discourse Distortion: A Case Study on Structured Comment Environments
+
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 **An analysis of commentator persistence, narrative alignment, and the mechanics of disproportionate amplification**
 
 ---

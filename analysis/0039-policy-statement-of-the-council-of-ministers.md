@@ -1,6 +1,8 @@
 ## 0039 - Policy Statement of the Council of Ministers (2025): Forensic Consistency Report
 ### *A structural analysis of internal contradictions, legal–procedural tensions, and implementation feasibility*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 ---
 
 ## 0. Forensic framing

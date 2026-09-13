@@ -2,6 +2,8 @@
 
 ### *Gross circulation is not benefit — how app-delivered consumption subsidies substitute a repeatable glucose spike for the structural cure, and why they run against the grain of the state's own austerity*
 
+*Last updated: 27 August 2026, 23:08:30 (ICT)*
+
 ---
 
 ## 1. Programmatic note

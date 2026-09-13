@@ -1,6 +1,8 @@
 ## 0050 – 112 Symbolic Speech, Public Debate and Institutional Reality (2026)
 ### *How historical statements, contemporary discourse and constitutional practice diverge in the Section 112 debate*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 -----
 
 ## 1. Scope and Context

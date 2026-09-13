@@ -1,6 +1,8 @@
 ## 0023 – System Map: The Constitutional Mechanics of Thailand (2021–2026)  
 ### *A graphical overview of the institutional, discursive, and behavioural architecture*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 ---
 
 ## 1. Overview Diagram: The Full Mechanism (0012–0022)  

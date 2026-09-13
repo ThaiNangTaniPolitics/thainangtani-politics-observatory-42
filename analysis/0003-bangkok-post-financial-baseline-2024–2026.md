@@ -1,6 +1,8 @@
 ## 0003 - **Bangkok Post: Financial Baseline 2024–2026**  
 ### *Structural insolvency, emergency financing, and the collapse of public-company status*
 
+*Last updated: 27 July 2026, 16:43:54 (ICT)*
+
 ---
 
 **Purpose**  

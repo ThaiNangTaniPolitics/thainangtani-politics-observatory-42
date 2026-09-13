@@ -1,6 +1,8 @@
 ## 0073 – Where the Comments Went: A Measurement That Failed to Confirm Its Hypothesis
 ### *Counting one columnist's comment threads across the February 2026 election — why the obvious explanation does not survive its own data*
 
+*Last updated: 27 August 2026, 23:08:30 (ICT)*
+
 > **NEGATIVE FINDING.** This node tests the hypothesis that the comment space beneath Bangkok Post opinion columns closed after the general election of 8 February 2026, and that the closure was specific to Thai domestic subjects. **The measurement does not support either claim.** The node is kept because the hypothesis was plausible, is widely assumed, and now has a documented refutation with a repeatable method. Do not cite the hypothesis as established anywhere.
 
 -----

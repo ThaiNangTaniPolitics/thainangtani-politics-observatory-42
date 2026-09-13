@@ -1,6 +1,8 @@
 ## 0025 – Akanat’s Refinery Margin Cap (3–4 baht/litre)
 ### *A system analysis of refinery margins, state-funded diesel, and the MOPS linkage mechanism*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 ---
 
 ## 1. Sequence Reconstruction: What the Article Actually Describes

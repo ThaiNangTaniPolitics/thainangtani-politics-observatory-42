@@ -1,6 +1,8 @@
 ## 0024 – System Map: Politically Functional Law & Technocratic Framing
 ### *A structural analysis of legal functionality, reform rhetoric, and symbolic discourse*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 ---
 
 ## 1. Overview Diagram: The Dual Structure of Law and Narrative

@@ -1,4 +1,7 @@
 ## 0057 – The Paris Bubble: Soft Power, Champagne and the Invisible Reality
+
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 **How France and Thailand built a perfect PR‑staged narrative – and why it collapses when confronted with facts**
 
 ---

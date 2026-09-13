@@ -1,6 +1,8 @@
 ## 0047 – Thailand’s 2026 Environmental‑Crisis Architecture
 ### *How heat, haze, wildfires and governance gaps converge into a multi‑layered systemic emergency*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 -----
 
 ## 1. Scope and Context

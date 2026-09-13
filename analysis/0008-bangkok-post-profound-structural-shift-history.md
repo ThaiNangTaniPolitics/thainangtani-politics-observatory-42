@@ -1,6 +1,8 @@
 ## 0008 – **Bangkok Post: The 2026 Structural Transformation**  
 ### *How ownership concentration and financial restructuring redefine the newspaper’s institutional identity*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 ---
 
 ## 2026: The Most Profound Structural Shift in the Bangkok Post’s 80‑Year History

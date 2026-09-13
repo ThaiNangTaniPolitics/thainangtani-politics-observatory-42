@@ -1,6 +1,8 @@
 ## 0032 – Ideological Conditioning and Identity Production
 ### *How ISOC Shapes Political Identity and Normalizes Security Logic*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 Ideological conditioning is a core function of Thailand’s internal security architecture. ISOC does not rely solely on coercive power; it systematically produces political identity, loyalty, and normative frameworks that align civilian consciousness with the priorities of the security state. This process embeds security logic into education, media, community life, and national narratives.
 
 ---

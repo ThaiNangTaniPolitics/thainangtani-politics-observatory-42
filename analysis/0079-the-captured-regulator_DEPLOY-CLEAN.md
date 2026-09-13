@@ -1,7 +1,7 @@
-## 0079 – The Captured Regulator NBTC
+## 0079 – The Captured Regulator (NBTC)
 ### *How a billion-baht regulator became a stacked-sinecure prize: pay, paralysis, and the jailing of a commissioner*
 
-*Last updated: 5 September 2026, 20:14:04 (ICT)*
+*Last updated: 6 September 2026, 05:19:28 (ICT)*
 
 -----
 
@@ -80,7 +80,8 @@ https://www.bangkokpost.com/thailand/general/2423190/thaksin-prawit-trade-blame-
 
 -----
 
+<!-- OFFEN: images/0079.webp anlegen; index.md + index-thematic.md + search.html (DATA) nachziehen; deploy-diff.py; §112-Check (Pillar 7 royale Achse NICHT ins öffentliche Rendering). Altes scaffold_-File löschen. -->
+<img src="../images/0079.webp" alt="0079" style="width: 480px; margin: auto;" loading="lazy">
+
 *Filed under: captured regulator, telecoms/media duopoly, lawfare, civil-military patronage, rule of law*
 *Cross-references: [0067 – Loyalty over Competence](0067-loyalty-over-competence.md), [0078 – The Court as Instrument](0078-the-court-as-instrument.md), [0061 – DSI Senate Investigation Silenced](0061-dsi-senate-investigation-silenced-under-bhumjaithai.md), [0003 – Bangkok Post Financial Baseline](0003-bangkok-post-financial-baseline-2024–2026.md)*
-
-<img src="../images/0079.webp" alt="0079" style="width: 480px; margin: auto;" loading="lazy">

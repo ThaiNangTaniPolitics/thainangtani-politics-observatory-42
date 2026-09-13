@@ -1,6 +1,8 @@
 ## 0034 – Budgetary Exceptionalism and Security Finance
 ### *How ISOC Operates Through Opaque, Extra‑Administrative Budget Structures*
 
+*Last updated: 23 August 2026, 13:06:52 (ICT)*
+
 Budgetary exceptionalism is a defining feature of ISOC’s institutional power. The organization operates through financial mechanisms that bypass standard administrative logic, parliamentary oversight, and public accountability. These mechanisms create a durable resource base that sustains ISOC’s parallel governance structure regardless of electoral outcomes or civilian policy priorities.
 
 ---

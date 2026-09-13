@@ -1,6 +1,8 @@
 ## 0028 – ISOC Dual Governance in Thailand
 ### *Front‑End Modernization vs. Back‑End Security State*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 ---
 
 Thailand presents itself as a modern, digitally oriented administrative state aligned with international standards. Yet behind this technocratic surface operates a second, deeply entrenched power architecture: a security apparatus that runs parallel to civilian institutions and overrides them in key domains.

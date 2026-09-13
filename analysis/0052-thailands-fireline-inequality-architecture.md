@@ -1,4 +1,7 @@
 ## 0052 – Thailand’s Fireline Inequality Architecture
+
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 **How volunteer firefighters, agricultural expansion and institutional barriers shape the human cost of the haze crisis**
 
 ---

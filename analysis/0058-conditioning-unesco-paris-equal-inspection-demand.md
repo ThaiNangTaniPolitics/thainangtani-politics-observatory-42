@@ -1,6 +1,8 @@
 ## 0058 – Conditioning UNESCO: How Thailand's "Equal Inspection" Demand Shields the Post‑Sattawat Status Quo
 ### *How a procedural condition on UNESCO access converts territorial gains from Operation Sattawat into protected facts on the ground — and how the May 2026 diplomatic sequence operationalises this across four institutional registers*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 -----
 
 ## 1. Scope and Context

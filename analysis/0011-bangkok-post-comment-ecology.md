@@ -1,6 +1,8 @@
 ## 0011 – Bangkok Post: Comment Ecology
 ### *How selective moderation, structural omission, and disproportionate amplification shape public discourse*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 ---
 
 ## 1. Event Overview

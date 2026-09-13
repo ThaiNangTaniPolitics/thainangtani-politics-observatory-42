@@ -1,4 +1,7 @@
 ## 0062 – Three-Layer Impunity: The August 2025 Gripen Deal as Praetorian Procurement
+
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 **How a $550 million arms contract signed during Thailand's constitutional crisis enabled an ICJ violation under EU export criteria designed to prevent precisely that outcome — and how the praetorian framework documented by Paul Chambers explains why no accountability layer intervened**
 
 -----

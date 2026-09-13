@@ -1,6 +1,8 @@
 ## 0012 – Section 112 and the Blocked Path of Democratic Reform (2021–2026)
 ### *A structural analysis of Thailand’s post‑election institutional interventions*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 ---
 
 ## INTRODUCTION

@@ -1,4 +1,7 @@
 ## 0054 – Thailand’s Nominee Crackdown Architecture (2026): Administrative Re‑Centralization Through Narrative Engineering
+
+*Last updated: 23 August 2026, 11:50:06 (ICT)*
+
 **A structural analysis of timing, intent, and systemic consequences under the Anutin administration**
 
 ---

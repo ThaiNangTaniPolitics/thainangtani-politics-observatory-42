@@ -1,6 +1,8 @@
 ## 0037 – Synthesis: Front‑End / Back‑End as an Integrated System
 ### *How Thailand’s Dual Governance System Functions as a Single Architecture*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 The preceding sections document the components of Thailand’s internal security system: historical evolution, mass organizations, ideological conditioning, administrative penetration, budgetary exceptionalism, and the security–monarchy nexus. This final synthesis demonstrates how these components form a **single integrated architecture** — a dual governance system in which the visible civilian state (Front‑End) operates within boundaries enforced by the security apparatus (Back‑End).
 
 ---

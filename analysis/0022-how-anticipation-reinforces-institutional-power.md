@@ -1,6 +1,8 @@
 ## 0022 – The Feedback Loop: How Anticipation Reinforces Institutional Power  
 ### *A systems‑level analysis of recursive constitutional dynamics (2021–2026)*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 ---
 
 ## 1. Introduction: From Linear Intervention to Recursive Dynamics  

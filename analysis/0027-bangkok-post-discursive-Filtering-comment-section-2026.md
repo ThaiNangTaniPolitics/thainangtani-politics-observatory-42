@@ -1,6 +1,8 @@
 ## 0027 – Discursive Filtering in the Bangkok Post Comment Section (2026)
 ### *A platform‑specific observation of visible comment patterns during the refinery‑margin crisis*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 ---
 
 ## 1. Scope and Limitation

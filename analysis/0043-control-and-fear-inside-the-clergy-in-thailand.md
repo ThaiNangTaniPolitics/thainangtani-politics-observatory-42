@@ -1,6 +1,8 @@
 ## 0043 – Control and Fear Inside the Clergy in Thailand
 ### *Case Study · Discourse Analysis · Narrative Comparison · Structural Analysis*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 ---
 
 ## 1. Case Overview (Case Study)

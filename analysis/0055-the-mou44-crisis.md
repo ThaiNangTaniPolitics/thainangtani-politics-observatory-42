@@ -1,4 +1,7 @@
 ## 0055 – The MoU 44 Crisis (2024–2026): Legal Ambiguity, Military Narratives and the Collapse of a Bilateral Architecture
+
+*Last updated: 17 July 2026, 09:11:26 (ICT)*
+
 **A structural analysis of legal status, narrative construction, and post‑MoU conflict dynamics**
 
 ---

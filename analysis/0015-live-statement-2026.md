@@ -1,6 +1,8 @@
 ## 0015 – Live Statements (2026): Actor Perceptions of Thailand’s Constitutional Mechanisms  
 ### *Empirical confirmation of structural patterns in legislative oversight and constitutional intervention*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 ---
 
 ## 1. Context: The April 2026 Proceedings  

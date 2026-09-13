@@ -7,6 +7,8 @@ When General Prayut Chan-o-cha vacated the premiership and Anutin Charnvirakul e
 
 ### I. The puzzle
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 How does a figure of the Prayut order become foreign minister under a nominally new government? The question answers itself once its premise — that a transition occurred — is withdrawn.
 
 -----

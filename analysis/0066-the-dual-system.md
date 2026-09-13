@@ -12,6 +12,8 @@
 
 ### *Nationalism for the Masses, Openness for Capital — One Establishment, Two Faces*
 
+*Last updated: 21 July 2026, 02:17:22 (ICT)*
+
 The deal system ([0065](0065-no-transition-only-continuity.md), after Stithorn Thananithichot) describes *who* holds power and how it rewards itself. This node describes *how that power legitimises and finances itself at the same time* — by running two contradictory programmes at once, addressed to two separate audiences, in service of one beneficiary. Call it the **dual system**: nationalism for the masses, openness for capital. The two faces look incompatible. They are not. They are complementary functions of the same order, and the apparent quarrel between them is the mechanism that keeps the order stable.
 
 -----

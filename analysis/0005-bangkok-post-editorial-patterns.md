@@ -1,6 +1,8 @@
 ## 0005 - **Bangkok Post: Editorial Patterns and Narrative Behavior**  
 ### *How the newspaper constructs, softens, and sequences political communication*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 ---
 
 ## 1. Event Overview  

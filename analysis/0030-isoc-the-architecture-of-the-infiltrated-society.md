@@ -1,6 +1,8 @@
 ## 0030 – The Architecture of the Infiltrated Society
 ### *ISOC as the Nerve Center of Thailand’s Internal Security State*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 Puangthong Pawakapan’s research identifies the Internal Security Operations Command (ISOC) as the structural core of Thailand’s “infiltrated society.” This architecture is not metaphorical; it is an operational system that embeds security logic into civilian governance, social organization, and ideological reproduction. The following sections outline the core components of this architecture.
 
 ---

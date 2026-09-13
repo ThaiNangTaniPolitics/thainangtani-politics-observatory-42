@@ -1,6 +1,8 @@
 ## 0004 - **Bangkok Post: Ownership Structure, Financial Dependencies, and Editorial Patterns**  
 ### *How economic pressure and ownership shape editorial behavior*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 ---
 
 ## 1. Event Overview  

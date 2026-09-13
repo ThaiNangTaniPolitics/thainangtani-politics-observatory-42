@@ -1,6 +1,8 @@
 ## 0029 – Historical Development of ISOC
 ### *From Counter‑Communism to Permanent Security Infrastructure*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 The Internal Security Operations Command (ISOC) did not emerge as a conventional military unit. Its evolution reflects the transformation of Thailand’s security doctrine from Cold War counter‑insurgency to a permanent system of internal governance. Understanding this trajectory is essential for interpreting ISOC’s current role as the backbone of Thailand’s dual governance structure.
 
 ---

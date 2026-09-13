@@ -1,6 +1,8 @@
 ## 0072 – The Baht as Gold Proxy: A Currency That Rises While the Economy Falls, and Who Pays for It
 ### *How a metal-linked capital flow became Thailand's exchange rate, what it costs the people who produce, and why the central bank reaches for the periphery*
 
+*Last updated: 27 August 2026, 23:08:30 (ICT)*
+
 -----
 
 ## 1. Scope and the contradiction

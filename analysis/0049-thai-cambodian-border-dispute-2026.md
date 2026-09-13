@@ -1,6 +1,8 @@
 ## 0049 – Thai–Cambodian Border Dispute (2026): Frozen Conflict, Narrative Competition and Post‑Ceasefire Dynamics
 ### *How de‑facto control, diplomatic signalling and external perceptions shape a stalled territorial dispute*
 
+*Last updated: 23 August 2026, 11:53:17 (ICT)*
+
 -----
 
 ## **1. Scope and Context**

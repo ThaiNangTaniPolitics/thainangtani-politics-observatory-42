@@ -1,6 +1,8 @@
 ## 0051 – Thailand’s Foundational Skills Crisis
 ### *Reading deficits, health‑literacy failures and the structural implications of the World Bank’s 2024–2025 assessment*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 -----
 
 ## 1. Scope and Context

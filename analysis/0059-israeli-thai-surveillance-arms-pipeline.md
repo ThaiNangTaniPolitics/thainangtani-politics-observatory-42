@@ -1,8 +1,7 @@
 ## 0059 – The Israeli–Thai Surveillance and Arms Pipeline: Civil Society Exposure and the Foreign Infrastructure of Repression
+### *How Israeli surveillance, defence, and forensic technology have become structural components of the Thai state's apparatus for monitoring and prosecuting domestic civil society — and what this means for the opposition movement*
 
-*Last updated: 28 June 2026, 20:48:40 (ICT)*
-
-**How Israeli surveillance, defence, and forensic technology have become structural components of the Thai state's apparatus for monitoring and prosecuting domestic civil society — and what this means for the opposition movement**
+*Last updated: 25 May 2026, 09:39:46 (ICT)*
 
 -----
 

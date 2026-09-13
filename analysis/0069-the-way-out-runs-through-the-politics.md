@@ -16,6 +16,8 @@
 
 ### *Thailand's Economic Spiral Has a Known Exit — the Barrier Is a Power Arrangement Built to Prevent It*
 
+*Last updated: 27 August 2026, 23:08:30 (ICT)*
+
 Over one week the observatory logged what read as separate emergencies: a fiscal machine running out of fuel (twin deficits, a collapsing debt multiplier), a constitution that downgraded enforceable social rights to "should" ([0068](0068-should-not-shall-deleted-social-rights.md)), a state that selects personnel by loyalty rather than competence ([0067](0067-loyalty-over-competence.md)), an economy that opens to capital while mobilising the nation in its name ([0066](0066-the-dual-system.md)), and a welfare architecture that protects a thin tier at the majority's expense ([0060](0060-thai-help-thai-plus-constitutional-architecture.md)). This node makes the closing claim: they are **one problem**, and it has a **known exit**. The economics of the way out is not exotic. The spiral persists because every real fix **redistributes power** — and the political-institutional architecture this observatory documents exists precisely to prevent that redistribution. The way out of the economic crisis therefore runs **through the political one**.
 
 -----

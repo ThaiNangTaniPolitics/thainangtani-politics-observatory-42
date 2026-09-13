@@ -1,6 +1,8 @@
 ## 0019 – Discursive Filtering: The Architecture of Permissible Speech (2021–2026)  
 ### *How comment moderation functions as an extension of constitutional mechanics*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 ---
 
 ## 1. Introduction: The Missing Half of the Public Sphere  

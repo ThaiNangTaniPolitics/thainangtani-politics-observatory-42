@@ -1,6 +1,8 @@
 ## 0060 – Thai Help Thai Plus: The Constitutional Architecture of a Campaign‑Promise Disguised as Crisis Relief
 ### *Section 172, Section 57, and the Re‑Personalisation of Public Funds in the 2026 Emergency‑Decree Litigation*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 ---
 
 ## 1. Programmatic note

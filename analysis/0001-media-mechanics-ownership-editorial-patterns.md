@@ -1,6 +1,8 @@
 ## 0001 - Media Mechanics: Ownership, Interests, and Editorial Patterns
 ### *Structural forces that shape how Thai media construct narratives*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 ---
 
 ## 1. Event Overview

@@ -1,4 +1,7 @@
 ## 0063 – Thailand as a Diversion Jurisdiction: The Criterion 7 Evidence
+
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 **How a multi-jurisdictionally sanctioned transshipment economy for Russia-bound dual-use technology converts the European arms-export "risk of diversion" criterion from an abstraction into a documented finding — and what that means for the Gripen transfer**
 
 -----

@@ -1,6 +1,8 @@
 ## 0002 - Visa Policy Narrative Shift in Thai Media
 ### *How official communication, editorial framing, and public sentiment diverged*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 ---
 
 ## 1. Event Overview

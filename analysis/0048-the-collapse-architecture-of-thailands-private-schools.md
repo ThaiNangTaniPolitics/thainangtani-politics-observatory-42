@@ -1,6 +1,8 @@
 ## 0048 – The Collapse Architecture of Thailand’s Private Schools
 ### *Cost pressure, demographic shifts and governance asymmetries in the 2026 education landscape*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 -----
 
 ## 1. Scope and Context

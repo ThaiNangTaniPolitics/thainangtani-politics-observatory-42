@@ -1,6 +1,8 @@
 ## 0046 – Myanmar’s Legitimacy‑Seeking Architecture (2026)
 ### *How the post‑coup government uses regional diplomacy to offset isolation and sanctions*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 -----
 
 ## 1. Scope and Context

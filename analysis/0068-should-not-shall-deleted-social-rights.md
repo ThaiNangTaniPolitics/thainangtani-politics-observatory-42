@@ -23,6 +23,8 @@
 
 ### *The 2017 Constitution, the Deletion of Enforceable Social Rights, and Thailand's Missing Anchor for the Automation Shock*
 
+*Last updated: 21 July 2026, 02:17:22 (ICT)*
+
 In July 2026 a deputy prime minister defended an expanded early-retirement scheme for civil servants by invoking, almost in passing, "the AI era": careers are hard to change, technology is displacing workers, and the state must adjust. Read as an administrative notice it is unremarkable. Read as a **constitutional signal** it is the opening of a much larger question. When automation begins to shed labour at scale, what in Thailand's supreme law protects the displaced? This node answers with a finding that is textual, not rhetorical: the coming automation shock will arrive in a country whose constitution was **deliberately rewritten to remove the enforceable social protections it once contained** — and which, on the same pages, **declared its own drafters permanently immune**. Where the two-tier state ([0060](0060-thai-help-thai-plus-constitutional-architecture.md)) describes who the polity protects and the loyalty logic ([0067](0067-loyalty-over-competence.md)) describes who it selects, this node describes what it has **disarmed**: the citizen's legal footing against structural economic loss.
 
 -----

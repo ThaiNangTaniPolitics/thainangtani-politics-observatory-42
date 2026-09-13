@@ -1,6 +1,8 @@
 ## 0071 – The Ledger and the Sun: The 2017–2018 Crown Property Transfer, the Fixed-Budget Welfare Purge, and the Legitimation Gap
 ### *How a state that personalised the largest fortune in the country rations poverty to a treasury line — and why the critique is sayable only sideways*
 
+*Last updated: 27 August 2026, 23:08:30 (ICT)*
+
 > **NODE-INTERNAL / §112 DISCIPLINE.** This node states, as documented fact, the 2017–2018 transfer of Crown Property Bureau assets into the personal ownership of the monarch. That record is on the public record worldwide (Bloomberg, CNN, Reuters, FT, Straits Times) but is **not sayable in a Thai public forum** under the Criminal Code §112. **For public comment, de-royalise completely:** attack the *fixed-budget rationing of poverty* (Ministry of Finance, Ekniti) and the *inverted burden of proof*; never juxtapose royal legitimation-rhetoric with the welfare image, never name or allude to the Crown fortune, never use the "Golden Sun / all misery erase" construction publicly. The juxtaposition is analytically true and legally lethal — its home is this file, not the comment box. See the project memory discipline notes (Session 2026-07-11 Forts. 7; 2026-07-17 parable rule) and the checklist at the foot of this node.
 
 -----

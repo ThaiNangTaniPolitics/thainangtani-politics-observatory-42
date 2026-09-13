@@ -1,6 +1,8 @@
 ## 0031 – Mass Organizations and Social Control
 ### *The Social Infrastructure of Thailand’s Internal Security State*
 
+*Last updated: 28 June 2026, 20:48:40 (ICT)*
+
 Mass organizations are a central component of ISOC’s architecture. They function as intermediaries between the security apparatus and the population, enabling surveillance, mobilization, and ideological conditioning at scale. These organizations embed ISOC into everyday social life and extend its reach far beyond formal state institutions.
 
 ---
