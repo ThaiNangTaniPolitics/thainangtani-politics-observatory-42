@@ -2,6 +2,8 @@
 
 ### *Thailand put 9,000MW of nuclear capacity through a public hearing at which the plan itself was never produced — and the ministry's own cost table, once read, prices a reactor at six times a gas plant*
 
+*Last updated: 13 September 2026, 05:37:45 (ICT)*
+
 ---
 
 ## 1. Programmatic note
@@ -147,7 +149,39 @@ On the supply side, one partner is on the record: **Korea Hydro & Nuclear Power*
 
 ---
 
-## 9. Sources
+## 9. The precedent: what siting looks like when it becomes local
+
+The open point at the end of this node — that the plan distributes 9,000MW across five unnamed regions, and that the siting question will one day move from abstract to local — is not hypothetical. Thailand has run that sequence once already, on a single research reactor, for thirty-six years. It is worth reading before the next one begins.
+
+**Why the project exists at all.** Thailand's only research reactor, TRR-1/M1, is a 2MW TRIGA Mark III built by General Atomics, first critical on 27 October 1962 and rebuilt in 1977 to run on fuel enriched below 20 per cent. It stands at Bangkhen, **8km from Don Mueang airport**, where the international yardstick put to the cabinet asked for 14km. On **27 December 1989** the cabinet resolved to move it to Sai Mun sub-district, Ongkharak, Nakhon Nayok. Relocating the machine proved technically impossible, so a new one was to be bought. *(The 14km figure is as reported to the cabinet and recounted in the Thai press; it has not been checked against an IAEA document.)*
+
+**What became of it.** The project was budgeted at **7,216.42 million baht** over fourteen years. General Atomics was the only bidder to pass technical review; when the procurement committee voted 5–1 to annul the tender, on the ground that the firm had no experience building large reactors, the agency's secretary-general dismissed the four members who had so voted. A contract for 3,335,574,465 baht was signed on 26 June 1997 and expired on 26 June 2001 **without construction**, because the supplier could not produce a safety certificate from the US Nuclear Regulatory Commission and no building permit could issue without one. In 2006 the Office of the Auditor-General found that **more than 1,400 million baht had been paid to the contractor with nothing built**, and recommended proceedings; the contract was terminated. The resulting claim went to **international arbitration**, and as of August 2024 the human rights commission recorded that it was still pending and that it had not been able to learn the state of it.
+
+**The rules that applied, and how they ended.** Until 2016 the siting of research reactors was governed by a regulation of the atomic energy committee issued under the 1961 Act, published in the Gazette on **2 August 2016**. Its Table 1 set fixed radii by power class. For class (3) — above 2MW and up to 50MW, the class a 20MW reactor falls into — it required an **exclusion zone of 0.38km**, a **precautionary zone of 2.16km**, and a distance of **2.88km to the centre of any community**, "community" being defined as a concentration of more than 25,000 people.
+
+Three days later, on 5 August 2016, the **Nuclear Energy for Peace Act B.E. 2559** was published. Its section 3 repealed the 1961 Act. Its section 2 set commencement at 180 days. Its **section 152** let regulations made under the old Act remain in force until replaced — **but for no more than 270 days** from commencement. The arithmetic is unambiguous: commencement **1 February 2017**, expiry **29 October 2017**.
+
+The replacement ministerial regulation appeared on **9 April 2020**, 893 days later. It carries over the 320km radius for active faults. It does not carry over the table. In its place, **clause 10** provides that *the applicant shall determine the exclusion zone and the precautionary zone for the site*.
+
+The distances were not amended, debated or replaced. They lapsed.
+
+**What the hearings produced.** The environmental and health impact assessment for a 15–20MW reactor on 16.59 rai at Sai Mun was prepared by a consultancy and taken to two public hearings in 2022. The study area was the site plus a five-kilometre radius, containing **38,082 residents**. Attendance was **730** at the first hearing and **289** at the second — **1.92 per cent and 0.76 per cent**. A third session, on 10 September 2023, was abandoned when residents broke it up; by their own account they had decided the night before, because the format provided no way to register agreement or disagreement and they had no standing before the committees the results would go to. Over 8,000 residents had signed against the project.
+
+**What two state bodies then found.** On **28 March 2024** the House committee on higher education, science, research and innovation heard six bodies — the citizens' association, the province, the atomic regulator, the environmental planning office, the nuclear institute and the EHIA consultancy. It resolved that the reactor was **necessary**, that the site had become urban since 1990, and that the project should be **moved to military land**; it also asked that the radioactive waste stores at Khlong Ha in Pathum Thani and at Ongkharak be relocated and tested for contamination. Its minute records that the project, begun in 1990, "cannot currently proceed".
+
+On **6 August 2024** the **National Human Rights Commission** found two violations. The site was unsuitable: the institute's own engineering and environmental study still showed risk of radioactive release to surface water, groundwater and air, flood exposure, and an **unclear seismic risk**; and **no insurance company covers damage and compensation arising from a nuclear installation**. The consultation process was the second violation, on the attendance figures above and because the report contained no clear specification of the 20MW machine. The commission directed the ministry to put a review of the site to the **Cabinet**, the environmental planning office to have the national environment board revisit which project classes require the strictest assessment, and the regulator to supervise both waste stores with **monthly contamination testing published to the public**.
+
+The seismic point is genuinely unresolved rather than merely contested. Two faults are mapped there, the **Ongkharak fault** and the neighbouring **Nakhon Nayok fault**. The head of geology at Chulalongkorn University announced the latter as active, related to the Mae Ping fault, 50–100km long, with geological evidence of a magnitude 6.5 event 600 to 700 years ago. The Department of Mineral Resources replied the following day that after three years of study it was **"100 per cent"** certain the Ongkharak fault is inactive and 75 per cent certain of the other. Neither position has been withdrawn.
+
+**Where it stands.** The project is not abandoned. It is in its third attempt since 2017, now at 20MW, costed at **15,800 million baht** by the commission and 16,000 million by the objectors, on the plot chosen in 1990. And on **9–11 June 2026**, at a resort in Kanchanaburi, the atomic regulator convened 38 participants to review that same 2020 siting regulation so that it can accommodate small modular reactors, including floating ones. The agencies present included meteorology, marine administration, mineral resources, environmental planning and water resources. So did **EGAT, PTT and Global Power Synergy**. The announcement says the result will feed into the revision of the site licence framework and raise public confidence in nuclear oversight.
+
+**And the liability question is still open in writing.** The draft *Act on Civil Liability for Nuclear Damage* (ร่างพระราชบัญญัติความรับผิดทางแพ่งต่อความเสียหายทางนิวเคลียร์) was posted on the regulator's own legal page in **September 2026**. Its statement of principle and reasons is explicit: Thailand uses nuclear energy and has a policy of preparing for small modular reactors, and although there is a law on nuclear and radiation safety supervision, **"there are as yet no specific provisions on civil liability for nuclear damage"**. Section 15 requires an operator to hold insurance **or other financial security**; section 18 creates a state Nuclear Damage Fund; section 14 removes the liability ceiling only on proof of the operator's own intent or conscious disregard. The instrument is a draft. The gap it describes is the present state of the law.
+
+**The pattern, stated narrowly.** In 1989 a site was left because it failed a distance criterion. The site chosen instead has been through three attempts, two adverse findings by state bodies in a single year, and a hearing process that reached under one per cent of the affected population — and the numerical criteria that the first site failed no longer exist in Thai law. This node does not claim that any of this was designed. It records that the disclosure duties, the siting figures and the liability regime each arrived, lapsed or remain pending on a timetable that has never once coincided with a decision.
+
+---
+
+## 10. Sources
 
 **Primary — the hearing material.** เอกสารประกอบการสัมมนารับฟังความเห็นร่างแผน PDP2026, 52 slides, PDF metadata: Canva, created 4 September 2026; distributed via Google Drive folder "00 PDP2026". Slides cited: 20 (seven regions), 21 (LOLE), 23 (cost table), 25 (new renewable capacity, geothermal 156MW), 29 (50,900MW first twelve years), 31/32 (post-2037 allocation, capacity mix), 48 (SMR/MMR 9,000MW, five regions, >10 years).
 
@@ -163,6 +197,16 @@ On the supply side, one partner is on the record: **Korea Hydro & Nuclear Power*
 
 **Secondary — English.** *Bangkok Post*, 12 September 2026, Yuthana Praiwan (EGAT five-phase roadmap); SightLine U3O8, 9 September 2026, John Dyer (trade coverage, sourced to The Nation); World Nuclear News / SolarQuarter, March 2026 (KHNP–EGAT memorandum).
 
+**Primary — the siting rules.** ระเบียบคณะกรรมการพลังงานปรมาณูเพื่อสันติ ว่าด้วยมาตรฐานด้านความเหมาะสมของสถานที่ตั้งเครื่องปฏิกรณ์ปรมาณูวิจัย พ.ศ. 2559, Gazette vol. 133 special part 170 Ngor, 2 August 2016, Table 1 and clauses 3, 5, 26. กฎกระทรวงการอนุญาตให้ใช้พื้นที่เพื่อตั้งสถานประกอบการทางนิวเคลียร์ พ.ศ. 2563, Gazette vol. 137 part 28 Kor, 9 April 2020, clauses 3, 4, 6, 7, 9, 10. พระราชบัญญัติพลังงานนิวเคลียร์เพื่อสันติ พ.ศ. 2559, Gazette vol. 133 part 67 Kor, 5 August 2016, sections 2, 3, 147, 148, 152. All four downloaded from the regulator's own legal pages and read in full.
+
+**Primary — the liability draft.** ร่างพระราชบัญญัติความรับผิดทางแพ่งต่อความเสียหายทางนิวเคลียร์ พ.ศ. ...., with its statement of principle and reasons; posted on the regulator's legal page, upload path dated September 2026; sections 9, 12, 14, 15, 16, 17, 18.
+
+**Primary — the siting review.** Regulator's news item of 9 June 2026 on the workshop "การทบทวนกฎหมายสถานที่ตั้งสถานประกอบการทางนิวเคลียร์", 9–11 June 2026, Kanchanaburi, with its list of participating agencies and companies.
+
+**Official findings.** National Human Rights Commission, weekly briefing 27/2567, 9 August 2024, on the resolution of 6 August 2024 (as reported in full by *Prachatai*). House committee on higher education, science, research and innovation, meeting of 28 March 2024 (as reported by *Matichon Weekly*, 29 March 2024).
+
+**Secondary — the Ongkharak file.** *MGR Online*, 20 February 2006, on the history of the project, the tender, the contract and the auditor-general's finding; *MGR Online*, 27 October 2022, on the sixtieth anniversary of TRR-1/M1, its fuel position and the institute's own fifteen-year estimate for a replacement; *GreenNews*, 3 October 2023 (the objectors' six points) and 10 September 2023 (verbatim transcript after the abandoned hearing); *Komchadluek*, on the dispute over the Nakhon Nayok and Ongkharak faults; Thai PBS *Policy Watch*, on the five nuclear ministerial regulations approved by cabinet on 13 November 2024; *The Standard*, 18 February, on the prosecutor's return of the DSI file.
+
 ---
 
 ## Discipline checklist (verification record)
@@ -175,6 +219,8 @@ On the supply side, one partner is on the record: **Korea Hydro & Nuclear Power*
 
 **Corrected during preparation.** An earlier draft of this node stated that the full draft had not been published and that the deck gave no cost figures for SMR. The second of those was **wrong** — the cost table exists, on slide 23 — and the first was built on a channel that had not been checked at the time. Both were revised before any of this material was used. The episode is the reason §3 states the limit of its own claim.
 
+**Added for §9.** The four statutes and regulations named above were downloaded and searched in full text, including for the figures 380 and 2.8, which do not occur in the 2020 regulation. The 270-day and 180-day periods were calculated from the Gazette dates. The fault dispute is recorded as a dispute; this node takes no view on which side is right, and does not assert that the site is earthquake-prone. The auditor-general's 2006 finding is stated as a finding and a recommendation: whether any proceedings followed is not known. The name of the official who dismissed the four committee members is on the record in the Thai press and is deliberately omitted here, as is any suggestion that the supplier influenced the award — no evidence of that was found.
+
 **Not asserted.** That the 2005 regulation was breached (see §7). That any vendor, country or industry association influenced the plan: no evidence of that was found and none is claimed. That the reactors will not be built, or should not be.
 
 ### Open points
@@ -185,6 +231,8 @@ On the supply side, one partner is on the record: **Korea Hydro & Nuclear Power*
 
 **The five regions.** The plan distributes 9,000MW across five of its seven planning regions and identifies none. Should the allocation become public, the siting question moves from abstract to local, and this node will need a successor.
 
+**The Ongkharak successor questions.** Whether the Cabinet acted on the commission's August 2024 direction to review the site; whether the defence ministry was ever approached about military land; what the June 2026 workshop produced and whether a draft revision exists; what became of the arbitration; whether fuel for TRR-1/M1 has been secured since the institute said in 2022 that the supply would last about five years and that a replacement needs about fifteen.
+
 **The demand case.** The plan uses the low and medium data-centre scenarios (6,799 and 8,811MW) and discards the high case (19,808MW) "to remain consistent with the capacity to develop infrastructure and the transmission system". Whether demand is being planned for or planned around is a separate question, treated in the data-centre material of this observatory.
 
 ---
@@ -194,4 +242,3 @@ On the supply side, one partner is on the record: **Korea Hydro & Nuclear Power*
 *Cross-references: [0080](0080-the-app-handout-economy-sugar-high-not-cure.md).*
 
 <img src="../images/0081_2.webp" alt="0081_2" style="width: 480px; margin: auto;" loading="lazy">
-
