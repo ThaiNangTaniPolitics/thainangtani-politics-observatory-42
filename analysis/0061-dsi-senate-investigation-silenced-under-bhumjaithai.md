@@ -1,7 +1,7 @@
 ## 0061 – The DSI Senate Investigation 2024–2026: Forensic AI, the 153 Blue Senators, and Administrative Closure under Bhumjaithai
 **How a money‑laundering probe with 1,200 suspects, forensic AI on 12,000 transactions and 20,000 phone records, and concrete findings against 138 sitting senators was processed into administrative quiet between September 2025 and May 2026**
 
-*Last updated: 6 September 2026 (ICT)*
+*Last updated: 15 September 2026 (ICT)*
 
 ---
 
@@ -137,11 +137,11 @@ Between September 2025 and May 2026, no formal decision was published that withd
 
 ---
 
-## 7. The EC clearing — May 2026
+## 7. The EC clearing — March 2026 (corrected; see §17.2)
 
 **Content analysis**
 
-In May 2026 — the month in which the broader Thai Help Thai Plus emergency decree was issued (cf. [0060](0060-thai-help-thai-plus-constitutional-architecture.md)) — the Election Commission's sub‑committee held its decisive vote on the 229‑suspect file:
+On 12 March 2026 — this note previously dated it to May 2026, see §17.2 — and in the year in which the broader Thai Help Thai Plus emergency decree was issued (cf. [0060](0060-thai-help-thai-plus-constitutional-architecture.md)) — the Election Commission's sub‑committee held its decisive vote on the 229‑suspect file:
 
 - **EC sub‑committee vote: 5–2** to reject the findings of the earlier inquiry that had named 138 sitting senators and 91 Bhumjaithai‑affiliated others as suspects of collusion in the 2024 Senate selection ([Bangkok Post, 3216229](https://www.bangkokpost.com/thailand/politics/3216229/ec-panel-clears-all-229-suspects-in-senate-collusion-case)).
 - Effect: **all 229 suspects cleared** at the sub‑committee stage. The case file then proceeds to the full seven‑member EC board, which has 90 days to confirm closure or remand.
@@ -571,7 +571,72 @@ The tenure of the Interior portfolio can now be fixed at one end from the record
 
 ---
 
-## 17. Sources
+## 17. 14 September 2026 — the decision: 77 of 427, and the political level untouched
+
+*Added 15 September 2026.*
+
+**Content analysis**
+
+On **14 September 2026 at 15:50 ICT**, fifty minutes later than scheduled, EC chairman **Narong Klanwarin** and deputy secretary-general **Phasakorn Siriphakayaporn** announced the commission's resolution. All seven commissioners had sat since 10:00; 200 police secured the building.
+
+- **77 referred** to the Supreme Court's Election Cases Division: **26 sitting senators, 36 Senate voters, 15 other individuals.**
+- The investigation involved **67 complainants**, **427 respondents** — *not 229, as previously reported* — and a case file of **75,722 pages**, considered over **11 sittings**.
+- **Charge 1** (s. 76 para. 1 — party executives, MPs and political office-holders assisting candidates), 21 respondents: **none referred.**
+- **Charge 2** (s. 76 para. 2 — candidates consenting to such assistance), 140 respondents including 137 sitting senators: **none referred.**
+- It was a **majority resolution**, not unanimous. Neither the split nor, at the press conference, the names were disclosed. The names were published four hours later, at 19:57, as EC press release **446/2569**.
+
+**The reasoning for the political level.** Narong stated that the charge against the 21 rested on three coded witnesses — 16/26, 21/26, 22/26 — and that **all three had retracted**, by letter to the chairman. Witness 16/26 had been a Bhumjaithai MP, was expelled after conviction for embezzling close to 500 million baht from the Khon Kaen teachers' co-operative, moved to the Kla Tham party amid conflict, and came forward on **28 May 2025**, roughly a year after the events he described, requesting witness status for himself. No photographs, no physical exhibit of the alleged "offline programme", and — in his own words — *"การตรวจสอบเส้นเงินของกลุ่มที่ถูกกล่าวหาทุกคน ไม่พบความผิดปกติ"*, the examination of the money trails of every respondent in that group found nothing irregular.
+
+On the recorded contacts between the two party figures he said: *"โทรศัพท์อาจจะมี มีโทรหากัน แต่มันไม่ได้เป็นเครื่องยืนยันว่าเขาคุยกันเรื่องอะไร … แต่มันไม่มีรายละเอียดว่าท่านไปทำอะไรกัน **ซึ่งเป็นไปได้ทุกทาง**"* — the calls may have happened, but nothing confirms what was discussed; **anything is possible.**
+
+**Legal/constitutional analysis**
+
+⭐ **Two thresholds in one press conference.** For the 77 referred, Narong named the standard of s. 226 correctly: the commission holds evidence that leads it *"เชื่อว่า หรือ น่าเชื่อว่า"* — to believe, or find it credible, that the law was breached, and the resolution is *"only a preliminary finding"*. For the 21 not referred, the test applied was whether the contacts could be **proved** to relate to the election, and whether any other explanation remained conceivable. **Section 226 requires evidence sufficient to reasonably believe; it does not require the exclusion of every alternative.** The standard of a criminal verdict was applied at the stage of a petition.
+
+**What the referral does not yet do.** The commission has **60 days** to draft its ruling and a further **60 days** to file with the Supreme Court. Only once the Court accepts a petition must a sitting senator suspend their duties (s. 226 para. 4). At the time of writing **no petition has been filed.**
+
+### 17.1 The distribution of the referrals — the finding the numbers carry
+
+An index-by-index match of the 77 published names against the 229-name charge list (Isranews, 30 September 2025; group and province from iLaw, 14 August 2026) yields three results.
+
+**First, the eight provinces are inverted.** Termsak Chalermpalanupap recorded that the **eight provinces in which Bhumjaithai won House seats in the 2023 general election took 52 Senate seats** — Buriram, Ayutthaya, Satun, Ang Thong, Loei, Amnart Charoen, Yasothorn, Surin (ISEAS Perspective 57/2024, fn. 7). Counting the charge list, **52 of the 138 accused senators come from those same eight** — the whole of their delegation. Among the 26 referred, **three**.
+
+| | accused | referred |
+|---|---|---|
+| the eight provinces with BJT House seats | **52 of 138 = 38 %** | **3 of 25 = 12 %** |
+| all other provinces | 86 = 62 % | 22 = 88 % |
+
+**Second, Buriram is absent.** The province supplying the largest number of accused senators — 14, more than any other, and Bhumjaithai's home base, where all ten MPs belong to the party — has **not one** among the referred.
+
+**Third, the chamber's leadership is out.** Numbers 1 (First Deputy Speaker of the Senate), 3 (Speaker of the Senate) and 9 all appear on the โพย, the cheat sheet in the inquiry file, per iLaw's index of 140 names. None is referred. The referrals run from index **6 to 135**.
+
+⚠️ **This is a distribution, not a motive.** It states where the referrals fall, not why.
+
+⚠️ **The referred are not backbenchers.** Six chair or vice-chair Senate committees; one was a Bhumjaithai candidate for a House seat before standing for the Senate. Senator Thewarit Maneechai wrote publicly: *"Whoever says the 26 are small fry — look at the names, they are not small."* The accurate statement is narrower: **leadership inside the chamber, yes; the chamber's presidency and the party level, no.**
+
+### 17.2 A correction to the record, and one to this note
+
+**The Bangkok Post's summary is wrong on one point.** Its 15 September print report states: *"No reserve senators, political party executives, MPs or political office-holders were referred."* The commission's own list of the 15 "other individuals" includes **a sitting Bhumjaithai MP** (Sukhothai constituency 4), the **father of the Deputy Interior Minister**, a former **Deputy Speaker of the House**, the **president of a provincial administrative organisation**, and a **Bhumjaithai party clerk** in Surat Thani. The statement holds for charges 1 and 2 only. **Under charges 3 to 7, office-holders were referred — as individuals, for their own acts, not for assistance under s. 76.**
+
+⇒ The precise formulation: the **party leadership** was untouched, because s. 76 fell in both paragraphs. The **party's surroundings** were not.
+
+⛔ **Correction to §7 of this note.** This note dated the sub-committee's 5–2 clearance to **May 2026**. It was **12 March 2026**: the Bangkok Post report (3216229) appeared on Friday **13 March 2026** and describes the vote as taken "on Thursday". The commission's own account on 14 September gives the fuller chain — the 36th adjudication sub-committee was **appointed 16 September 2025**, delivered its opinion with reasons on **26 February 2026**, and the matter reached the commission's agenda on **30 March 2026**. §7 is corrected accordingly; the substance of that section is unaffected.
+
+⬜ **Open.** §5 dates the Special Cases Board's 11–4 vote to May 2025; Thairath's case summary of 13 September 2026 dates it to **5 March 2025**. Not resolved here.
+
+### 17.3 Reactions
+
+- **iLaw** called the resolution an implicit admission that the 2024 selection was rigged — 26 referrals presuppose it — while the prosecution *"ตัดจบไม่ถึงเบื้องหลัง"*, stops short of those behind it. Its staff added that assessing witness credibility belongs to the Supreme Court and that where evidence is insufficient the commission's duty is to **obtain more**. On the evening of 14 September iLaw began publishing witness 16/26's statement in full.
+- **The People's Party** announced proceedings against the commission for dereliction of duty and named s. 157 of the Criminal Code.
+- **Prinya Thaewanarumitkul** (Thammasat) had argued the day before that the commission's exposure under **s. 69** is greater than under s. 157, and that the **four commissioners confirmed by this Senate** carry the higher risk.
+- **The reserve senators** announced they would petition the Supreme Court themselves, arguing that under charge 3 all 138 should have been referred.
+- **Ruam Thai Sang Chart**, a governing party, demanded publication of the investigation findings and that the case be pursued to those who directed it.
+- **The DSI** stated — before the announcement — that on the special prosecutor's instruction it would request the commission's resolution and reasons for the file in special case **24/2568** (secret society, money laundering), whatever the outcome.
+- **Olarn Thinbangtieo** (Burapha), who had predicted the partial referral, judged that the decision will generate pressure but not topple the government, that mass mobilisation would require some five million demonstrators nationwide, and that the greater risk is a stalling of constitutional reform.
+
+---
+
+## 18. Sources
 
 - Wikipedia — *2024 Thai Senate election scandal*: https://en.wikipedia.org/wiki/2024_Thai_Senate_election_scandal
 - Wikipedia — *2024 Thai Senate election*: https://en.wikipedia.org/wiki/2024_Thai_Senate_election
@@ -681,5 +746,26 @@ The tenure of the Interior portfolio can now be fixed at one end from the record
 
 *Filed under: constitutional mechanics; institutional sequence; forensic AI as state instrument; administrative closure of investigation; Senate composition 2024–2029; electoral-design economics.*
 *Cross‑references: [0011](0011-bangkok-post-comment-ecology.md), [0013](0013-section-49.md), [0014](0014-constitutional-mechanics-I.md), [0016](0016-section-235.md), [0017](0017-the-jurisprudence-of-prevention.md), [0019](0019-the-architecture-of-permissible-speech-2021-2026.md), [0020](0020-the-chilling-effect-on-parliamentary-procedure.md), [0023](0023-system-map-constitutional-mechanics-thailand-2021-2026.md), [0024](0024-politically-functional-law-and-technocratic-framing.md), [0027](0027-bangkok-post-discursive-Filtering-comment-section-2026.md), [0030](0030-isoc-the-architecture-of-the-infiltrated-society.md), [0034](0034-isoc-budgetary-exceptionalism-and-security-finance.md), [0053](0053-bangkok-post-institutional-discourse-distortion.md), [0060](0060-thai-help-thai-plus-constitutional-architecture.md).*
+
+### Added 15 September 2026 (§17 the decision of 14 September)
+
+- Thairath 2959545, 14 Sep 2026, 16:40 ICT — first report of the resolution: https://www.thairath.co.th/news/politic/2959545
+- Matichon 5888523, 14 Sep 2026, 16:16 ICT — the press conference at length, charge by charge: https://www.matichon.co.th/politics/news_5888523
+- Isranews 148962, 14 Sep 2026, 19:13 ICT — the chairman's reasoning verbatim, the fullest account: https://www.isranews.org/article/isranews/148962-politics-553.html
+- Matichon 5889005, 14 Sep 2026, 20:02 ICT — all 77 names with functions, from EC press release 446/2569: https://www.matichon.co.th/politics/news_5889005
+- Matichon 5888965, 14 Sep 2026, 20:33 ICT — the 26 senators, six committee chairs among them: https://www.matichon.co.th/politics/news_5888965
+- Isranews 148964, 14 Sep 2026, 20:19 ICT — the 77 names: https://www.isranews.org/article/isranews/148964-politics-555.html
+- Khaosod 10398400, 14 Sep 2026, 17:23 ICT — why the party executives were not referred: https://www.khaosod.co.th/politics/news_10398400
+- Khaosod 10398014, 14 Sep 2026, 14:18 ICT — the DSI will request the resolution for special case 24/2568: https://www.khaosod.co.th/politics/news_10398014
+- Khaosod 10397903, 14 Sep 2026, 13:05 ICT — Prinya Thaewanarumitkul on s. 69 and s. 157: https://www.khaosod.co.th/politics/news_10397903
+- Khaosod 10398527, 14 Sep 2026 — the reserve senators: under charge 3 all 138 should have been referred: https://www.khaosod.co.th/politics/news_10398527
+- Bangkok Post 3319453, 14 Sep 2026, 17:48 ICT — EC resolves to prosecute 77 people: https://www.bangkokpost.com/thailand/politics/3319453
+- Bangkok Post 3319474, 14 Sep 2026, 20:34 ICT — opposition vows legal action; the chairman on the recorded contacts: https://www.bangkokpost.com/thailand/politics/3319474
+- Bangkok Post 3319528, 15 Sep 2026, 01:01 ICT — print report; contains the erroneous statement corrected in §17.2: https://www.bangkokpost.com/thailand/politics/3319528/ec-refers-77-suspects-to-court
+- Thairath 2959245, 13 Sep 2026, 11:33 ICT — case summary from the start, with the 229 broken down: https://www.thairath.co.th/news/politic/2959245
+- The Standard, 14 Sep 2026 — iLaw statement: https://thestandard.co/ilaw-gec-senator-election-corruption-evidence/
+- ISEAS Perspective 57/2024, 24 July 2024, Termsak Chalermpalanupap, *Bhumjaithai Party Reaps Windfall Benefits from Astonishing Outcome of Thai Senate Election*, ISSN 2335-6677 — the eight provinces and 52 seats (fn. 7), Buriram 14 and Bangkok 9 (fn. 9): https://www.iseas.edu.sg/wp-content/uploads/2024/06/ISEAS_Perspective_2024_57.pdf
+- Prachatai, 27 June 2024 — the 14 senators from Buriram; sourced to iLaw, Thai Post and senator.ect.go.th: https://prachatai.com/journal/2024/06/109730
+- Bangkok Post 3216229, 13 March 2026 — EC panel clears all 229; the report that dates the 5–2 vote: https://www.bangkokpost.com/thailand/politics/3216229/ec-panel-clears-all-229-suspects-in-senate-collusion-case
 
 <img src="../images/0061.webp" alt="0061" style="width: 480px; margin: auto;" loading="lazy">
