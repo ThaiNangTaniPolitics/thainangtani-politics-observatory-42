@@ -1,7 +1,7 @@
 ## 0049 – Thai–Cambodian Border Dispute (2026): Frozen Conflict, Narrative Competition and Post‑Ceasefire Dynamics
 ### *How de‑facto control, diplomatic signalling and external perceptions shape a stalled territorial dispute*
 
-*Last updated: 23 August 2026, 11:53:17 (ICT)*
+*Last updated: 15 September 2026, 11:52:04 (ICT)*
 
 -----
 
@@ -310,13 +310,78 @@ Laos shares a long border, a comparable income gap, and the same role as a labou
 That a rumour about Angkor Wat produced a burned embassy within eleven days indicates a standing Cambodian narrative of Siamese occupation and looting (1795–1907). This is **two nationalisms with mirrored injury stories**, not a one‑sided prejudice — and any external commentary that treats it as the latter will be read as partisan.
 
 ### *12.4 Citation discipline (mandatory)*  
-1. **Several headline figures are “IR‑informed,” not the full sample** — the 86% neutrality figure and the 40% Cambodia figure explicitly. That group comprises the 73% of the randomised 1,200 who passed a five‑question knowledge filter (~876) **plus 450 respondents selected purposively, not randomly**. The report discloses this and states it found “very few significant differences” between the groups.
+1. **Several headline figures are “IR‑informed,” not the full sample** *(figures corrected against Table 2 of the report, 15 September 2026)* — the 86% neutrality figure and the 40% Cambodia figure explicitly. Table 2 states that base exactly: **1,330 respondents — 880 drawn from the randomised 1,200, who passed a five‑question knowledge filter at a rate of 73%, plus 450 selected purposively, not randomly**. The purposive third differs materially from the random part: **83% hold a bachelor’s degree or higher against 38%, and 81% report household income above 50,001 Baht against 25%**. The report discloses the design and states it found “very few significant differences” between the groups.
 2. **Urban only.** “Thesaban Nakhon” districts above 50,000 people — a population of **8,576,544**. The 3% margin of error is stated as representative of the **urban** Thai population, not the country.
 3. **Funding, verbatim:** “The Asia Foundation’s Innovation Fund, **drawing on appropriated funds from the United States Congress**.” A US‑funded survey asking Thais about US–China influence and Western democracy promotion. Disclose it first rather than be corrected with it.
 4. **Never generalise to “Thais dislike Cambodians.”** That is a collective characterisation by nationality; the survey figures are citable, the generalisation is not — and the Bangkok Post terms clause against disparagement by origin has to stay clean for use against others.
 
 ### *12.5 Relevance to this node*  
 The registry sequence of §11.2a required no manufactured public support: the sentiment was already in place, and at ASEAN‑worst levels, two years earlier. Conversely, the survey shows what the government does **not** have a mandate for — **86% preferred neutrality** in a great‑power conflict and only 19% favoured aligning with either the US or China, which is the standing constraint on any bloc‑binding mechanism proposed from outside.
+
+### *12.6 The complete figures, read off the charts (added 15 September 2026)*  
+§12.1 quoted the values the report states in its running text. Those cover only eight of the fourteen countries in Figure 14 and four of the nine in Figure 32; the remainder exist only inside the charts. The full series are set out below.
+
+**Verification of the reading.** The report’s prose names five net gaps — Laos 64, Japan 56, Malaysia 43, Australia 42, the United Kingdom 37. Each is reproduced exactly by subtracting the two charted values for that country (71−7, 63−7, 52−9, 48−6, 48−11). The assignment of values to countries is therefore demonstrated, not inferred.
+
+**Figure 14 — “friendly to Thailand” against “taking advantage of Thailand,” IR‑informed**
+
+| Country | Friendly | Takes advantage | Net |
+|---|---|---|---|
+| Laos | 71% | 7% | **+64** |
+| Japan | 63% | 7% | +56 |
+| Malaysia | 52% | 9% | +43 |
+| Australia | 48% | 6% | +42 |
+| United Kingdom | 48% | 11% | +37 |
+| Vietnam | 37% | 14% | +23 |
+| European Union | 38% | 17% | +21 |
+| India | 31% | 11% | +20 |
+| China | 52% | 33% | +19 |
+| United States | 44% | 27% | +17 |
+| South Korea | 33% | 17% | +16 |
+| Russia | 23% | 27% | −4 |
+| Myanmar | 24% | 45% | −21 |
+| **Cambodia** | **25%** | **48%** | **−23** |
+
+**Of the fourteen countries put to respondents, Cambodia ranks last** — below Russia, whose invasion of Ukraine 62% of the same respondents called unjustified during the same fieldwork.
+
+*The chart’s third series — “neutral towards Thailand” — carries no data labels. The report states only Russia’s neutral figure, 45%. Do not derive the others.*
+
+**Figure 32 — most and least trusted ASEAN member state, IR‑informed**
+
+| Country | Most trusted | Least trusted | Net |
+|---|---|---|---|
+| Singapore | 44% | 2% | **+42** |
+| Laos | 15% | 5% | +10 |
+| Brunei | 12% | 3% | +9 |
+| The Philippines | 6% | 1% | +5 |
+| Indonesia | 6% | 2% | +4 |
+| Malaysia | 6% | 2% | +4 |
+| Vietnam | 3% | 6% | −3 |
+| Myanmar | 1% | 37% | −36 |
+| **Cambodia** | **2%** | **40%** | **−38** |
+
+Three of the nine sit below zero, and the distance from Vietnam (−3) to Myanmar (−36) is 33 points. **Cambodia and Myanmar are not the bottom of a range; they are a separate class.** This sharpens §12.2: the Laos control case is not a single outlier but the pattern — every ASEAN neighbour except these two is trusted on balance.
+
+**Figure 35 — what Thailand should do for Cambodia (top‑two selections)**
+
+| | IR‑informed | Under 40 | 41 and over |
+|---|---|---|---|
+| Create stronger economic links through trade and connectivity | **53%** | 52% | 54% |
+| Encourage Thai private sector investment | 27% | 25% | 28% |
+| Work together for a stronger position with large external countries | 23% | 24% | 23% |
+| Address common environmental and climate challenges | 21% | 21% | 21% |
+| Help Cambodian migrants find work in Thailand | 20% | 21% | 19% |
+| Provide Thai government development funding | 17% | 15% | 18% |
+| Provide educational exchange and scholarships | 17% | 18% | 17% |
+| **Nothing** | **11%** | **11%** | **10%** |
+
+**Two findings follow, and both constrain how §12.1 may be used.**
+
+**First, distrust is not a mandate for disengagement.** A majority wants deeper economic ties with the country it trusts least, and only 11% would have Thailand do nothing — the highest such figure among the three neighbours, against 6% for Myanmar and 4% for Laos, but still one respondent in nine. The hostility recorded in §12.1 was real and pre‑dated the fighting; it was not a public demand for closure or separation. Any use of the trust figures that omits this reads as selective and will be corrected with the same document.
+
+**Second, there is no generational split.** No option separates the age groups by more than three points, and on “nothing” they differ by one. The antipathy cannot be attributed to older respondents, nor claimed as a youth position.
+
+*Source for §12.6: Figures 14, 32 and 35 of the report, read from the images at full resolution on 15 September 2026. Values in the running text of the report were used wherever the report states them.*
 
 ## 13. The price of the policy: the first quantified bill (added 20 July 2026)
 
@@ -492,7 +557,7 @@ The analytical point is not corruption or folly but **structure**: OR's decisive
 **Lawrence Palmer Briggs – “The Treaty of March 23, 1907 between France and Siam and the Return of Battambang and Angkor to Cambodia,” The Far Eastern Quarterly 5(4), August 1946, pp. 439–454 (JSTOR 2049791). Dates Siamese control of the province from the 1795 coronation of Ang Em at Bangkok — “annexation by seduction, without treaty or other agreement” — to the 1907 cession**  
 <a href="https://cdn.angkordatabase.asia/libs/docs/Briggs-TreatyMarch23-1946.pdf" target="_blank" rel="noopener noreferrer">https://cdn.angkordatabase.asia/libs/docs/Briggs-TreatyMarch23-1946.pdf</a>
 
-**The Asia Foundation – Thai Public Views on International Issues (June 2024; fieldwork August–November 2023; 1,650 urban respondents; enumeration by MI Advisory)**  
+**The Asia Foundation – Thai Public Views on International Issues (June 2024; fieldwork August–November 2023; 1,650 urban respondents; enumeration by MI Advisory). §12.6 additionally draws on Figures 14, 32 and 35, whose values appear only inside the charts; the link below is the report containing them. Both server copies of the file resolve and were checked on 15 September 2026.**  
 <a href="https://asiafoundation.org/wp-content/uploads/2024/06/Thailand_Thai-Public-Views-on-International-Issues.pdf" target="_blank" rel="noopener noreferrer">https://asiafoundation.org/wp-content/uploads/2024/06/Thailand_Thai-Public-Views-on-International-Issues.pdf</a>
 
 **Khaosod English – Phnom Penh 2003: When nationalism turned violent (29 January 2026)**  
