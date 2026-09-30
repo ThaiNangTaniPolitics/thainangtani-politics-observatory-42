@@ -8,7 +8,7 @@
 
 On 8 February 2026 Thailand held a general election in which every ballot paper carried a code
 unique to that single sheet. The code corresponds to a running number on the counterfoil, and the
-counterfoil carries the voter's name and signature or fingerprint. The chain from mark to person
+counterfoil carries the voter's list number and signature or fingerprint. The chain from mark to person
 is therefore complete on the face of the material itself.
 
 The Election Commission does not dispute that the chain exists. Its defence is that the two ends
