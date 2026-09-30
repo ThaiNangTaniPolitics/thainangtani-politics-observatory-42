@@ -6,6 +6,8 @@ This section contains analytical case studies and narrative investigations.
 
 ---
 
+- [0085 – Assessed Above the Loss](0085-assessed-above-the-loss.md)
+- [0084 – The Question Not Asked](0084-the-question-not-asked.md)
 - [0083 – The Plan Before the Law](0083-the-plan-before-the-law.md)
 - [0082 – The Sacred Nation and the Internal Traitor](0082-the-sacred-nation-and-the-internal-traitor.md)
 - [0081 – The Consultation Without the Plan](0081-the-consultation-without-the-plan.md)
