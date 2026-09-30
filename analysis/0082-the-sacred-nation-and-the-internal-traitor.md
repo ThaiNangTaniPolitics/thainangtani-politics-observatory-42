@@ -264,6 +264,6 @@ Both are documented in the same thread: contributions with a named bearer ("the 
 
 <img src="../images/0082_2.webp" alt="0082_2" style="width: 480px; margin: auto;" loading="lazy">
 
-<img src="../images/0082_2.webp" alt="0082_2" style="width: 480px; margin: auto;" loading="lazy">
+<img src="../images/0082_3.webp" alt="0082_3" style="width: 480px; margin: auto;" loading="lazy">
 
 
