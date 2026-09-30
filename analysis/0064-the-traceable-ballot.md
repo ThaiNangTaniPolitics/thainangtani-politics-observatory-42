@@ -2,7 +2,7 @@
 
 ### *Vote secrecy, the 2026 barcode system, and the prosecution of those who proved the breach*
 
-*Last updated: 29 August 2026 (ICT)*
+*Last updated: 30 September 2026 (ICT)*
 
 ---
 
@@ -44,10 +44,21 @@ The chain is short and each link is documented: the code on the ballot leads to 
 counterfoil, the counterfoil to the voter number, the voter number to the voter list, and the
 list to the person.
 
-Thai PBS Verify has established that clause 184 of the EC regulations places counterfoils
-**inside the same ballot box** as the papers themselves, and that the counterfoils carry matching
-numbers together with voters' names and signatures. The link is therefore not hypothetical: it is
-the normal condition of the retained material.
+The counterfoils carry the ballot's serial together with the voter's list number and signature
+(Election Commission regulation B.E. 2566, clauses 132 and 145). Under the same regulation they are
+packed in boxes **separate** from the cast ballots — clause 184, read with the note to form S.S. 5/19:
+*"ballots and counterfoils are to be packed in separate ballot boxes."* The link is therefore not in
+the box; it is in the numbers. Whoever holds both sets of boxes and the voter list holds the whole
+chain — which is what the Constitutional Court accepted on 28 September 2026.
+
+<!-- KORREKTUR 30.09.2026: Die Fassung vom 29.08. sagte, gestützt auf Thai PBS Verify, Kl. 184 lege die
+Abschnitte "inside the same ballot box". Am Verordnungstext (Government Gazette Bd. 140 Teil 10 ก,
+15.02.2566) widerlegt: Form 5/19, Vermerk "ให้บรรจุแยกบัตรเลือกตั้งและต้นขั้วบัตรเลือกตั้งคนละหีบบัตรเลือกตั้ง".
+§ VI ist nicht betroffen (setzt die Trennung voraus). -->
+
+*Correction, 30 September 2026: an earlier version of this section stated, on the basis of a
+fact-check, that clause 184 places counterfoils in the same ballot box as the ballots. The
+regulation's text provides the opposite. The argument of this node does not depend on it.*
 
 ## III. The specimen ballots
 
@@ -332,7 +343,8 @@ prevent.
 
 **Technical and fact-checking**
 - [Breakdown of ballot sheet controversy after 2026 Thai election — Thai PBS Verify](https://www.thaipbs.or.th/verify/en/content/9485), 20 February 2026 — batch-level codes in 2023 against per-ballot codes in 2026; the colour and code distribution; former commissioner Somchai Srisutthiyakorn on the 2023 system.
-- [Looking into EC regulations: are "ballots" and "stubs" stored separately? — Thai PBS Verify](https://www.thaipbs.or.th/verify/en/content/9248), 18 February 2026 — clause 184 of the EC regulations, B.E. 2566 (2023).
+- [Looking into EC regulations: are "ballots" and "stubs" stored separately? — Thai PBS Verify](https://www.thaipbs.or.th/verify/en/content/9248), 18 February 2026 — on the ballot–counterfoil numbering. *Its reading of clause 184 ("same ballot box") is not borne out by the regulation's text; see the correction in section II.*
+- Election Commission regulation on the election of members of the House of Representatives, B.E. 2566 (2023), Government Gazette vol. 140, part 10 ก, 15 February 2023 — clauses 132, 145, 183–184 and the note to form S.S. 5/19.
 - [ECT clarifies "Barcode-QR Code" is an anti-forgery measure — Money & Banking](https://en.moneyandbanking.co.th/2026/225333/)
 
 **Observation and law**
