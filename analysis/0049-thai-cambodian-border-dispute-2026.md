@@ -465,6 +465,20 @@ The analytical point is not corruption or folly but **structure**: OR's decisive
 
 -----
 
+## 14. The maritime strand left the bilateral track (added 15 September 2026)
+
+Sections 5.1 and 8.3 describe bilateralism as the governing mechanism of this dispute, and §4.1 records Thailand's insistence on standard bilateral channels. That still holds at the land border, where the JBC remains the forum every external actor points to. **It no longer holds at sea.**
+
+On **2 June 2026** Cambodia instituted compulsory conciliation against Thailand under Article 298 and Annex V of UNCLOS. Thailand filed its Response on **19 June 2026**, and the Conciliation Commission met the parties in Singapore on **14–16 September 2026** (**PCA Case No. 2026‑35**, the Permanent Court of Arbitration acting as Registry by agreement of both parties). The proceedings are not optional for the respondent: a notified party “shall be obliged to submit” to them, non‑appearance is no bar, and the Commission decides its own competence.
+
+**The forum was not opened by Cambodian pressure.** It exists because Thailand, ratifying UNCLOS on **15 May 2011**, declared under Article 298 that it would not accept the Convention's binding procedures for sea boundary delimitation — a declaration whose stated condition is acceptance of compulsory conciliation at the request of any party. Cambodia's own ratification of 6 February 2026 initially carried the same exclusion, which under Article 298(3) would have barred it from proceeding; it withdrew that exclusion on 26 May 2026 and filed seven days later. The full record is set out at **0055 §8.4**.
+
+**This qualifies §4.2.** That section treats Cambodian “internationalisation” alongside informal envoys as mixed signalling that “can erode trust.” Whatever weight that judgement carries for envoys and media briefings, it does not extend to this: recourse to a procedure the other State has itself accepted in a deposited treaty declaration is the use of an agreed channel, not a departure from one. The distinction matters for this node's own credibility, given the criticism of narrative asymmetry it levels at others in §10.1.
+
+**And it qualifies §10.3.** That section faults the reporting for not engaging with legal context, citing ICJ precedent. The maritime strand went to a **non‑judicial** forum precisely because Thailand excluded the binding ones — which is the legal context that actually governs, and it is absent from the coverage as well.
+
+-----
+
 ## Sources
 
 **Bangkok Post – 21 April 2026**  
@@ -556,6 +570,9 @@ The analytical point is not corruption or folly but **structure**: OR's decisive
 
 **Lawrence Palmer Briggs – “The Treaty of March 23, 1907 between France and Siam and the Return of Battambang and Angkor to Cambodia,” The Far Eastern Quarterly 5(4), August 1946, pp. 439–454 (JSTOR 2049791). Dates Siamese control of the province from the 1795 coronation of Ang Em at Bangkok — “annexation by seduction, without treaty or other agreement” — to the 1907 cession**  
 <a href="https://cdn.angkordatabase.asia/libs/docs/Briggs-TreatyMarch23-1946.pdf" target="_blank" rel="noopener noreferrer">https://cdn.angkordatabase.asia/libs/docs/Briggs-TreatyMarch23-1946.pdf</a>
+
+**Permanent Court of Arbitration – Press Release, PCA Case No. 2026‑35, Conciliation between the Kingdom of Cambodia and the Kingdom of Thailand, The Hague, 9 September 2026. Source for §14: institution of proceedings on 2 June 2026, Thailand’s Response of 19 June 2026, the Singapore meeting of 14–16 September 2026, and the Registry arrangement. The treaty‑declaration record underlying §14 is cited in full at 0055 §8.4**  
+<a href="https://docs.pca-cpa.org/2026/09/2812e8e2-2026-35-pca-press-release-first-meeting.pdf" target="_blank" rel="noopener noreferrer">https://docs.pca-cpa.org/2026/09/2812e8e2-2026-35-pca-press-release-first-meeting.pdf</a>
 
 **The Asia Foundation – Thai Public Views on International Issues (June 2024; fieldwork August–November 2023; 1,650 urban respondents; enumeration by MI Advisory). §12.6 additionally draws on Figures 14, 32 and 35, whose values appear only inside the charts; the link below is the report containing them. Both server copies of the file resolve and were checked on 15 September 2026.**  
 <a href="https://asiafoundation.org/wp-content/uploads/2024/06/Thailand_Thai-Public-Views-on-International-Issues.pdf" target="_blank" rel="noopener noreferrer">https://asiafoundation.org/wp-content/uploads/2024/06/Thailand_Thai-Public-Views-on-International-Issues.pdf</a>
