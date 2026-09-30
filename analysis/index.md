@@ -6,6 +6,7 @@ This section contains analytical case studies and narrative investigations.
 
 ---
 
+- [0082 – The Sacred Nation and the Internal Traitor](0082-the-sacred-nation-and-the-internal-traitor.md)
 - [0081 – The Consultation Without the Plan](0081-the-consultation-without-the-plan.md)
 - [0080 – The App-Handout Economy: A Sugar High, Not a Cure (gross circulation vs net benefit)](0080-the-app-handout-economy-sugar-high-not-cure.md)
 - [0079 – The Captured Regulator (NBTC): Pay, Paralysis, and the Jailing of a Commissioner](0079–the-captured-regulator-NBTC.md)
