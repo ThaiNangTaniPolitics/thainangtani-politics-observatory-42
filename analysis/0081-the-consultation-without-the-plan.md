@@ -2,7 +2,7 @@
 
 ### *Thailand put 9,000MW of nuclear capacity through a public hearing at which the plan itself was never produced — and the ministry's own cost table, once read, prices a reactor at six times a gas plant*
 
-*Last updated: 13 September 2026, 05:37:45 (ICT)*
+*Last updated: 7 October 2026, 10:34:43 (ICT)*
 
 ---
 
@@ -171,6 +171,8 @@ The distances were not amended, debated or replaced. They lapsed.
 
 On **6 August 2024** the **National Human Rights Commission** found two violations. The site was unsuitable: the institute's own engineering and environmental study still showed risk of radioactive release to surface water, groundwater and air, flood exposure, and an **unclear seismic risk**; and **no insurance company covers damage and compensation arising from a nuclear installation**. The consultation process was the second violation, on the attendance figures above and because the report contained no clear specification of the 20MW machine. The commission directed the ministry to put a review of the site to the **Cabinet**, the environmental planning office to have the national environment board revisit which project classes require the strictest assessment, and the regulator to supervise both waste stores with **monthly contamination testing published to the public**.
 
+**The stores already had a local history.** In March 2023 a caesium-137 source from a power plant in Prachin Buri was melted at a foundry in Kabin Buri. At the press conference of 20 March, officials asked whether the contaminated dust would be taken to the institute's site at Ongkharak gave no answer; on 11 April residents of Nakhon Nayok protested at their provincial hall against exactly that. The institute's own annual report for fiscal year 2020 records a board approval of **3,945,023.97 baht** for a radioactive waste store under a *"short-term plan for the management of caesium-137 contaminated iron dust"* — without naming a site. Where the 2023 dust is now has not been found in any public statement. Both dust cases, and their absence from Thailand's 2024 report to the IAEA, are set out in [0083](0083-the-plan-before-the-law.md), §5.1. *(Added 7 October 2026.)*
+
 The seismic point is genuinely unresolved rather than merely contested. Two faults are mapped there, the **Ongkharak fault** and the neighbouring **Nakhon Nayok fault**. The head of geology at Chulalongkorn University announced the latter as active, related to the Mae Ping fault, 50–100km long, with geological evidence of a magnitude 6.5 event 600 to 700 years ago. The Department of Mineral Resources replied the following day that after three years of study it was **"100 per cent"** certain the Ongkharak fault is inactive and 75 per cent certain of the other. Neither position has been withdrawn.
 
 **Where it stands.** The project is not abandoned. It is in its third attempt since 2017, now at 20MW, costed at **15,800 million baht** by the commission and 16,000 million by the objectors, on the plot chosen in 1990. And on **9–11 June 2026**, at a resort in Kanchanaburi, the atomic regulator convened 38 participants to review that same 2020 siting regulation so that it can accommodate small modular reactors, including floating ones. The agencies present included meteorology, marine administration, mineral resources, environmental planning and water resources. So did **EGAT, PTT and Global Power Synergy**. The announcement says the result will feed into the revision of the site licence framework and raise public confidence in nuclear oversight.
@@ -202,6 +204,8 @@ The seismic point is genuinely unresolved rather than merely contested. Two faul
 **Primary — the liability draft.** ร่างพระราชบัญญัติความรับผิดทางแพ่งต่อความเสียหายทางนิวเคลียร์ พ.ศ. ...., with its statement of principle and reasons; posted on the regulator's legal page, upload path dated September 2026; sections 9, 12, 14, 15, 16, 17, 18.
 
 **Primary — the siting review.** Regulator's news item of 9 June 2026 on the workshop "การทบทวนกฎหมายสถานที่ตั้งสถานประกอบการทางนิวเคลียร์", 9–11 June 2026, Kanchanaburi, with its list of participating agencies and companies.
+
+**Added 7 October 2026 — the dust and the stores.** Thailand Institute of Nuclear Technology, *Annual Report 2020* (B.E. 2563), p. 88, item 1.11, read on the page image (Internet Archive copy of 12 July 2024). *Naewna*, 11 April 2023 (Nakhon Nayok protest; the question of 20 March left unanswered). *Thai PBS*, 20 March 2023; *Bangkok Post* 2543590, 5 April 2023. Office of Atoms for Peace, situation updates no. 18 and 19, April 2023. Details and further sources in 0083, §5.1.
 
 **Official findings.** National Human Rights Commission, weekly briefing 27/2567, 9 August 2024, on the resolution of 6 August 2024 (as reported in full by *Prachatai*). House committee on higher education, science, research and innovation, meeting of 28 March 2024 (as reported by *Matichon Weekly*, 29 March 2024).
 
@@ -239,6 +243,6 @@ The seismic point is genuinely unresolved rather than merely contested. Two faul
 
 *Filed under: energy policy, nuclear power, public participation, administrative procedure, transparency.*
 
-*Cross-references: [0080](0080-the-app-handout-economy-sugar-high-not-cure.md).*
+*Cross-references: [0080](0080-the-app-handout-economy-sugar-high-not-cure.md), [0083](0083-the-plan-before-the-law.md).*
 
 <img src="../images/0081_2.webp" alt="0081_2" style="width: 480px; margin: auto;" loading="lazy">

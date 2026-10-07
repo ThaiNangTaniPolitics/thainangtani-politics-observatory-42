@@ -1,7 +1,7 @@
 ## 0083 – The Plan Before the Law
 ### *Thailand plans private reactors for 2037 and a 9,000MW fleet by 2050 — while the act saying who pays for an accident is still a draft, and the state's own report to the IAEA records no permanent repository*
 
-*Last updated: 15 September 2026, 13:15:51 (ICT)*
+*Last updated: 7 October 2026, 10:34:43 (ICT)*
 
 ---
 
@@ -101,6 +101,22 @@ Section 3 defines "Convention" as the **Vienna Convention** as amended by the 19
 The same report states that Thailand has no nuclear power plant in operation; that there is no spent fuel management facility **"because all spent fuel elements have been exported to their country of origin"**; and that interim storage exists on the site of the research reactor. Three facilities in the country treat radioactive waste, all operated by the nuclear technology institute.
 
 ⇒ The route used until now has been **return to the country of origin**. For a research reactor that is workable. For a 9,000MW fleet it becomes a contractual question with whoever supplies the fuel — and that question appears nowhere in the planning documents examined here.
+
+### 5.1 What the same report leaves out *(added 7 October 2026)*
+
+Two cases of radioactive industrial waste are on the record, and neither appears in the report.
+
+**2018.** According to a 2024 paper by scientists at the nuclear technology institute's own radioactive waste management centre, about **880 tonnes** of electric-arc-furnace dust contaminated with **caesium-137**, at activity concentrations from 420 up to **486,680 Bq/kg**, were found at a steel plant in Thailand in 2018. The paper names no plant and no province. The same paper states: *"In Thailand, radioactive waste containing artificial radionuclides (e.g., Cs-137) has not been allowed to be disposed of in any sites."*
+
+**2023.** A caesium-137 source went missing from a power plant in Si Maha Phot, Prachin Buri, on 10 March 2023 and was traced on 19 March to a foundry in Kabin Buri, where it had been melted; about **24 tonnes** of contaminated furnace dust were bagged at the works, including material that had already been used as fill behind the plant and had to be dug up again. The regulator's own situation updates place the dust in a **storage building at the works** as late as **7 April 2023**; on 5 April a provincial meeting considered a management plan without, on the record, adopting one. The update series ends there. Asked at the press conference of 20 March whether the dust would go to the institute's site at Ongkharak, officials gave no answer; on 11 April residents of Nakhon Nayok protested at their provincial hall against exactly that. No later public statement on where the dust is now was found.
+
+**The report.** The August 2024 national report contains no reference to caesium-contaminated dust, to Prachin Buri or to either case; nor does the seventh report of September 2020. Its appendix, *"Last update of Inventories on April 2024"*, lists the institute's entire stock of treated and untreated waste as **293 drums of 200 litres** — under 60 cubic metres. Several hundred tonnes of dust would not fit into that figure.
+
+**The building.** The institute's own annual report for fiscal year 2020 records, under item 1.11 on page 88, that its board approved in principle the construction of a radioactive waste store and a budget of **3,945,023.97 baht** under a *"short-term plan for the management of caesium-137 contaminated iron dust"*. It names no site, no quantity and no origin.
+
+**Part of the explanation is in the law.** The Ministerial Regulation on Radioactive Waste Management B.E. 2561 (2018) requires the waste generator to keep its own inventory, including the place of storage (clause 4), allows storage for decay of up to five years at the licensed site (clause 5), and requires the generator to notify the regulator **within thirty days after management has been completed** (clause 8). Waste held by a generator therefore need not appear in the institute's inventory. No public register of such waste was found.
+
+⇒ **This section does not allege concealment.** It records what the state's report to the IAEA contains and what it does not — two years before the same state put 9,000MW of reactors into its draft power plan.
 
 ---
 
@@ -251,6 +267,14 @@ Same subject, same paper, same comment section. The decline is consistent with t
 - Board of Investment, "Guide on Environmental Regulations" (2014) — **read in full**; the EHIA project list and thresholds.
 - Supreme Administrative Court, Order 592/2552 in case 586/2552 (Map Ta Phut).
 
+**Caesium-137 in furnace dust (§5.1, added 7 October 2026)**
+- Yubonmhat K. et al., "Ordinary-Portland-cement solidification of Cs-137 contaminated electric arc furnace dust from steel production industry in Thailand", *Heliyon* 10(3), e25792, 3 February 2024, doi 10.1016/j.heliyon.2024.e25792 — **read**; the 2018 case (880 tons, 420–486,680 Bq/kg) and the disposal sentence. Second mention: Issarapanacheewin S. et al., *Heliyon* 2024, PMC11283128. Both rest on Yubonmhat K. et al., "Progress and Challenges of Radioactive Waste Management in Thailand", *J. Hazard. Toxic Radioact. Waste* 26(2), 2022 — **not read** (paywall).
+- National Report of Thailand, Joint Convention, 7th Review Meeting, Office of Atoms for Peace, **September 2020** — searched; no reference to the cases.
+- Office of Atoms for Peace, statement of 24 March 2023 (republished on oap.go.th, 5 March 2024) — dust held in a closed system at the works; situation updates no. 18 (5 April 2023) and no. 19 (1–7 April 2023) — **read**.
+- Thailand Institute of Nuclear Technology, *Annual Report 2020* (B.E. 2563), p. 88, item 1.11 — **read on the page image** (Internet Archive copy of 12 July 2024).
+- Ministerial Regulation on Radioactive Waste Management B.E. 2561 (2018), Royal Gazette vol. 135, part 89 Kor, 5 November 2018, clauses 4, 5, 8 — **read**.
+- Press, all read: *Thai PBS*, 20 March 2023 (find, 24 tonnes, fill dug up); *PPTV*, 21 March 2023 (storage improved after photos showed only tarpaulin); *Thairath*, 29 March 2023 (the institute's storage sites; an unnamed source's claim that two stores lacked a licence — **recorded as a claim only**); *Bangkok Post* 2543590, 5 April 2023, Apinya Wipatayotin ("Lack of plan for radioactive dust worries experts"); *Naewna*, 11 April 2023 (Nakhon Nayok protest; the unanswered question of 20 March). Also *The Nation* 40025846, March 2023 (origin and find), consulted through a fetched summary.
+
 **The precedent**
 - IAEA, *The Radiological Accident in Samut Prakarn*, 18 March 2002.
 - Bangkok Post 1005141, 8 June 2016 — **full text read**; the award, the deductions, the Supreme Court affirmation, the 5.2 million baht from the regulator.
@@ -269,6 +293,7 @@ Same subject, same paper, same comment section. The decline is consistent with t
 - ~~The demand forecast in PDP 2026 has not been read.~~ **Read 15 September 2026 — see §8.** What remains open is the criticism of January 2025 that demand is forecast too high: the deck gives the scenarios and the chosen cases, but the underlying GDP and load assumptions were not examined here. The deck does record a GDP growth assumption falling from **3.10 per cent** in PDP 2024 to **2.49 per cent** in PDP 2026, which cuts against the simplest form of that criticism.
 - **Case law under section 58** since 2017 has not been examined. §7.3 states a textual change, not a judicial one.
 - **Named SMR interests** appear in third-party sources. Category yes, names no — see the programmatic note.
+- **Caesium-137 dust (§5.1):** the province and plant of the 2018 case, the site of the store approved in 2020, and the whereabouts of the 2023 dust after 7 April 2023 are not established. No plant or operator is named in this node, by the same rule as above.
 
 <img src="../images/0083_1.webp" alt="0083_1" style="width: 480px; margin: auto;" loading="lazy">
 
