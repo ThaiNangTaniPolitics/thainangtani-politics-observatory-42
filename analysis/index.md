@@ -56,7 +56,7 @@ This section contains analytical case studies and narrative investigations.
 - [0038 – Bangkok Post: Technical Architecture Report (2024–2026)](0038-bangkok-post-technical-architecture-report-2024-2026.md)
 - [0037 – Synthesis: Front‑End / Back‑End as an Integrated System](0037-isoc-synthesis-front‑end-back-end.md)
 - [0036 – Case Study: The Kamolsak Leewama Attack (2026)](0036-isoc-the-kamolsak-leewama-attack-2026.md)
-- [0035 – The Security–Monarchy Nexus](0035-isoc-the-security-monarchy-nexus.md)
+- [0035 – ISOC's Mandate: Law, Strategy, Programmes](0035-isoc-the-security-monarchy-nexus.md)
 - [0034 – Budgetary Exceptionalism and Security Finance](0034-isoc-budgetary-exceptionalism-and-security-finance.md)
 - [0033 – Administrative Penetration and Parallel Governance](0033-isoc-administrative-penetration-and-parallel-governance.md)
 - [0032 – Ideological Conditioning and Identity Production](0032-isoc-ideological-conditioning-and-identity-production.md)
