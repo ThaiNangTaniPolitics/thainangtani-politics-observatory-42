@@ -1,6 +1,6 @@
 ## 0063 – Thailand as a Diversion Jurisdiction: The Criterion 7 Evidence
 
-*Last updated: 28 June 2026, 20:48:40 (ICT)*
+*Last updated: 8 October 2026, 09:53:11 (ICT)*
 
 **How a multi-jurisdictionally sanctioned transshipment economy for Russia-bound dual-use technology converts the European arms-export "risk of diversion" criterion from an abstraction into a documented finding — and what that means for the Gripen transfer**
 
@@ -40,7 +40,7 @@ The largest single actor in the drone trade illustrates the identity-shifting th
 
 China Thai's involvement in Russia-bound supply predates the drone surge: in 2023 it acted as freight forwarder for a USD 2 million iPhone shipment to **OOO Atlas**, a Russian electronics firm later sanctioned by the EU, in a transaction linked to the Hong Kong company **DEXP International**, itself EU-sanctioned.
 
-After being sanctioned by the United Kingdom in October 2025, China Thai Corp was observed **rebranding as Lanto Global Logistics** — the rapid identity change that allows a designated entity to continue operating behind a fresh name while the underlying logistics function is preserved. Staff at the site confirmed awareness of the sanction.
+After being sanctioned by the United Kingdom in October 2025, China Thai Corp was being **rebranded as Lanto Global Logistics**, according to signage Bloomberg saw at the site on 11 February 2026 — about four months after the designation. The report gives no reason for the change. Staff at the site said they were aware of the sanction.
 
 -----
 
