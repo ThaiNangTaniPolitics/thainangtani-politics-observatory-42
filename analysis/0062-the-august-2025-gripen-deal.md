@@ -1,6 +1,6 @@
 ## 0062 – Three-Layer Impunity: The August 2025 Gripen Deal as Praetorian Procurement
 
-*Last updated: 9 October 2026, 03:12:18 (ICT)*
+*Last updated: 9 October 2026, 03:28:02 (ICT)*
 
 **How a $550 million arms contract signed during Thailand's constitutional crisis enabled an ICJ violation under EU export criteria designed to prevent precisely that outcome — and how the praetorian framework documented by Paul Chambers explains why no accountability layer intervened**
 
@@ -35,25 +35,25 @@ Chambers's book *Praetorian Kingdom: A History of Military Ascendancy in Thailan
 
 ### *2.2 The 2024 Chambers Article on the Gripen Decision*
 
-In September 2024, Chambers published a public analysis of the Gripen decision titled *"Why Thailand chose Sweden's Gripen fighter jet"* (Fulcrum / ISEAS – Yusof Ishak Institute, republished in Think China). The article documents the procurement decision against the praetorian backdrop and identifies the specific royal-channel mechanism that operated in the original 2007–2008 Gripen C/D selection — a mechanism that the 2024–2025 E/F procurement extends.
+In September 2024, Chambers published a public analysis of the Gripen decision titled *"Why Thailand chose Sweden's Gripen fighter jet"* (Fulcrum / ISEAS – Yusof Ishak Institute, republished in Think China). The article sets the procurement decision against the praetorian backdrop. For the original 2007–2008 Gripen C/D selection, Chambers reports a source's account that royal ties were among the reasons for the choice. Whether the 2024–2025 E/F procurement followed the same pattern is not addressed by Chambers and is not documented here.
 
 Key Chambers findings:
 
-- **2005 royal visit**: Sweden's King Carl XVI Gustaf visited Thailand with Swedish defence industry representatives. Chambers cites a source privy to the deal: *"Thailand's military junta apparently favoured the Gripen because the RTAF needed new aircraft, Sweden's and Thailand's royal families were close, and 'the Thai [military] is…close to its royal house.'"*
+- **2005 royal visit**: Sweden's King Carl XVI Gustaf visited Thailand with Swedish defence industry representatives. Chambers reports the account of a source privy to the deal: *"Thailand's military junta apparently favoured the Gripen because the RTAF needed new aircraft, Sweden's and Thailand's royal families were close, and 'the Thai [military] is…close to its royal house.'"*
 
 - **The Chalit Phukpasuk switch**: Then-RTAF Commander ACM Chalit Phukpasuk, like most senior RTAF officers, originally preferred the F-16 (the aircraft on which they had trained). Chambers documents: *"Indeed, Chalit suddenly changed his mind, becoming an eager supporter of Gripen jets for Thailand."*
 
-- **The later Privy Council appointment**: Chambers writes that Chalit's role in advancing the Gripen procurement was *"likely helped by his appointment to the King's Privy Council in 2011."* This is Chambers's assessment, qualified by him as "likely". Documented are the switch and the later appointment; a reward relation between them is not documented.
+- **The later Privy Council appointment**: Chambers writes: *"Chalit's pull on the Thai government's turn toward Sweden was likely helped by his appointment to the King's Privy Council in 2011."* In Chambers's account the appointment strengthened Chalit's influence; he does not present it as a reward for the switch. Chambers dates the first agreement for six Gripens to October 2007 and a further six to 2012.
 
-- **The civilian-government constraint**: Chambers cites Supalak Ganjanakhundee, advisor to the Committee for Military Matters of Thailand's Lower House: *"Thai civilian governments rarely can veto military procurement decisions, though legislatures allocate the defence budget."*
+- **The civilian-government constraint**: According to Chambers, Supalak Ganjanakhundee, advisor to the Committee for Military Matters of Thailand's Lower House, told him that Thai civilian governments rarely can veto military procurement decisions, though legislatures allocate the defence budget (reported speech, not a direct quotation).
 
 The last point is structurally decisive. **Civilian Thai governments do not control major military procurement.** The Praetorian apparatus does. Caretaker Phumtham's August 2025 cabinet approval was not the civilian government commanding the military; it was the civilian apparatus ratifying what the praetorian apparatus had already decided.
 
-### *2.3 Chambers as Documenter of His Own Persecution*
+### *2.3 The Arrest of the Author (April 2025)*
 
 In April 2025, seven months after publishing the Gripen analysis, Paul Chambers was arrested in Thailand under Section 112 (lèse-majesté). He was the first US citizen prosecuted under this provision. The charges related to a translated academic article about Thai politics that had appeared on the website of the East-West Center think tank.
 
-The architecture documented in Chambers's work — the praetorian apparatus that selects arms platforms through royal-channel mechanisms and rewards compliant officers with Privy Council appointments — is the same architecture that prosecutes the scholar who documents it. Section 13 below returns to this self-defence loop. For the present purpose, the point is that Chambers's analysis remains valid; his prosecution under §112 is structural confirmation rather than refutation.
+The charge did not concern the Gripen analysis. Section 13 below sets out the sequence and its effect; a causal link is not documented. For the present purpose, the point is that the prosecution neither retracts nor refutes Chambers's analysis.
 
 -----
 
@@ -160,11 +160,11 @@ The Wallenberg dynasty, through Investor AB, holds the controlling ownership pos
 
 The Wallenberg family is one of Sweden's most powerful business dynasties, with historical influence over Swedish foreign policy (cf. Raoul Wallenberg's diplomatic role, Peter Wallenberg's business diplomacy). The family typically operates through corporate layers and is rarely named in journalistic accounts of specific transactions. Direct naming in public discourse is structurally significant.
 
-### *5.5 The Chalit Phukpasuk Precedent — Personnel Continuity and Career Incentives*
+### *5.5 The Chalit Phukpasuk Precedent — Personnel Continuity*
 
-Chambers documents ACM Chalit Phukpasuk's switch from F-16 to Gripen advocacy and his later appointment to the Privy Council in 2011, and he assesses that the two were connected ("likely helped by"). The sequence is documented; the connection is Chambers's assessment, not a documented finding.
+Chambers documents ACM Chalit Phukpasuk's switch from F-16 to Gripen advocacy and his appointment to the Privy Council in 2011. In his account the appointment *"likely helped"* Chalit's influence on the government's turn toward Sweden. He does not describe it as a reward for the switch, and no reward relation is claimed here.
 
-If such a connection holds, it would describe a career incentive that favours compliance with procurement decisions taken outside civilian control. This is a hypothesis. What is documented is the effect: the personnel continuity across the bribery / non-investigation / new-procurement sequence (Sections 4–5).
+What is documented is the effect: the personnel continuity across the bribery / non-investigation / new-procurement sequence (Sections 4–5).
 
 ACM Panpakdee Pattanakul's signing in Stockholm in August 2025 falls within this continuity. No source attributes a motive to it, and none is attributed here.
 
@@ -198,7 +198,7 @@ Under standard democratic procedure, **caretaker governments do not initiate or 
 
 The Gripen Phase 1 contract — and the broader 12-aircraft, 60-billion-baht framework it activates — binds Thailand to procurement obligations stretching to at least 2035, encompassing two or three subsequent election cycles. A caretaker cabinet under a suspended Prime Minister, during a constitutional crisis, authorised this commitment without parliamentary debate, with explicit refusal of disclosure on grounds of "state secrets."
 
-The praetorian framework explains why this was possible: the procurement decision was not, in operational terms, the caretaker cabinet's to make or refuse. As Chambers's source Supalak Ganjanakhundee notes, "Thai civilian governments rarely can veto military procurement decisions." The August 5 cabinet approval was procedural ratification of a praetorian-apparatus decision that had been made years earlier and was now ready for signing. The constitutional crisis simply offered the **optimal procedural moment**: a caretaker cabinet has even less ability to refuse than a normal civilian one, and its authorisation is harder for any future civilian government to reverse.
+The praetorian framework explains why this was possible: the procurement decision was not, in operational terms, the caretaker cabinet's to make or refuse. As Chambers's source Supalak Ganjanakhundee told him, Thai civilian governments rarely can veto military procurement decisions. The August 5 cabinet approval was procedural ratification of a praetorian-apparatus decision that had been made years earlier and was now ready for signing. The constitutional crisis simply offered the **optimal procedural moment**: a caretaker cabinet has even less ability to refuse than a normal civilian one, and its authorisation is harder for any future civilian government to reverse.
 
 ### *6.3 The "State Secrets" Defence*
 
@@ -461,13 +461,13 @@ The NGO response in particular exposes a structural feature: documentation-orien
 
 ## 13. The Self-Defence Loop: Sequence and Effect
 
-In April 2025, **Paul Chambers — the author of *Praetorian Kingdom* and the September 2024 Fulcrum article documenting the royal-channel mechanism of the Gripen procurement — was arrested in Thailand under Section 112**. He was the first US citizen prosecuted under Thailand's lèse-majesté provision. The charges related to a translated academic article on Thai politics that had appeared on the East-West Center website.
+In April 2025, **Paul Chambers — the author of *Praetorian Kingdom* and the September 2024 Fulcrum article on the Gripen decision — was arrested in Thailand under Section 112**. He was the first US citizen prosecuted under Thailand's lèse-majesté provision. The charges related to a translated academic article on Thai politics that had appeared on the East-West Center website.
 
 The sequence is structurally significant:
 
-- **September 2024**: Chambers publishes the analysis documenting Chalit Phukpasuk's switch and his later Privy Council appointment — establishing the royal-channel mechanism in public academic record
+- **September 2024**: Chambers publishes the analysis documenting Chalit Phukpasuk's switch and his 2011 Privy Council appointment, and reporting a source's account of royal ties as a reason for the original choice
 - **April 2025**: Chambers arrested under Section 112 for unrelated translated academic content
-- **July 2025**: Thai Gripens conduct combat use of the platform whose royal-channel procurement Chambers had documented
+- **July 2025**: Thai Gripens conduct combat use of the platform whose original procurement Chambers had analysed
 - **August 2025**: Caretaker cabinet authorises new Gripen procurement; Stockholm signing
 - **December 2025**: Gripen casino-bombing campaign
 
@@ -495,11 +495,11 @@ The architecture has **seven interlocking structural features**:
 
 ### *14.1 Praetorian Decision-Making Outside Civilian Control*
 
-The procurement decision was made by the praetorian military apparatus, not by civilian electoral government. Chambers's source Supalak Ganjanakhundee is explicit: *"Thai civilian governments rarely can veto military procurement decisions."* The Phumtham caretaker cabinet's August 5 approval was ratification, not decision. This is praetorianism in its operational definition: military autonomy in core policy domains, ratified by civilian institutions that lack the institutional capacity to refuse.
+The procurement decision was made by the praetorian military apparatus, not by civilian electoral government. Chambers's source Supalak Ganjanakhundee told him that Thai civilian governments rarely can veto military procurement decisions. The Phumtham caretaker cabinet's August 5 approval was ratification, not decision. This is praetorianism in its operational definition: military autonomy in core policy domains, ratified by civilian institutions that lack the institutional capacity to refuse.
 
 ### *14.2 Personnel Continuity Defeats Institutional Accountability*
 
-The same officers who occupied positions of authority during the documented bribery period (Panpakdee at RTAF; Phumtham at Defence Ministry) are the officers who authorise and sign the new procurement during constitutional crisis. For the earlier Gripen selection, Chambers assesses that the later Privy Council appointment of the RTAF commander who switched to the Gripen was connected to that switch ("likely helped by"); this is his assessment, not a documented reward mechanism. Institutional memory is preserved as personnel continuity; institutional accountability is dissolved through the same continuity.
+The same officers who occupied positions of authority during the documented bribery period (Panpakdee at RTAF; Phumtham at Defence Ministry) are the officers who authorise and sign the new procurement during constitutional crisis. For the earlier Gripen selection, Chambers writes that the 2011 Privy Council appointment of the RTAF commander who had switched to the Gripen "likely helped" his influence on the government's turn toward Sweden; he does not present it as a reward. Institutional memory is preserved as personnel continuity; institutional accountability is dissolved through the same continuity.
 
 ### *14.3 Constitutional Crisis Enables Caretaker Authorisation*
 
@@ -557,8 +557,8 @@ This chapter documents the architecture so that the choice not to act is made in
 **Praetorian framework and Thai civil-military relations**
 
 - Paul Chambers, *Praetorian Kingdom: A History of Military Ascendancy in Thailand* (book-length academic work systematising praetorian framework for Thailand)
-- Paul Chambers, *"Why Thailand chose Sweden's Gripen fighter jet"* (Fulcrum / ISEAS, 26 September 2024): <a href="https://fulcrum.sg/why-thailand-chose-swedens-gripen-fighter-jet/" target="_blank" rel="noopener noreferrer">link</a>
-- Republished in Think China: <a href="https://www.thinkchina.sg/politics/why-thailand-chose-swedens-gripen-fighter-jet" target="_blank" rel="noopener noreferrer">link</a>
+- Paul Chambers, *"Why Thailand chose Sweden's Gripen fighter jet"* (first published in Fulcrum / ISEAS, September 2024; original not consulted): <a href="https://fulcrum.sg/why-thailand-chose-swedens-gripen-fighter-jet/" target="_blank" rel="noopener noreferrer">link</a>
+- Republished in Think China, 26 September 2024 (version consulted, October 2026; quotations in this node checked against it): <a href="https://www.thinkchina.sg/politics/why-thailand-chose-swedens-gripen-fighter-jet" target="_blank" rel="noopener noreferrer">link</a>
 - Samuel Huntington, *Political Order in Changing Societies* (Yale, 1968) — foundational praetorian framework
 - Federico Ferrara, *The Political Development of Modern Thailand* (Cambridge, 2015)
 - Duncan McCargo, *"Network Monarchy and Legitimacy Crises in Thailand"*, The Pacific Review 18:4 (2005)
