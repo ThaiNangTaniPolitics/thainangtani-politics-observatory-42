@@ -1,7 +1,7 @@
-## 0034 – Budgetary Exceptionalism and Security Finance
+## 0034 – ISOC's Budget: Status, Size, Spending Through Other Agencies
 ### *What ISOC's Budget Is, Where It Sits, and What the Published Record Leaves Open*
 
-*Last updated: 9 October 2026, 05:09:15 (ICT)*
+*Last updated: 9 October 2026, 07:47:57 (ICT)*
 
 ISOC has its own line in the national budget, roughly ten billion baht a year by the late 2010s. Its activities are also financed from the budgets of the agencies it directs. Since 2017, the Budget Bureau has been bound to allocate funds in line with ISOC's approved plans. This node documents the budget status, the size of the line, the spending that runs through other agencies, and the scale of state spending in the southern border provinces. It separates what the published record shows from what it leaves open.
 

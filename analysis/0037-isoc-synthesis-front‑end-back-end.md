@@ -1,7 +1,7 @@
 ## 0037 – Synthesis: Front‑End / Back‑End as an Integrated System
 ### *How Thailand’s Dual Governance System Functions as a Single Architecture*
 
-*Last updated: 9 October 2026, 05:18:55 (ICT)*
+*Last updated: 9 October 2026, 07:48:06 (ICT)*
 
 The preceding nodes document the components of Thailand's internal security system: ISOC's history (0029), its administrative reach (0033), its finances (0034), and its statutory mandate, strategy and programmes (0035). This synthesis proposes a model that reads these components as a single architecture: a visible civilian state (front-end) that operates within a structure the security apparatus has built into it by law (back-end).
 
@@ -100,7 +100,7 @@ What the model does not establish: that the back-end acts as a single will; that
 The building blocks of this synthesis are documented, with full references, in:
 - **0029** — Historical Development of ISOC
 - **0033** — Administrative Penetration and Parallel Governance
-- **0034** — Budgetary Exceptionalism and Security Finance
+- **0034** — ISOC's Budget: Status, Size, Spending Through Other Agencies
 - **0035** — ISOC's Mandate: Law, Strategy, Programmes
 
 Cited directly here:
