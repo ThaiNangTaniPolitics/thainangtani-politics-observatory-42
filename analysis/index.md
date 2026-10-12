@@ -60,7 +60,7 @@ This section contains analytical case studies and narrative investigations.
 - [0034 – ISOC's Budget: Status, Size, Spending Through Other Agencies](0034-isoc-budgetary-exceptionalism-and-security-finance.md)
 - [0033 – Administrative Penetration and Parallel Governance](0033-isoc-administrative-penetration-and-parallel-governance.md)
 - [0032 – Ideological Conditioning and Identity Production](0032-isoc-ideological-conditioning-and-identity-production.md)
-- [0031 – Mass Organizations and Social Control](0031-isoc-mass-organizations-and-social-control.md)
+- [0031 – Mass Organizations: Who Is Organised, Who Is Paid, Who Reports](0031-isoc-mass-organizations-and-social-control.md)
 - [0030 – The Architecture of the Infiltrated Society](0030-isoc-the-architecture-of-the-infiltrated-society.md)
 - [0029 – Historical Development of ISOC](0029-isoc-historical-development.md)
 - [0028 – ISOC Dual Governance in Thailand](0028-isoc-dual-governance-in-thailand.md)
